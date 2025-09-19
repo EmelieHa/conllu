@@ -1,0 +1,652 @@
+# ID: svediakorp-sec486
+# author: Marie Sophie Schwartz
+# pseudonym: 
+# translator: 
+# title: Bellmans skor
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-06-14
+# sourceDescription: 
+# genre: prose
+# subgenre: 
+# location: Stockholm
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1892
+# editor: 
+# publisher: Albert Bonniers förlag
+# digitisationMethod: OCR with manual post-correction.
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Litteraturbanken (https://litteraturbanken.se/)
+# retrieveFormat: ePub
+# annotation: tokens
+# annotationMethod: automatic
+# words: 9,768
+# sentences: 505
+# sentenceOrder: original
+# URL: https://litteraturbanken.se/txt/epub/SchwartzMS_BellmansSkor.epub
+# cite: 
+# availability: CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+
+
+
+
+
+
+
+Jag hade en morbror, som dog 1829 vid åttionio års ålder. Han brukade berätta åtskilliga historier, hvilka förnämligast vände sig omkring Gustaf den tredje och hans samtida.
+
+Karl Michael Bellman var en ibland dem, om hvilka han hade mycket att förtälja, emedan han varit personligen bekant med den store skalden.
+
+Ibland de berättelser, som fäste sig i mitt minne, ehuru jag då var endast ett barn om tio
+
+
+
+år, var en som handlade om ett par gamla skor, tillhörande poeten.
+
+Bellman var, såsom enhvar vet, i en långtifrån ekonomiskt oberoende ställning.
+
+Han hade visserligen, sedan han lämnat Upsala, låtit inskrifva sig så väl i Banken som Tullverket; men han var fullkomligt oduglig till sifferkarl. I hans själ arbetade andra krafter än de, hvaraf bildas en ordentlig och nitisk tjänsteman. Naturen hade bestämt honom att vara en sångfågel, som sjöng af inre kallelse, obekymrad om morgondagen. Lefvande endast för stunden, öfverlämnade han åt sina sånger att bevara hans minne åt eftervärlden.
+
+Namnet Bellman blef också snart kändt öfver hela riket. Den unga, glada, själfsvåldiga och oförlikneliga skalden måste blifva allas älskling, och hans sånger flögo från stad till stad under benämningen: “Visor, tryckta i år“.
+
+Hyllad och firad af alla, från konungen till den ringaste undersåte i riket, hade Bellman, det oaktadt, svårt att taga sig fram i verkligheten. Han sjöng sig visserligen till vänner och beundrare, men icke till kläder och föda. På den väg bland lagrar och vinrankor, han vandrade, skulle han säkert blifvit i saknad af det nödvändigaste, så framt icke den tredje Gustaf suttit på Sveriges tron. Själf skald, älskade och omhuldade monarken hvar och en som idkade skaldekonsten och ansåg det för sin plikt att vaka öfver att icke något poetiskt geni gick förloradt under striden med de timliga behofven. – Konungen bistod också Bellman, som han insåg måste med sitt skaldesnille blifva en prydnad för fäderneslandet.
+
+Anmärkningsvärdt är, att Gustaf den tredje var en af de första, som med bifall yttrade sig om Bellman och tog honom i uppmuntrande hägn; – men oaktadt den godhet och frikostighet konungen bevisade honom, kunde det likväl icke, med ett lynne sådant som Bellmans, förebyggas, att hans affärer förblefvo i ett högst oordnadt skick och hans börs för det mesta tom.
+
+________
+
+
+
+Krogen.
+
+
+
+
+
+Det var en afton på hösten 17–, jag kan icke så noga erinra mig årtalet, som en ung man gick förbi en krog, belägen i ett gammalt förfallet ruckel å en af gatorna långt upp på Norrmalm. Han tycktes i mörkret söka efter något särskildt hus, då helt plötsligt hans steg hejdades af några toner, som hördes från krogen. Den unge mannen stannade och kastade en blick in genom de låga fönstren, synbarligen intresserad af musiken och hvad som tilldrog sig därinne.
+
+Krogrummet var uppfylldt af kunder, hvilka hade samlats omkring ett bord, som stod midt på golfvet, och på hvilket en yngling stigit upp. Han sjöng och ackompanjerade sig på fiol.
+
+Mannen kunde icke riktigt urskilja hvad ynglingen sjöng, emedan rösten var svag; men af det lilla han uppfångade föreföll det honom, som melodien varit bekant.
+
+Nyfiken att erfara, huru härmed förhöll sig, tryckte han hatten djupare ned öfver pannan och inträdde i krogrummet, där han tog plats i ett af de minst upplysta hörnen. Han rekvirerade en butelj dricka.
+
+Främlingens ankomst störde hvarken sångaren eller åhörarne. Den förre fortfor att sjunga sin visa, de senare att med bifallsyttringar gifva sin belåtenhet tillkänna.
+
+Den unge mannen syntes road af sången och blickade med deltagande och intresse på ynglingen, som af vår moder naturen fått ett ovanligt fördelaktigt utseende.
+
+När sången var slut, hoppade gossen ned från bordet och räckte ut handen åt åhörarne med de orden:
+
+“Ni har lofvat att betala mig för min sång, och hit nu med slantarna! Jag har brådtom, för mor min väntar.“
+
+“Vi ska väl ge’n några styfver, eftersom vi sagt det,“ utlät sig en stor bredaxlad arbetskarl. “Han har förtjänt dem, och vi hafva haft en rolig stund.“
+
+“Visserligen,“ medgaf en halfrusig skoflickare; “men annars så tycker jag, att det allt är ett bra lätt arbete att sjunga sig till pengar.“
+
+“Jo, jo men, icke är det så tungt som att släpa uti ’Vågen’ dagen i ända,“ menade en full järnbärare och sökte i fickorna efter mynt; “men man skall väl kosta på sig att hafva roligt också någon gång, och därför så“ ...
+
+“Så gifva vi pojken litet för hans besvär,“ inföll skoflickaren.
+
+De kring bordet församlade fiskade upp ur fickorna några kopparslantar, dem de helt föraktligt kastade på bordet åt ynglingen, som med ögonen blixtrande af sårad stolthet och ådrorna svällande i pannan, betraktade de mer eller mindre rusiga kroggästerna. Han sammanknöt handen, hvilken han lade på bordet, under det en tung suck höjde hans bröst.
+
+“Se så, min gosse,“ yttrade arbetskarlen, “samla nu ihop din förtjänst; det lär nog räcka till bröd åt mor din för i kväll, och om du kommer igen i morgon afton och kvintilerar för oss, får du allt så pass, att det räcker för morgondagen. Gå nu hem och se icke ledsen ut!“
+
+“Tror du, jag är ledsen,“ utbrast ynglingen med gnistrande ögon; “nej du, jag är arg, för ... för ...“
+
+“Att vi betalt din eländiga sång,“ utbrast skoflickaren; “är det på det viset, din tiggarbyting, så taga vi igen våra pengar och kasta dig ut på gatan. F-n ta’ mig, om jag tyckte din visa var värd ett endaste vitten.“
+
+“Tyckte du icke,“ skrek ynglingen, som samlat ihop pengarna i sin ena hand, men nu i utbrottet af vrede kastade dem midt i ansiktet på skoflickaren. “Kallar du min sång eländig,“ fortfor han, lågande af ondska; “vet du då icke, din usla skolappare, att den är af Bellman. Förr må min mor svälta, än jag tager något af den, som kallat Bellmans sånger eländiga.“
+
+Gossen rusade emot dörren; men ett halft dussin starka näfvar fattade tag uti honom och lika många röster ropade:
+
+“Jaså, du smädar oss, du kastar våra pengar i synen på oss; det skall du ha smörj för, din tuppkyckling, som tror, att du kan gala så högt, när du bara är en tiggarunge.“
+
+“Smörj ska han ha, den satbytingen,“ skrek skoflickaren, “smörj för det han förolämpar ärliga arbetare och smörj för det han sjunger den där skojarens visor.“
+
+“Slå mig till döds, om I viljen; men vågen icke säga något om Bellman, för då rifver jag ögonen ur den, som det gör.“
+
+“Det låter du allt bli,“ vrålade skoflickaren och fattade ynglingen om strupen; “jag säger ändå, jag, att vismakaren Bellman är en skojare, för jag har lagat skor åt honom och icke fått betaldt. Nu kan du få en omlappning för både din egen och hans räkning.“
+
+“Hvad nu, godt folk,“ utropade en klar, välljudande röst, “skolen I anfalla en värnlös gosse? Icke går det an.“ Främlingen stod nu midt ibland dem. “Bättre då att gifva honom den skärf han begärt och låta honom gå.“
+
+De uppretade arbetarne stirrade “på den främmande. Då han tystnat, hördes ett doft mummel. Den grälaktiga skonickaren var alldeles icke böjd för ett fredligt slut pa uppträdet, utan trädde fram till främlingen, sägande:
+
+“Vi låta icke tukta oss af herrefolk, skall jag säga, för si, vi tåla icke, att de lägga näsan i våra affärdor; vi gräla, om vi vilja, och vi klå upp pojken, om det roar oss, utan att herrn har med den saken att göra; men vill han vara med om leken, så kan han nog få smaka mina näfvar.“ Skonickaren knöt handen under näsan på den unge mannen.
+
+“Skonickaren har rätt,“ skreko de öfriga, “och. smörj skall pojken ha.“
+
+“Och hvarför skolen I slå honom?“ frågade främlingen med orubbligt lugn och ett godmodigt leende.
+
+Det välvilliga i hans ansikte gjorde intryck på mängden. Den bredaxlade arbetskarlen yttrade;
+
+“Ah, icke var det därför, att visan var dålig, som skonickaren blef rasande, utan för det pojken kastade slantarna i synen på honom, och det var väl ändå icke så rätt gjordt, kan jag tycka.“
+
+“I så fall blir det väl bäst, att den, som var egentliga orsaken till uppträdet, söker försvara det. Gossen kastade pengarna i ansiktet på skonickaren för det denne icke tyckte om Bellmans visor. Jag vet alltså icke någon bättre råd, än att Bellman får godtgöra hvad ynglingen brutit, därigenom att han själf sjunger en visa för er.“
+
+Utan att afvakta något svar, uppstämde främlingen samma sång gossen sjungit1. Han sjöng den så, att hans råa åhörare stodo orörliga och förstummade med uppspärrade munnar. Det tycktes, som hade den vackra sången ägt förmågan att göra de rusiga nyktra och komma dem att glömma allt groll. När sången tystnade, var orsaken till grälet
+
+Bellman.
+
+
+
+
+
+förgäten, och alla blickade på sångaren med oförställd beundran.
+
+“Nu, mina vänner, hafven I hört en af Bellmans visor, sjungen af honom själf, och I skolen säkert gå härifrån utan agg emot gossen, som, efter hvad jag kan tycka, är ingen mer eller mindre än min uppassare.“
+
+“Är ni Karl Michael Bellman?“ utropade skoflickaren.
+
+“Alldeles, kära mästare, jag är just den där skojaren, som icke betalat lagningen af sina skor, och densamme, för hvilken ni kvarhållit de enda brukbara skoplagg han äger, så att han nu får gå med dessa,“ svarade Bellman leende och sträckte emot skoflickaren sin ena fot. Den var beklädd med en sko i högst betänkligt skick.
+
+“Å kors,“ skrek krögerskan och tog ett djärft skutt öfver disken, “är han Bellman? Man får väl lof att riktigt se på’n, för att veta, huru en vismakare ser ut, och inte går det an, att en så fin och rolig herre går med trasiga skor; utan han skall hafva dem, som skoflickaren satt i pant hos mig; men först vill jag riktigt ta’n i betraktande.“
+
+Gumman tittade poeten rakt i ansiktet genom ett par stora glasögon.
+
+“Nå, mutter, hur tycker ni jag ser ut?“ frågade Bellman skämtsamt. “Lik andra människor, är det icke så?“
+
+“Å jo, han ser icke så dum ut; men nu skall jag ta fram skorna, som det fyllsvinet skoflickaren pantsatt.“
+
+“När allt kommer omkring, så är det kanske mina egna, dem han behållit som säkerhet. Hit med dem, mutter lilla, så få vi se!“
+
+Skorna framtogos och befunnos verkligen vara Bellmans.
+
+“Nå, så mycket bättre; jag var just på väg att uppsöka skoflickaren för att betala min räkning och få min fotbeklädnad åter. Jag kan nu få affären uppgjord.“
+
+Bellman betalade den ur koncepterna råkade skoflickaren, tog på sig de hela skorna och lämnade kvar de söndriga, hvarefter han sade krogens förbluffade befolkning farväl.
+
+Än en gång samlade sig de närvarande kring Bellman för att hvar och en på sitt sätt tacka honom för sången och i minnet inprägla hans anletsdrag.
+
+Skoflickaren, som i det närmaste blifvit nykter, bad att få trycka hans hand såsom ett bevis på, att han icke vredgades öfver hvad denne sagt.
+
+Bellman räckte honom handen och sade skrattande:
+
+“Jag har fått mina skor, ni edra pengar, vi äro således vänner.“
+
+“Tack för det!“ utropade skoflickaren och vände sig därpå till ynglingen, sägande: “nu skall jag samla ihop slantarna du kastade på mig, för det är väl ändå det minsta jag kan göra, eftersom jag varit stursk emot herr Bellman och så när huggit honom på truten. Detta var hvad jag borde hafva gjort med dig, för det du sjöng hans visa sämre än en skata skulle ha gjort. Gå nu och köp bröd åt din mor, och behöfver du några skor lagade, så kom till skoflickar Sjöberg, så lappar han upp dem till tack för det han fått höra herr Bellman själf.“
+
+En stund därefter hade Bellman aflägsnat sig, medförande ynglingen.
+
+Utkommen på den mörka gatan sade han:
+
+“Huru kommer det sig, att jag funnit dig sjungande på en krog? Jag har hitintills ansett dig för en stilla yngling, som icke besökte dylika ställen.“
+
+Gossen teg.
+
+“Du vill icke säga mig orsaken. Nå, gör som du vill. Jag skall icke vidare spörja dig; men man talade om, att du hade en mor, som var utan bröd. Hvarför har du icke sagt mig det; jag skulle möjligen kunnat hjälpa dig och henne, om du haft förtroende för mig. Icke lär du ändå i längden förmå uppehålla dig med att sjunga och spela för halfrusiga kroggäster.“
+
+Gossen böjde ned hufvudet, och en häftig snyftning gaf tillkänna att han grät.
+
+Bellman tvärstannade.
+
+“Hvad, min gosse, jag tror du gråter. Är du bedröfvad, så tala ut din smärta; med tårar vinna vi ingenting. Bort med all barnslig stolthet, då du har med Bellman att göra!“
+
+Snyftningarna upphörde; gossen fattade poetens hand, mumlande:
+
+“Hvad ni är god! O, min Gud, hvad jag är lycklig, som af er blifvit behandlad med så mycken välvilja, och ändå, huru olycklig är jag icke!“
+
+Åter hördes något, som liknade en snyftning; men den hämmades likväl genast, och sedan Bellman sagt ytterligare några uppmuntrande ord, berättade gossen honom sin korta historia.
+
+“Jaså, du sjöng för bröd? Stackars barn, det gör mig ondt om dig. Här har du några daler till i morgon. Hvar är det du bor?“
+
+Gossen uppgaf gatan och huset.
+
+“Du behöfver icke komma och borsta åt mig i morgon, utan stanna hos din mor. Skaffa henne och dig mat och hoppas sedan på bättre tider.“
+
+________
+
+
+
+Då Bellman något sent på aftonen kom hem till sig, fann han en bjudning till en rik grosshandlare, den vi här vilja benämna Alm.
+
+Bellman läste igenom bjudningsbrefvet, slängde det sedan ifrån sig och gick till hvila.
+
+Han var ännu icke färdigklädd, då han följande morgonen erhöll besök af Olof Kexél. Under det de båda vännerna skämtade och pratade, fick Kexél ögonen på grosshandlarens bjudningsbref, hvilket låg kvar på bordet, dit Bellman kastat det.
+
+“Hvad,“ utropade Kexél, “en bjudning till Alm, den fåfängaste, dummaste och penningdrygaste narr i hela Sverige! Känner du honom?“
+
+“Helt obetydligt,“ svarade Bellman, “men karlen har, de få gånger vi sammanträffat, retat mig med sin oförskämdhet att vilja hafva ett impromptu. Nu har han ökat sin oförskämdhet på ett högst anmärkningsvärdt sätt. Se själf!“
+
+Kexél läste högt, och med den honom egna förmågan att gifva ett komiskt uttryck åt rösten.
+
+Början af brefvet var affattadt i vanlig bjudningsform men slutet var så mycket mer karakteristiskt. Det lydde:
+
+“Anhålles, att herr Bellman till värdens och gästernas tillfredsställelse behagade sjunga några för tillfället författade och afpassade roliga sånger. Man tror sig kunna försäkra, att det nöje herr Bellman därigenom kommer att bereda de närvarande, skall blifva inbringande för hans kassa, emedan grosshandlar Alm är en man, som vet betala den glädje honom tillskyndas, och det kontant ändå.“
+
+Kexél utbrast i ett gapskratt och försäkrade, att mannen bestämdt förlorat vettet, eftersom han föreslog Bellman att sjunga för betalning. Man borde, enligt Kexéls förmenande, skrifva en visa om den rike mannen. Men Bellman var icke af samma tanke, utan afbröt vännens munterhet med de orden:
+
+“Om narrar och lymlar skrifver jag icke några visor; dem behandlar man utan alla ceremonier.“
+
+Bellman ryckte åt sig papper, penna och bläck och skref dessa ord:
+
+“När solen går upp i väster och ner i öster, då skall Karl Michael Bellman sjunga på grosshandlar Alms bjudning för hans gäster och mot betalning.“
+
+Detta svar, tillika med bjudningsbrefvet, slogs in i ett omslag och afsändes till grosshandlaren.
+
+________
+
+
+
+Några dagar därefter gaf dåvarande notarien Johan Trotzig en större middag.
+
+Den lefnadsglade, unge och förmögne tjänstemannen såg vid sitt bord många af den tidens utmärktaste snillen, sångare och konstnärer. Ibland dem var Bellman den för Trotzig käraste.
+
+Bellman, som visste, att man hos Trotzig kom i godt sällskap och där alltid träffade samman med “snillebröder“, var merendels vid godt lynne, då han infann sig på någon af vännens tillställningar, i synnerhet som värden själf var en älskvärd och kvick karl, hvilken älskade vin, sång och glädje.
+
+Bellman var nu, såsom alltid, den mest efterlängtade af alla gästerna. Han infann sig denna gång något sent, så att man hade väntat på honom. Hans inträde hälsades med hurrarop, och man intog genast sina platser vid bordet i den mest upprymda sinnesstämning. Anrättningarna voro utsökta; vin och kvickheter flödade; tal, skålar och sång aflöste hvarandra. Bellmans utseende tillkännagaf, att han var ganska lifvad, och att döma af alla yttre tecken, kunde man hoppas på den glädjen att få höra honom improvisera.
+
+Man hade emellertid kommit till sista rätten, utan att Bellman, trots sin munterhet, höjt sin röst till sång. Nu reste han sig upp och yttrade:
+
+“Finns här vid bordet någon prästson?“
+
+“Jag är son af en andlig far!“ utropade Kexél.
+
+“Du är poet, du duger icke.“
+
+“Hallman är äfven prästson,“ sade en af bordsgästerna.
+
+“Ett obrukbart exemplar vid närvarande tillfälle,“ menade Bellman skrattande; “nej, bättre utrustade prästsöner behöfver jag.“
+
+“Hvad,“ utbrast Kexél, “äro icke vi väl utrustade?“
+
+“Å jo, blott det icke handlar om kontanter, och det är just sådana den prästson bör hafva, som jag vill vända mig till.“
+
+“I sådant fall, se till,“ utropade Hallman; “där har du en prästafkomling, som i hull och guld öfverträffar alla andra. Jag menar grosshandlar Alm.“
+
+Allas ögon riktades på den rike mannen, hvilken endast hade sitt släktskap med värden att tacka för det han blifvit kastad in i kretsen af vittert folk. Grosshandlaren blef mörkröd, då sällskapets blickar fästes på honom.
+
+Bellman såg på den digra penningekarlen på ett sätt som angaf, att han icke hyste några stora förhoppningar med afseende på honom.
+
+Grosshandlaren låtsade med mycken noggrannhet syna hvad han hade på tallriken, liksom han icke hört, att Hallman utpekat honom.
+
+“Äro här icke några flera af prästerlig härkomst?“ frågade Bellman och mönstrade de församlade middagsgästerna, hvilka besvarade frågan nekande.
+
+“Hvad, Bellman,“ utropade Hallman, “är du icke nöjd med grosshandlaren? Han är så god som tio andra; men skulle du nödvändigt vilja hafva flera prästebarn, så antag, att Trotzig, vår artiga värd, är ett sådant.“
+
+“Idéen är god, och jag vill tillämpa den,“ menade Bellman skrattande, “men sålunda, att alla här församlade äro prästsöner. Trotzig till att börja med, eftersom det handlar om hjälp åt en fattig prästänka och hennes son. Den, som önskar höra mig sjunga en visa om en fattig poet och en skoflickare, han lägger ett mynt under sin tallrik. Alltså, Trotzig, du börjar. Få nu se, huru högt Bellmans sång skattas. Här om aftonen sjöng jag på en krog för att frälsa från stryk samma pojke, för hvilken jag i dag tigger, på det han må få en bättre framtid än den, att med dålig röst och på ett uselt ställe sjunga mina bästa sånger, för att förtjäna några slantar och däremellan för en lumpen styfver borsta mina dåliga skodon.“
+
+Grosshandlaren Alm såg nu upp från sin tallrik och fäste ögonen på Bellman.
+
+“Har solen i dag gått upp i väster, herr Bellman?“ frågade han.
+
+“Icke som jag vet,“ svarade Bellman vårdslöst.
+
+“Jag trodde det, eftersom ni sjunger för betalning.“
+
+“Misstag, herr grosshandlare; jag sjunger för att öfva barmhärtighet. All min rikedom är min sång, och det är således endast genom den, jag kan hjälpa behofvets barn. Vore jag rik såsom ni, så skulle jag gifva, utan att anlita mina vänner. Nu är jag det icke, och därför sjunger jag om poeten och skoflickaren.“
+
+Efter dessa ord följde en tystnad. Hvar och en tog upp sin börs för att under sin tallrik lägga gåfvan åt den fattige ynglingen och hans mor. Äfven Hallman och Kexél lade dit något.
+
+Bellmans läppar logo, då hans ögon fästes på vännerna. Han visste ganska väl, att de endast vid utomordentliga tillfällen voro försedda med mynt. Kanske var denna en af dessa undantagsdagar.
+
+Sedan insamlingen försiggått, drack man Trotzigs skål, och därefter skildrade Bellman i en sång, huru en skoflickare behöll i pant de enda brukbara skor, en fattig poet hade, och huru den sistnämnde återfann dem på en krog, pantsatta för brännvin.
+
+Han sjöng därefter en särskild sång för hvarje skål och var försatt i denna inspirerade sinnesstämning, som gjorde honom så stor och så beundrad af alla, som åhörde honom.
+
+Ändtligen steg man upp från bordet.
+
+Bellmans ögon voro nu matta och hans ansiktsmuskler slappa, något som vanligen inträffade sedan han improviserat. Han glömde likväl icke, hvarför han denna gång öfverlämnat sig åt sina poetiska utgjutelser, utan började i gästernas närvaro samla tillhopa penningarna. Det matta ögat lifvades nu åter, och för hvarje penning han tog från bordet, utropade han dess valör och bifogade några pikanta och kvicka anmärkningar öfver huru mycket värde hans sång haft för gifvaren.
+
+Trotzig, alltid villig att ägna Bellman sin hyllning, hade lagt femtio riksdaler under sin tallrik, och man kan säga, att de flesta varit ytterst frikostiga.
+
+Under grosshandlar Alms tallrik var det tomt. Han var den enda, som icke gifvit något.
+
+Kexél hade under sin lagt ett sammanvikt papper, hvarpå stod: “Bellmans sång kan icke uppvägas med guld.“
+
+Bellman uppläste Kexéls lilla skrifvelse och bifogade ett kvickt epigram öfver vännens alltid tomma börs, men ständigt fyndiga hufvud.
+
+Hallman hade gifvit en anvisning på tio daler att lyfta hos bokhandlar Holmberg, ifall denne hade försålt något af Hallmans förlag.
+
+Äfven denna poetiska brist på mynt blef ett ämne till skämt för Bellman och åstadkom stor munterhet.
+
+“Det är en lycka för min skyddsling, att icke alla äro poeter och grossörer,“ sade Bellman; “ty då vore fara värdt att han finge svälta ihjäl.“
+
+Huset på Stora Badstugatan.
+
+
+
+
+
+Dagen därpå var en ovanligt klar oktobermorgon. Bellman var, oaktadt kalaset hos Trotzig, tidigt ute och vandrade af till Stora Badstugatan å Norrmalm. Här inträdde han i ett lågt, förfallet trähus och frågade efter fru Osenius, änka efter en präst, och moder till den unga sångaren på krogen.
+
+Bellman kom som en tröstens och hugsvalelsens ängel med hjälp och lindring i nöden.
+
+Unga Philip, änkans son, var sexton år med ovanliga anlag för teckning, ehuru nöden under de sista åren hade gjort, att han hvarken fått öfva detta anlag eller fortsätta sin skolgång. Den summa pengar Bellman medförde, satte den stackars modern i tillfälle att komma ur sin utblottade belägenhet och gaf utsikt åt sonen att få återtaga de afbrutna studierna.
+
+Den sjuka fru Osenius tillfrisknade, och efter några veckors förlopp funnes i änkans boning lika många skäl Bellman hos fru Osenius.
+
+
+
+
+
+till förhoppningar för framtiden, som det före Bellmans inträdande där varit sorgligt och hopplöst. Af mor och son välsignades skalden såsom deras räddare.
+
+________
+
+
+
+Under det Bellmans f. d. uppassare sålunda fortgick på den bana, som genom sångarens bemedling blifvit öppnad för honom, fortsatte Bellman att dikta i kretsen af vänner och själsfränder. Han skötte sitt skaldeyrke lika bekymmerslöst och obesväradt som sina affärer, men med den skillnaden, att här ledde honom en mäktig konstnärsinstinkt, hvilken ägde att disponera öfver lika outtömliga tillgångar, som dessa i ekonomiskt hänseende voro begränsade. Han var sångare, emedan det var hans kallelse, och han sjöng utan all önskan att lysa eller vinna bifall. För honom fanns blott en åstundan, den, att få öfverlämna sig åt njutningen att i en förtrolig krets gifva form och gestalt åt hvarje ny ingifvelse. Därvid glömde han som oftast, att rocken var sliten och skorna i klent skick. Det såg likväl ut, som hade en osynlig fé åtagit sig att vaka öfver de senares vidmakthållande; ty om skalden på aftonen kom hem med söndriga skor, kunde han vara säker på, att om morgonen hafva ett par hela sådana, utan att det lyckades honom utröna hvem den osynliga välgöraren var, som tänkte på hans fotbeklädnad.
+
+Så hade det fortgått under loppet af några år. Bellman hade icke behöft tänka på sina undersåtar; men bevararen af hans fötter hade icke sträckt sin omsorg till hans öfriga klädsel, och därför hände en dag, att då Bellman mötte konungen på gatan, var hans klädsel i ett så torftigt skick, att Gustaf den tredje utropade:
+
+“Min kära Bellman, hvad kommer åt dig, som uppträder så illa klädd?“
+
+“Ers majestät, jag kan i underdånighet försäkra, att jag har hela min garderob på mig,“ svarade Bellman leende.
+
+I detsamma han yttrade detta, smög en karl, klädd såsom en bättre arbetare, förbi och betraktade Bellman med stor uppmärksamhet.
+
+Gustaf den tredje skildes från poeten med löfte att han innan aftonen skulle erhålla undsättning af den “krönta skaldebrodern“.
+
+Bellman fortsatte emellertid sin promenad och begaf sig på hemvägen till en skräddare för att beställa sig nya kläder. Han inträdde i mäster Martins boning, utan att finna någon i det yttre rummet, men gick, det oaktadt, icke vidare, ty han hörde sitt namn nämnas af ett par röster, som samtalade i rummet innanför.
+
+“Se så, mäster Martin,“ yttrade den ena, “låt nu höra hvad ni vill lämna de där kläderna till; jag har ju sagt er, att Bellman skall hafva dem, och nu får ni icke vara oresonlig, utan gå in på det pris, jag bjudit och att jag betalar dem genom arbetsbyte.“
+
+“Bellman, vismakaren!“ yttrade en annan röst.
+
+“Om han kom med hit själf, så kunde jag hafva någon glädje af att jag lämnade dem för godt pris; men nu så ...“
+
+“Ska ni ta’ mig dj-n sälja dem åt mig, och det utan att Bellman kommer hit. Ni är skyldig mig pengar, dem kvitta vi af, och resten betalar jag med arbete åt er och edra ungar. Vill ni icke, så går jag väl till en annan skräddare; men då skall ni genast betala mig, hvad ni är skyldig, för jag har gifvit mig f-n på, att Bellman skall ha nya kläder innan aftonen. Tycker ni det är skick och reson, att en sådan man, som han, skall gå klädd nästan i trasor?“
+
+“Det tycker jag visst icke, och efter ni talar så resonabelt, så skall ni få dem för den spottstyfver ni bjudit; men jag vill åtminstone se, huru en poet bor, och skall därför själf bära kläderna till honom.“
+
+“Det kan ni få; men låt oss nu göra upp våra räkningar, och sedan begifva vi oss i väg. Vid den här tiden är han aldrig hemma.“
+
+Bellman aflägsnade sig, nyfiken att lära känna den, som hade åtagit sig att sörja för upphjälpandet af hans garderob. I stället för att, såsom han hade ämnat, gå och träffa Kexél och Hallman, vandrade han till sin enkla boning.
+
+En half timme förflöt, utan att någon kom att störa hans ensamhet; men nu hördes steg i trappan, och någon frågade:
+
+“Är herr Bellman hemma?“
+
+“Nej, han är utgången,“ svarade städerskan.
+
+“Går det an att få lägga in de här kläderna i hans rum?“ frågade den främmande.
+
+“Å ja, det går nog för sig,“ svarade städerskan. En nyckel sattes i låset, och dörren gick upp.
+
+Något förbluffad öfver att finna Bellman sittande i soffan, drog städerskan sig åt sidan, och en karl, som stod i begrepp att inträda, steg tillbaka och hade vid denna rörelse så när knuffat omkull en liten figur, som befann sig i hack och häl efter honom, bärande ett knyte.
+
+“Hvad söken I, god’ vänner?“ frågade Bellman och kom emot dem.
+
+Karlen blef förlägen; men den lille mannen, som bar knytet, tycktes helt gladt öfverraskad. Han sköt sin företrädare åt sidan och inträdde med belåten min.
+
+“Jag är skräddare,“ yttrade han, “och har blifvit anbefalld att bära hit de här kläderna åt herr Bellman. Vi kunna därför begagna tillfället och profva dem, eftersom jag träffar er hemma. Det kan ju hända, att de icke passa, och det skall blifva mig ett nöje att ändra dem för samma betalning. Ja men, skall det så!“
+
+“Men jag har icke beställt några kläder,“ inföll Bellman.
+
+“Det gör sak samma, då andra gjort det i ert ställe,“ svarade skräddaren och gjorde en uttrycksfull blängning åt karlen, som stod på tröskeln och vid dessa ord tycktes fast besluten att begifva sig utför trappan.
+
+Bellman hejdade honom likväl med de orden:
+
+“Stanna, min vän, och upplys mig om hvad del ni har i det här. Jag kan icke erinra mig, att vi någonsin sammanträffat förr, och vet bestämdt, att jag aldrig gifvit er i uppdrag att bestyra om kläder åt mig.“
+
+Karlen såg ut, som hade han blifvit gripen på bar gärning vid begåendet af ett skälmstycke.
+
+“Om, om, herr Bellman vill afskeda skräddaren, så ... så skall allt blifva förklaradt,“ stammade han.
+
+Skräddaren ville emellertid icke låta afskeda sig, förrän kläderna blifvit profvade, och menade, att han nog kunde gifva besked om rätta sammanhanget, hvilket i all enkelhet var, att hans följeslagare, skomakare till profession, kommit in till honom och frågat, om han hade några färdiggjorda kläder, passande åt honom. Skräddaren hade då framtagit dem han nu medförde och velat profva dem, men då hade skomakaren förklarat, att icke han själf, utan poeten Bellman skulle hafva dem. Köpet uppgjordes så, att skomakaren fick kläderna för en spottstyfver, eftersom de voro bestämda för Bellman, och nu skulle det icke hända, att skräddaren gick, förrän han fått se huru de passade.
+
+Bellman kunde omöjligt hålla sig ifrån att skratta åt den lilla skräddarens sätt att gifva sin hyllning tillkänna genom att omtala det goda pris, hvarför han sålt kläderna. Skalden lät honom emellertid profva dem, hvarefter han afskedade tillskärare-konstnären.
+
+Bellman och den, som skulle stå till ansvar, voro nu allena.
+
+“Nå, min vän, låt mig nu veta, hvem som anmodat er att ombesörja min garderob,“ utlät sig Bellman och betraktade mannen.
+
+“Ah, herr Bellman, det är icke någon, och ... och ... jag skulle allt vara bra lycklig om ... om ni icke gjorde några frågor, för ... det är ... en gammal historia.“
+
+“En gammal historia,“ inföll Bellman skrattande; “jag tycker den är alldeles ny, och om ni hoppas, att jag skall begagna kläderna, så måste ni säga, från hvem de komma. Får jag icke lära känna gifvaren, så sänder jag dem tillbaka till den lilla skräddarn, som då får besväret att sälja dem för andra gången.“
+
+“Om det ska bli på det viset, så lär jag väl bli tvungen att omtala, huru det är,“ sade mannen. “Det var en afton för några år sedan, som en fattig gosse sjöng på en krog. Jag vet icke, om herr Bellman minns den där kvällen.“
+
+“Ganska väl,“ försäkrade Bellman.
+
+“Nå väl, ibland åhörarne fanns en skoflickare, en utsväfvande sälle, som arbetade litet, men söp desto mera, så att hustru och barn hade det ganska knappt. Han brukade ibland hafva skolagning åt en herre, som gjorde verser. En gång hade den där herrn icke betalt lagningen af ett par skor, men ändå lämnat dit ett par andra. Skoflickaren, som jämt var utan pengar, ville icke lämna de lagade skorna, förrän han fått betalt, utan behöll dem. En dag, då han icke hade något att supa för, satte han skorna i pant på krogen för brännvin. Den där skoflickaren kom, som ni kanske minns, i gräl med pojken, som sjöng, och han hade nog i fyllan slagit honom, om ni icke trädt emellan, då han så när hade gifvit er på pälsen för er inblandning, så framt ni icke hade lugnat honom med er sång. Ni sjöng för oss, gement folk. Det var icke så lätt att glömma, skall ni tro, och skoflickaren lofvade sig själf, att återbetala er det. När han kom hem till sig, hade han med sig de söndriga skor, ni bytt ut emot de hela; han putsade dem och satte dem på en hylla i sin verkstad, och då föresatte han sig att bli en nykter och arbetsam karl, som så länge han kunde hålla i syl och tråd, skulle laga så, att herr Bellman alltid hade hela skodon. När lusten att supa kom på honom, då behöfde han bara få sikte på edra gamla skor, för att komma ifrån dessa tankar.
+
+“Såsom nykter och arbetsam fick han arbete, blef ordentlig skomakare och fann snart, att det lönar sig att vara flitig och ordentlig. För att så var, hade han emellertid edra gamla skor att tacka, och därför förvarade han dem. Nu hände det i dag, att skomakaren såg och hörde er, då ni talade med konungen. Han ville visa er sin tacksamhet genom de här kläderna; men det kan allt hända, att ni försmår gåfvan, då den kommer från en så ringa person.“
+
+“Nej, min vän, det gör jag visst icke, utan skall med större stolthet bära den, än om jag fått den af en konung; ty den skall erinra mig om att jag med min sång och mina trasiga skor bidragit att göra er till en ordentlig och flitig arbetare.“
+
+Bellman räckte skomakaren handen. Skalden och handtverkaren åtskildes efter utbyte af de vänskapligaste försäkringar, och Bellman lofvade att hafva sin “hofskomakare“ i tacksamt minne.
+
+________
+
+
+
+Åter förgingo år.
+
+Bellman hade af konungen erhållit plats med lön såsom sekreterare vid nummerlotteriet och äfven fullmakt såsom hofsekreterare. Nu, sedan han ägde titel och årlig lön fattades honom blott en hustru för att vara rangerad karl. Han gifte sig också med Lovisa Fredrika Grönlund, dotter till en våg- och stämpelmästare i packhuset.
+
+Någon tid efter bröllopet, då Bellman en dag skulle gå ut, mötte han på gatan en liten flicka, som grät helt bitterligen.
+
+“Hvarför gråter du, mitt barn?“ frågade den alltid välvilliga poeten, stannade och klappade barnet på hufvudet. “Fryser du, eller är du hungrig?“
+
+“Nog fryser jag, och nog är jag hungrig; men icke är det därför jag gråter, utan för det far skall dö utan att han får tala vid Bellman.“
+
+“Hvad heter din far och hvarför vill han tala vid Bellman?“ frågade skalden, lifligt intresserad af barnets ord.
+
+“Far heter Sjöberg och har varit skomakare; men nu kan han icke arbeta, utan det är så rysligt fattigt för oss. Han tror, att herr Bellman nog skulle hjälpa honom, om han visste, huru det är.“
+
+“Det tror jag också,“ svarade Bellman. “Följ mig till din far, så kanske jag kan göra något för honom.“
+
+“Det kan herrn inte, för det kan bara herr Bellman, och jag vill nödvändigt söka rätt på honom,“ svarade barnet och vände sig från Bellman; men denne förmådde flickan likväl att gå med sig till den sjuke, oaktadt han icke uppgaf sitt namn.
+
+________
+
+
+
+I ett torftigt, kallt och uselt rum låg den forne skoflickaren. Sjukdomen, denna människans bittraste fiende, hade af den välbärgade arbetaren gjort en fattig usling, som, sedan han en längre tid varit sängliggande, icke ägde något annat än medmänniskors godhet att förlita sig på. Ju mer fattigdomen tilltog och nöden närmade sig, desto bittrare blefvo äfven plågorna.
+
+Då Bellman inträdde till den sjuke, hindrade dunklet i rummet skomakaren att urskilja den främmandes anletsdrag. Flickan gick till honom, sägande:
+
+“Far, jag har icke fått reda på herr Bellman; men jag har träffat en annan herre, som lofvat hjälpa dig, och han är nu här.“
+
+Den sjuke suckade och vände på hufvudet. Bellman närmade sig till sängen, och flickan vek undan skynket, som hängde för fönstret.
+
+“Känner ni igen mig?“ frågade Bellman och böjde sig ned öfver honom.
+
+Skomakarens bleka ansikte fick en lifligare färg, och han utropade:
+
+“Det är ju han, han själf. Gud vare lof, att ni kom!“ fortfor han och omfattade Bellmans ena hand med sina darrande händer. “Det har gått mig illa, allt sedan den där artisten öfvertalade mig att at honom sälja edra gamla skor, som varit min lycka i lifvet. Tvenne dagar efter det han köpte dem insjuknade jag och har sedan icke kunnat lämna sängen; men nu blir det nog bra, sedan jag fått se er, herr Bellman. Ni skall ju icke öfvergifva min stackars flicka, då jag går bort? Nej, jag vet att ni icke skall göra det.“
+
+Hvad som vidare sades emellan skomakaren och poeten, känna vi icke, men väl, att då Bellman gick, var den sjukes ansikte lugnt och fridfullt, skaldens åter allvarligt och sorgset.
+
+________
+
+
+
+Julaftonen randades klar och blid. De nygifta började den med gåfvor och gengåfvor af smekningar. Bellman var lycklig och belåten med lifvet och tyckte sig hafva vunnit all jordisk sällhet, då han kommit i besittning af en ung och älskvärd maka.
+
+Vid middagstiden gick han bort, men återkom efter ett par timmars förlopp. Då han inträdde till sin blomstrande hustru, sade han helt glädtigt:
+
+“Jag medför en gåfva åt dig; men jag fruktar, att den vid första påseende icke blir välkommen.“
+
+Den unga frun förklarade, att hvarje gåfva af honom måste vara kärkommen. Bellman menade skämtande, att han nu finge tillfälle pröfva sanningen af hennes försäkringar, hvarefter han lämnade rummet, men återkom på ögonblicket, medförande en flicka om sju à åtta år.
+
+“Här är julklappen, hvad tycker du om den, käraste Lovisa?“ frågade Bellman.
+
+Den unga frun rodnade, såg först förlägen ut och sedan bedröfvad, ty en svartsjuk misstanke började uppstå hos henne.
+
+“Nå, min älskade, vill du icke taga emot den?“ Bellman blickade på sin fru med ett skalkaktigt ögonkast.
+
+Den unga kvinnan brast i tårar.
+
+“Hvad, du gråter,“ utropade Bellman; “men vet du då icke, att den här gåfvan bör föra välsignelse med sig?“
+
+“Huru kan du tala så,“ mumlade hustrun, och tårarna runno ymnigare.
+
+“Du vill således icke taga emot min present? Skrymterska, du lofvade likväl.“ Bellman slog armarna om sin hustru och tillade: “Bort med alla tårar och låt leendets sol uppklarna ditt anlete! Vet, att barnet här är en dotter till den där skoflickaren, som under flera år höll din Karl Michael med skor och en gång gaf honom nya kläder, när hans ’poetiska omständigheter gjorde, att dessa voro i ett mindre brukbart skick’. Barnets far dog i går, modern har varit död i många år, och nu skola vi återbetala flickan de gåfvor, fadern gifvit din man; är du icke med därom?“
+
+Hustrun slog armarna om mannens hals och gaf med en kyss sitt samtycke tillkänna. Hennes misstanke hade försvunnit lika hastigt som den upprunnit.
+
+________
+
+
+
+Hos den gästfria Trotzig gafs en tid därefter åter en större middag. Bellman och hans unga fru voro äfven där. Som vanligt var glädjen den härskande gästen vid måltiden, och man hade just kommit till desserten, då porträttmålaren Philip Osenius, Bellmans forna skyddsling, reser sig upp och begär att få ordet.
+
+Pratet och skrattet upphörde.
+
+“För flera år tillbaka,“ började artisten, “voro vid Trotzigs bord samlade ett stort antal gäster, hvaribland hofsekreteraren Bellman. Vid detta tillfälle föreslog denne en insamling för en fattig prästson, hvars mor genom sjukdom och olyckor råkat i nöd, så att sonen, för att kunna förtjäna något, åtog sig skoborstning åt herr Bellman; men inkomsten däraf var icke stor, och nöden blef allt större och större, utan att den fattiga gossen med sina bekymmer ville vända sig till den, hvars uppassare han var, och hvilken han beundrade såsom en gud. En dag uppträdde gossen på en krog och sjöng en af Bellmans sånger mot betalning. Det var från den dagen, herr Bellman blef hans välgörare. Prästsonen är jag. Hvad jag i dag är, det har jag således Karl Michael Bellman att tacka för; men det är icke nog härmed. Vid det tillfälle, som gjorde Sveriges största skald till min välgörare, var en skoflickare närvarande. Karlen dog nyligen i fattigdom och vände sig före sin död till den ädle sångaren och anförtrodde i hans händer sin dotter. Vi alla här församlade veta, att, ju större snille människan fått, desto mindre äger hon af världsliga fördelar. – Frågas nu, skola vi tillåta, att Karl Michael Bellman ensam drager försorg för den fader- och moderlösa skoflickardottern? Skola vi tillåta, att hans sångmö betungas med ännu flera ekonomiska omsorger? Jag läser på alla här församlades ansikten ett tydligt uttaladt nej – och därför vill jag, som varit det egentliga upphofvet till denna nya beskattning på Bellmans gifmildhet, föreslå en insamling för Bellmans fosterdotter.“
+
+“Det tillåter jag icke,“ utropade skalden; “jag betalade endast mina skor, då jag upptog det faderlösa barnet.“ Bellman berättade på sitt kvicka och målande vis skoflickarens sätt att visa sin beundran. Han slutade med dessa ord: “Jag stod i skuld hos flickans far, och det lär väl icke tillhöra någon annan än mig att betala min skolagning, skulle jag tro.“
+
+“Jo, vi vilja göra det! En skål för Bellmans skoflickare och hans dotter, hvilken vi alla här församlade förbinda oss att försörja.“
+
+Man öfverenskom nu under skämt och glam, att enhvar skulle årligen lämna ett litet bidrag åt Bertha Sjöberg. Osenius uppsatte förbindelsen och utsågs till att vara förvaltaren.
+
+Berthas framtid var härigenom betryggad.
+
+Dagen därpå, då Philip kom till fru Bellman för att tala om flickan, bad han att få säga några ord åt barnet. Han gaf henne en gammal söndrig sko, sägande:
+
+“Jag har köpt dessa skor af din far, de hafva tillhört honom. De utgjorde en gång den talisman, som förde din far till arbete och afhöll honom ifrån att supa. Den ena af dem skall jag själf behålla, den andra gifver jag dig. Göm den och låt den i en framtid erinra dig om den tacksamhetsskuld hvari du står till herr Bellman. Jag skall förvara den andra såsom ett minne af min välgörare och en påminnelse, att jag ännu icke återgäldat min förbindelse till honom.“
+
+Den lilla Bertha betraktade skon och sade gråtande:
+
+“Om herrn aldrig hade köpt skorna af far, hade han nog lefvat ännu, för det var när han miste dem, som han blef sjuk, så sade han alltid. Nog skall jag gömma den här, så att jag icke dör liksom far.“
+
+________
+
+
+
+Philip blef en utmärkt artist, och lilla Bertha växte upp till en fager tärna, hvilken genom fru Bellmans omsorger erhöll en god uppfostran.
+
+Bellman själf hade fortfarit att sjunga och dikta, sorglös och obekymrad om sin jordiska existens, alltid redo att dela med sig åt nödens barn, äfven då nöden grinade emot honom själf. Trofast i vänskap, varm i sången, var han oförmögen att fjättra tanken vid detta lifvets omsorger, utan lämnade, oaktadt all sin tillgifvenhet för hustru och barn, omtanken för deras underhåll helt och hållet åt den förra. Den karaktersfasta och hjältemodiga kvinnan kämpade också med kraft emot den stundligen mer och mer tilltagande fattigdomen, utan att likväl förmå ifrån deras lif aflägsna densamma. Bellman märkte den likväl knappast, utan lefde i fantasiens värld, glömmande det verkliga lifvet.
+
+Bellman hade öfverlefvat den tid, då han som ymnigast ådagalade de skaldegåfvor, hvarmed naturen begåfvat honom och kommit in i det tidskifte, då han skulle dikta och improvisera mindre frikostigt.
+
+Han hade sett sin älskade monark lämna det jordiska och med hela sitt varma hjärta, sörjt och saknat den hädangångne.
+
+Ju mer Bellmans lefnad framskred och bekymmer och förluster tillväxte, desto sällspordare blefvo äfven hans poetiska utgjutelser.
+
+Med Gustaf den tredje förlorade Bellman den hjälpare, som aldrig vägrade att bistå honom. Nöden blef också efter konungens död allt större och större i skaldens hem. Hans hälsa började aftaga, och en tärande bröstsjukdom angrep hans lungor. Han försvann från de lustiga brödralagen, där han varit själen och lifvet, och den glada sångaren, som spridt så mycken fröjd omkring sig, sökte ensamheten.
+
+Så hände det i början af maj 1794, att man en dag tog den sjukliga och sorgbundna sångfågeln för att inspärra honom för skuld.
+
+Friheten, denna människans dyrbaraste gåfva, var honom nu beröfvad, och det förut nedslagna sinnet blef icke gladare genom denna tillökning af motgångar.
+
+________
+
+
+
+Det var några dagar efter Bellmans insättande på gäldstugan som det ringde på grosshandlar Alms tamburdörr.
+
+Den rike mannen satt i sitt arbetsrum, sysselsatt med att skrifva bref. I hans närhet befann sig ett ungt fruntimmer.
+
+Det var fru Alm. – Gubben var sedan ett par år gift med en ung, vacker men obemedlad flicka.
+
+“Kära Alm, nog kunde du glömma din ovilja och hjälpa Bellman. Du gjorde då en god gärning, som skulle hedra ditt hjärta.“
+
+“Hör på, Lotten,“ utropade grosshandlaren, i det han reste sig upp, “erinra dig en gång för alla, att jag icke vill höra talas om den karlen. Jag har redan oräkneligaGrosshandlar Alm och hans hustru.
+
+
+
+
+
+gånger sagt dig, att förr kastar jag ut pengarna genom fönstret, än jag gifver honom ett enda öre.“
+
+“Herr Kexél önskar tala vid herr grosshandlaren,“ yttrade en röst ifrån dörren, och innan Alm hunnit säga ett ord, inträdde den anmälde.
+
+“Jag vet icke, om jag har den lyckan att vara igenkänd,“ sade Kexél och bugade sig för den rike mannen, som förklarade, att han ganska väl kände igen herr Kexél.
+
+“Mitt ärende är,“ sade Kexél, “att erinra grosshandlaren om ett tillfälle för några år tillbaka, då ni råkade i skuld till Bellman.“
+
+“Jag!“ utropade gubben Alm förvånad; “och när skulle detta hafva inträffat?“
+
+“Hos Trotzig,“ fortfor Kexél, utan att låta afbryta sig af utropet. “Bellman hade föranstaltat en insamling till förmån för en fattig prästson, hvaruti alla närvarande, som ville höra honom sjunga, skulle deltaga. Ni var den enda, som ej gaf något, och det oaktadt ni åhörde Bellmans sång.“
+
+Gubbens ansikte blef mörkrödt.
+
+“Gåfvorna voro frivilliga, och då jag icke kände mig hågad att gifva något, hade jag full rätt att undandraga mig den påbjudna beskattningen.“
+
+“Så kan det tyckas,“ återtog Kexél, “men så är likväl icke förhållandet. Då ni icke vill gifva något af ert öfverflöd, borde ni icke ha åhört Bellmans sång. När ni det gjorde, blef det äfven er plikt att deltaga i den allmänna insamlingen. Ni gjorde det likväl icke, och därför är jag nu här för att bedja er betala skulden genom att utlösa Bellman från gäldstugan.“
+
+“Herre, ni är galen!“ skrek grosshandlaren.
+
+“Alldeles icke, och ni skall själf nödgas erkänna, att hvad jag nu föreslår icke är så befängdt som ni tycker.“
+
+“Därpå tviflar jag,“ menade Alm och kastade en ursinnig blick på Kexél, som betraktade gubbens unga, vackra fru, där hon satt nedlutad öfver sitt arbete, med kinderna i brand.
+
+“Tillåt mig bevisa mitt påstående!“ återtog Kexél. “Om ni på detta verkligt högsinta sätt skulle betala er skuld, blefve vinsten för er ett odödligt namn; ty så länge man ihågkom Bellman, skulle man äfven erinra sig den, som återgifvit honom friheten.“
+
+Grosshandlaren Alm var hvarken bättre eller sämre än tusende andra, som låta behärska sig af fåfänga och penningehögmod. Han satt också en stund och funderade, innan han yttrade:
+
+“Ifall jag kunde förmå mig att lösa ut Bellman, så skulle det ske endast på ett villkor, nämligen att han försonade den skymf, han en gång tillfogat mig, då han till svar på en bjudning af mig, skref: ’när solen går upp i väster, då skall Bellman sjunga på grosshandlar Alms bjudning, för hans gäster och mot betalning’. Återger jag honom friheten, måste han förbinda sig att sjunga en af sina roligaste visor för mig och mina gäster. Han kommer då att sjunga för betalning, utan att solen behöfver förändra sin gång.“
+
+“Om Bellman går in på förslaget, lofvar ni då att betala den skuld, för hvilken han är bysatt?“ frågade Kexél.
+
+“Ja, det gör jag. Ni har mitt ord därpå.“
+
+Kexél tog afsked och gick, men återkom dagen därpå.
+
+“Bellman har lofvat att sjunga, när ni det önskar och han återfått friheten,“ sade Kexél.
+
+Grosshandlaren gnuggade händerna af förnöjelse. – Han hade således förödmjukat den högmodige poeten, och för detta medvetande betalade han gärna Bellmans skuld.
+
+Dagen bestämdes, då Bellman skulle sjunga, och bjudningar utfärdades till vänner och bekanta.
+
+Det var en vacker majdag, som den Almska tillställningen ägde rum.
+
+Bellman infann sig sent, och man läste i hans ansikte, då han inträdde, att hans krafter voro brutna och att en tärande sjukdom gnagde på hans lifstråd.
+
+Åsynen af den store skalden borde hafva rört värdens hjärta, så att han afstått ifrån triumfen att låta denne med sin sång roa gästerna; men så inträffade icke, utan Alm väntade med otålighet på det ögonblick, då sångaren skulle skatta åt hans fåfänga.
+
+Man åt, man drack, man pratade och trängdes omkring Bellman för att få höra honom skämta; men hans läppar förblefvo slutna, och han deltog icke i konversationen. Alla hans närvarande vänner voro förstämda. Åsynen af Bellmans vissnade anletsdrag och matta blick förjagade hvarje skymt af munterhet. Det var troligen första gången, som de voro tillsammans med honom, utan att glädjen var den förnämsta gästen.
+
+Plötsligt fattade Bellman sitt glas; hans ansikte förvandlades och återfick ett ungdomligt utseende; ögonen lifvades, och han uppstämde med en röst, hvars brutenhet var besegrad, så att den ljöd med all sin forna välklang:
+
+“Drick ur ditt glas, se, döden på dig väntar!“
+
+En graflik tystnad härskade bland de närvarande. Då sången förklingat, fanns icke ett öga, som ej var fuktigt af rörelse, och icke var det någon, som den gången tyckte, att Bellmans sång var “rolig“. Alla hade ett högtidligt minne däraf.
+
+Innan åhörarne hunnit hämta sig från sin rörelse, inträdde en vaktmästare med en ask, som lämnades till värden. På locket stod:
+
+“Till grosshandlaren Alm, att öppnas i hofsekreteraren Bellmans närvaro.“
+
+Alm lyfte af locket. – Han och skalden kastade en blick på innehållet. Det bestod af ett par gamla söndriga skor, som i sitt sköte gömde pengar. – Vid dem var fäst en lapp, hvarpå lästes följande rader:
+
+“Karl Michael Bellman sjunger endast då mot betalning, när solen går upp i väster, därför hafva hans gamla skor åtagit sig att återgälda grosshandlaren Alm de utlagda pengarna. Härigenom betalas endast en gammal skuld, hvaruti skoputsaregossen och skoflickarens dotter stått till den store skalden.“
+
+Grosshandlaren, som icke misstänkt något anfall, riktadt åt sig, då han fick se de gamla skoplaggen, hade börjat läsningen af lappen med hög röst, hvilket gjorde, att han tvangs att fortsätta därmed.
+
+“Lefve Bellmans gamla skor!“ skallade det med stormande glädje rundt omkring skalden, och han lyftes upp på de närvarandes armar och bars i triumf kring rummet.
+
+Det var Bertha Sjöberg, nu gift med en egendomsägare i närheten af Malmö, som, tillika med artisten Osenius, bosatt i Köpenhamn, åtagit sig att betala grosshandlaren Alm de för Bellmans frihet utlagda penningarna. Af bref från Kexél hade de fått kännedom om genom hvilket medel det lyckats honom få Bellman från bysättningshäktet. Hvarken Bertha eller Osenius ville att den store skalden, hos hvilken de stodo i så mycken förbindelse, skulle komma i en förödmjukande ställning till den dryge penningmannen. Hade Bellmans skyddslingar lefvat i hans närhet, skulle Kexél aldrig behöft anlita grosshandlar Alm.
+
+Än en gång, på hösten samma år, hörde Bellmans vänner honom sjunga, och det en hel natt hemma hos honom. Detta var sista gången, de skulle lyssna till hans cittras toner och tjusas af hans sång. All den inspirationens glöd, som under hans ungdom utmärkt hans improvisationer, hade nu återvändt för att än en gång hänföra åhörarne och på dem göra ett outplånligt intryck. De måste likväl slutligen, under tårar, bedja honom, att han skulle skona sina svaga krafter; men då svarade han med ett gladt leende:
+
+“Det är sista gången Bellman sjunger för er. ’Låtom oss dö, som vi lefvat, i sång och musik!’“
+
+Några dagar därefter nedlades han på det sjukläger, hvarifrån han aldrig mer skulle uppstiga.
+
+Den elfte februari 1795 löstes hans själ från de jordiska banden. Den fjärde i samma månad hade han fyllt sitt femtiofemte år, och den 19 jordades han.
+
+Svenska akademien har på hans graf på Klara kyrkogård upprest en enkel vård, som vänner och beundrare af Sveriges största sångare ännu årligen pryda och smycka med lager, och sedan den 26 juli 1829 firar årligen på samma dag, numera kallad Bellmansdagen, talrika medlemmar af sällskapet “Par Bricol“ och med dem hela svenska folket den odödliga sångarens minnesfest på Stockholms Djurgård, där hans byst finnes uppstäld. Om någon skald genom sina snillegåfvor förtjänat den hyllning, eftervärlden ägnat honom, så var det Karl Michael Bellman.
+
+Bellmans byst.
+
+
+
+
+
+Noter
+
+1)
+
+Hvilken det var, erinrar förf. sig icke.
+
+
+
+
+

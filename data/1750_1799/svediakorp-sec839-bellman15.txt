@@ -1,0 +1,1515 @@
+# ID: svediakorp-sec839
+# author: 
+# pseudonym: 
+# translator: Carl Michael Bellman
+# title: Översättningar
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 1757--1793
+# retrieveDate: 2019-11-22
+# sourceDescription: 
+# genre: prose
+# subgenre: 
+# location: 
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: de
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 
+# editor: 
+# publisher: 
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Språkbanken (https://spraakbanken.gu.se/)
+# retrieveFormat: XML
+# annotation: tokens, lemma, POS, morphology, syntax
+# annotationMethod: automatic
+# words: 30,721
+# sentences: 1,472
+# sentenceOrder: original
+# URL: https://spraakbanken.gu.se/swe/resurs/bellman
+# cite: 
+# availability: CC-BY attribution (https://creativecommons.org/licenses/by/4.0/)
+
+
+EVANGELISKA DÖDS-TANKAR BESTÅENDE UTI ANDERIKA BETRAKTELSER ÖFWER CHRISTI LIDANDE, LÄMPADE TIL EN TRÖSTEFULL ÅTANKA PÅ DÖDEN, SAMMANSKREFNE AF FURSTLIGE RÅDET OCH LANDSHÖFDINGEN DAVID VON SCHVEIDNITS.
+JÄMTE SJU PSALMER UR DEN S.K. HALLE-PSALMBOKEN ELLER GEISTREICHES GESANG-BUCH
+X.
+Betraktelsen.
+Om Christi Begrafning.
+Tankar öfwer rätta bruket af Christi lidande.
+Min Frälsare!
+dit kors al frögd mit hjerta gifwer, Dit kors är al den skatt och al den ro jag har; Dock ej min kärleks pligt deraf en minskning tar, At dina plågor och dit qwal min fägnad blifwer.
+Nej, uplyst af dit ord, jag nådens syftmål finner, At af din plågos natt jag solskin hämta får, Och al min glädje-lust från dina ömma sår.
+Dock billigt, at jag ock med oro mig påminner, Det just mit synda-gift har gjordt dig sådan smärta, Och at dit dyra blod skull ' rinna för mitt brott; Fast du det wille sjelf af kärleks högsta mått.
+Så blandas frögd och qwal i mit uprörda hjerta, Jag tröstas af din död; men ängslas at jag har Med synden dödat dig, som högst oskyldig war.
+XI.
+Betraktelsen.
+På Psalm-Söndagen.
+Min Anda lyft dig op!
+All andagt hos mig wäckes!
+I Sinnen samlen er!
+Hwar tanka liflig blif!
+At se et dukadt bord med tröst, med kraft och lif, Och all den sälhet, som i JEsu sår uptäckes.
+När trolöst han förråds, hans trohet sig förklarar, Hans kärlek ger til kost sin egen kropp och blod.
+Ach!
+kom uplysta Själ, styrk här et twekand ' mod; Men at du dit förnuft i lydna wäl förwarar.
+För ögat syns wäl blott et litet bröd och win; Men tror du Christi ord, så lär du bäst at skilja Den sanna spis och dryck, at nögd med HErrans wilja Du då utbrista kan: Nu är min JEsus min, Ty den det stiftat har, han kan det möjligt gjöra.
+Hwad oss otroligt syns, skal Gud til ända föra.
+XII.
+Betraktelsen.
+På Långfredagen.
+O bistra dag!
+om man den ej en natt må nämna: Si källan af alt ljus til idel mörker förs, Här plågas den til döds, i hwilken al ting rörs, Så Solen ängslas måst och sjelfwa bergen rämna.
+Förlåten klyfs i tu, och jordens grundwal skälfwer Ja hela himlens hwalf tyks skakas uti skyn; Den blinda Juden dock ej rörs af sådan syn, Blott han för grafwens dörr en sten med omsorg hwälfwer.
+Ditt hjerta hårdar ' är, o mennskja!
+än en sten, Och solen med sit sken din säkra frögd utskämmer; Men tänk dock hwad det är, som så din Frälsar klämmer?
+Din synd, din stora synd: Gör dig då derfrån ren, Drif ondskan ur din själ, stört lasten ned i qwaf, Och den förseglad lägg med JEsu i hans graf.
+* * *
+Ur rensta Jungfru-lif sann Gud och mennskja går, För alla mennskjors lif med sin död döden döda: När han på korset dör och mer ej orkar blöda, Han billigt nyer graf och rena linnen får.
+Ach!
+at mit hjerta kund ' med gulds och pärlors pragt Af rener oskuld sig med Frälsaren förena!
+Men Himmel, när för dig ej himlar äro rena; Hur ' kan at wara ren, då stå i Syndar ' s magt: Jag wet, at intet godt bor uti köttet detta; Dock som dit dyra blod alt orent kan aftwätta, Så wil jag just dermed bestryka mina sår: Jag wil, ty genom dig jag al ting ju förmår, Med dig min synda-kropp korsfästa och begrafwa, Sen upstå, liksom Du, at ewig glädje hafwa.
+Psalm N:o I
+Ditt lif, o werld, beskåda, Din Frälsare i wåda Wid Korset naglad står.
+Si, sjelfwa ärans HErre Med smälek och än wärre, Ja, hugg och slag i dag han får.
+Träd fram, märk hwad du finner, Se swetten, hur ' den rinner Med blodet af hans kropp.
+Utur dess helga hiärta Med obeskriflig smärta Och ängslan suck på suck går opp.
+Hwem har wäl dig så slagit, Och dig så wåldsamt dragit I alla plågors we?
+Du har ju intet brutit, Alt godt har du utgutit, Min GUd och dyre Frälsare.
+Hwad är som gör dig smärta?
+Jo, på ditt öma hiärta Min synda-börda slår.
+Mitt långa skuldregister Och mina många brister De prässat dina röda sår.
+Jag borde ewigt bindas, Til hand och fot omlindas I mörkret kastas nid.
+De sår som hos dig swidit, Och hwad du för mig lidit, Min arma själ bordt kännas wid.
+Ja, på din rygg du kastar Den skuld, som själen lastar, Dess tyngd du blodig bär.
+Då du förbannad blifwer, Wälsignelse du gifwer, Din smärta lif och frögd beskär.
+Du går för mig i borgen.
+Jag slipper då den sorgen At frukta för min skuld.
+Du går för mig i döden, Och in i sista nöden Blir du, min GUd, mig lika huld.
+Mot döden sjelf du löper, Mig lif och frihet köper O djupa kärleks-haf!
+Ack!
+hur ' mitt hjerta glädes.
+Min dödlighet afklädes Och lägg ' s med dig uti din graf.
+Hur skal jag dig rätt prisa Och nog min wördnad wisa, Min dyre Frälsare?
+Hwad kropp och själ kan gifwa Det skal mit offer blifwa, At dig til tack och ära ge.
+Hwad är wäl min förmåga, I detta usla låga?
+Dock lofwar jag ändå Din bittra död och smärta Skal städs min själ och hjerta I dag med andakt tänka på.
+Mitt öga skal beskåda Din själa-ångst och wåda I helig lust och ro.
+Den skal min spegel blifwa, Och hjertat witne gifwa Om all din kärlek, nåd och tro.
+Hur ' synd är stygg och leder Och helig GUd är wreder, Hur ' hämden blifwer til Hur ' grufligt risas, lindas, Hur ' du til tuktan bindas Min själ nu här betrakta wil.
+Af dig wil jag ock lära Til hjertats prydnad bära En ljuf saktmodighet Och kärlek mot dig öfwa Samt aldrig dig bedröfwa Med satans werk i hemlighet.
+När onda tungor wilja Mitt namn och ära skilja, Så wil jag lära mig At orätt af min nästa Skal mig i hämd ej fästa, Ty jag får tilgift, GUd, af dig.
+Jag wil med dig tillika wid korset mig upspika Och dö i dina sår.
+Hwad dina ögon hata, Det wil jag fly och rata Så mycket möjligt hos mig står.
+Din suck och dina tårar, Ditt blod i djupa fårar, Som rann blott för mitt wäl Min styrka skola wara Och til din helgons skara Ledsaga up min nögda själ.
+Psalm N:o II
+O hufwud, som nedböjes, Och blir med hån belönt.
+Du pinas, jag uphöjes, Du blifwer törnekrönt.
+Du som bordt wara hedrad Med aldrastörsta prakt, Blir nu så platt förnedrad, Och råkar i förakt.
+Dit ansigte, som gläntser Af mägtigt GUdomsljus För hwilket jordens gräntser Måst darra i sitt grus.
+Ack!
+huru det bespottas Ditt qual är mägta stort All smälek åt dig måttas Som wi wisst lida bordt.
+Se, huru kinden bleknar, De röda läppars prakt Nu blott den skugga teknar Som wisar dödens magt.
+All fägring har förswunnit, All lifskraft borta är, Det ljus, som så klart brunnit Måst likwäl slockna här.
+Nu, HErre, hwad du lidit, Hwad qual du utstått har, Hwad sår som hos dig swidit Det alt för min skuld war.
+Si här!
+här står jag arme, Och wet mig intet råd.
+O HErre dig förbarma, Och lät mig finna nåd!
+Min Herde, för mig waka, Och upsök mig, ditt får.
+Lät mig din godhet smaka, Som allom öpen står.
+Din nåd mig förr hugswalat Med ljuflig himla-frid, Din Ande med mig talat Och fägnat på alt wis.
+Här wil jag hos dig blifwa, Förakta du ej mig Jag skal ej öfwergifwa, Men altid älska tig.
+Din kärlek icke mattas.
+I dödsens tysta hamn Du skal af mig omfattas I döden af min famn.
+Mig nåd och kraft beskära, Min JEsu, så at jag Ditt kors må troget bära, Och följa dig hwar dag, Ack lät mig jämwäl njuta Den glädjen at hos dig Mitt lif wid korset sluta.
+Hur wäl då händer mig!
+Jag tackar af alt hjerta, Min Frälsare och wän För all din lidna smärta At lösa mig igen,
+Hjelp, at jag icke faller, Och ändtlig när jag sist Blir kraftlös stel och kaller Styrk mig, o JEsu Christ!
+När jag skal här afsomna, O HErre, war mig när, Ditt werk i mig fullkomna, Som du sjelf börjat här.
+När mig mitt hjerta klämmer Och sönderbrista skal Så lindrar du min jämmer För dina plågor all.
+War mig min sköld i döden, Och lindra qwal och we.
+I sista korsets nöden Lät mig din kärlek se.
+Jag skal min tro ej rycka, Jag skal dig ge min själ Dig til mitt hjerta trycka Och se, då dör jag wäl.
+Psalm N:o III
+Ho wet, hur snart min ände nalkas, Och döden gör på tiden slut, Hur snart kan dock min lifsdag swalkas, Då jag måst gå ur tiden ut.
+Min Gud, jag ber för Christi blod, Min ändalyckt gör säll och god.
+Sig allting hastelig förandrar, Från ögnableck til år och dar.
+Så länge jag på jorden wandrar, Blir döden i mitt sällskap qwar Min Gud, jag etc.
+Lär mig min GUd, min död betänka, Och gif at jag i salig ro Min Siäl i JEsu sår må sänka, Med sanner bättring, bön och tro Min Gud etc.
+Gif, at jag om mitt hus beställer, Beredd i alt at följa dig.
+Då kan jag säga nögd och säller: Alt som du wil, så gör med mig.
+Min Gud etc.
+Lät himlen bli mig ljuf och härlig Men werlden idel osmak ge, At jag, när tiden syns besvärlig På ewigheten nögd må se Min Gud etc
+Ack fader!
+skyl du mina laster Med den förtjänst min JEsus har, At jag deraf i trone faster, En ljuflig ro och sötma drar Min Gud etc.
+Jag wet, i JEsu sår och sida Har jag min bästa hwila fått, Der kan jag tryggt och lugnt afbida I dödsens stund et ewigt godt.
+Min Gud etc.
+Från JEsu skal mig intet skilja Nej, hwarken lif ell ' dödsens bud Skal kunna ändra denna wilja At blifwa din, min HErre Gud.
+Min Gud etc.
+Mig med sin nåd har JEsus hägnat Ju redan, vid mitt helga dop, Och sin förtjänst mig der tilägnat, Mig tagit bland sin barna-hop.
+Min Gud etc.
+Jag Hans lekamen ock fått äta Och druckit blodet af hans sår.
+Hur skull ' han då mig nu förgäta, När jag alt godt af honom får.
+Min Gud jag ber för detta blod Min ändalykt etc.
+Du komme snart, som du behagar.
+Jag wet, i JEsu står mitt wäl, Och med hans blod i alla dagar Jag pryda wil min nakna själ.
+Min Gud etc.
+Nu nögd med dig jag här förblifwer, Och utan oro somnar jag.
+Din wilja jag mig undergifwer, Den ewigt blir min bästa lag.
+Gör du, af nåd, för Christi blod, Min lefnads ända för mig god.
+Psalm N:o IV
+Morgon-psalm.
+Gud i himlen och på jorden, Fader, Son och Helge And, Som från söder intil norden Styra wet med tine hand, Tu som skiftar natt och dag, Mitt låf-offer nu uptag.
+Tack min Gud af alt mit hjerta, För det tu i natt så wäl Mig från ångest, nöd och smärta Waktat har til kropp och själ, At af satans arga skott Jag alsingen fara fått.
+Lät min synda-skuld förswinna, Och tin nåd för mig upgå.
+HErre JEsu, lät mig finna Dina sår mig öpna stå Ty jag lefwer af tin nåd.
+Du äst all min hjelp och råd.
+Hjelp, från denna morgonstunden, At jag andligt må upstå, Och den rätta sällhets grunden För min arma själ undfå.
+Jag är usel, skröplig, swag, Mig i din omwårdnad tag.
+HErre, lät ditt ord mig leda, Ty min wäg är swår och trång.
+Wärdes sjelf dig rum bereda I mitt hjerta, styr min gång.
+Blott du sjelf, och ingen ann ' Mig för fall bewara kan.
+Store GUd!
+jag anbefaller I din hand min kropp och själ, Styrk, tils jag blir stel och kaller Mitt förstånd och sinne wäl.
+Du äst nådigt, mild och from.
+Tag mig til din egendom.
+Wärdes med ditt Faders öga Skingra satans list och magt Sänd til mig ifrån det höga Dina starka änglars makt, Som, til fylnad af all frögd, Föra mig til Himmels-högd.
+Herre, sänd mig hjelpen neder, Du som hjelpa kan i alt; Hör, hwad här mitt hjerta beder, Du som bedja sjelf befalt.
+Så wil jag med frögdfullt ljud Dig låfsjunga, store GUd!
+Psalm N:o V
+Afton-Psalm.
+Wåra ögon sig tilsluta, wilja nu insomna sött, Kroppen will ock hwila njuta, Hwar en lem är tung och trött.
+Hwad oss dagen gjorde klart Höljes nu af mörkret snart.
+Wi se solen från oss skrida Och sitt sken nu stjärnor sprida.
+Ack!
+förhör min själ ditt minne, Om du ej din GUd och Far Med et hårdt och flyktigt sinne Nu i dag förtörnat har.
+Gör sann bättring då i tid.
+Fall nu för Hans fötter nid, Lät dig med din GUd försona, At han må för straffet skona.
+Säg min GUd, ack!
+huru illa Har jag denna dag förnött, Och på syndsens wägar willa Mig, i blindhet, lupit trött.
+Jag mitt kall åsido satt, Warit deri ljum och matt.
+Jag din lag ur sinnet slagit, Och din nåd til sjelfswåld dragit.
+Fader öpna nådens armar, Och drag dem ej mig ifrån, Du som gerna dig förbarmar.
+Se din enda kära Son, Hwilkens blod för mig utrann Och mig nåden åter wann.
+Såren som hos honom swidit, Han för mina synder lidit.
+Sänd til mig tin ängla-skara, Som mig skyddar rundt omkring, At jag ingen nöd ell ' fara Frukta må af någon ting.
+Satans grymma gap tilslut Och stäng honom från mig ut.
+Lät min själ af synd ej fängslas, Ell ' af onda drömmar ängslas.
+HErre, lät mig i dig blifwa Och i dig få sofwa sött, Wärdes helga tankar gifwa, Och fastän jag somnar trött Lät min ande dock i mig Waken finnas städs til tig, Tils jag dagen åter skådar, Som förnyad nåd mig bodar.
+Fader vår, förutan like Helgadt warde städs titt namn.
+Komme och til oss ditt rike.
+Ske din wilja.
+Af din famn Gif oss dagligt bröd.
+War huld Och förlåt oss wåra skuld.
+Fräls från frestelse och fara.
+Lät oss sist hos dig få wara.
+Psalm N:o VI
+Bättrings Psalm
+Jag arme synda-träl til dig Framgår med blödigt hjerta, Och måst ' mot all din nåd mot mig, Bekänna med stor smärta O Fader huld Min synda-skuld Som själen swåra klämmer Och med sin hop Mitt sorge-rop Förökar i min jämmer.
+Omöjligt är, det går ej an At mina synder tälja.
+Dock jag dem ej fördölja kan, Ty de så ömt mig qwälja Fast i min brist, O JEsu Christ Du mig har nådigt hulpit Har jag på nytt Ej synden flytt Men åter deri stulpit.
+Ack!
+hwar är nu min tacksamhet För hwad du mig mig bewisat?
+Mitt hjerta har ej, (jag det vet) Med bättrings frukt dig prisat.
+För all din nåd Och dina råd Min arma själ tilflutit Har likwäl jag Båd ' natt och dag Min bättring städs upskutit.
+Min bättringstid, som du förlänt Ditt tålamod förskaffat Och aldrig har, som jag förtjänt Din wredes hand mig straffat.
+Men ständigt har Min Gud och Far Din kärlek til mig brunnit, Ej lemnat mig, Förr än til tig Ditt usla barn har hunnit.
+Hur ' har din nåd tilbudit sig At gå min själ tilhanda.
+Din himmel öpen stådt för mig,
+Och har din Helga Anda Mig welat wisst Båd först och sist Til bot och bättring draga, Ja, til mitt wäl För kropp och själ All nöd och qwal betaga.
+Men, Gud när på mitt hjertas dörr Du klappat mig at röra War den tilsluten då, som förr: Jag wille intet höra: Jag såg din magt Med stort förakt Och straffet, som du bodat, Dock har du mig Så nådelig Med tolamod åskådat.
+Mitt lif du ofta kunnat ge Sitt slut, och med mig hasta, Och som en elak tjänare Mig ned i afgrund kasta Jag, som så styggt Så fritt och tryggt Med synden mig orenat; Dock har din nåd Tilbudit råd Och mig med dig förenat.
+Om hjertat sig besinna wet, Kan det sig ej förlossa.
+Dess stora synda-säkerhet Wil märg och ben nu krossa.
+All afgrunds qwal Tilräckligt wal Wil blifwa til min plåga, Jag wärd ej är At jorden bär Och ger mig sin förmåga.
+Jag är ej wärd at blifwa nämd Et werk af dina händer.
+Men wärd at til mitt straff och hämd Hwart Element sig wänder.
+Ack!
+syndens magt så långt har bragt Jag kan ej annat finna.
+Går hämd hos dig För nåd mot mig, Så bör jag ewigt brinna.
+O Fader jag nu kastar mig För dina fötter neder.
+Ack hör nu den som flyr til dig, Och i sann ånger beder Ifrån ditt ljus Ned i mitt grus
+Med nåd se mig elända En blick af dig Upqwickar mig Min ångst får då en ända.
+Ditt milda hjerta öpne sig, All nåds och kärleks källa.
+Förlåt min synd, och hela mig, At jag mig må inställa I andlig fattigdom för dig Med Jesu blod aftwagen Tils i din högd Och ängla frögd Min själ får bli uptagen.
+Psalm N:o VII
+Botpsalm
+O GUd, se nådigt til mig arma, Som här med bäfwan står för dig, O GUd, min GUd, ack!
+dig förbarma, Och gak ej nu til doms med mig.
+Förbarma dig, förbarma dig, Min GUd och Fader öfwer mig.
+Ack hur ' jag ängslas, skälfwer ryser Uti mitt mörka synda-grus, Til dess din nåde-sol mig lyser, Och ger ditt barn båd ' lif och ljus.
+Förbarma dig etc.
+Ack milda, öma Fadershjerta!
+Lät dock af nåde röra dig, Och lindra denna bittra smärta.
+Förlåt min synd och hela mig.
+Förbarma dig etc.
+Hur länge skal jag fåfängt qwida, Ack hör du ej, ell ' swarar mer?
+Hur ' kan ditt öma hjerta lida, At en botfärdig hjelp ej sker Förbarma dig etc.
+Si, jag i synda-djupet ligger, Min Fader käns du mig ej wid?
+Min GUd!
+gif nåd!
+gif nåd!
+jag tigger.
+Jag lemnar dig förr ingen frid.
+Förbarma dig etc.
+Si, JEsus har min synd försonat.
+Ack!
+se ej mer til mina brott.
+Tänk!
+du ej enda sonen skonat.
+Han har för mig i döden gått.
+Förbarma dig etc.
+Säg blott ett ord; så skal jag lefwa.
+Säg: nu får du ditt frihets-båd; Men dig ej mer i synd inwefwa: Gak syndare, här har du nåd.
+Förbarma dig etc.
+Bönhörelse mitt hjerta märker Min synd, min GUd tilgifwit mig, Gif at din And mig altid stärker, At af alt hjerta tacka tig, I tåredalen här med frögd Och bättre sen i himmels högd.
+SONAT AL SIG.
+CAVALIERE FREDENHEIM
+Tu che allo Sveco Re seij accetto, e caro etc
+Du som till Gustafs Thron på Snillets wingar förs, så älskad i Hans Håf som Jophur gärna lider Apollos gyldne Spel där Martis trumma rörs, dig gäller denna sång, wid det man lagren wrider, till pris för din Monark, som Gudens höghet når.
+Du har wältalighet, den tillhör dig att äga, då med wår tacksamhet inför hans Thron du går.
+Jag som Arcadiens Lund och högtid förestår mig finner minst beredd at Gustafs storwärck säga; men frambär hwad wårt nit nu komma kan till wäga, säg – at wår Snilles eld, wårt blod och wårt begär upeldas af Hans Bild, och at wårt vivat skallar ur däldens låga djup emellan grus och wallar till skyars klara hwalf, till Sielfwa Jupiter, som Nordens Gustaf störst ibland Monarker kallar.
+C. F. GELLERTS FABLER FÖRSTA DELEN
+Vita fabula est SENECA
+TILL KONUNGEN
+Min hand, uprest vid glömskans flod, Åt GELLERT än en ärestod, Där dygd och snille paras.
+Hans grifte-kärl i Floras gård, Hans lyra innom Skalders vård, Bör lagerkrönt förvaras.
+FÖRETAL
+Intagen af den lärda och dygdiga Professor Gellerts lärorika Fabler, har jag däraf vågat en Svensk öfversättning, hvaraf förste delen nu ofverlämnas til en uplyst Allmänhets pröfning, snickrad af det hopp, at detta mit bemödande emottages med samma välvilja, samma öfverseende godhet, som de flere arbeten, jag tid efter annan från trycket utgifvit.
+Uti dessa Fabler, hvilke alle utmärka en mästerlig kännedom af Naturen och människohjertat, förekomma icke sällan händelser, hvilke verkeligen timat, och bland hvilka den sista i ordningen, eller Fabeln under namn af Calista, i synnerhet tildragit sig, med Marqvisinnan de Villa Cerv, och är hämtad ur första Tomen af Nouvelle Bibliotheque Germanique.
+At här något orda om en Gellerts lefnad och öden, anser jag så mycket mer öfverflödigt, som hans lefverne långt för detta är i Almänhetens händer.
+Jag får endast ge tilkänna, at Urnan, omgifven af de tre Gracerne som bevara hans stoft, och hvilken är graverad af den skickeliga Artisten Herr Martin, är aldeles sådan, som den man ser i Bokhandlaren Vendlers trägård i Leipzig.
+Musiquen til de ord jag härvid författat, är componerad af vår berömde Capell Mästare Herr Uttini; Äfven som Hof-Cancelleren och Envoyéen / / vid Engelska Hofvet samt Riddaren af Nordstjerne Orden, Högvälborne Herr von Engeström, benäget tillåtit
+at afkopiera den vaxbuste af Gellert som hos honom förvaras.
+Läsaren jämföre nu sjelf detta arbete med de kopparstick, hvilke af flera utländska Artister för detta förestält denna vår odödeliga Gellert.
+Stockholm d.
+1 Nov.
+1793.
+C.
+M. BELLMAN
+I
+HJELTEN OCH HANS LIFKNEKT
+En Hjelte som på krigets ban, Med blodigt svärd i tappra händer, Ur fler i gruset lagda Länder Sin Lager skurit stolt och van: Den Hjelten från en bruten Lants, Sen intet motstånd mer betydde, Åt Skogen illa sårad flydde, Och fann en Eremit til hands.
+Innom den fromma mannens tjäll, Blef Hjelten med sin Lif-knekt buren, Där bådas skuggor i naturen, Sig väntade sin sista qväll: Ack!
+qved hans Lif-knekt blek och kall.
+MånnŽ Ljusets himlar mig tillhöra?
+Som ej, ty värr, mer ägt att göra, Än troget skött min Herres stall,
+Ack utbrast han ännu en gång, Min Herre nog sin himmel röner, En Man som ärans krans bekröner, Vid klangen af en Seger-sång:
+I Fält Tre Kungars skräck Han var, Sju Slacktningar Hans klinga blodat, Och saker, dem man minst förmodat Och näpplig tror, Han utfört har.
+Vår Eremit på Hjelten ser, Och modfäld vandrar fram och åter, Hvarföre?
+– om ni mig förlåter, Och om jag dristar fråga er!
+… Hvarför så mördande besvär?
+.... För at på ärans fält mig svinga, Och nya Länder undertvinga, Och vara Hjelte som jag är.
+O Gud!
+blef Eremitens svar … Och derföre all verlden plåga, Med svält och päst, i blod och låga … Hör på!
+om Ni ej illa tar, Skal denna man exempel bli; Hvad jag ock heligt kan besvära, At eder Lifknekt på min ära, Har värklig mera gjordt än Ni.
+II
+ÅKERHÖNAN OCH HÄMPLINGEN
+Til Åkerhönan, snärd af våda, Och som ur nätet upflög nu, En Hämpling ropade, min du!
+Det gör mig ondt, hvart dun beskåda; Men huru bär det til hvar gång, At jämt din frihet står på språng?
+Mig, inföll hon, hvar skog förleder, Som ock olyckligt hände nyss!
+Ty af Naturen jag som lyss, Flög in i Sädes-gärdet neder, Där hördes lust och kärlek rå; Jag kom – och stötte nätet på.
+Hvad!
+intet skönja garn och Ruta?
+Din Toka det var rätt åt dig.
+Din frihet vackta grannelig, Om du vill rätt din lycka njuta; Ty om jag än så lysten var, Min frihet nätet ej bedrar.
+Vår Hämpling flög, och skrek dig vackta!!!
+Försiktig Höna, – i din lek!!!
+Men bäst han pratade och skrek, I nätet föll han sjelf så sackta; Men huru bär det till hvar gång, At jämt din frihet står på språng.
+Ack jo!
+– jag såg min älskarinna, I Åker-ren – förnäm och hög; Hon vinkade, och jag, jag flög, Af frögd at hennes samtal vinna.
+Nu vet jag ej hurŽ det har händt, At sig min fot i nätet spännt.
+At intet skönja garn och ruta, Din Tok, det var just rätt åt dig; Din frihet vackta grannelig, Om du vill rätt din lycka njuta?
+Så märk min vän, til börd och kall, HurŽ när den säkra är sitt fall.
+III
+FLUGAN
+At Djuren röja tanke-gåfva, Syns mig en redan afgjord sak; En man af känslor, vett och smak, Hvars Snille sjelva Barnen låfva, Esopus detta grundligt sagt, Och La Fontaine med honom lika: Hvarföre då om våld predika, Och möta djuren med förackt?
+Hvarföre dem, den nåd då kränka, At brys af sina små beslut?
+Fast tänka, eller intet tänka, Det kommer nästan på et ut.
+Innom et majestätligt hvalf, Dit konsten alt sitt storvärk sträckte, Och ögat til den tjusning väckte, At blodet vid dess undran skalf: I detta templets rymd til möte, Snart Snillet, Snillens eld förtröt; Til dess en ädel enfald bröt, Okonstlad fram ur konstens sköte.
+Längst bort i hvalfvet högt och gladt, Beprydt i flera ljusa rader, Af präcktigaste Collonader, En skumögd fluga tankfull satt;
+Ty, at ock Flugan tänker tida, Och at hon skönjer på sitt sätt, Då med en fot åt hufvudet.
+Hon syns en skryncklig panna gnida,
+Helt vist, – och däri det består, At hon så mycken klokhet äger, At då hon saken öfverväger, Til grunden hon af saken går.
+Så satt nu Flugan i det höga, Dold på en sten en vacker dag, Där tusen trumpna anlets-drag, Fördunklade dess klara öga.
+Hon spände all sin tanke-kraft, Och talte för sig sjelf helt sakta: " Ju mer det Templet at betrakta, " Där jag min lilla vinkel haft; " Ju mer med undran jag åstundat, " Den gåtan löst för mitt begär; " Om det af någon uprest är?
+" EllŽ ock om det sig sjelf har grundat?
+Dock!
+jag ej rätt utreda kan, Hvem denna Någon skulle vara, Jo!
+hörs en åldrig Spindel svara, Där han i Nichen sprang och spann: Min Vän!
+det konsten är allena, Som detta Templets prakt befallt: Ty, hvart du ser, – så ser du alt Til Högsta ordning sig förena.
+Ett klart bevis här röjer sig, At såleds konsten är den rätta, Som vågat denna massan sätta, Til präktig blick för dig och mig.
+Här hördes Flugan hjertlig skratta, Åt Spindelns klokhet med förakt, Hvad?
+konsten?
+pratar du, – väl sagt!
+Men meningen, nog mörk at fatta.
+Nej, hurŽ jag grubblar i min vrå, Ditt svar blir tungt at öfverväga!
+Hvad vill det ordet konsten säga?
+Och huru skall jag den förstå?
+Igenom hvem är den påfunnen?
+Til ordning, sinrikhet och lag ..?
+Nej denna Sagan jäfvar jag, Som utan sammanhang hopspunnen.
+Mins blott, den saken klar och ren, At detta Templets prakt, med mera, Tilfälligt vis af sand och lera Sig sammangyttrat sten på sten.
+Deraf upkom, som lätt du finner, Den lilla grouppe, den vi bebo; Hvad är väl lättare at tro?
+Min kära Spindel där du spinner!
+En sådan slutkonst Flugan dref: Alt väl: … men at här Snillen blänka, Som verlds-systemet djupt uttänka, At af en slump det danadt blef; Och häldre lefva hurŽ de kunna, Än tro en Gud, Naturens Far; Dem bör man vist ej tilgift unna, Om man dem ej för dårar tar.
+IV
+SPARFVEN OCH SKATAN
+En Sparf upp i ett vinträd flög, Med lätta vingar små och spaka, Och fann dess bär förträffligt smaka, Dem han til blod och kärna sög.
+En Skata genast sågs utrycka Från närmsta Träd, i flyckten fri, At ej af Sparfvens njutna lycka, Ett blott åsyna vittne bli.
+Hon i de klara drufvors sköt, En lättrörd fot från grenen sänkte, Och där de röda klasar blänckte, En mer än läcker måltid njöt.
+Ack!
+ropade vår ystra Skata,
+Hvad rikt förråd mitt öga mött?
+Må Vingårdsmannen fritt få prata, Men aldrig förr hans vin så sött.
+Nu Vingårdsmannen kring sig såg, Dit Skatans skratt han tycktes höra; Dess låfsång kittlade hans öra, Til dessa Gästers återtåg.
+Han dem på flyckten gick at jaga; Ack!
+utbrast Sparfven, hvad förtret!
+At knapt ett bär från stjelken draga, Blott för det du ej tiga vet.
+Vil Trädets must, du njuta gladt, Så är det fjolligt sent och tida Vinberget rundt omkring utsprida, BådŽ där du sitter och du satt.
+Märck!
+huru tyst du ser mig smyga!
+Och såleds håll din näbb i tvång; Emedlertid låt oss kringflyga, Vårt glada vinberg än en gång.
+De fölgdes åt i trogna spår, Helt tyst at få sin lystnad stilla: … Hör, inföll Skatan, Sparfver lilla!
+Så söt ej drufvan som i går, Fast klart hon tycks sitt necktar spruta; Dock låt oss viska sackta hop, För at vår tysta måltid njuta … Men ack!
+hör Vingårdsmannens rop.
+Därföre vet du hurŽ jag gör?
+Jo, af de mörkblå drufvors råga, I skyn, trotts Vingårdsmannens fråga, Jag lustigt spisar, lyss och hör.
+Kom flyg, dit högsta eken finnes; Ja, Sparfven kom med minsta gny; Men knapt den säkra skygden vinnes, Förn Skatan skrek i himmelssky.
+Ack!
+lilla Sparf, du näpplig vet, Vår tysta sällhet nog berömma, Den, man med rätta bör tilldömma Et mål för afvund och förtret: Så skrek hon än i talträngd yra, Tils hela svärmen Skator kom, At detta läckra rof bestyra Och båda måste vända om.
+Tillåt ej hvar och en utleta, Den Sällhets-frögd dig skänkes nu; Ty, mindre afvund det får veta, Ju mera säll och säker du.
+V
+DEN FATTIGA MANNEN OCH LYCKAN.
+En fattig man som yx och spada Knapt orkade at lyfta mer, Med böjda knän nu Jofur ber, At andas få ibland de glada; Kort sagt, at bli en lycklig man.
+Dess blick til Lyckans Thron sig tränger, Då bäst han grof – två starka stänger Gediget Guld hans spada fann.
+Men nu til denna man en fråga, Hvi han sig sjelf så dumt bedrog?
+Och för en ärgad mässing tog Sitt rika fynd i gyldne låga; Och til mer prof på dumhet, sen, För ringa pris sin skatt bortbyta, Och derpå händren sammanknyta, Med bön om Lyckans nåd igen.
+Din Dåre!
+hördes Jofur svara, Hvartil din bön och klagan nu?
+Hvem mera lycklig var än du?
+Om du förstått at lycklig vara.
+Orörd min vän af ångst och ifver, Du klandrar Lyckans kalla pol Men en gång klarnar hennes sol Innom det töcken dig omgifver;
+Och då, då gäller dessa ord: Pass på at bittra suckar gjuta, Bed Lyckan om förstånd at njuta, Så är din största lycka gjord.
+VI
+DEN ODÖDLIGE AUCTORN.
+En Auctor fler Folianter skref, Beundrad i de lärdas Gille!
+Hvar dag af Journalistens Snille Ett evigt namn han tilsagd blef.
+Också vid grafvens brädd sin möda, I sex uplagor såg han krönt, Och på hvart Tittel-blad så skönt Sin Bild i Spansk Peruque sig stöda.
+Stolt på sin tid, mot agg och kif, Och från Critiquens öga dragen, Skref han til sista arbets-dagen, Som saligt ändade hans lif.
+Och Cathaloguen steg så vida, Med smärre rön och Convolut, At den utgjorde vid hans slut, Tre ark och en trefjerndels sida.
+Man läste efter mannens död, Hans skrifter at med granskning känna, Och se!
+– Oraclets namn och pänna Om tio år sig sjelf förböd.
+Den prunkande methode han öfvat, Blef usel nämnd i Stad och Håf; För det at klåparn höjt hans låf FörŽn Kännare hans Snille pröfvat.
+At bli berömd – mitt råd jag ger.
+Skrif blott för Snillen små och platta; Men at en efterverld dig ser, Som vet Förtjenstens höghet skatta, Därtil höfs något mer, Än halflärd, i din skörd hvar lärdoms-gren omfatta.
+VII
+DEN RESANDE
+En Vandringsman i trötta fjät, Stadd, under regn och blåst och dimma, Bad Öfver-Gudens Majestät Om Luftens lugn och Solens strimma: Men Jofur fann i skyn för godt, At låta regn och åskor glimma; Ty blixt och storm den dagens lott.
+Vår Vandringsman – med häpen röst, Sitt bistra öde tungt beklagar: Hur Menskjo-lifvet utan tröst Hans Allmagt så förfärligt agar; Och derpå går han – lyss och hör!
+… En hvirfvel sprids kring fält och hagar, Hvars minsta fläckt hans hämd uprör.
+Vid blixt på blixt i däld och dal, Han skyndar sig, alt hvad han hinner, Til närmsta skog mot regnets sqval; Men förŽn han skygd af Granen finner, En Röfvare i förväg står: Ny fruktan i hans blod upprinner, Och Åskan kring hans hjässa slår.
+Ren bågan, Röfvarn sigtad har, Hvars styfva Sena regnet mattat; … Men vind och väta orsak var, At Pilen, då han bågan fattat, Til marken föll ned i dens spår, Hvars blod han för en vinning skattat, Sen hjertat fått sitt bane-sår.
+O dåre!
+hördes Jofur vred, Bekänn!
+– och Pilens fall beskåda, Om du af mina stormar led!
+… Ty hade jag dig täckts benåda Med lugn och solsken i din skog; Så hade Pilen vållt den våda, Som stormen från ditt hjerta drog.
+VIII
+VAGNS-HÄSTEN
+En Vagns-häst väl förnäm med trotsig man och bringa På åkren dragarn såg, långhalsig dra sin Plog; Hör!
+ropade han högt, och gnäggade och slog, HurŽ anstår dig min Vän, så slät gestalt och ringa?
+Fast än du stackars ök ej mångas undran har!
+Tig!
+inföll dragaren, och låt i ro mig plöja, Ty om jag med mitt tråk ej åkrens lera skar, I Spiltan magrad nog, dig ingen hafran bar, Som gör at du din fot så präcktigt mägtar höja.
+Du!
+som den lägre class af dina likar flyr, Dig, stolte Lättjans Vän!
+Dag-drifvare jag kallar, Betänk: det högmods-frö, som i din ådra svallar, Din företrädes-rätt, med mera som dig bryr.
+Märk, at från denna punkt dit högmod sig utbreder; Ty frågas: månne den, som dig och mig frambär, Med trägna händers Skörd, hvad vårt behof begär: MånnŽ den föracktas bör och skymfas til sin heder?
+Din Börd, jag medger dig, af bättre seder rik; Men ock i detta fall ej företräde gäller; Ty, född i lägre Tjäll, man lätt sig föreställer, At du densamma class i seder vore lik.
+Men vare hvem du vil, til födsel, stånd och lära, I mer och mindre kall – Så blef din Samfunds-Bror, Upfostrad liksom du, i Snille lika stor; Dig kunde verlden lätt, men honom ej umbära.
+IX
+FOLEN
+En Fole den ej Sadeln tryckte, Och Ryttarns tyngd än okänd var, Oändligt om det Betslet tyckte, Som den beridna klipparn bar.
+Han efter alla hästar rännde, Så snart han Ryttarn spårad fann: Och all dess äre-brunst sig tände, At bli så tyglad och så grann.
+I sanning, huru sällan känner Den äre-lystne sjelf sin bön!
+Ren – Folens länd man strängt påspänner En önskad Sadel, rik och skön; Och ren sin man han smeka låter, At vänjas vid ett präcktigt tvång: Tills frustande han fram och åter Afmäter sina stolta språng.
+Förnäm kom Folen nu tillbaka Från Parken där han nyss gick ut, At gnäggande hvar häst bejaka Sitt ödes lyckliga beslut.
+Ack, sade han til närmsta Hästen, Ehvem mig såg, min glants förtröt, Då Betslet rödt, med gyldne fästen, Innom min hvita fragga flöt.
+Men andra dagen nu i fråga: Jo, Fåhlen kom i sorgligt traf, Och loddrad ropade hvad plåga!
+En dumt inbillad lycka gaf.
+Väl länder Betslet til min prydnad, Men därmed är ej saken klar; Tvärtom det tvingar all min lydnad, Och gör min träldom uppenbar.
+Hvad önskan rör vårt blod mer nära, Vid ungdoms-lynnet yrt och klent: Än at ett präcktigt kall få bära, Hvars börda ingen når försent?
+Man hastar nögd, at till sitt bästa, Sin ädla frihets bödel bli; För att vid äreteknen fästa Et desto större slafveri.
+X
+DET GODA BESÖKET
+Ett lustigt hufvud fanns en gång, En Fjäsk, som aldrig annat gjorde, Än efter nytt i Staden sporde, Med evigt prat och tanklöst språng.
+Kort sagt, en narr bland dem som bråka, At få en klok til dårhus-hjon; Just sådan en förryckt person Gick på besök en Skald at råka.
+Ack!
+utbrast han, hur näns ni er Så lifvets ljufva lust förmena?
+Och vid ert Bok-skåp här allena, Så trälsamt läsa ändå mer?
+Ty vill jag mitt besök förklara; … Hvad ert besök?
+blef Skaldens svar: Förut jag visst ej ensam var, Men sen ni kom, … det kan så vara.
+XI
+DEN NÖDSTÄLDE SKEPPAREN.
+En Fattig Skeppare i trångmål, skuld och fara, Beklagade sin nöd för en vid namn Philét; Bad honom om försträck af hundra gyllen bara, Men Herre sade han, – den högste Guden vet!
+Jag har ej annan pant än blott min redlighet; Emedlertid ber jag, ni vil så gunstig vara, Och mig den Summan ge til låns uppå ett år.
+Philét, en man ej hård och svår, Tvärtom en tillflyckt uti nöden, Ett stöd för de beträngdas öden, Med glädje honom Summan bär.
+Se!
+Skeppare, sadŽ han, – se här, De hundra Gyllen ni begär; Ni må dem obekymrad läna, Det är mig kärt jag kunnat tjäna: För öfrigt af så redlig man Jag ingen handskrift taga kan.
+Ett år, och än ett år, så småningom försvann, Och Skepparn ansågs glömd, at aldrig mer anlända, Hvad!
+skulle nu Philét en sådan otack hända, Och han bedragen bli på detta sitt försträck!
+Dock nej!
+– en vacker dag, syns SkepparŽn från sitt däck, Nedgången til Philét, sig på hans tröskel buga: Gläds Herre sade han, – min mun ej lärt at ljuga, Jag räddad ur min Gäld af edert hjertelag,
+Til tacksamhet begär: tvåhundra Gyllen tag, Dem jag i lycklig stund på edra pengar vunnit.
+Jag ber er än en gång, som den jag altid funnit, En redlig man i alt på sjelfva ärans stråt.
+At jag er nånsin länt, mig vitterligt, en plåt ..
+Nej svarade Philét, det kan jag intet minnas.
+Se här!
+min hufvudbok, där bör ert Debet finnas; Men jag vet ren förut, slå efter och se åt, At ni ej tecknad där på någon sida finnes.
+Hvad slikt ett äfventyr gick Skepparn ömt til sinnes!
+Han häpen och försagd med fålda händer står, Som den, där ej sin skuld Philét afbörda får; ....
+Men skyndande sin väg at hjertats ångst uttrycka, Han genast om en stund helt glad tilbaka är, Med penning-posen fyld – Se!
+Ropar han – se här!
+Se här mitt öfverskott af all min vinst och lycka, Och hundra Gyllen til: – tag dem min Herre – tag!
+Och öfvertygad var at hjertat ömsint lågar, Då likasom förkjust, at ingen Gäld mig plågar, Er ensam för mitt väl i döden tackar jag.
+Men täcks ert ädelmod än högre känslor väcka, Jag femti gyllen ber min Herre mig försträcka.
+Hör svarade Philét!
+tag dina pengar här, Och innom eget bröst din fromma suck förvara, En man som för sitt ja vill ingen möda spara, Förtjänar guldets vinst för det han redlig är.
+Lef och förblif min Vän!
+– och penningarne dina, För öfrigt är ej mer än hundra Gyllen mina, Dem ger jag dina Barn och som en skänk förär.
+Gör dig förtjent min Vän!
+om andras väl och bästa, Hvad mer Gudomlig syn än en barmhertig blick?
+Och at med eldadt nit bispringa ömt sin nästa, Som, då han ser vår dygd i ädelmodigt skick, Vet stolt sin tacksamhet vid vår välgärning fästa.
+XII
+ELMIRE OCH SELINDE
+Med Lilljors prål i band och lockar, och krantsar på et krusadt hår, Två Flickor såg Žs vid Carons år, I svarta Skärp och hvita Rockar, Begära genast öfverfart.
+Vår Gubbe, eljest tvär och bitter, På klippan där han tankfull sitter, Med nöje gör sit fartyg klart.
+Men då sin år han syntes kröka, Hans första fråga lydde så: Af hvad anledning mina små, Åtföljens I, min rodd at öka?
+HurŽ har er verld förtörnat er?
+Nyss jag en vacker Yngling fracktat, Tör hända, om jag rätt betracktat, Var han din Fästman, – stig du ner!
+Just dig, – du med de svarta håren, Jag denna samvets-frågan gör; Och ur ditt öga läsa tör, At hjertat ännu döljer såren … Och ni min Sköna, – se på mey!
+Säg om er list hans hjerta dårat?
+Om ni hvarandras bröst ej sårat?
+På stund bekänn – förr ror jag ej.
+Hvad höfs oss här om kärlek fråga?
+Min Herre!
+svarade Elmire; Liksom en Nymph ej lycklig blir Förutan blodets svall och låga.
+Jag kär!
+min Herre!
+– nej min sann, Nej himlen jag till vittne tager, At ni er fullt och fast bedrager, Jag det med ed bedyra kan.
+Jag våga vill bådŽ namn och ära, Och yppa dig min höga ätt, I stöd af sunda tankesätt, Och Böckers njutna sedo-lära, At kärlek knapt mitt öga nått, Långt mindre Facklan kring mig lågat.
+I korthet sagt, – nu al ting frågadt, Hvarför dess dyrkan jag försmått.
+Förskona mig från slika frågor, Kanske den Nymphen som där går, Selinde bättre dem förstår?
+… Straxt Nymphen lyst af blixt och lågor På Gubbens ögon ser igen.
+Jag, säger hon, – jag fritt bekänner, Och blygs ej för den eld mig bränner, Nog svag at kunnat släcka den.
+Min Herde var, (hos oss at tala), Mitt hjertas största ägodel, … Jag ämne för hans sång och spel: Hans sälla blick, uti min dvala, Mig syntes sjelfva nöjets famn.
+En kyss fans vågad; minst han tänkte, Jag blygsamt dock den honom skänkte, Med varma suckar för hans namn.
+Nej hjertat ej högmodigt kändes, Fast vid hans kärlek hög och sann, Mit öga stundom trotsigt brann, Som Gud vet huru jag det nändes, Då likväl om han ryggen vändt, Han mig i tåre-drömmar söfvat.
+Än mer – jag honom tungt bedröfvat, Med all den kärleks-eld jag tändt.
+Som då det minsta Bref mig räcktes, Hvar rad blef vittne til hans qval; I sina visors ömma val, Hans suck mer än min låga väcktes; Men i mitt bröst hans bild ändå Ibland liksom af våda bunden: Jag ur hans armar flög på stunden, Och lät min sorgsna Herde gå.
+Likväl min Gubbe!
+bör jag säga, Om du min fria sanning tål, Med denna flyckt mitt ändamål, Så mycket mer hans längtan äga; Och såleds i min oskuld jag, Förnögd at intet högre felat, Med honom fritt mitt hjerta delat, Intil min sista lefnads dag.
+Godt svarte Färjekarln, snart sku vi skönja alla, Hvem af er båda två sin krants med äran bär; Ty just som Färjan skjuts ur dessa, mörka skär, Skal krantsen genast lös utaf dens hufvud falla, Som, fast än oförtjent, sin prackt sig värdig tror.
+Om bord!
+– kom mina barn!
+at flodens vågor prässa, … Elmire på stunden hemsk – slet krantsen af sin hjässa, Selinde däremot lät sitta sin och for.
+XIII
+LÄRKAN OCH NÄKTERGALEN
+Sitt bröst til sång innom en bur, Sågs en Canarie-Fogel höja; Dels at sin ägare förnöja, Dels i hvart slag at präcktigt röja Manéer, och bildning och natur.
+Förkjust han på sin pinne spritter, Vid Lärkans brytning hög och grann; Fast i sin sång och sträfva qvitter, Hon rögde mindre konst än han.
+Ack!
+Ägde jag din tact och lunga!
+Inföll Canarie-Fogeln gladt, Och i detsamma eldad spratt, Af lust at Lärkans Toner sjunga, Och härma henne där hon satt.
+Bekymrad, at en medfödd stämma I en nyss fattad ton framklämma, Til dess vår Fogel nog elak, Med mycket tvång för näbb och tunga, Hörs som Canarie-Fogel sjunga, Felaktigt, falskt och utan smak.
+Förborgad under samma tak, En Näktergal sin qvittring högde, Ack!
+skrek hon ack!
+och näbben bögde, Hur skal jag reda denna sak?
+Ditt echo hörs sig ljufligt dela:
+Dig visst Naturen gynnat har!!!
+Och stämt din tunga skön och klar, At för mitt läckra öra spela; Ändå du lyss och lungan drar, Til tvång at sjunga falskt och fela.
+Espin sin penna för, ej höglärd – men dock skön; Cleant, djupsinnig, hög, – förstått sin lager vinna, Då Espin däremot i forskningar och rön, På alt sätt bjuder til at lika styrka hinna, Änskönt hans lärdoms-fruckt osmaklig är och torr; Han söker en Cleant i starka uttryck härma, Men huru prunkande hans snille-foster svärma, Så blir hans tankespel förutan lif och värma Hos alla menniskor.
+XIV
+POLYHISTOREN
+Ned til den mörka Flod, som aldrig lugnad rann, Men under blixt och moln sitt skumm mot stranden häfde, Där bleka skuggors flyckt, af nattens ångor qväfde, Hvar en i sin gestalt, upblänkte och försvann: Til denna floden kom en mägta höglärd man, Af bokmal hölgd och damm, han i Damaskor träder Från Strandens hala brant ned til de svarta bräder, Som runda Carons köl – och där – där bugar han.
+Välkommen!
+ropade vår Färjekarl i båten, Som sömnig rodret vred, i gungning upp och ner.
+Hvem är ni frågar han?
+min kosa öfverlåten Til tyngd af Färjans rodd, som ni fullpackad ser.
+Hvem jag?
+blef skuggans svar – betänk och häjda er!
+Jag Polyhistor är, som aldrig skrämd af gråten, Har Skole-piltars rygg – mörbultat med manéer.
+Sen han betraktadt stolt, hur Carons färja samm Och om sin dialect i lärda glosor skrutit, Och nämt folianters mängd som ur hans penna flutit, Så kom, så oförmärkt, en annan skugga fram, I blyga steg för steg til Färjestaden neder; Hvem?
+– ropar Färjekarln – hvem är ni?
+– frågas eder?
+Kanske ni är en Lärd, lik den med mal och damm,
+Den Skuggan som sin rodd högdragen af mig yrkar?
+Hvem jag?
+blef Skuggans svar, – jag tviflar mycke på, Om mig et slikt beröm af tiden ägnas må,
+Jag läst, och lärt och sett, hvad vett och snille dyrkar, För öfrigt, annat alt ej rört mitt lugna bo; Blott at i eget bröst mitt hjertas nöd ransaka, Som ofta mig förfört från dygdens väg tilbaka, Och söka lifvets lugn i andras frid och ro.
+Dock stundom tanken sig i forskning vågsamt sänkte, At med förnuftets ljus få stilla mitt begär: Jag ville sanning nå; men var dock lika när, Och fann mig brottslig då, bäst jag mig lycklig tänkte.
+Vår Polyhistor dryg, han log och hörde på, Och liksom til et språng sin fot åt färjan stälde; Håll ropte Caron – håll – så det i bergen gälde, Den kloka Skuggan först skal floden öfvergå; Ty knapt hvart hundra år, en slik i rodd jag äger: Tvärtom af folk lik er, som til min Färja stött, Med Polyhistors namn – tro mig – rent ut jag säger, At längsen detta pack mig gjort bådŽ lam och trött.
+XV
+HOSPITALET
+Elmire, som nyss var blifven Änka, Beslöt ej mer i Brudstol gå; Dock, lefva ogift kostar på, Och Frun var ganska ung kan tänka.
+Således hon, som mången an, Ej Enko-ståndet fann det bästa; Ty borde hon sig åter fästa, För andra gången med en man.
+Nu var Elmire ej första gången, Tilräckligt varnad i sit val; Änskönt man hör i dagligt tal, Om gifta männer mer än mången, De ryckten, dem ej oskuld tål.
+Elmire likfullt i sinnet hade, Och sig et löfte gladt ålade, At ingå än et giftermål.
+Det löftet var, at om så hände, Elmire blef lycklig i sit val, Så skulle straxt et Hospital, Upresas dem, man allmänt kände Framlefvat fromma gifta män.
+Elmire var rik!!!
+– omsider spordes, At ödets vilkor nu fullgjordes, Och gumman gifte sig igen.
+Vår Fru nödvändigt måste gilla, At sorgen ju för glädjen går; Det var en man, from som et får, Et litet gryn, så lugn och stilla, Och städad och behagelig, Som ej förstod mer uplyst tänka, Än henne rika nöjen skänka: … Hvem bättre man må önska sig?
+…
+Nu lät hon genast grunden gräfva, Til detta dyra Hospital; Och innom några veckors val Hant Murarena äntlig sträfva At första våningen få fram; Men ack!
+Elmire af vresig vilja, Befalte folket sig åtskilja, Med allt sit släp i kalk och damm.
+Hvad nu, vid gudars namn å färde!
+HurŽ står det til med Fru och Man?
+Det är ej längŽsen hon och han, Hvar an sin ring så gladt förärde; – Emedlertid, i hvita spår Nu Murarena återvände: Men knapt sex månader til ände, Så låg ock denne man på bår.
+Elmire med ed på ed och tårar, Förbandt sig aldrig giftas mer; Men innom årets slut, hvad sker!
+Den tredje man hon sig utkårar, Ty Hospitalet bör bli bygdt!
+Hvad denne man fans henne värdig!
+Förståndig, artig och tjenstfärdig, Dock än ej nog hans låf uttryckt.
+Han ej en egensinnig anda I vilda rörelser utgjöt; Med minsta blick ej sig förbröt, Tvärtom gick henne fromt tilhanda, Och bad om slikt, som måst med gräl, De andra gifta män befalla: Kort sagt, man kunde båda kalla, I alt et hjerta och en själ.
+Hvem dristar ej min Fru!
+besanna, Med mig ert kärliga beslut?
+Men denna gång ser det så ut, Som byggnings-värket torde stanna; Också blef ingen bygnad mer: Rätt gjordt: – jag gillar hennes ånger; Hin männer tro!
+då tvenne gånger, Man sig så lätt bedragen ser.
+Vår Fru fann nu sin ägta maka, Et halft år gift, så spak och lätt; Som då sit val vid altaret, Han bugande kom at bejaka … Också fortsattes byggnaden …
+Elmire, mig tycktes lifligt skåda, Med glada ögnakast bebåda Sit öfverslag för Muraren.
+" Gör Mästare, som jag beställer, " Min bygnad färdig och til slut; " Här har ni penningar förut, " Och låt nu komma fler Gesäller, Så fort som möjligt – Mästare … Det klingar godt: – det mig behagar: Din man, Elmir!
+til döde-dagar, Lär i din famn sin himmel se.
+Alt blir värkställdt, som Frun behagar, Hvar Murare sig straxt infann; Och första våningen uprann Ur gruset innom fjorton dagar; Men i detsamma sågs Elmire, Helt tankfull stå och sig besinna: Visst har hon något at påminna, Som Folket än en gåta blir.
+Kan hända, at hon varse blifvit, Gesällerne fåfänga stå?
+Som ej är rart at råka på; Må ske, man Planen öfverdrifvit, Och sig i något mål försett?
+Alt detta skulle mig förtreta: Men tyst –.
+Nu få vi skälet veta, Sen hon sin harm tilkänna gett.
+Jag vill mitt hus i grund förstöra, Bort Murare med alt ert skräp!
+Ej mer bland buller, stoj och släp En enda sten på platsen köra!
+Och jag ej mera pengar strör, För män som sina hustrur plåga: Ej andra fins, – det vil jag våga … Elaka Fru!!!
+… du näpsas bör!
+XVI
+BIET OCH HÖNAN
+Hör lilla du, ett ord på en förtrolig timma,!!!
+Så börjades en gång en hönas dumma prat; Så länge jag dig känt .. (stod hönan där och primma), Du aldrig annat var än syslolös och lat.
+Du aldrig annat gör än dina nöjen söker, Och svärmande och yr dig mellan blommor kröker, Och blommors lena must i svalkande behag, Lär stort ej möda dig att prässa natt och dag.
+På Näjlikan min vän!
+tar du din rosen-hvila, Och stundom anstår dig åt blomster-löken smila: VorŽ jag ett Bi som du, detsamma gjorde jag; Men, hvartil gagnar du, med alt ditt sörp och sila?
+Nog, at hvar morgonstund, vi höns kring fältet ila, Och rickta våra bon med ägg af bästa slag.
+Hålt!
+ropte Biet .. hålt at gäckas!
+Du tror, – fast vid min gula vägg, Jag ej som du för några ägg, Väl tie gånger när de kläckas Med en full hals ett anskri ger, At ej min flit skal längre sträckas … Se där min Bi-stock!
+– se dit ner, Hvem af oss två mäst gitter röja, Hvad genom konst och arbet sker; Ty, när vi tyst på Blomman dröja, Man minst på egen fördel ser; Vi samla saft som honing ger,
+At läckert gom och smak förnöja; Ej bullersamt vårt yrke är; Och skrike vi, vid solens låga, När saften vi i kärlen råga, Oss aldrig hesa, som du plär.
+Så i din hjärna fäst och märk!
+Vi hata alla glitter-värk!
+Och den oss känna vill, han må i vax och kaka, Flit, konst och ordning främst, för annat alt ransaka.
+Också Naturen villigt har Oss skänkt en gadd til vårt försvar, Med hvilken vi dem giftigt stinga, Som hvad de sjelva ej förstå, Dock klandra fräckt och akta ringa: Derför med dig vill jag betinga, Gå dumma Höna – bara gå …
+O gäck!
+– sjelffvåldig, plump och fri, Du mot Apollos låf din hjärna envist sträfvar: I detta tankespel, som kring ditt mörker sväfvar, Blir Skaldekonsten lik det fromma lilla Bi: Och vill du åter sjelf vid Hönan liknad bli, Så träffar Fabeln in, den ingens röst dig jäfvar.
+Du spör hvad Skalde-konsten är, Som ingen vinst och nytta bär: HurŽ kan den frågan företagas?
+Du röner sjelf ju nog dess nytta hög och klar?
+Hur dem ett ringa pund Naturen unnat har, Igenom Skalders bild en Sanning kan updagas.
+XVII
+DEN DANSANDE BJÖRN
+En Björn, som långlig tid måst dansa för sitt bröd, Kom åter til sin skog, at sig en boning leta; Knapt fans en enda Björn som ej sin tjenst tilböd, Där innom Skogens lugn de tassande och feta, Med fägnsamt mumlande djupt hälsade hvaran; Och hvar som häldst en Björn en annan broder fann, Så var hans första ord … (en nyhet värd at veta) Vår Nalle som du mins, – nej!
+Petz så lär han heta, Nyss utomlands ifrån hemkommen är min sann.
+Vår Petz berättade, hvad han i andra Länder, Utstått för äfventyr, – hvad häldst på resor händer, Om hvad han sett och hört, och alt hvad rart som fanns, Begynte därpå straxt, när talet föll på dans, Som förr i kedjor ledd, han strök kring torg och gränder, At kapprak dansa om en prägtig Polonaise.
+De andra Björnars halt i diken, ljung och gräs, Beundrade hans konst – så mjukt hvar sena kröka; Hans tact och vändningar at härma och försöka, Och villja gå som han, det var sin skam at öka, Hälst knapt en enda Björn förmådde uprätt stå, Och många lade sig längst efter marken neder; Allt mera rak och hög sågs Petz i dansen gå, Tills sist hans Capriol, dess säkra fall bereder: … Fort packa dig din väg!
+blef här ett allmänt skri, Du narr vill visa dig mer klok och stor än vi!
+… Kort sagt, man tvang Herr Petz at lunka sina färde.
+Fördölg din skicklighet, och vet et nekadt värde Är dig til värklig vinst, mot illska och förtal.
+Ju mer du uplyst är, mer fruckta bland de Lärde, At stråla från din högd med vett och snille-val.
+Snart kommer du i rop – på nytt beröms du åter, Det är väl ganska sant, – men afvund styr sitt värk; Och just din skicklighet i hennes ögon, – märk!
+Blir til och med ett brott som aldrig hon förlåter.
+XVIII
+DEN FATTIGA GUBBEN
+At en Rhinoceros – för en gång skåda få, (Förtälgde mig min vän) – så gick jag ut, – hör på!
+Jag röck utur min Pung ett blankt Tredalers-stycke, Då jag till gallret kom, där Djuret fängsladt var: Framför mig gick en man, som rikt sin cassa bar, Som efter sin gestalt, i seder, mine och tycke, Med hvad han ockrat ren i vinningslystna qval, Än tycktes skynda sig, at med en nidings hjerta, Sin hufvud-bok nedsvärta, I starka ziphrors tal.
+Herr Orgon gick förut, – (förlåt jag bör påminna), Jag kallar honom så, – som okänd än i dag: Han går – hvad händer väl?
+FörŽn vi til gallret hinna, Så möter oss en man, barhufd, och tom och svag, Som skönt han oss ej bad sitt trångmål at besinna, Ändå hans kropp, som mäst til hälften stelnad var, Hans hufvuds darrande och andetrutna svar, Hans anlet fromt och godt, hans hjessa sillfverklar, Mer än all tale-konst på hjertat borde vinna.
+Ack!
+ropte han, förbarmen er, Jag äger ej en fyrk, jag ömt i stoftet ber!
+Skänk mig en penning blott min törst at kunna stilla!
+Och Gubben som jag tror, skall ej besvära mer:
+Ty Gud han torde snart min suck i nåder gilla: Då säkert, i min död, hans himmel mig tilhör.
+Ja!
+– gode Gud!
+min bön ju förr dess häldre hör!
+Så voro Gubbens ord: .. hvad hörs den rike svara?
+" Jo!
+vackert tungomål vid edra år min sann!
+" Likfärgen på er kind tycks redan slagit an, " Och Ni ber Pengar blott för at jemt plåga vara.
+" Tvy!
+oförskämda gamla man!
+… " Så at Ni äntlig vill nedlägga vandringsstafven, " Och svimla ned i grafven.
+" Den i sin ungdom spart, vet ni!
+– trots ödets skick, " Han på sin ålderdom har både mat och dricka; Derpå den Skurken teg och spottade och gick.
+En tåre-ström utbröt ur Gubbens skarpa blick, O Gud!
+mitt vittne du!
+– mer kunde han ej tala; Men jag mig kände rörd; och at honom hugsvala, Straxt gubben af min hand Tredalers stycket fick, Som Djuret at bese jag ärnade aflåta.
+Jag gick och ville ej han skulle se mig gråta, – Hvad hände?
+bäst jag går i min enfaldighet; So ropade han – ack!
+ack ropte han och gret, Ni har misstagit er, slikt är för mig en gåta, Er Penning är för stor.
+Gif mig nu blott tilbaks, hvad ni tillräckligt tror För at en styrko-dryck vid lifvets afton njuta.
+Nej svarade jag, nej, altsammans dig tilhör: Tag häldre Gubbe!
+– tag din flaska vin derför: Dock i förtroende förrän vårt glam vi sluta, Säg Gubbe hvar du bor.
+Han nämde mig sitt hem, och jag gick andra dagen Att söka honom upp, behjertande hans nöd: Jag nalkades hans säng … men hur blef jag betagen, Då nyss en qvart förut han redan blifvit död.
+Hans anlet samma mine uppå dess dödssäng röjde, Så redlig som i går, då han sin hjessa böjde; … En Psalmbok på hans bädd låg vid en kaka bröd.
+Ack!
+om du girigbuk, den Gubben nu fått skåda, Som aldrig af din läpp mer skrämd och bannad är; Som kanske ren hos Gud, mot dig ett vittne bär, At du kort för hans död ej gittade benåda, Hans törst en svalke-tår.
+Så talade min vän, och bad med uprörd stämma, Mig denne Girigbuk offentligen utskämma, Ehuruväl en man, som, då blott pengar nämns, Alt annat ej förstår, i evighet ej skäms.
+XIX
+DEN BLINDA OCH DEN LAME
+Af händelse på gatan mötte En blind, en lam som stafven stötte; Straxt båda trodde i slik nöd, Den ena bli den andras stöd.
+HurŽ!
+skrek den Lame skall jag hjelpa?
+Som, Gud nådŽ mej!
+hvart steg vill stjelpa, Dock, syns du till ett företag, Mer starka skuldror ha än jag.
+Kom, på din skuldra mig at bära, Så vill jag minsta steg dig lära; Så blir din starka fot mitt ben, Liksom min syn ditt ögas sken.
+Den Lame sina kryckor svängde, Och på den blindas rygg sig hängde; Förent då gjorde detta par, Hvad särskildt dem ej möjlig var.
+Uti din brist, du lär och minns At lyckan ej fullkomlig fins; Men att dess ofullkomlighet, Är Källan till samdrägtighet.
+Om ej en annŽ den sällhet felte, Som mig naturen mild tildelte, Så skullŽ den tänka blott för sig, Men ej bekymras stort om mig.
+Spar Gudarna din tåre-gåfva, Den ljufva vinning de dig låfva, Och rika Skänk, märk, mins och vet, Är, – njuten blott samdrägtighet!
+XX
+SPINDELN
+Dryg af sin konst, man högbent såg, En Spindel sig på tråden svänga; Och från sin skira väf nedblänga, Åt Silkes-masken där han låg.
+Så upblåst, som i grälets vrår, En lärd Pedant sig dråplig tycker, Och bland de Luntor dem han trycker Längst öfver hakan dammig går, Och Skole pilten där han står, Med bugad vördnad för hans nycker, Knapt ögats halfva hälsning når.
+Vår blyga Silkes-mask, som nylig härom dagen, Af husets husbonde blef til dess ro uptagen, Bekikade en stund den fräcka Spindelns drag, Och frågade til slut, – hvad väfver du för slag?
+Hvad uslinge?
+tig du!
+blef Spindelns svar tilbaka: Du kan blott med ditt prat, mig hinder förorsaka: Min väf i evighet den trotsar tidens slut.
+Knapt nu hans höga nåd, så svatsande talt ut, FörŽn Kammar-pigans arm, med qvasten löst i näfven, Drog från en dammig vägg, den hela Spindelväfven, Som nu med Spindeln sjelf försvann i en minut.
+Ett fåfängt gyckleri, blir alt ditt digra vett, När det sitt vackra bloss till verldens gagn ej tänder.
+Säg!
+ropar en Pedant, den flit jag städs använder, Ger den mig intet rätt at prisas vidt och bredt?
+Nej – den ej mera värd, än mångens tråk och svett, Som ej uplysnings-vis til någons nytta länder.
+XXI
+DET GODA RÅDET
+En Yngling som af längtan brann, At Ägtenskapets sällhet smaka, Som vänners ömma omsorg vann, I valet af en älskvärd maka, Utbad sig af en gammal mann, At med ett moget råd utstaka, Den Fru han honom värdig fann.
+Hvem?
+– hördes Gubben genast svara, Hvem ni til maka välja bör?
+I sanning svårt at er förklara, Då frågans vigt mig sjelf uprör.
+Ty i det valet märk och hör, Så slug man också tror sig vara, Likfullt man sig bedraga tör.
+Om ni till sällskaps ro ert band, Vid Hymens käpp och krycka binder, Så välg en Nymph från Cyperns strand, I tunna flor med rosenkinder; Men är den frågan nu för hand, Om Guldets lystnad väcker hinder, För edert hjertas sälla brand:
+Så vill dig Ungersvän jag råda, Sök dig en Brud bådŽ rik och grann; Men vill du dig uplyftad skåda, Til rang och tittlar, så väl an: Glöm att du bättre Flicka fann, Och välj dig genast i din våda, En dotter af en mägtig man.
+I detta fall o yngling lär, Ditt val at länge ej upskjuta; Men om din längtan innebär, Til själens frid en himmel njuta, Mer än de sinliga begär: Så bör en Brudsäng innesluta, En Fru som lärd och vitter är.
+Här blängde Gubben åt en sida, Och gick och smålog och såg ner: Vår Yngling at hans prat bestrida, Utbrister – Gubbe!
+jag blott ber Om råd bli gift, och nögd – med mer.
+Ack, inföll Gubben – så til vida, Är bäst ni aldrig gifter er.
+XXII
+DET LYCKLIGA ÄKTENSKAPET
+Äktenskapets Gud all ära!
+Hvad jag tänkt at hälst begära, Lyckligt vis mig lämnadt var.
+Jag fått tvänne vänner skåda, Som från ångrens köld och våda, Lefde sällt ett äkta par.
+Bådas barm en eld förente, Hvad hon ville, han ock mente, Hvad hon skydde, han försköt, Qval som hjertan sorgsna göra, Kunde deras lugn ej störa; Kärlek lifvets bojor bröt.
+Som han ingen stolthet hyste, Och hon ej högdragen lyste, Rådde hon ej mer än han.
+Rådande, – dock ej til plåga, Stridande, men med en låga, Som af enig villja bran.
+Stadde i vår bröllops-våda, Våra fel vi minst förråda, Men förblinda ögats val;
+Så blef här tvärtom at finna, Deras bröst upriktigt brinna, Deras hydda fri förtal.
+Sista dagens afsked sårar, Sista kyssen skänkt med tårar, Röjde hjertats trogna plickt.
+Båda dö.
+– när?
+– jo beklagen!
+Veckan efter bröllopsdagen, Eljest detta blef en dickt.
+XXIII
+SJELFMORDET
+Kom Yngling, at en bragd beskåda, Som ögats källor prässa tör, Och lär til hvad bedröflig våda, Dig könets ömma dyrkan för.
+Ett mönster i all ungdoms lydnad, Sin gamla Faders tröst och staf, Som tidigt klädd i dygdens prydnad Stort hopp om bästa framtid gaf;
+Den Ynglingen på kärleks-vägen, Jämt fölgde sin Climenes spår; Han suckar – men hon obenägen, Förbi hans djupa knäfall går.
+På knä sin klagan än han tyder, Climene svarar – lämna mig!
+Godt ropte han: – Väl an!
+jag lyder, Och vill för evigt lämna dig.
+Straxt vild och blek han värjan blottar O!
+hvad förtvifladt ögnablick!
+Beser dess spets, åt hjertat måttar, Men stack den långsamt in och gick.
+XXIV
+OCKRAREN ELLER PROCENTAREN
+En Ockrare i tysthet nådde En Grefligt stor förmögenhet, Til hvarss förkofran, hvad man vet, Ej flärd och egennytta rådde, Hvarom han sjelf ock ofta skröt, Och edligt hördes sig uttrycka, Det all sin rikedom och lycka, Af Guds välsignelse han njöt.
+Nu, för at ej sitt hjerta neka, Dess frid och tröst i tack til Gud; Kan hända ock den högstas Bud, Til vedergällning at beveka, Väckt af ett blödigt tanke-qval; Så ville mannen sig förbarma, Och åt de fromma och de arma, Uptimrade ett Hospital.
+Med suck han sina ögon sänkte I stoftet ned til kalk och grus; Men bäst han fullbygdt såg sitt hus, Och kring dess murar gick och tänkte, Hur han sig himlen värdig gjordt, Til tröst för uslas ångst och qvida; Så smög sig oförmärkt på sida, En klyftig skalk förbi hans port.
+Den Girigbuken bör man veta, Oändligt gärna tyckte om, At samma vän och hvem som kom, Förmådde i hans plan utleta En rik upfinning, prakt och smak; Han frågte straxt med glättig ifver, Om ej hans hus för arma blifver, Stort nog til flyglar, rum och tak.
+Jo!
+hvarför icke det min Herre!
+Blef denna vännens korta svar; Ert hus beqvämlig tillflykt har, För gamla, usla, små och smärre.
+Dock vet ni, inföll han och log, Om alla skulle där inrycka, Som ni förstört til bröd och lycka Så blef er byggnad liten nog.
+XXV
+RÄTTEGÅNGEN
+Processer blir vår verld ej qvitt: Men om dem vore möjligt hindra, Hvem skulle då i mitt och ditt, Vår klagan rätta, lätta, lindra?
+Naturen sjelf i strid, oss lärt, At tungt hvarandras lugn bestrida; Därföre Bror med hand i sida, Håll ditt förtryck ett intet värdt; Men af hvad Lyckan dig beskärt, Gack ej – en fyrk at eftergifva, Ty rätt skall altid rätt förblifva.
+Hvad Granne!
+– denna åker-ren, Tror Ni til eder rågång höra?
+Låt bli at på den strängen röra, Den har ej minsta sannings-sken;
+Ert misstag flere vittnen röja, Och ängen til min åker låg, Långt förr än man de Svenska såg Kring våra fält Baneren höja.
+Nej Granne!
+– vet, Ni irrar er, Tillåt i korthet mig at säga, At ren och gräs mig ägnar äga, Och förr jag mig förnögd ej ser.
+Rättvisan skall min talan föra, Och Lagen freda tomt och jord.
+Så ifrar Kuns, i brutna ord, Med hatten hörnad på ett öra.
+Nej, förŽ n man renen från mig tar, Förr fly mitt tjäll med eld i knuten; Förbittrad mannen i minuten, Til närmsta Stad på vägen var; Nu sågs en viss Herr Glimph framriden, I ämbets-mål, på samma stråt; Den hinner han och hastar åt, Som åt sin Advocat den tiden.
+HurŽ är det möjligt frågar man At Kuns til fot hann fältet vinna, Och Glimph i spårrad sträckning hinna?
+Mitt svar ej annat blifva kan: För sådant snack i frid mig lämna, Ej list och gräl än var min sed: I vidrigt fall skall på min ed Jag för Herr Glimph ert ofog nämna.
+Jag svarar er ännu en gång, Kuns värklig hann Herr Glimph vid vägen, På hatten lyftande, – förlägen, At fatta i hans betselstång: Hör skrek han högt, en sak att säga!
+Andtruten, stammande och blek; Min Granne är en man af svek, Han anspråk gör min jord at äga.
+Ty, tänk, den smala ren Ni vet, Som mellan våra åkrar sträckes; Så, om Herr Glimph mig höra täckes, Är den ett mål till min förtret.
+Den narrŽn påstår sig trygt at äga, Hvad ingen ann än mig tilhör, Men jag med skäl den trotsa bör, Som djärfs min rätt at öfverväga.
+Jag vill er ge min bästa ko, Därtil sex kappar hafra lägga; Här hördes hästen lustigt gnägga, Med krummad hals och blixtrad sko.
+Var såleds god och mig bejaka Min Herre eder hjelp och tröst: Jo gärna med ett villigt bröst, Blef svaret af Herr Glimph tilbaka.
+Er Granne, på min ära han, I saken minsta undflyckt finner, At Herre Ni har rätt och vinner, Af edert tal inhämtas kan.
+Så stämm er man, stor sak at röja, Mitt vunna låf i mången tvist, Slikt passar mindre er Jurist, Dock torde rycktet er förnöja:
+Det, på en tid af tjugu år, Ej minsta sak jag vänt mig tappa, Er rätt vid hvar Instantie trappa, Bevakas skall så långt jag rår, Nog lagklok för at er försvara; Straxt Glimph han hästen sporren gaf, Håll, inföll Kuns, … af löften slaf, Var säker om mitt löfte bara.
+Hvad uprop, skjutsningar och språng?
+Fullt många ris af papper skrifves; Och halva Byn til Tinget drifves, Som vittnen under vitens tvång.
+Ren fem och tjugu straxt framförde, Aflade eden på det sätt: At efter all urminnes rätt, Ej Renen til hans ägor hörde.
+Hvad!
+Kuns?
+din sak anser jag slätt, Som sällan Lagens bokstaf frågar, Dock i förtroende man vågar, At tro dig om så lagom rätt.
+Imedlertid fler utslag fällas, Och Kuns jämt tappar med förtal; Glimph muntra upp din Principal Och låt Processen ej inställas.
+Fullfölj Er klagan ort från ort, Hvars slut jag til Er fördel tvingar, Dock Herre!
+– någon ting som klingar, Gör i min ficka – all ting gjordt.
+Kuns sänker sig i gäld och fara, Inunder hela fem års strid; Men hvarföre så långlig tid?
+… Därtill må de Lagkloke svara.
+Nu ändtlig Domslut fälls en dag, Hvad tyckes Er?
+– tänk Kuns har vunnit, Stor sak, fast ur hans hand försvunnit, Båd hus och jord vid klubbans slag.
+Nog af hans Advocat lärt skrifva.
+Och åker-renen slutlig vann; Lär af min tvist, lär ropar han, At rätt skall altid rätt förblifva.
+XXVI
+DEN UNGE TRÖSKAREN
+En Tröskare i gräset satt, Bredvid sin kruka mjölk och kaka, Men mjölken ville intet smaka, Och brödet bröts än mindre gladt.
+Tungt i det gröna han sig sträcker, Sig sjelf ej nog beklaga kan, Och suckande tre gånger han, Ur blomstrens skygd sitt hufvud räcker.
+Ja, himmel!
+utbrast han, – en sak, Mig stort bekymmer borde gifva … Hvad skall af dig med tiden, blifva, Som aldrig når ditt egit tak?
+Tvärtom, jämt i husbondens Lada, År ut och in du måste stå, Med Slagan Säden sönderslå, Och Skylarne på fältet rada.
+En Bygdens Kulla till din Brud, Dig höfdes vinna för all möda, Men du, din narr, mot ringa föda I logen står med dammig hud; Och får knapt tid hvar fjorton dagar På Krogen nå en styrko-drick, Långt mindre hugnas med en blick, Af den ditt öga hälst behagar.
+Och du är ung min käre Hans, Och läsa kan du väl och skrifva, Och Tröskare vill du förblifva, Liksom ej högre Lycka fanns.
+Tänk, om i valet af en maka, Du Inspectorens dotter fick?
+Hon är ju rik och skön och qvick, Och skicklig at ditt tjäll bevaka.
+Gift dig med henne, ty då kan Din Lyckas Sol bli högt upskriden, Och du min kära Hans med tiden Bli hälsad Inspector som han; Då mägtar du din kalfstek skära, Och sitta med ditt stop i lag, Näst Probsten främst, … ack ack!
+om jag Blef Inspector!
+.. hvad vinst och ära.
+Bäst han i gräset vred sig om Såg Hans en skymt utaf sin Sköna, Så nigande uti det gröna, Som af en händelse hon kom.
+Doch långt ifrån hans fjät undvika Dess skugga dyrbar blef och säll; Ty fostradŽ, så i Bonde-tjäll, Som i Palats, de Sköna lika.
+Hans, med en len och smeksam hand Drog Nymphen löst i gräset neder, Dess bröstduk öfver halsen breder, Så sirligt som i något land En Ädling sjelf det skulle göra; Dock med den skillnad, där hon låg At hvad ett blygsamt öga såg, En dristig hand knapt nändes röra.
+Kort sagt, vår Hans ej dölja kan, I bön och blickar blodets låga, Den Skönas hjerta blef i fråga, Som lika öfvervunnet bran.
+Till dess i Byn det alla veta, Hans, som sitt låga Stånd förtröt, Af Inspectorn den lyckan njöt, At genast få Hans Svär-son heta.
+Knapt Hans sin ägta säng besåg, Förän helt hastigt genom döden, Från Syssla skild och tid och öden Hans rika Svärfar jordad låg.
+Hvem borde nu vid Graföls-kannan Lyckönskas till en lycklig man?
+Herr Hans, förmodeligen han.
+Som Måg i huset, ingen annan.
+I snabba steg, straxt från sitt hem, Gick Hans Districtet at bevaka; Men om en fjerndels stund tillbaka Sågs han upeldad i hvar lem.
+Än pulsen flög, än hjertat kläckte, Till dess med myndigt ögonbryn, Herr Hans som Inspector i Byn, Sin lata rygg på bänken sträckte.
+Så i Parnassens Lärda chor Sen en Student den äran hunnit, At han Examen öfvervunnit, Sin höghet ojämförlig tror.
+Och då en hälsning framför alla, Den Skönas Bud vill honom ge; Och han hör Pigan nigande Sig första gång Herr Doctor kalla.
+Likså upblåst, – med myndig ton, Gick Hans på gålfvet fram och åter, Til dess at dörren man uplåter, För en lyckönskande person.
+Hvad qval det högfärdshjertat klämde, När innom farstuqvisten steg, Skolmästarns Adelheid och neg, Och honom Inspector nu nämde.
+I detta önskans föremål Han af sin framtid sig berömde, Åt Stek hvar dag och drack och drömde, Bland muntra Gästers plumpa skrål.
+Omsider molnet solen skymmer, Med motgångs-dimmor, storm och svall; Ty hvilken dödlig i sitt kall Är nånsin ledig från bekymmer.
+En tid därefter sågs Herr Hans, Af ledsnad hemsk och nederslagen; Och i sin önskan högst bedragen, Som mera vådlig nu befans.
+Jag, utbrast han ej heder saknar, Har hus och gård, – men ändå jag, Är en förlorad man hvar dag, Som til förtret och oro vaknar.
+Än tilhör mig bland Böndrens gräl, För dem i mitt District ansvara, Där Amtmans snäser mig förklara, En dem oskicklig lumpen själ.
+Än rägna skälsord mot min ära, Af de fördömda knecktarna; Och ofta måste jag fördra At de til afgrund mig försvära.
+Ibland på fler än många sätt, Villrådig nog hvad jag bör göra, At ordningar och bud utföra, Och noga vårda rotens rätt.
+Så om jag Böndren ger en skrapa, Straxt brummar Bonden stursk och lat, Men öfverser jag och är flat, Begrina de mig som en apa.
+I sömnens sköt, som lycklig man Förr van at trötta lemmar sträcka, Nu största gäck mig dristar väcka;
+Och händer det af ingen an, Så är jag i det ägta-bandet, Af hustru min förfölgd hvar dag … Mitt första Stånd tillgriper jag, Och dör som Tröskare på Landet.
+Hvem vet, om den som mägtigt rår, Och stolt af band och anor blänker, Om han med Hans ej lika tänker.
+Och månne den, til fots nu går, Som tröttad ses sin bana tråka, Ej kanske skulle missnögd åka, Och hända kunde lättlig nog, At mera gladt ett hjerta slog, FörŽn Furstens nåd det fått ärfara ....
+Så märk och mins missnögda skara, Ju högre Stånd ju mer besvär: Mins – ofta den minst lycklig är, Som mängden tror mäst lycklig vara.
+XXVII
+BEATA ELLER DEN ANDÄKTIGA FRUN
+En Fru, den i vår Stad en Ängel nämnas bör, Så ärbar til sin mine, som i den drägd hon snöras: Hvars läppar aldrig ses förutan andackt röras: Säg, om ej denna Fru en Skaldesång tilhör?
+HurŽ ljust och lärorikt at hennes vandel blotta, Knapt vaknad gläntar hon på sängens öfverdrag, Förrän til morgonbön, klädd innan klockan åtta, Hon sjungit ren sin psalm för den ingångna dag.
+Nu, fast vår Fru til år det sextionde hunnit, Hon Gud ändå hvar dag, om kyskhets dygden ber; Och fast af hunger tärd, hon snålt på maten ser, Likfullt så frågar hon, om måttlighet försvunnit; Och änskönt längsen trött af ägodelars rof, Och sen på panters mängd hon rika räntor röfvat, Ändå i stoftet sänkt, dess hjerta högst bedröfvadt, Upger sin suck till skyn i klagan och behof.
+O!
+hvilken trogen själ med blödighet och heder!!!
+Två gånger året om hon läser Bibeln ut; Och genom detta nit sitt tjenstfolk hvar minut, Mot afgrunds raseri ett heligt lugn bereder.
+Hvar dag tolf Psalmer sjungs andäcktigt utan tvång: Hvem kommer?
+– jo en man med blottad hjässa niger; Hvad?
+oförskämde man!
+som innom tröskeln stiger, Kanske du störa vill Beata i sin sång?
+Nej!
+bort vid hennes bön all jordisk vinst och villja!
+Gå uslinge – gå bort, så hungrig som i går!
+Märk!
+hennes bröst uplyft til den i högden rår; Och du det hjertat näns från Gud och Änglar skillja, För at dra ur dess pung din tåre-penning opp.
+Beata himlar sig – vid sång upbäres maten, Til bords hon ren sig satt, och ösande ur faten, Fördömmer vid hvar rätt de svåra tiders lopp.
+På porten bultar en: lås upp: stig in och svara: En Gumma, nådig Fru, – som aldrig ett Guds-lån … " Hvad angår mig er svält, ut straxt, gå härifrån!
+" Bör jag innom min dörr ej obesvärad vara?
+" Men vid hvar sked til mun af eder plågad bli: " Säg, är det intet sant?
+– Ni sjunger ej och beder: " Var from, betänk er plickt, och jag försäkrar eder, " At Herren glömmer ej de sina, kära Ni!
+" Emedlertid min vän på porten er förfoga!
+" När Gumma såg Ni mig gå kring och tigga?
+hvad – " Derföre flyn til Gud, hvar en uti sin Stad.
+Dock är vår Hedersfru ej just så sträng och noga; Man tror, at hon kanske, ej ömmar dygdens lön: Ack nej – de fattiga går hon med råd tilhanda, Förmanande en hvar, af en ingifven anda, Med förebråelser, om idoghet och bön.
+Kan bättre Skriftens bud en himlens vän påminna?
+Och med sin sista Skärf, vis mig, mer hjelpsam Fru!
+Caution och säkerhet … och Summan äger du – Nej aldrig i vår Stad gret en olycklig qvinna, Som ej i nödens stund hon delat af sin lott.
+Ack ja!
+Beatas bröst är känslofullt och godt: Stor sak låt afvundsstygn i dina fjät utbrista; Ej nog de lefvande din fromhet röna jämt, De dödas låga stoft du lika frid bestämt ....
+Säg, dör väl minsta barn, där du på lock och kista Ej med din egen hand af buxbom krantsen fäst.
+Och då du snyftande den vackra blomman fäster, Hvad hvilka, menar du, de sorgsne grafölsgäster?
+Jo, alla med en mun: Beatas krants var bäst!
+Se, hvilket Crucifix!
+i vördnad til vårt sista, Hvem skänkt så dyrbar Bild?
+– Beata ingen ann: Ack öfverlever hon min dödsdag, så min sann, Helt säkert låter hon försilfra då min kista.
+Hon Predikstoln förgyllt och Altaret beklädt, Och vill i Herrans namn, fast onda tungor smäda, Ännu den tredje gång dem pryda och bekläda, Och ett så christligt värk till nästa Påsk afmätt.
+Likfullt hon förebrås och döms för den uptäckten, At högmod grunden är, hvarpå dess dygd beror: Dess själ emedlertid röjs lika klar och stor; Hvem var den hedersfrun, som sist uti Collecten, Med handen långsamt förd, i håfven stack ett bref?
+Det Fru Beata var, och lånet Herrans blifvit: Ty, när hon nånsin ger, är alt af hjertat gifvit: Rår hon för, om dess skänk alt folket varse blef?
+Gif lastarenom rum, ditt värde att förringa: Låt Slösarns fräcka skämt föröka dina qval, Som skulle för din synd, i ockradt Capital, Du stadd på grafvens brant, med Himmelen betinga, At undangå hans blixt i sista steget ner, Ja, låt Bespottarn fritt med dina vänner prata, HurŽ du updicktar brott, andäcktiga Beata, Och sölar med förtal, hvem hälst du vill och ser, Och med all möjlig köld, hurŽ fyllest du fullkomnar, Din hämd mot armas rop i nödens kulna vrå, Som vore all din dygd, ett skuggvärk.
+– Men ej så: Du bedjande står upp, och sjungande du somnar.
+XXVIII
+KORTHUSET
+Ett Barn en gång en kortlek fann, Hvaraf dess bygnads-plan uprinner; Det längtande knapt andas kan, Förrän sitt hus det färdigt finner.
+Där står nu huset rest, lull lull, Men ack, hurŽ oförmodadt händer!
+En plötslig stöt slår gafveln kull, Och til et intet alt förvänder.
+Ja, Barnets mor, det slår ej felt, Vid LŽombre bordet mindre ryser, Sen hon sin sista sats förspelt, Än denna lilla oro hyser.
+Dock hvem vill mista mod och hopp?
+Sig Barnet tycks små ängsligt råda, Et annat kort-slott resa opp, Likt det förstördas prackt och våda.
+Bäst blodets ångst förifrad rår, Och samma Slott på nytt sig visar: Hvad Barnets varma hjerta slår!
+Och hvad det gladt sitt värk beprisar!
+Nu, skall mig aldrig hända mer, At slika olycksfall förbida; Bord, skrek vårt barn, stå jämt jag ber Och vicka ej på kant och sida.
+Ja, huset stod nu oförbytt Vid barnets tvång i blod och leder: Det längtade få se et nytt, Och slog med våld sitt korthus neder.
+Du Lyckans flygtighet besvär, Men glömmer all din tanke-styrka: Föränderlig vårt lynne är, Och tingen denna sanning yrka.
+Af Lyckans håfvor dem vi nå, Til hjertats mindre ro kan slutas; Och feltes de ej då och då – HurŽ skulle nya nöjen njutas?
+XXIX
+ENKAN
+Dorinde, en viss Fru, kär i sin unga man, Mer älskansvärd hans famn, än hon sin egen fann: Hur mera älskansvärd?
+– blir afvunds lömska fråga, Med et föracktligt skratt.
+– Dock jag vill vadet våga, En sak, helt tydligt, klar, som löjet häda kan, Uphör til sin natur ej derför vara sann.
+Nog af, at dödens arm ej höll sitt slag tillbaka, Men från Dorindes bröst dess mer än trogna maka Så tidigt hädanröck.
+Ja!
+hvem afskildra kan, Den blick, som yr och vild i ögats blundning brann, Och all det tåreqval, som spridt vid nervers sveda, Sågs intil raseri Dorindes känslor leda.
+Nej, fåfängt på min duk min pensel teckna må De smärtande besvär Dorinde kände då.
+Hon som nyss för en stund, beklagansvärda maka!
+Til sängen drog sin man och henne han tilbaka, Af lif och hälsa närd – nu honom sucka hör, Til dess han dignande i hennes armar dör.
+Förgäfves ur dess famn den bleka skuggan rycka, Den hon med häftighet sågs mot sitt hjerta trycka: Tils Prästen äntlig kom, af vänner fölgd och slägt, At lindra med sin tröst dess sorgsna andedrägt; Men ack, ju mer han fromt sin Bönebok uplåter, Til lugnad för dess själ, mer ropar hon och gråter.
+Nedlutad, blind och stark i vridna händers qval, Ett ouphörligt ack!
+var hennes enda tal; Och strida tårars flod snart hela dygnet runnit.
+Imedlertid bestört dess granne sig infunnit, En ganska skicklig man uti sin profession, At snällt i träschnitt likt afbilda hvar person.
+Han såg Dorindes gråt af honom dels begära, Och dels han som en vän, den salig man til ära Och minne af hans stoft – sjelf fattade beslut, Att konstrikt uti träd dess bild straxt hugga ut.
+Ja Konstnärn lyckligt vann med snabba händers möda, At Bilden färdig se, och den på fötter stöda.
+Nu Stephan uprest stod, uthuggen, plump och rar, I all sin kroppsgestalt och det så lång han var.
+Ett mästerstycke snart plär allmän längtan båda: Också alt folket lopp at denna Bild beskåda; Ack himmel!
+skrek en hvar som Stoden nalkas fick, Ja, det är Stephan sjelf!
+Så lik sig där han gick, I ställning, mine och alt narracktig som i tiden.
+– Nej!
+se dess sneda käft till öronen upvriden!
+Men hvad han är sig lik!
+I sanning är det vist, At han såg just så ut, då han stod fadder sist.
+Man klumpen nu upbar för at betracktad blifva, Som den där endast tröst åt Enkan kunde gifva; Den fördes och med flit til andra våningen, Hälst Herrn och Frun ett år sin boning haft i den.
+Här inneslöt hon sig vid dörrens glänt så sagta, At innom samma rum sin Stephans Bild betrackta, Och ansåg för en plickt, i tårar utan tal, At evigt honom värd fördubbla sina qval, Och åt hans kalla Bild sin varma gråt förära.
+Hvem kan väl högre prof af könets dygd begära?
+Dorinde så bortglömd i flere veckor satt, Där hon som jag försport af sorg och klagan matt, Knapt orkat med sin fot til fenster-posten stiga: Med ingen annan talt än med sin hund och piga, Tils äntlig hon i dag af en nyfiken håg, För första gången klädd, ut genom fenstret såg.
+En främmande person i ögnablicket stiger Fram til Dorindes port, där pigan ler och niger: Hör!
+skrek hon läspande – hör kära Fru, kom ner!
+En Herre ung och rask här om den äran ber, At tala få med Frun och någon sak berätta: Så vacker om ej mer, som salig Herrn för detta; Gud vet hans ärende, men fåfängt kära Fru, At han mig det förtror: – hör!
+svara honom du, Inföll Dorinde tungt, hvad hälst du kan påfinna; Men jag gå från min man – nej, bort så trolös qvinna!
+I korthet mit förfall ursäkta bäst du kan, Och säg mig ligga sjuk af sorg för salig man; Som ej är underligt – nej!
+kära Fru!
+så svara, Det går omöjligt an, ärindra sig nu bara, Han Frun i fenstret såg; och jag ej annat ser, Än at Frun sjelf får låf i trappan stiga ner: Förr går han ej sin väg, som meningen lär vara, Än någon sak af vigt han först fått uppenbara; Och derföre mitt råd at Frun nu genast går.
+Bestört den unga Frun med fålda händer står: Omsider med et språng är hon til Bilden borta, Med den hon endast sökt sin sorgedag förkorta: Omfamnar den och går ned mot den främmande.
+Hvem är väl då den Herrn?
+– jo men en Friare:
+Därom oss bäst besked lär pigan kunna göra, Som lystnat oförmärkt, fast ej et ord at höra, För gråten af vår Fru i flor och fållar spänd.
+Men än är Friarn qvar, och månan längsen tänd – MåndŽ tro han vill som gäst til qväln bli qvar och spisa?
+Dorinde återkom med någon tröst och lisa: Också tycks tid en gång at från den Bilden gå.
+Hör Lischen sade Frun, hvad utväg för oss två?
+Den Herrn enträget vill sig vid mitt bord inställa: Ej Lischen annat råd, än at vi straxt förvälla, Just i fullt flygande en kanna norss, vet du; Och därmed går jag in – gå, gå, min söta Fru!
+Straxt Pigan öfveralt i minsta skrubb nu söker, At finna någon ved – men hurŽ sin rygg hon kröker, Ej minsta sticka fins – villrådig hon till slut Ber innom dörrens glänt Dorinde komma ut.
+Min Fru!
+– ack hviskar hon, jag måste mig beklaga, Till Fisken ingen ved bland spånorna at taga: Kanske man Bilden tar från öfra våningen, Som torr och brännbar är, och sönderhugger den?
+Hvad!
+Bilden?
+Lischen – nej – bevar oss, – fast må göra: Onödigt ock med mig at all ting mer rådgöra; Doch Bildens grofva klump min styrka öfvergår; Kanske, vet Frun, man den ut genom fönstret får.
+Försök, så slipper du den hugga först och trafva, Men ack!
+när jag härnäst kan gladt den äran hafva Den Herrn se i mitt hus, så är min klagan slut – Straxt fönstret öpnades och Stephan störtas ut.
+XXX
+DEN ÄDELMODIGA RÖFVAREN
+Ej långt från Londons Stad, en man til fots där gick, Som straxt en Röfvare på fältet varse blifver.
+Den arma mannen hemsk, med en medömkans blick I djupa bugningar sin ångst tilkänna gifver: Min Herre, sade han, mitt lif för Guds skull spar, Jag aldrig gjort er ondt, men vill af hjertat gifva, Hvad edert ädelmod mig täckes föreskrifva, Doch för i dag vet Gud, jag ingen skilling har.
+Jag går til Staden nu; min Herre sannerlig, At undfå tio pund, en mig tilhörig Summa; I morgon är jag här, det vill med ed jag tumma, Och dela den med er – så sant Gud hjelpe mig.
+Välan!
+blef Röfvarns svar, du svurit, gå din gång, – Jag tror dig – lycka till at dina värf uträtta.
+Hvad hände?
+– om en stund kom mannen, fri allt tvång, At med en glättig syn ett redligt hjerta lätta: Tilbaka se mig nu – se säger han, se här!
+Jag gissar att er brist mer stor än min kan vara.
+Se här de tio pund, – jag såleds nu begär, Att ni min gifna ed för upfyld vill förklara.
+Med blygsam mine och röst framträdde Röfvaren, Jag ej förlorat har, utbrast han under smärta: Tag edre penningar, behållen dem min vän, Hvem kan en dygd så klar med minsta skugga svärta.
+Så röner största Skälm, den ljufva Sanningen, Att samvetsfrid och lugn tillhör ett redligt hjerta.
+XXXI
+DEN SJUKA FRUN
+Hvem kan de onda ting uptäcka, Som hälsans ljufva dagar stäcka?
+Dock bör man känna dem, – ty mer Man dessa källor råkar finna, Från hvilka våra qval uprinna, Ju lättare man säkert ser, Det onda af sig sjelft försvinna.
+Sin Gubbes ögnalust, den hon sitt sälskap gaf, Sulpitia, ganska skön och varm som Junii-dagen, Gick munter på visit, men kommer hem nedslagen Och med en bleknad kind i soffan svimmar af.
+Hvad ryckningar?
+– på stund dess snörlifs-band uppsprätta, Sex händer om hvaran, straxt räcka sax och knif; Men märk det fordras tid, at ett fiskbenadt lif Ifrån en skönhets-tvång i ögnablicket lätta.
+Den arma mannen hemsk i gråt och hufvudbry, Helt billigt denna syn må ängsla och förskräcka: För tidigt, och med skäl, at hjertat skulle kläcka Vid första makans bår, med känslor för en ny.
+En Doctor sändes bud: och Doctorn kom, hvad hände?
+Ned vid den sjukas säng han myndigt sätter sig; I djupa tankar sänkt, liksom han sannerlig, Mot sjelfva dödens gift ett hälsomedel kände.
+På pulsen tager han, och sirligt efter tact I små afbrutna steg ett tankspridt hufvud sänker: Af hjernans villor yr, han gissar och han tänker, Hvad dess Recepte-bok i detta ämne sagt.
+Men för at i en hast sjukdomens utbrott tvinga, Den unga Esculap å nyo pulsen rör, Och stirrande begär, at man vid sängen bör, Åt honom straxt ett bord, och bläck och penna bringa.
+Han skref – och drängen sprang, då mannen gråtögd tar Den vidt ärfarne Herrn afsides at förnimma, Hvad slikt betyda vill i en så vådlig timma, Då Doctorn leende ger honom detta svar: " Den saken dör med mej – pass på at suckar draga: " Ni frågar fortfor han, hvad ondt er hustru rör?
+" Jag fråga må igen.
+– Om er ej fägna bör, " De tecken då som hälst sig unga Fruar klaga.
+Men ack hvad liflig eld i Gubbens ögon brann, Vid en så glättig post den förr han aldrig brutit.
+En natt var nu förbi, sen Frun Decocten njutit, Dock utan at dess dryck til hjertats lisa rann.
+En annan Doctor söks, som genast budet följer, Och med en mulen blick sig bugar vid Paulun: Han ser hurŽ det står til och hurŽ den sköna Frun Beklagligt kopporna i blod och vätskor döljer.
+Sulpitia!
+– ack min Gud!!!
+– först pjunka i grossesse Och sen af kopporna olyckligt läggas neder, I gode Herrar!
+– nej – pass på – för alt jag beder, Pass på med er Decoct – förvisso utom dess Helt säkert en af er misstager sig god Herrar – Nej öfverlämna blott min Fru åt sin natur, Ty i hvad sjukdom hälst, så fruktar jag er cur, Långt mera än alt ondt den sjukas nöd förvärrar.
+Min Herre!
+tålamod, – hon til och med i dag Er Fru – kan bättre må och fram till soffan skrida … Men fåfängt mannen går från hennes säng och sida: Tvärtom – i hvar minut och vid hvart klockeslag, Han hundra gånger spör om hon sig bättre finner?
+… Ack!
+grillerfulla man!
+betänk den saken klar, … Ni nödgar eder Fru til frågor, tal och svar, Naturligt at deraf dess blod mer mattadt rinner.
+Hon liksom tala vill och stint på täcket ser, Det hennes kalla hand i dun och blommor plockar; Ren af dess brutna röst, och hårets däfna lockar, Tycks dödens kulna skymt updagas mer och mer: Snart nog min Herre snart – dock lät er sorg sig sakta, Snart eder Fru mer frisk än någon af oss mår, Snart Caron kikande med sträckta årar står, At fri från plågors qval Sulpitias skugge frakta.
+Hvem klappar!
+– kom slå vad!
+at Doctorns åkdon höll: Men nej – det Skräddarn var, som bar så fint inknuten En prägtig Negligée, i röda våder bruten, Så rosenröd couleur i ögat aldrig föll.
+Sulpitia som nu hör hvad tjenstefolket svarar, I sängen reser sig och ropar matt och blid, Den Skräddarn han kom just i rätt behaglig tid: Kanske min döds-habit i knytet han förvarar.
+Ja, som ni sjelf nu ser, min gode Mästare, Så kanske innan kort är min förvandling nära: Dock om jag lefva fått, så ve mig på min ära Om jag mig ej bestält en dylik negligée.
+Précist af samma tyg – ni sydde – observera!
+Åt en viss Fru en Robe, som Mästarn sjelf ju vet – Men ack!
+hvad är vårt lif?
+– alt är fåfänglighet: Gå Mästare!
+– farväl – vi råkas aldrig mera.
+Men gif dig dock tilfreds, du högst beklämde man, Du hör ju at din Fru än orkar muntert tala; Och hvarför må ditt bröst ej hoppets lugn hugsvala, Då än ett andedrag dess lunga flåsa kan.
+Ja, Skräddarn går sin väg, sitt ärnŽde at utföra Och mannen honom tyst till porten fölgde ned; De taltes vid en stund, tills Skräddarn med en ed, Förbandt sig än en gång att plagget färdigt göra.
+Också mot Skymningen han snällt tilbaka var, Där Fru Sulpitia låg i sängens täcken vriden.
+Hon leende beser den nya drägt af siden, Som Skräddarn i en duk väl gömd och inlagd bar.
+Han duken vicklar ut – hvad granlåt!
+– på min ära, Ett så förträffligt tyg – man näpplig köpa får Men hvartil tjänar alt, när hon ju ej förmår I denna verlden mer det rika plagget bära.
+Ack!
+sade mannen, ack!!!
+med knäpta händers bön, Min Ängel!
+jag gaf alt af hela min förmåga, Om blott jag såg dig frisk på gålfvets tilljor tåga, I denna glada Skrud, som dagen sjelf så skön.
+Ja!
+svarade hon – ja!
+– så sjuk jag än må vara, Så kan jag ej min vän, dig neka ditt behag.
+Jag vill då stiga upp – för at du må i dag, Se mig i denna drägt – och hurŽ den sitter bara.
+Säng-Skärmen rullas fram, och Frun ur sängen klef, Så svag, som hon ett år sökt sig til grafven närma; Men nu i all sin glants vid Caffe-koppens värma, Til minsta finger frisk hon lätt och glättig blef.
+En klädning orsak var til denna dags elände, Och genom samma plagg släcks alla Febrars brand; Så botades helt lätt af Skräddarns kloka hand, En sjukdom, hvilkens grund ej två Doctorer kände.
+XXXII
+MOTSÄGELSE ANDAN
+Ismene en artig Fru, den lärosatsen spridde, At yrka sådan sats, som annat folk bestridde: Också påbördar man fruntimren i gemen, At äga denna dygd, gemensamt med Ismene – Dock om all verldens krets den gåtan mig förklarar, Jag tyst mitt tvifvelsmål innom mitt bröst bevarar, Och påstår uppenbart slikt intet vara sant.
+– Jag är ock lyckligt-vis med mången Dame bekant, Och ofta sjelf försökt, en Nymph min sköna kalla; Men att en gång få se dess hand och munn befalla, Blott i det ändamål, på stället motsagd bli, Mig ännu aldrig händt.
+– Alt derför finna vi, Tilmälet vara falskt, och orätt at de sköna, Förutan undantag, så svår beskyllning röna.
+Ismene jag klandrar dock; och denna nyhet bär, Förutan alt förtal, som mig ej medfödt är: At, i hvad sak som hälst hon kom at sig inblanda, Straxt rögde hon sin harm och sin motsägnings-anda.
+Nyss satt Ismene til bords at spisa med sin man, Uppå hvars hvita duk, bland rätter om hvaran, Sågs stäldt ett fat med fisk, som hvad mig tycktes skåda, En skön kokt Gädda var, af utvald smak för båda.
+Hör på min ängel, hör!
+utbrast den fromme man, Om jag mig ej bedrar, som lättlig hända kan, Så är den fisken kokt, men ej nog blå – min maka.
+Hvad!
+ropade Ismene, med en bortbleknad haka, Så väl man nånsin vill, och föranstalta vet, Är hustrun er ett mål för daglig-dags förtret; Jag säger än en gång, sitt intet där och peka, Blå, blå var Gäddan visst, det kan mig ingen neka.
+– " Likgodt min ängel, tyst; – nå låt så vara då; " Den saken är ej värd, at mera tänka på.
+Ja, liksom en kalkon med röda klädet reta, Ses i ett ögnablick upblåst på fältet streta: I näsbrusk, krås och näbb dess ilska målad är, Som ymsom röd och blå en skiftad låga bär: I ögonen ny eld, vid hvarje skritt han träder, Med en upruskad stjert och knäppning i hvar fjäder, Då sprittande och ilsk han kacklar hämd till skyn.
+Så syntes ock Ismene, med skarpa ögonbryn, Och rödblå läppars fragg i raseri utfara, Mot hvart ett enda ord som mannen gitte svara.
+I gäsning hennes blod, och kring dess anlets-drag, En blånad bredde sig vid pulsens högda slag: Dess ådror sprungo upp; bäst ögonen de blängde, Och läppen tjock och blå inunder näsan hängde, En yfvig lugg af hår, vid tusen flata skratt, Sköt hennes nattyg upp, som halft på örat satt.
+Därpå begynte hon, – du man, och jag din maka!
+Tro ej i evighet, jag tar ett ord tillbaka, Jag påstår än en gång at Gäddan hon var blå; … " Ismene, ack häjda dig; – hvart skall jag fly och gå?
+.. " Tag glaset mor och drick!
+– dock låt henne ej dricka.
+Nu Gubben uprörd gick, med handen i sin ficka, Helt mållös och försagd; men knapt han gången var Förrän man ser Ismene, bortsvimmad, kall och bar, På golfvet där hon låg med halfva ögon blicka, HurŽ kunde annat ske?
+förargad först, – så dricka.
+Ett oförmodat larm i hela huset rår, Ismene än stirrande med vreda armar slår: Man fängslar hennes hand, där hon sin knoge knyter, Och på den sjuka Frun straxt tummarna upbryter; Kring tinningar och puls man bästa kryddor strör, Med balsam gnides hon, men ingen känsla spör.
+Til slut af brända hår, ett medel man försöker, Dock, fåfängt för dess luckt at detta troll-skott röker.
+Ej gifves någon Ört, så sällsynt och så dyr, Som gör at från Ismene nu dödens vånda flyr.
+Påkallad blef dess man, han kommer och han gråter; " Ack ropar han förlåt!
+– säg om du mig förlåter?
+.... Min ögnalust du dör – och jag olycklig nog, " Som påstod tvärtemot hvad du för gifvet tog … " Hvarföre ej ditt lif, blott med mitt bifall rädda?
+" Förtretliga minut!
+– och du fördömda Gädda!
+" Som Gud i himlen vet, var vist ej blå min mor ....
+I samma ögnablick hon qvicknade och svor, Blå var hon!
+skrek Ismene, och blå skall Gäddan blifva: Hvad!
+vill du intet än din sturskhet eftergifva?
+Så sågs til lif igen mer en motsägelse, Än vidrigaste lukt, den bästa värkan ge.
+XXXIII
+DEN FATTIGA MANNEN OCH DEN RIKA.
+Aret, en dygdig man, men Gildstu-klädd och trött, En man som endast guld och ägodelar felte, Bad lyckan om den nåd hon rikt åt andra delte, Hälst Gäldenärers språng hans tröskel länge nött.
+Ja, lyckan altid van at njugg och sparsam vara, För den tilbedjande, som knapt uppå sin lott, Ur hennes gyldne skål än nödens penning nått, Beslöt nu at Aret uphjelpa och försvara.
+Hans trägna bön blef hörd; då han i grus och ler, Åt några mörka hvalf ett blödigt öga sträckte, En underjordisk skatt vid lycktan han uptäckte, Som någon girigbuk förmodligen gräft ner, Hvad glädje i hans bröst?
+– hvad frid innom hans stuga, At se sin gäld betald, och ingen armod mer!
+Dock denna frögd är kort, då han i stället ser, För Gäldenärers svärm, jämt Smickrare sig buga.
+Så snart han tar sin sked och bordets kanna rör, En lömsk och torstig Smek sig kyssande inställer, Som vid ett plötsligt svar, en tankfull fråga fäller, Om hälsan än är god?
+det han förmoda tör.
+Med låford och med list han söker at behaga, Och detta skrymteri, och detta granna prat, Med bugningar och rim vid minsta kärl och fat: … Alt grant tilkänna ger den vännens toma maga.
+Ack!
+ropade Aret, bland tvenne onda ting, Är rådligast ändå, det minsta at fördraga; Och kan min lycka mig från Smickrarn fri ej taga, Så är jag mera trygg i Gäldenärers ring, Än låta sådan bof sin hala tunga räcka, – Från Gäldenärers kraf, man frias någon gång, Men denna smyger sig behändigt och på språng, At mig med alt sitt gift i ödmjukhet befläcka.
+XXXIV
+HÄSTEN OCH ÅSNAN
+En häst som mod och låga I ystra ögon bar, Gick bröstad af sin plåga, At Ryttarn höll sig qvar.
+Men bäst en volt utföra, Den Ryttarn återhöll; Så störte han och föll: HurŽ lätt ett snedsprång göra!
+En Åsna syntes trafva, Som log rätt hjertelig; Tänk om jag skulle snafva?
+Skrek hon, hurŽ gick med mig?
+Tig, inföll hästen – bara, Jag tilstår för min del, Dig nog för ringa vara, At äga mina fel.
+XXXV
+DEN TJENSTSÖKANDE YNGLINGEN
+För at i lycklig stund en snar befordran vinna, En yngling tidigt klädd, bekymrad ofta lopp, Snart sagt hvar enda dag, förŽ n solen runnit opp, At hos en mägtig man sig bugande infinna, Hvars minsta förord blott, fullt vägde mot hans hopp.
+Nu som en ämbets-stol fans innom Magistraten, Stått ledig någon tid, alt derför ynglingen, Utbad sig i vacance at upförd bli på Staten, Samt att då uti skrift han sökt befordringen, Han nu i ödmjukhet skull få framlämna den.
+Af ömma känslor rörd, och som en mänsko-vän, Sågs denna hedersman en vänlig mine uttrycka.
+Han läser hans Suplique med bifall till hans lycka, Tar honom fromt i hand vid dörrens skymt på glänt, Rätt illa säger han at jag er förr ej kännt, Som den all acktning bär för vett och stilla seder, Jag, framför någon annŽ vill Sysslan skänkes eder.
+De taltes sedan vid, då uti tal och svar, Den Ynglingen befans en städad hjärna äga, Bland Sång-Gudinnorna ett vittert sällskap pläga; Och för ett högre kall hans insigt rätt att väga, Han flere tjenstemän ett efterdöme var.
+Ack!
+ropade helt högt hans Gynnare – godt hopp!
+Den Sysslan!
+är ni värd at ur min hand anamma: Gaf honom hand och gick, – då i och med detsamma, Vår Yngling ur sitt skjört en guldmedaille tog opp, För at mer säker bli – hvad?
+hördes Gubben svara, Den Sysslan!
+Gud bevars, at ni den nånsin har, Ty den som mutor ger, han också mutor tar.
+Ert hjerta är gement, – gå, gå min vän – gå bara.
+XXXVI
+TIGGAREN
+En Tiggare med blottad klinga, Kom en gång til en rik mans hus; I bugningar och mycket krus, At en almosa sig betinga, Af denna mannens Capital.
+Er, sade han, bland menskjo-vänner, Ert christeliga bröst jag känner Som ömmar de betrycktas qval.
+Min gråt skall broderskyssen prässa, Af dina läppar menskjo-vän: Märk, hurŽ jag söker penningen, Med blygsam fot och bugad hjässa, Och ber om ditt benägna svar:
+Ja!
+på din gunst jag mig förlåter: … Vid dessa ord – han klingan åter Med ilsken blick ur slidan drar.
+En vanlig sed ibland Scribenter, När de vårt bifall önska nå, De sina fordrings-sätt förstå, At blotta dem med complimenter, Med hämd och granna ordalag.
+En Auctor vill, som han ej ville, Bli krönt innom de Lärdas Gille För sina vittra företag.
+Han på vår billighet sig stöder, Och all hans forskning angår oss: Han sprider sina snille-bloss, Förnäm bland Vitterhetens Bröder, I egenkärlek hög och lärd.
+Men från sin sats at intet vika, Så bär han på en gång tillika, I båda händren eld och svärd.
+XXXVII
+FLUGANS OCH MYGGANS DÖD
+En Flugas död – min luta väcker, En ringa Mygga rör min sång; Då bådas öden jag uptäcker, Fast i en olik hädangång.
+Den unga Flugan stolt sig sätter, På Bägarns brädd, förmäten, dumm; Hon vinet kring sin snabel sprätter, Til dess hon drunknar i dess skumm.
+När Myggan såg sin syster simma, Sjöng hon – din graf jag skyr ännu; Jag roar mig åt Ljusets strimma, Men ej åt Bägarns dunst som du.
+Hvad hände väl vår sluga Mygga?
+Förblindad utaf Ljusets sken, Förstod hon ej dess strålar skygga, Men dör förbränd til hud och ben.
+Du, som Begärens eld at nära, Af nöjens flärd njöt aldrig nog, Unn mig en gång ditt stoft til ära, Blott säga at du menskligt dog.
+XXXVIII
+MÅLAREN
+En Målare fans i Athen, Som minst för at behofven nära, Men smickrad mer af namn och ära, Sin Pensel högde rik och len.
+Den Målarn lät på utsatt timma, Från Attilién en kännare, Mars bildad i sin rustning se, Och trodde sig hans låf förnimma.
+Men kännarns smak, som dölgde sig, Inom ett vant och dristigt öga, Fann i upfinnings-konsten föga, Och Taflan mindre mästerlig.
+Ty, at en säll förtjusning sprida, Ej konsten men naturen gör … Han grundligt påstod som sig bör, Dock fåfängt Målarns nyck bestrida.
+I ögnablicket insteg – märk!
+En Fjäsk Krigs-Guden at beskåda: Ack, skrek den Narrn –, hvad färgor råda I detta stora mästervärk.
+O Gudar!
+– hvilken konst sig höjer Til minsta nagel på dess fot: I hjelm och sköld hvad glants och hot?
+Ja, Bilden lif och anda röjer.
+Vår Målare medömkansvärdt, Och flatt mot denna kännarn bligar: Ack inföll han, på Snillets stigar, Hvad han mig rättat och mig lärdt.
+Nu knapt den narrn vid dörren rörde, Förrn Målarn i ett ögnablick, Med svampen Taflan öfvergick, Och Gudens Bild i grund förstörde.
+När kännare med köld i dina skrifter se, Då är dig vådligt nog i längden mera skrifva; Men åter om en narr, dig hörs sitt bifall ge, Är bäst din snille-bragd på stunden sönderrifva.
+XXXIX
+DE BEGGE FLICKORNA
+Två unga Flickor tänkte båda, På hvad?
+helt säkert på en man.
+Ty, låt en Nymph sin Brudsäng skåda, Och säg om hon mer önska kan?
+Den yngsta Systren Philippina, Var vist en ej ostädad Brud, Dess anlet skönt, dess hvita hud, Så hård som hennes ådror fina;
+Dock tvungen neg hon i hvar vrå: Så at, ehuru snörd hon ryste, Och af jouvelers skimring lyste Ur hårets brutna lockar små, Dem hon sågs jämt i ordning laga, … Likfullt utreddes detta rön, Hon mindre älskvärd blef och skön, Ju mer hon tänkte at behaga.
+Den äldre Systren Carolina, Till bildning ej så späd och fin, Men af en vändning och en mine Bland Damer dem man kallar fina, Som gjorde henne altför täck; Just hon, fastän på hennes kinder Sågs en och annan sommarfläck, Med all dess rodnad utan hinder, Vann ögats tjusning len och lätt.
+Ej sågs hon sina skuldror höja, Med guld och pärlor strödda tätt; Et vattradt band, en bröst-bouquette, Som yfdes at sitt sköte röja, Ett vackert lif, en reslig tröja Var hennes prydnad rätt och slätt.
+En Friare till Philipina, Berömmer hennes skönhets-vår: Dock än hans hjerta ledigt slår; Men knapt framstiger Carolina, Förrän han stum och häpen står.
+Sig konsten med naturen målar, I dessa Flickors bildning – hör!
+… Af utmärkt glants den ena prålar, Hon fängslar ej, – hon blott förför.
+Den andra åter likså mycke, Okonstlad till sitt hjertelag, I enfald sökte alt behag, Och derför vann hon allas tycke.
+XL
+LILLA FREDRIC OCH MYGGORNA
+Min Pappa märker jag, åt skogen ärnar sig, Så sprang och ropade den yra Fredric lilla, Tänd af sin ungdoms- eld: för honom at stå stilla, Omöjligt … tjärr från tjärr, han hoppar varm och vig; I Philax språng förut, han efter Fadren springer, Men knapt han busken når, förrän en Mygga stinger, Och åter där en ann, hans lena ådror bryr: Oroad i sin flyckt, han deras vånda skyr, Och reŽn ett stycke väg, hans snabba fötter vunnit.
+Ju fortare han sprang, mer öktes Myggors här, Godt sade Fredric, godt!
+– sen jag så långt har hunnit Så tro, at all min blod, er undergång besvär; Ej minsta mygga mer skal trotsigt mot mig blicka.
+Förbittrad han en qvist af närmsta telning bröt, Och kyld innom dess löf, sin stungna knoge knöt;
+Men Myggorna ändå, i dansen lika qvicka, De trotsade hans hot, i gungning upp och ner, Och stungo de förut af idel lust at sticka, Så stack den minsta Mygg af hämd nu dubbelt mer.
+Den stackars Fredric, röd om ansigte och händer, Och bränd af deras stygn, förskräckt till Fadren flyr: Se!
+skrek han till och gret – hvad blodigt äfventyr!
+… Det kallas sticka det – se!
+när jag handen vänder, Hvad qvisslor öfveralt, och svulnad – söta Far!!!
+Och märk, fast än jag sprang, at svärmen från mig jäckta, Så hjelpte hvarken språng ej eller – fly och fäckta.
+Hör ropte Fadren!
+– hör!
+– din sats ej just så klar; Afmät din väg min Son, sagtmodig som din Far, Så skall du röna lätt hvad jag dig kan bedyra: Af tusen Myggors svärm, du mindre anfall har, Än, om med vreda slag, du motar deras yra; Ty Fredric, märk och mins, en ringa Fiende, Så värnlös han ock syns – den reglen bör du minnas – Kan genom tålamod bevekligt öfvervinnas, At dig i sinom tid, sin ömma aktning ge.
+Derföre när min son, – din Fader, likt du träder, På verldens skådeplats en gång i äldre stig, Och ögnar här och där, en ovän brösta sig, Föragtad i gestalt, till vilkor, vett och kläder: Så fullfölg du din stråt, liksom du ingen såg, Och röj i dina fjät, en skarpsynt man och mogen … Men Fredric, lilla du!
+– för ro-skuld kom ihåg, Den händelsen min son, med Myggorna i skogen.
+XLI
+INFORMATORN
+En Bonde mägta rik, som blott två Söner ägde, För dessa sina barn en Informator fann.
+Jag och min Gumma märk!
+min Herre sade han, Som vårt begrepp om er, til Barnens fördel vägde, Nu lämne i er vård, hvad oss som kärast är.
+Upfyll ni detta kall,!!!
+ni skådar vid min sida, Två muntra gossars språng i lekande begär.
+Ert ansvar mödosamt det ingen kan bestrida.
+Men Herre, däremot min hand skall borgen blifva, Om den ärkänsamhet jag eder gälda bör: Då hjertligen jag ber, at ni till minnes för, Mitt tycke och min lust i räkna och i skrifva, Och må i detta alt de flitigt öfva sig.
+Hvad Christendomen rör, skall den inympas stilla, I deras späda bröst på dygdens ädla stig, Till trots mot verldens flärd och lustars ras och villa.
+Ja, Christendomens frö i hjertats djupa gömma, Kringsprid med all er nit hos dessa barn ni ser; Dock kanske ej nog klar min tanke yppas er?
+Likgodt, er blir ej svårt at om min mening dömma; Det är: – at mina barn på ärans vägar se; Då blifva deras lif, båd jord och himmel kära; Och gör nu som jag sagt, – se här er kammare Med hvad til eder tjenst ni täckes mer begära.
+Den gode Läraren för desse Bonde-söner, Uptäckte oförmärkt ett sådant hjerta slå, Som Ynglingen af börd ej altid lottas på; Ty af erfarenhet, säg om man tidt ej röner, De eldigaste barn i ringa kojors skygd?
+Och blef af konstens hand den råa marmorn bruten, Hvad många store män utbredde sig i dygd, Till trots mot Gudars tid som längsen är förfluten?
+Ja!
+mången som beskänkt, står Krögarns trappa nära, Och Öfverhetens bud i dagblad hör och ser, Han kunde kanske stolt, som Statsman med manéer, I band och stjernors glants, förtjenstens lagrar bära; Liksom nog finnes den i Bondetråk och gräl, Som skulle för en front med hvassa ögon plira, Beqväm till högre hvärf, med mera dristig själ Än mången högförnäm, den Casqve och fjädrar sira.
+Vår älskade Student, med stadgadt vett och heder, Upfylde så sitt kall, som redlig man och lärd, Så at ock Bonden sjelf höll honom aktningsvärd, För kunskap, skicklighet och nit om rena seder, Och ofta bugande in på hans tröskel steg, At höra Barnens sorl i deras läxor ljuda: Upmärksam vid hvart ord, han lystnade och teg, Som skulle slikt besök Föräldrars pligt påbjuda.
+Ett år till ända lopp, då Bonden ville veta, Hvad för hans trogna tjenst han honom skyldig var.
+Nöjd med fem plåtars lön, blef Informatorns svar, Nej inföll Bonden, nej – för mig ej svårt utleta,
+HurŽ alt ert hufvudbråk är mera värdt än så.
+Ert arfvode för knapt och räknadt till er skada: Vet – nästan lika lön plär husbonddrängen få, Som samlar årets växt innom min gård och lada.
+Nej detta lösnings-sätt ej passande för eder, Som i er vårdnad har hvad mest mitt hjerta rör; Ty dessa Barnens ans med tiden slutlig gör, At Ni, igenom dem förkofring mig bereder.
+– Nej!
+kära Herre nej – så lönas går ej hop; Så ringa penning-post må er en an hembära: Jag är förmögen man, och utan prut och rop, Er hundra daler fullt, vill jag på stund förära.
+Än mer min Herre!
+märk!
+min pung skall vist ej svida, At öka år från år er lön innom mitt tjäll; Må ske at ock ett gods förpantas – bagatelle: Betyder ingen ting, om nöden går så vida; Slikt ej en lastbar nyck, fast mera klokt min vän, At til de sinas väl ett stycke land förpanta, Än i upfostrans väg, at villade på den, De härja mina fält til minsta frö och planta.
+Har sådan händelse i sanning värklig timmat?
+Alldeles sant och vist uppå mitt heders-ord: Och jag kan Läsare!
+beskrifva tomt och jord, Hvar denna Bonden bor, hans namn är lättlig rimmat, Men detta alt kanske sig Gubben undanber; Hälst hot af Adelsman han kunde lätt upbära, Som huru hög han är knapt tretti gylden ger, Til sina Söners vård, halft dussin gossar nära.
+XLII
+DEN DÖENDE FADERN
+En Far två Arfvingar i tvänne Söner ägde, Christopher likså qvick, som Görgen trög och dum: Sitt Testamente ömt nu Fadren öfvervägde, Med dunkla ögnakast åt grafvens hvilo-rumm.
+Christopher vid hans säng aftvingar Gubben tårar: Hör!
+– sade han min Son!
+… ny vånda qväljer mig: Du, född med Snille, du!!!
+hur skal det gå med dig?
+Din framtid och ditt väl, är stygnet som mig sårar: Hör på!
+– i detta hvalf – ett skrin försegladt står, Rikt af Jouvelers tyngd, – det vill jag dig förära, Med villkor at din Bror alsintet deraf får.
+Bestört nu denna Son, sig tungt för bröstet slår, Och nalkas darrande sin Faders sjuksäng nära: Min Far, ack!
+ropar han … när jag så mycket når, HurŽ blir det med min Bror?
+– skall han då arflös vara?
+Christopher!
+hör min Son – hörs Gubben fryntlig svara, Hvad Görgens framtid rör, Med honom ingen fara: Hans dumhet kära du, fullt honom lycklig gör.
+XLIII
+DE BÄGGE HUNDARNE.
+At ofta minst beundran når, Hvad stort Naturen sparsamt delar, Däri, snart sagt, all verlden felar, Och denna osed ännu rår.
+Hvart ögnablick vi oss förville, Det sämsta för det bästa gille: HurŽ skall man detta onda fly?
+Jag tror med alt mitt hufvud-bry, Slikt ondt i verlden ej försvinner; Ett enda medel, det jag finner, Oändligt svårt på jorden fins!!!
+En narr, en dåre, märk och mins, Måst til en klok och vis förvandlas, Likväl en sak, som hurŽ den handlas, Tycks röja en omöjlighet: Han tingens värde intet vet, Misskänner alt, – sin syn tillsluter; Förståndet intet så sin stilla undran njuter.
+En dåre prisar högt hvad högst föracktligt är, Så vida han ej känt det goda han begär.
+På en viss Herres Säteri, Två hundar i hans tjenst sig tedde, Joli med yra språng hvart ögas mine förledde, Till bifall och behag af alt sitt gyckleri.
+Än under stol och säng en handske at upsöka, Och än at leta fram en bortglömd käpp och hatt, Upväckte hvar minut handklappningar och skratt, Då hunden hukad sågs sig smilande nedkröka, At få sitt byte fatt.
+Se ropade hvar en så gladt, Se hurŽ hans vida käftar grina!
+Då lömsk han sågs sin djerfhet pina, Med ögat fullt af lek och spratt.
+Ehuru rolig han ock var, Han bets och stundom tändren skar, Och åter fromt sitt hufvud fälde; Men fast han jämt i otid skälde, Och öfver hela nägden tjöt, Hans husbonds dumma fromhet njöt, Och gårdens folk sig gladt inställde Hos en Joli som undran vann; Lisette hans qvickhet ej fördölgde: Til bord och säng han henne fölgde, Och båda roade hvaran.
+I lek och sömn hvart dygn försvan, Men hon mer fåfäng var än han.
+Fidel den andra hund, af en hel annŽ natur, Var ej till gyckleri på husbonds tröskel lämnad, Blott vaksam om hans hus, til intet annat ämnad, Om ej at stå och lyss vid Jägarns midnatts-lur – I skogen var han spak, behjertad i sin våda, Ej hördes minsta glafs där tystnad skulle råda; Han dör – och därmed väl – Fidel en tår ej värd:
+Man snöpligt honom straxt i jorden nedergräfver.
+Joli som också dör – hvart bröst med suckar qväfver Bland husets tjenstefolk, fast mindre saknad värd: I nägden här och där man bättre tårar fäller.
+Ett medelmåttigt vett, tro mig, det mera gäller, Än ett godt hjertas flärd.
+XLIV
+DE BÅDA BRANDVAKTERNE.
+Två Brandvakter gingo hop Långlig tid från natt-paraden, At från eld och brand i Staden, Den bevara med sitt rop.
+Jämt på krogarna i träta, De hvarandras saxar fläta, Ilskefulla man mot man; Och fast eld i knuten brann, De sin gilla gång afmäta, Käbblande så blodet rann.
+Ty om en vid Skramlan fann Fnöske till den andras pipa, Fåfängt at hans eld-don knipa, Och ge tobak åt hvaran.
+Kortlig sagt i slåss och kifva, En Väktare stod på språng, Höttande ett dråpslag gifva, Vid den andras rop och sång.
+Stadens harm och undran väckte, Sådant buller natten om, Tills för Domstoln målet kom, Där sig löjligt vis uptäckte, Huruledes höst från höst, Desse Väktare de kifvat, Och hvarandras harm uplifvat, I ett oförsonligt bröst.
+Gissa till så bitter lunga, Hvarfrån detta grälet flöt?
+Intet trångmål sämjan bröt: … Nej den ena vandt sig sjunga, At Guds starka Allmagts hand, Måtte Staden mild bevara Från förstöring, nöd och fara, Kort sagt ifrån eld och brand.
+Men den andra Väktarn arma, Gata up och gata ner, Vandt sig at i hvart qvarter, Ropa med full hals och larma, At Guds starka Allsmagts hand, Måtte Staden mild förvara, Från förstöring, nöd och fara, Kort sagt ifrån eld och brand.
+Detta utrops skilnad, bara, Märk min Läsare – och hör!
+Hvad en stafvelse blott gör, I bevara och förvara!!!
+Kan du väl inbilla dig?
+HurŽ bland dessa Vandrings-Bröder, Slikt ett lappri ämnet föder, Til ny träta på hvar stig.
+Månge dem för dårar hålla, Hälst, då i så oträngt mål, De med bannor, stoj och skrål Dumt hvarandras ofärd vålla; Men bland Lärde i vår Nord, Säg, hvad böre vi dem kalla, Som med bleka käftars galla, Ifra om ett lumpet ord.
+XLV
+HANS NORD
+En man, fast bättre sagt, en spitsbof, lät en gång, I Londons tryckta Blad med mycket orda-prång, Til de nyfiknas vad – en sällsam konst kungöra, Och derför i ett skjul, det nyss han hint upföra, All meningheten bjöds fram till hans skådebord: Lät så en tom Boutelje och sig i koppar sticka, Med denna här Annonce, som lyder ord från ord, " I den Bouteljens hals förbinder sig Hans Nord " Mot alt hvad hållas kan, précist till punct och pricka, " I den at krypa in med hufvud, benŽ och lår, " Just då vid pass i qväll som klockan tie slår: " För hvarje plats ett pris af åtta skilling gäller.
+Nu flög det Bladet kring bland Lorder och Gesäller, Vidt öfver Londons Stad, och allas häpnad vann; " Hvad!
+i en tom Boutelje –?
+hvad, är han slug den man?
+" Det låter han väl bli, .. så sant, som jag til åren, " Jag spår slikt gyckelspel omöjligen går an.
+" Men åtta skilling dock jag sakta våga kan: " Kom Bror, för ro skull kom!
+– mig lyster se den dåren.
+I korthet gick så til, – en muntrade en an, At för ett lindrigt pris så ohörd sak beskåda;
+Ren Pöbeln stormade kring vagnens klämda våda, Där Köpman och en Lord med andetrutna spann, I grund af all Physique hvarandra sökte råda Til öfvertygelse – at den Hans Nord så dumm, Uti en slik Boutelje omöjligen fick rum.
+Ponera, sadŽ en Dame, jag medger fritt må göra, Det vore möjeligt, fast denna tron ej min: Så måste ju hvar klok den frågan billigt röra: … HurŽ kom väl då den Narrn med senor, hull och skinn, Genom Bouteljens hals in i Bouteljen in?
+Dock Lady!
+se vår kusk han nickar på sitt öra, Kör Jan!!!
+– hör klockan slår!!!
+– hvad slår hon?
+låt oss höra; – Fullt 9 hennes Nåd, – så kör då – och kör fort.
+Ren halfva Londons Stad var på berammad ort, At sin nyfikna blick fram til Theatern vända, Där glittrande och tom Bouteljen stod på ända; Vid ett förfärligt stamp, at konsten må bli gjord.
+Man hvisslar, hostar, svär – emedlertid Hans Nord Behändigt sig på dörrn med snabba fötter svängde: Hvem blef nu största Narrn – mån de som bittert blängde?
+Helt visst; men ej Hans Nord, mot halfva Londons Stad, Som i nyfikenhet af et Phantastiskt Blad, Sig til hans skådeplats i tusen faror trängde.
+Du skrattar, det är väl, – men pröfva sjelf din lott, Om ej uti hans fjät du alstrar gröfre brott; Hvad ger dig en Hans Nord?
+– en dålig Bok-uplaga.
+Hvari består hans fint at kunna dig bedraga?
+Blott i ett prunkande och skrufvadt tittelblad, Där hans bedrägeri röjs i hvar enda rad: Han kan all verldens pest med gull-tinctur curera, I Syllogismers bråk klart all ting demonstrera: Hans digra ordabok bespar dig Studiers qval, Och ditt umgängessätt förädlas af hans tal.
+Han kan dig utan tvång till Skaldelyran leda, Dig utan kostnad lär at Gästabud tillreda, At all ting rart och stort skall straxt din lystnad freda: In Summa hasta dig och köp och läs och lär, Hvad får du lära då?
+– att du bedragen är.
+XLVI
+SISKAN
+I Damons blomster-sal, en Siska i sin Bur, Bredvid en Nägtergal tätt under fenstret hängde; Af Nägtergalens röst, den sig til hjertat trängde, Vår Damons lilla Son i oskuld och natur, Förkjust han ropar, ack!
+… ack!
+hvem af dessa båda, Hvem Pappa sjunger bäst?
+den Foglen vill jag se.
+Å jo!!!
+blef Fadrens svar, nog skall du dem få skåda, Och lyftade så in de begga Burarne.
+– Här ser du båda två; – men mig en sak förklara, Hvem tycker du mitt Barn den största Sångarn är?
+Säg – tror du dig nog qvick den frågan at besvara?
+Jo – Pappa – se den där, den Foglen just den där, På Siskan pekande, – han närmre buren träder – I sanning är det den, så sant som jag här står: HurŽ gullgul, hög och skön är hennes minsta fjäder!
+Och hurŽ dess lilla näbb så vackra driller slår!
+Den andra däremot fast han sin stämma höjer Bevisar at dess konst af ringa värde är.
+Säg, om i allmänhet, man ofta nog ej röjer Så svaga tankespel som denna gossen här?
+En rikt broderad rock, hvars skört af purpur lysa, Anseende och rang åt största dumhet ger.
+Som til exempel märk!
+– en viss Herr Stax man ser, Och vid hans första blick tror honom snille hysa: Du frågar mig hvarför?
+– jo i hans anlets-drag, En ljuflig rådnad rår, som fägnar och intager; En ann bär däremot förtjensten i full dager; Men med hans kulna mine försvinner alt behag, Och då är taflan gjord och handen dras från duken.
+Så dömmes också den, man knapt en timme sett, Af några anletsdrag, af rocken och Peruquen, Så till ett stort förstånd, som till ett odladt vett.
+XLVII
+DEN SJUKE
+En man som långlig tid i gickt och sveda låg, Til svalka i sin värk med lakanet sig hölgde; Han vänners gifna råd och alla Curer fölgde, Men fåfängt på sin bädd at han sin lindring såg, Tills en gång vid hans säng framstultade en qvinna, Då straxt i raseri han lakanet updrar, Som af hans ångest-svett, helt vått och fucktadt var; Uplyftande till skyn en tårögd ögonhinna, Beklagade sin värk i märg och ben så hård.
+Då qvinnan hviskande, sig nalkade den sjuka, Ni måste säger hon ett magiskt medel bruka, Och någon morgonstund gå till en Kyrkogård, Där skall i lysningen Ni eder tyst nedsätta, Tyst på en from mans graf, och där af daggens is, Tre gånger eder hand, tre gånger höften tvätta, Slikt hjälper, – men er tjenst åt gumman sen bevis.
+Den Sjuke gjorde så, och fölgde gummans lära, Ty at ett ondt bli qvitt, man gör alt hvad man kan; I dagningen, som sagt, med stafven vandrar han Till kyrkogården fram, beser en liksten nära, Där läser han de ord: Statt stilla vandringsman, " Härunder hvilar sig från verldens strid och galla, " En man som på sin tid beundrades af alla, " Hvars fromhet och hvars dygd ett mönster nämnas kan.
+" Också hans tida död högtidligen beklagas, " Af kyrkan och af skoln, kort sagt af Stad och Land.
+Här satte han sig ned, att hvila, litet grand, Och af en kylig dagg, då det begynte dagas, Med en utmärglad hand de lama lemmar strök: Dock utan någon fölgd, blef detta hans försök; Tvärtom han af sin gickt å nyo dubbelt agas.
+I sorg han ser sig om och fattar till sin staf, Från fromma mannens grift i tysta steg han träder, Och sätter sig så ned bestört på nästa graf, Där ingen minnes-skrift hembars de gömda Fäder.
+Men ack!
+hvad ohörd sak – ren pulsen mildrad slår: Han varsamt börjar där at hand och höften gnida, Och känner mer och mer hurŽ han nu bättre mår … Straxt domnande och sval och med en upvärmd sida, Hans blod blir mera lätt, då lindrad från sin qvida Och utan stafvens stöd, han från den griften går.
+Ack ropar han!
+– säg mig om ingen sten här står, Hvarpå den dödas namn är ristadt til hans heder?
+I samma ögnablick, förbi gick Klockarn neder: Den frågte mannen då, hvem här begrafven låg?
+Men Klockarn stammande och skumögd sig omvände, Och med en ömkans blick åt denna grafven såg: Ack!
+skrek han vid en suck, den han till skyn upsände, Den högste mig förlåt, – det var en man hvars håg, Och hela vandel fölgt en kättersk tro och lära, Hvarför och vid hans död en vigtig fråga blef, Om åt dess stoft man bordt en christen jord förära; Det var en man, Gud nåŽs, som trolleri bedref, Som rimmade och drack och Comedier skref.
+Så sant Gud hjelpe mig, den eden kan jag svära, Om icke denna man, min Herre, var en bof.
+– Nej svarte mannen nej, er ed görs ej behof, Vår döda minst tilhör en sådan skamfläck bära, Fast gudlöst en del folk dess dygd beljugit har: Tvärtom den mannen, den, som ni för fromhet aktat, Och på hvars prydda sten hans storvärk ni betraktat, Förvisso på sin tid en nedrig skugga bar.
+XLVIII
+BONDEN OCH HANS SON.
+En Bonde-son väl dum, vill för att berest blifva, Med en viss Junker Hans sig utom lands begifva: De följas värklig åt, och komma slutligt hem, Men proppade af lögn i hvar en enda lem.
+Vid lycklig återkomst från fler besedda Riken, Åtfölgde denna tölp sin Far kring fält och diken, Och Fredric, (Gossens namn) så upblåst, dryg och hög, I sina becksöms-skor han obarmhertigt lög.
+Förbi dem lopp en hund, väl stor med spetsadt öra, Straxt ropte Gossen, – Far!
+– hör Far!
+ska ni få höra, Hör, jag har sett en hund i Holland nära Hag, Där vägen tager af til Frankrike vid lag, Och jag försäkrar er – (slå vad – all verlden hålla!)
+Den hunden större var än sjelf vår stora Grolle.
+Det var besynnerligt blef Fadrens korta svar, EhurŽ sadŽ han, hvar ort nog sitt vidunder har; Som til exempel hör!
+– när man vill gå dit neder, Så träffar du en Bro, den mången man förleder: Den bryggan måste vi, nödvändigt öfver nu, Men Gud vet något krånkt grasserar där, vet du!
+Där får du se en sten, – tro ej mitt tal förflugit!
+Och just på denna sten, eho den dagen ljugit, Han faller plötsligt kull och bryter benet af.
+Straxt Skurken helt förskräckt en stirrad upsyn gaf, Hör Far!
+ni går för fort – men nu om hund at tala, HurŽ stor sadŽ jag han var?
+– alt efter aln och scala, Som stora grollen vår – så tyckte mig det vara.
+– Nej!
+vasserra för bålt tiltaget kära Far.
+Den hunden som vid pass ett halft år kunde vara, Kan jag försäkra er, och det skall jag förklara, At han vist var så stor som mången oxe mäst.
+De gingo längre fram och käbblade som bäst, Men Fredric blef försagd, och hvem kan det förtycka?
+Ty något hvar är rädd för brutet ben och krycka.
+Likmycke Far och Son de hunno närmre Bron, Då Fredric kände ren en sveda upp til ron: Ett benbrott förestod – ack!
+skrek han i sin våda, HörŽ Far!
+angåŽnde hund, hvarom vi stridde båda, Vist var han ganska stor, fast litet skarfvar jag; Men ändå större Far än någon kalf i Hag.
+Där skjuter bryggan fram, nu Fredrics hjerta dänger, Helt tätt till Fadrens skjört, han makar sig och tränger, Ack!
+kära Far, skrek han, tro nu för all ting ej, At jag en sådan hund har nånsin sett, ack nej; – Far!
+förŽn vi bryggan nå, – jag saken närmre grundar, Den hund ej större var, kort sagt, än andra hundar.
+Låts du om ingen ting, och saken skall gå an, När, här och där en narr vill dig en lögn påtvinga; Ljug dubbelt i hans kram, och sök hans last förringa, Så har du tack förtjent af honom och hvar man.
+XLIX
+ANK-UNGEN
+Främst för en kyckling-hop, en höna snedt och tvärt, I skrock och lock hon klef med en upvingad stjert, At låta i sit skygd en späd Ank-unge skrida, Den bland dess kycklingar hon nyss tillika kläckt.
+In genom trädgården skullŽ tåget nu bli sträckt, Där hönan skrockande med barnen kring sin sida, Så varsamt och så rädd dem förde rad i rad, At på en glättig vink en moders lock förbida, Så mycket mera hörd som hon dem kärligt bad.
+Ankungen fölgde med dock intet alt för vida, FörŽn han ett dike ser, det förr han aldrig såg: Straxt hoppande däri, Ankungen ruggig låg … " Hvem lilla kreatur har lärdt din fot att simma?
+" Hvem bjöd dig halka ned på vattnets hala våg?
+" Är det en medfödd konst från lifvets första timma?
+Men hönan löpande kring dikets bräddar ser, Med en upruskad hals och fjädrarna högt spända, At faran för sitt barn i täta skrock afvända: Nu hon som vattnet skyr vill dock i vattnet ner, Och tusende försök dess sega djerfhet vågar; Ty märk at dess natur, lärt henne vattnet sky; Ank-ungen däremot, vid hönans språng och gny, Behjertad simmande i grumlet henne frågar: Hvi med så ängslig låt hon all dess vällust stör.
+Hvad dig förfära kan, en annan vällust gör … En stolt på krigets ban ett trottsigt öga sträcker, Då dig en hjeltes namn til ljudet blott förskräcker … En trygg i hafvets storm dess böljor genomskär, Då skälfvande du står i den fastbundna båten, Och verldens undergång af dig blir hemskt begråten.
+Men mins den reglen blott, at du ej fruktan bär, Om deras sjelfbestånd som ädla hvärf besmycka; Ty den naturn bestämt til faror och besvär, Den har hon också skänkt i faran mod och lycka.
+L
+BRÖLLOPS-DAGEN
+Fromt af sin skönas Far, Philet nyss tilstånd vann, At, förr som älskare, nu som dess Fästeman Sylvie i Brudstoln leda.
+Hvad leende behag, i blickar åt hvaran, Sågs under längtans gråt det parets lugn bereda!
+I mina kära Barn!
+fortfor vår Gubbe glad, I kunnen er bege på resan nu åstad, Til Sockne-Kyrkan nära; Och vore jag mer frisk, vid mindre ålders grad, Så skulle i er skygd mig resan ej besvära.
+Således mina Barn, åtföljens båda två, Til detta himlens hus, at där i stillhet få, Hvarandras tro bejaka; At, af den Prästens hand en säll förening nå, Som fordom vigde mig – med min begråtna maka.
+Philet, på Gubbens ord, med Bruden resklädd når Den dem bestämda ort, där båda sen i går Sin ägta hvila njutit, Och från en Blomster-park, nu i sin makas spår, Kom sirad med en krants, den hennes händer knutit.
+Gick så i tankfull frögd, upeldad, ung och kär, Ned i sin kammare at gladt å nyo där, Sin makas famntag trycka: De många kyssars lön, de dygdiga begär, Alt röjde hvar minut, det ägta parets lycka.
+Nu under lek och skämt, där ingen faran såg, På bordet oförmärkt ett par Pistoler låg, Dem han i går afskutit.
+Mot bordet stod Sylvie, då han af yrt bevåg, För ro skuld tar Pistoln, hvars skott han knapt beslutit.
+Gladt med Pistoln i sigt, han skämtar och han ler, " Nu skall jag hämna mig, för dina små maner, " Min engel och mitt hjerta!!!
+" Betänk hvad många qval, Gudomliga, af er, " Jag i min tysthet rönt med en förborgad smärta.
+" Uprigtigt lilla du!
+jag kommer nog ihåg, " Den tid förgäfves jag upp åt ditt fenster såg, " Ack himmel, hvilken plåga!!!
+" Sylvie och ingen ann mig mäst på hjertat låg.
+" Se nu!
+nu skall du dö, och skottet vill jag våga.
+" För all din lilla list nu din belöning njut!
+" För hvart ditt ögnakast, som till min lifsminut, " Jag vördar och välsignar.
+" Nå, är du nu så grym, – så skjut min engel, skjut; – " Han skjuter – hvilket skott?
+– hon död til jorden dignar.
+O Gud, hon dignar död tätt vid hans fötter ner!!
+Rys, häpna, bäfva, skälf – och se Philet nu mer Pistolen blodig fälla.
+I eld och blod och rök, han vildt omkring sig ser, Och ropar på sin dräng, at genast sig inställa.
+Han kommer, dörren stängs; – hör, frågade Philet, Hvem laddat min pistol?
+– jag i enfaldighet, Som resan var besluten.
+Hvad!
+har jag det befalt –?
+nej svarte han och gret, I samma ögnablick, låg drängen död och skuten.
+Då skref han detta bref, så lydande, – " min Far, … " Min Svärfar!
+jag som nyss den lyckligaste var – " Af jordens bästa lotter, " Nu stapplande och stumm, ej mod och styrka har, " At röja våra qval, – min maka – och er dotter …
+Ack, om dig okändt blef, mit grymma olycks-bud?
+Där darrande min hand i en så blodig skrud, Naturens häpnad tecknat.
+Sylvie – hon är ej mer – ditt barn – min maka – Gud!
+Hon dödad af min hand, vid mina fötter bleknat.
+Min dräng, hvars skuld det var, at hon ej lefver mer Hans blod, som hennes varmt, än rökande jag ser Af lika skott och låga; Jag, som all afsky värd, Naturens hämd tilber, Hvarthän?
+– hvart skall jag fly i all min ångst och plåga!
+Min Far!
+– din dotters död, ett blodigt löfte van: Imedlertid min Far, fördöm ej hennes man, Af gråt och smärta mödad.
+För dig jag suckar ömt, för mig ej bedja kan … Philet strax i sitt blod sågs vid Sylvie nu dödad.
+LI
+TYSTLÅTENHETEN
+Hör Doris kan du tiga bara, Så vill jag yppa dig just nu En glättig nyhet kära du?
+Dock nej – jag vill mit fynd bevara, Utbrast Tiren och gick och log.
+Hvad?
+– ropade – bestört den Sköna, Hvad?
+jag ditt innersta ej röna, Som aldrig än din dygd bedrog.
+Du känner ju min Doris Lilla, Fortfor än vidare Tiren, Sylvie, i glants likt dagens sken, Hon som du mins ej kunde stilla Sin rädda flyckt ifrån mitt tjäll, Från henne kom jag nyss på stunden, Dock, til tystlåtenhet förbunden … Ett enda ord ej mer i qväll.
+Nej Doris, tillåt mig at säga, Herdinna, det går aldrig an, Jag bör, som ingen klandra kan, Min njutna lycka öfverväga Och ömma ynnest af Sylvie.
+I hennes ögon brottslig vara?
+… Nej, Doris lilla ingen fara, Min ed skall mig ej hämnad bli.
+Så älskar hon dig?
+– ja Herdinna!
+" Men nämn för ingen hvad mig händt!
+" Jag hennes bröst i låga tändt " Och fått den första kyssen vinna … " Tiren!
+– var hennes tal til mig, " Mit hjerta du i döden äger, " Men framför alt, mins hvad jag säger, " Mins, at du aldrig yppar dig.
+" Om vi hvarandras tjäll upleta, " Och med en längtan öm och sann, " Bestämda kyssar ge hvaran, " Bör ingen mer i skogen veta, " Tiren, än bara du och jag.
+" Derföre, Doris, jag påminner, " Nämn ingen ting, Sylvie försvinner " Och hatar mig från denna dag.
+Herdinnan neg, och såg åt skogen; Men hvar blef löftet sen hon gått?
+Ack jo!
+det är ju könets lott, At bli sin gifna tumme trogen,
+Och kunna tiga när man ber; Men, om ock Doris Damon råkat, Och skuggrädd på hans tröskel språkat, Hvem hörde det?
+– hvad var det mer.
+Omsider Damon sin Herdinna Til mötes nalkades vid strand: Omfattade dess mjuka hand, Och bad den sköna eftersinna, Alt hvad hans vän Tiren nu sagt.
+" Till svar min Damon må du veta, " Dig bör ej vara svårt utleta " Hvad ämnen oss i frågor bragt.
+" Den ärliga Tiren du känner, " Och såleds denna sanning klar; " Vårt Samtal vist ej vigtigt var, " Ty eljest främst bland mina vänner, " Jag all ting gladt uptäckte dig: " Han mig förtrodde … men lätt vara, " Förled mig ej at uppenbara, " En sak som visst skall dö med mig.
+Förbryllad i en gråt-ögd dvala, Vår Damon med en sakta arm, Omfamnade den Skönas barm, Missnöjd att icke mer få tala Om Nymphens ögnakast til slut.
+Förskräckt Herdinnan ögat sänker, Den kyss hon får och den hon skänker, Fans mera vågad än förut.
+Hör, säger hon, min engel lilla, Du är förtörnad bästa vän!
+Kan du bli ond, blif god igen.
+Säg, har du kunnat dig inbilla At nu Sylvie Tiren tilhör?
+Hon ändtlig i hans famn som lågat, Sin första kyss i verlden vågat, Det man likväl ej nämna bör.
+Vist tiger Damon, ingen fara.
+Jo, knapt han hennes ögon flyr, Förrän en ängslan blodet bryr, At denna hemlighet förvara.
+Han ensam går kring strand och mark, Och sjunger jämt vid vind och bölja " Jag låfvat heligt at fördölja " Två hjertans låga lika stark.
+" Nej aldrig någon visa qväda, " Mer innom denna tysta dal, " Om ögats flärd och hjertats qval: " Nej ensam vill jag dig tillstäda, " Dig Rosenbuska, dig fastmer, " At vittna hurŽ Sylvie rätt gärna, " Af sin Tiren vid sol och stjerna " BådŽ kyssar tar och kyssar ger.
+Men ack, hvad mer än plötslig våda!
+Fördold i Rosenbusken satt Sylvie med en nedslagen hatt Och hörde eko gällt förråda En hemlighet – o himmel!
+den, Den hon förvisso tycktes mena, At hennes älskare allena Blott kände som dess bästa vän.
+I lätta fjät Sylvie försvinner, Med vredgad blick åt strand och fällt; … Ja, du har altför väl beställt!
+Välan Tiren, tänk jag dig hinner … Förrädare uppå din stråt!
+Den nedrighet du mot mig öfvat, Och detta bröst du så bedröfvat, Det älska dig – nej fly och gråt.
+Tiren, han miste sin Herdinna, Och Damon all hans hämd upbar; Aldeles rätt blef Damons svar, Jag bör min brottslighet besinna; Men hvarför under hot och tvång, Et squaller ryckte på mig våga?
+Då du i denna kärleks-fråga Ej kunnat tiga sjelf en gång.
+LII
+DEN BÖNHÖRDE ÄLSKAREN
+Märk yngling, vid din ångst och låga, O yngling, märk et hufvud-fel!
+Då i ditt ömma tanke-spel, Du blygsamt sätter sjelf i fråga Den älskogs-blick du våga bör.
+Du älskar, men tror dig i fara, At för din Sköna uppenbara, Den eld, din sorg och vånda gör.
+Hvad dina läppar henne dölja, Hon ur ditt öga leta skall; Och du bestört, än het och kall, I trogna fjät din Engel följa, Och sucka at hon yppa må, Hvad ej din mun tiltror sig röja; Din hvardags-lott blir at uphöja, Dess dygde-glants och tårögd gå.
+Men hon, som nog din sveda röner, Förstår långt bättre än du vet, At trotsa din beständighet Med snäfva svar på dina böner, Tils hennes ögnakast dig lär, Hvad sällhet hennes vink bereder.
+Först älskar hon din dygd och heder, Sen dig som sådan prydnad bär.
+Et år ren flytt, hvad bör man tycka, Blef Nymphens fina fråga här; Hvad har han nu för alt besvär?
+En enda kyss hans enda lycka.
+Ack!
+på et år ej vinna mer: I sanning, en nog löjlig snara; Men hvarför ej sig straxt förklara, Och säga kort jag älskar er?
+Er höfs min sann ej länge gräla, I unga hjeltar om ert val, I kännen vist ej långa qval, När ni hos Skönhet er anmäla: Men hvad ert mod uträtta kan, Då kärlek vill er Facklan lämna, Det vill jag i den Segren nämna, Som Jesmin en gång lyckligt vann.
+En ungkarl trodde sjelf den oförskämda lära, HurŽ hvarje skönhets hand åtnjöt en värklig ära, At kyssas af hans mun – Jesmin den dårens namn: Han såg Silvie en gång och hennes klara famn, I fenstret där hon satt med rosenröda kinder.
+Uppeldad och bestört han edligt sig förbinder, At segra på dess bröst, som hon besegrat hans; Emedlertid ej sömn och ingen hvila vans, Den halfva natten skred i gång fram och tilbaka, Med tusen hufvudbråk, för at et bref utstaka, Och ur Romaners mängd innom et enda bref Fler uselheter skrefs än någon dödlig skref.
+At för en blank ducat nu brefvets fortkomst vinna, Det också liksom flög fram til sin ägarinna, Fast utan minsta svar och ringaste besked.
+Jesmin imedlertid han sina händer vred, Och från sitt skrifbord blek med en ödmjuklig penna, Affärdar än ett bref, hvem til, Julii – till henna Utgjutande sin harm i rörande besvär, Och hur dess kärleks-eld bådŽ märg och ben förtär.
+Med handen sträckt och sänkt, bäst han dess flärd ursäcktar, Så är hon dygdens sol och Paradisets necktar; Än med en uprörd själ, förtviflad utan tröst, Han finner tigermjölk innom den Skönas bröst; Och åter blir hon nämd, där han ses concipera, Et hoppets nordanbloss, en diamant, med mera: Försäkrad, om Sylvie ej blidkad blir och god, Med dolken mot sitt bröst at simma i sin blod.
+Jesmin gif dig tilfreds och all din oro stilla!
+Försegla gladt ditt bref, och ljuft ditt bröst inbilla, At som du detta vax vid ljuset smälta ser, Och kring Sigillets brädd nedmjukadt rinna ner: Så skal ock lika lent din kärlek dig belöna Och du innom Silvie ett krossadt hjerta röna, Som vid din ömma skrift snart ögats blickar bryr.
+Ja, brefvet sändt, bröts upp utaf en hand så dyr; Men himmel hvad Jesmin hörs Astrilds nåd anropa!
+Ändå ej minsta svar, hurŽ hänger slikt tillhopa?
+Af järn och stål ditt bröst Silvie en teckning ger!!!
+Dock, hvilket träd just fälls af första hugget ner.
+Emedlertid tror jag, han hennes frihet vunnit, Och i en yppad köld, hon nya nät upspunnit, För at än flere bref mottaga af hans hand, Och fåfängt släcka mer hans hjertas djupa brand.
+Än mera liksom klädd till sjelfva bröllops-fästen, HurŽ kan hon liknögd se den gullchamrerta västen?
+Jag vet ännu ett råd, som säkert lyckas bör,!!!
+Igenom vackra rim, man vackra flickor rör.
+På vers Jesmin, på vers, skall du till Nymphen skrifva, Blir segren då ej din så lär han aldrig blifva.
+Jesmin fann rådet godt – ack!
+önskom nu med mig, At rimmen flyta lätt och stilen höjer sig: Se hvilken Skalde-digt Jesmin uttänkt och blundat, Förvisso örats val ej läckrare åstundat, Då ren hans Prosa skön och hög och eldig flöt.
+Knapt Silvie, läsande, den Hjelte-dickten slöt, Förrän et bref til svar i största hast anlände, Man lätt begripa bör den eld Jesmin nu tände.
+Hur gladt mot pigans skymt dess dolda längtan lopp, Som nigande frambar hans sällhet och hans hopp.
+Den sluga Pigan djupt fruntimrets hälsning bådar: Jesmin med bugad rygg sitt vackra bref beskådar, Och åt Sigillet ler, förkjust och darrande I brinnande begär at innehållet se.
+Sjelf utan dristig blod då alla krafter tryta, At fatta sit beslut och vaxets limning bryta Han brefvet mot sitt bröst inkramar och tilber Af hundra kyssar vått han åter det beser.
+Och pigan en ducat hans båda händer räcka, Som heligt sig besvär at ingen ting uptäcka.
+Men himmel – hvilken post, – från en Silvie så söt, Som stackars vår Jesmin med sådan längtan bröt.
+Hvad tros, där skrifvit står?
+ej annat än de orden Min Herre är en narr, den största narr på jorden.
+LIII
+DAMOKLES
+Tro ej, at krönt med högsta lycka Tyrannen nånsin lycklig är; Han bäfvande sin mantel bär, Och de Jouvelers mängd som smycka, En vådlig glants dess hjässa bli; Tyran!
+säg när du annat kände, Än blott ett blänkande elände, Och dödens skräck i raseri.
+Til Dionysius Tyrannen, En Smickrare insteg en dag, Som under granna ordalag, Bedyrade den Envåldsmannen, Med bögda knän och uplyft hand, HurŽ han sig borde lycklig kalla, Så til sitt välde at befalla, Som rik af skatter, folk och land.
+Knapt SmickrarŽn hant sitt loftal sluta, Förrän Tyrannen gaf til svar; Damokles märk!
+du villse far: Så säll du tror mig lyckan njuta, Så sant dess irrbloss dig bedra.
+Välan jag vill min thron dig unna, Til svar, hvad har du at förkunna?
+Damokles bugade med ja.
+Straxt med en underdånig ifver, En gyldne Stol man honom ger, Han sätter sig och tankspridd ser, Den härlighet hans Thron omgifver, Och skönjer intil minsta vrå Bland rösters sorl som ljufligt susa, Hvad vällust uttänkt at förkjusa, Och högmod för at dyrkan nå.
+En präktig taffel man tilbjuder, Hvart rum med purpur rikt beklädt; I Guld-Pocalen vid var rätt, Den rosenröda drufvan sjuder, Och vid hans blick upeldas alt; En vink, – hvart bröst sig lyckligt känner: Et ord, – straxt hundra Adel-Svänner, Fullbordat hvad dess nyck befalt.
+All frögd och lust at öfverväga, Damokles sig högst lycklig fann: Hvad prakt och höghet utbrast han?
+Blott jag den evigt kunde äga Men ack!
+– i det han sade så, Sig ångest svetten straxt utträngde, Ett uddvasst svärd i taket hängde, Fäst vid ett ringa tagelstrå.
+Han faran hotande ser sväfva, Ikring sitt hufvud hvar minut, Och denna lycklige til slut, Förmärks i alla leder bäfva, Ej skönjande Palatset mer, Ej de med purpur klädda salar, Ej vinet som vällustigt skvalar Uti de gyldne kärlen ner.
+Förgäfves ögats lystnad röjes Til hvad på Bordet läckrast var, Ej Sångarns stämma hög och klar, Med örats bifall mera höjes: Nej – utbrast han med klago-skri, På denna Thron i ståt och heder, O!
+Dyonysius jag beder Låt mig ej längre lycklig bli.
+LIV
+INKLE OCH YARICO Förut öfversatt
+Den åtrå efter vinst, som först oss yppat har, HurŽ med den snabba köl man öfver böljan far: Som gett oss hjerta nog, at på det vida blanka Förtro et älskadt lif en liten bräcklig planka: Den åtrå efter vinst det tydliga begrepp Om fördel och förlust, dref Inkle på et skepp.
+Han sjön sin första håg, sin mandoms styrka skänkte, Hans vett i handels-konst, hans dygd i ziphror blänkte.
+Nu lockas han at se den rika verldens del Som vi med svärdet lärt vår tro och våra fel: Til dessa kuster ren sin glada syn han sträcker, Just då at storm på storm hans skepp i spilror bräcker.
+Bland tusen svall och djup man hemsk kring stranden lyss, Där mördad stupar den som böljan skonat nyss; En vild och mordisk flock, hvart lif i stycken rifver, Och Inkle bland sitt folk allena räddad blifver; Han ser en lummig skog, som mörk och enslig är, Dit han med häpna steg sitt lif ur faror bär.
+Brittanen i sin flyckt bland dessa gömslor rastar, Och andlös vid et träd sin trötta kropp han kastar; Här blir hans rädda själ af ängslig aning tärd, Här väntar han sin död af hunger eller svärd.
+Ett rusk bland skogens löf hans skrämda öra hinner, Bestört han ser sig om, men blott en flicka finner Ett eldadt ögnakast han af den vilda får, Hon stadnar, – nå hvad nu?
+– hon väl tilbaka går, Men nej, så tilgjord dygd de vilda mör förakta, Men dristig är hon nog at Européen betrakta, Dess drägt, dess hvita hy, dess blick och vackra hår Alt håller henne qvar, alt hennes tycke får.
+Hos denna vilda Nymph, Brittanen äfven finner, En täckhet, ett behag som snart hans kärlek vinner, Hon ej af konst och tvång, ej af förställning vet, En blick förråder lätt dess hjertas hemlighet.
+Fullkomlighetens drag dess hela bildning pryda, En lysten själs begär dess vackra ögon tyda, Med blickar talar hon, i blickar får hon svar, Och genom ögnakast förenas detta par.
+Han följer hennes vink, hon straxt en koja visar, Där hon med utvald frukt sin kära främling spisar.
+Han torstar, – det är svårt, den plågan lindras bör, Sin gäst, med snabba steg hon til en källa för.
+Hon glada blickar ger at dess bekymmer lätta Knapt hon sit öga kan utaf dess åsyn mätta, Hon leker med hans hår, som vädrens anda bär, Och synes undransfull at det så krusigt är.
+Sin vän förnyad ro hvar morgon hon tillagar, All ledsnad ur hans själ, dess muntra omsorg jagar, Hvar dag bär nytt bevis af kärlek, nit och tro, At ock i vilda bröst kan ömma hjertan bo.
+Hon honom skänker för, hans lilla koja käder, Med mången brokig hud och mången sirlig fjäder; Hvar gång hon på besök hos sin förtrogne är, Af rara musselskal en högtids-drägt hon bär.
+Så snart sig nattens flor kring skogens rymder breder, Hon till ett vattenfall sin kära främling leder, Där under buskens skygd vid Nägtergalens drill, På blomstrens mjuka bädd hans ögon slutas till; Men knapt en enda blund, den trogna Sköna smakar, Med Inkle i sin famn, hon för dess trygghet vakar: HurŽ få ibland oss, säg!
+som sådant hjerta bär!
+Ett lika tungomål åt båda kärlek lär, De tyda, i sitt språk, alt hvad i tankan rinner: Hon, Inkles röst förstår, han hennes mening finner: Förkjust, hon ofta lyss, då hon beskrifvas hör, Den sälla lefnadsart, man i Europa för.
+Han önskar henne snart med sig i London finna, Hon häpen önskar sig, så ljufva vilkor vinna; Där, skall du, säger han, och pekar på sin drägt, Med präktigt brokigt tyg och silke bli betäckt.
+I hus, til hälften glas som lätt af hästar röras, Skall du beqvämligt bo och kring om Staden föras.
+Af glädje Flickan gret, och ofta tårögd såg, Om någon köl ännu ej klyfde hafvets våg?
+Här, tycktes lyckan just all hennes bön bejaka, Ett skepp till stranden förs, hon löper glad tilbaka Hon söker Inkle upp och lämnar all ting qvar, Sin ömhet och sin tro hon blott i följe har.
+Så nögd hon visar sig, bland storm, och svall och fara, Som hon vid Inkles hand skull mitt i London vara.
+Ren, med en önsklig vind man sätter kosan fort, Nu kännes Barbados, men just vid denna ort, En nedrig vinnings-brunst uti hans hjerta väckes, Han på sitt tilstånd ser, hans hela själ förskräckes, Sig sjelf är han til last, hans hand och Cassa tom, Och armod all hans vinst från Indiens rikedom.
+" Så har jag, säger han, ur möda, nöd och fara, " Den trösten endast qvar, at nu en usling vara, Dock döljer han ännu, hvad i hans hjerta gror, Sin vilda för han dit, där Slafvehandlarn bor; Här all hans tacksamhet i tyranni förvandlas, Då för en lumpen vinst hon til Slafvinna handlas.
+Hon faller om hans hals – ach Inkle!
+– hvarför så?
+Hon gråter, ropar, ber, – nej köpet måste stå.
+Ack jag ett foster bär!
+– ack far hon fort at klaga, MånnŽ han beveks?
+åh ja, at mer betalning taga: Än tre Pund Sterling hit – han ännu ropa tör.
+Se här Jariko tag – dig Köpman hon tilhör.
+O Inkle, du Barbar!
+hvars like knapt lär gifvas, Ack måtte dock din blygd til Seclers skräck uplifvas: Du Niding!
+all den tro, den redlighet du rönt, Skal den så skamligt bli med bojors tyngd belönt?
+En Flicka som sig sjelf med ömhet satt i fara, At, bland en mordisk flock, ditt kära lif bevara, Som på din välfärd sett, men på sin trygghet minst, Som dig kring hafvet fölgt, den säljer du för vinst.
+Trots til din arghets högd, sig största bof kan närma, Nej, ett omöjligt brott at dina laster härma.
+LV
+CALISTA
+Med tårögd blick dig Skalden beder, Min Läsare!
+dig föreställ: En Nymph i dygdens dyrkan säll, Hvars öde til beundran leder.
+Dess anlet vårens fägring bar: Mång dygdig Ädling sökte finna I hennes famn sin älskarinna; Ty döm nu sjelf hurŽ skön hon var.
+Den Nymph hvars öde vi få röna, Var hög til börd och ädel ätt; Dock högre til sitt tankesätt:
+Kort sagt Calista denna Sköna Opasslig låg … och slutlig som, At Doctorn åderlåtning pröfvat, Så lät hon kalla oförtöfvat, En Kungens Lif-Chirurg – han kom.
+Han kom – den mannen bar ett värde, Som vidtberömd och allmänt känd; Men längsen af dess skönhet tänd, En hemlig eld dess bröst förtärde Den hennes höga stånd förböd.
+Han blir med hennes blick benådad, Ack, om han aldrig blifvit bådad, Hon ännu andats frisk och röd.
+Han tar den hvita armen sakta Och tankspridd stryker ådren upp, Med bäfvan söker han dess lopp, Och pulse-slagen at betrackta.
+Calistas vän och sällskaps Fru, Ser mannen rädd Lancetten föra, Straxt den sängliggande i öra Helt tyst hon saken yppar nu.
+Ack svarade vår sjukling – stilla, Låt honom fritt, min bästa du!
+Låt Herrn få öpna ådren nu; Och slog han också felt och illa, Två gånger han min tilgift får,
+Han mig vist ondt ej vill orsaka, Ack nej – blef Läkarns svar tilbaka, Och i detsamma Snäpparn slår.
+Ack, skrek han högt, med häpen ifver, Vid blodets sprutning upp i sky; Ack arma man, hvart skall jag fly?
+O!
+Gud hvad tungt mitt öde blifver!
+Som darrhändt så Lancetten höll.
+Mitt bröst är liksom sönderbråkat, Olyckligt jag pulsådran råkat, Så svimmade han bort och föll.
+Hon, (kan en dödlig sig inbilla En mera stor och ädel själ?)
+Bekymrad om den mannens väl Som sårat hennes arm så illa, Hon honom ofta strängt förböd, At ej så mycken oro visa, Och låg förutan minsta lisa, Två dygn i sveda, värk och nöd.
+Nu Läkarena samfäldt spådde, En dödlig fara hvar minut, Och såleds med et grymt beslut Til armens stympning ifrigt rådde, Den utan klagan hon framdrar; Sin sköna arm hon synes våga, Och ber dem endast den rådfråga, Som orsak till dess vånda var.
+Så slapp den Sköna lifvet sluta, Med sin förlust utaf en arm, Och för så mycken ångst och harm, Blef hennes lön at lifvet njuta.
+Men, märk hur Doctorn helt förskräckt, Ser i kallbrand ny olycks-råga, Och påstår at det lifvets låga Om tvänne dygn bör vara släckt.
+O Gud – så litet anstånd finna, Hjelp du så vidtberömde man!
+I Läkare om hjelpas kan!
+Hjelp henne lifvet återvinna!
+Men fast i vånda stadd och nöd, Likfullt det hjertat ädelt brinner, Välan jag dör, sadŽ hon – men finner, Ej honom orsak til min död.
+Jag vet, – han skulle af alt hjerta, Se mig min vedermöda qvitt.
+Och för mitt lif upoffra sitt; Dock döden gör mig ingen smärta, Och himlens råd förborgadt är: Jag tåligt lider, aldrig klagar, Och är beredd då Gud behagar, At skiljas hän från alt besvär.
+I rummet framsteg i detsamma, Den Kunglig Lif-Chirurgen svag, Er, fortfor hon utnämner jag, At all min egendom annamma: Som arfvinge den innehaf: Er ginge eljest mer än illa.
+Och sen hon detta sagt – helt stilla Sin ädla anda hon upgaf.

@@ -1,0 +1,830 @@
+# ID: svediakorp-sec1031
+# author: Anna Elisabet Matilda Bergstedt
+# pseudonym: 
+# translator: 
+# title: Hågkomster från Alstersvik
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-11-22
+# sourceDescription: Retrieved from Språkbanken's collection 'Svensk prosafiktion' (Swedish prose fiction). The order of the sentences is scrambled, due to copyright issues.
+# genre: prose
+# subgenre: fiction
+# location: 
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1860
+# editor: 
+# publisher: 
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Språkbanken (https://spraakbanken.gu.se/)
+# retrieveFormat: XML
+# annotation: tokens, lemma, POS, morphology, syntax, named entities
+# annotationMethod: automatic
+# words: 17,550
+# sentences: 787
+# sentenceOrder: scrambled
+# URL: https://spraakbanken.gu.se/swe/resurs/spf
+# cite: 
+# availability: CC-BY attribution (https://creativecommons.org/licenses/by/4.0/)
+
+
+Han slänger barnungarne ledigt på ryggen och bär dem långa styckena, så jag slipper höra deras pip och jämmer att de icke orka gå, så hade jag nu bara något att ha på mig, så hade jag det temligen bra.
+«Dettas
+rättigheter ligga mig om hjertat, ehuru jag hyser mindre deltagande än jag kanske borde för Maja sjelf.
+Att hon så väl emotstod honom, lände henne till desto större heder, som han var en vacker och ansenlig karl; hade hon haft den minsta skymt af en vällustig och låg smak, hade han lätt kunnat bli farlig för henne.
+Vägen dit är alltigenom sval och angenäm; det var ett nöje redan att gå
+den.
+Dessa kringvandrare ha förirrat sig hit åt trädgårdssidan, då de funno alla ingångar på de andra sidorna tillbommade.
+Hon har uppfostrat honom oeh hyfsat hans sinne, i detsamma hon lärt honom att beherrska sina naturdrifter.
+«De äro mina lek- och läskamrater, » sade hon.
+Jonas Perssons bostad, dit jag ämnade mig, låg litet afsides för sig sjelf.
+Jag försäkrar mamsell, att det är riktigt synd om ungt folk, som icke får
+lära sig yttre blygsel, utan inhyses som fänaden, bås vid bås, utan afseende på kön.
+Denna gång öfvervann jag dock snart min skygghet.
+Hon visade visserligen ingen bestämd vanart, men det var någonting främmande och zigenaraktigt hos henne; hon såg aldrig lifvad ut oftare än det var fråga om dans och granna kläder, men då lyste ögonen med en eld, hvars glans hon hade svårt att dölja.
+De flestas hjertan bevekas af att se ett sådant; mången slant, månget aflagdt klädesplagg faller henne till för hans skull.
+Vore Maja sig lik som förr, så hade hon en viss duglighet och nätthändthet, som förstod att åt det knappa ge ett sken af tillräcklighet.
+Barnet skulle vanvårdas mellan händerna på en mor, som endast tänkte på huru hon skulle göra sig sjelf vacker.
+Öfver väfven syntes de också fröjda sig.
+Den stora menigheten skulle bättre lära sig att
+tänka sannt och handla rättvist äfven på andra områden, om den vant sig vid tukt och heder i könsförhållanden, ett område derifrån nu sprides i hvarenda vrå och vinkel af landet vana vid hednisk orättvisa och hårdhet. »
+Hon unnade icke Anna att vara sådan hon var, utan ville omforma henne efter det mönster för en dugtig bondflicka,
+hon för sig uppgjort.
+Äro vi fruntimmer af naturen så enfaldiga, så utan all äkta stolthet, att
+vi, så snart vi lemnas i en beroende och okunnig ställning, med den bästa smak i verlden taga emot föraktbevis? »
+Det är dessa jag nu i min tur ville utbreda bland dem, som ännu icke hunnit att bilda sig något omdöme om hvad som i sedligt afseende är behöfligt.
+«Anna är oumbärlig för honom, såsom för enhvar, som blifvit van vid hennes sällskap.
+En oblyg qvinna är ännu värre att se, än en fräck karl.
+Men nu god natt! »
+Den otrefnad och oenighet, som gästar så mångenstädes i våra stugor, har icke sitt upphof ensamt i fylleriet.
+Minns icke mamma, hur det alltid utgjorde mammas bedröfvelse, att mamma icke för henne kunde
+fatta förtroende?
+Men midt framför
+byggningen lemnade dessa öar och halföar en öppen ränna, hvarigenom man såg ut åt stora sjön.
+Det ljumma medlidande jag kännt i ett och annat enstaka fall hade icke uppväckt mig att skaffa mig någon öfversigt af de verkningar, som osedligheten qvarlemnar på större ytor; jag förstod ingenting om det allmänna onda den utbreder.
+Hade han icke sjelf på detta sätt förslösat medel, hvilka, väl använda, kunnat räcka i åratal för en tarflig och hederlig familj?
+Sedan han jakande besvarat min fråga, om han icke var den samme herr Römer, hvilken varit flera månader af innevarande år i egenskap af informator på Stenby gård i V – d, sade jag honom i så få ord jag förmådde, att det var mig bekant, att han förfört en flicka i tjenst hos fru B., och att jag kom för att uppmana honom att taga denna flicka, hvars frestare han varit, hennes eget lättsinne må ha varit hvilket som helst, till sin lagliga hustru.
+Man brukar icke gerna vilja införa sådana qvinnor i aktningsvärda familjer; de medföra dit en dålig och låg ton, ty de förstå icke att skicka sig i bättre sällskap.
+Hustrun i detta hus är rask, men mer än vanligt trätlysten.
+Andra aftonen.
+Det var för hennes barns skull och för att rädda henne från att ännu djupare sjunka, som jag ifrade derför.
+Det var honom synbarligen svårt att utsäga det afgörande ordet.
+Trädbevuxna uddar och öar utsköto i det klara vattnet, men i denna stund fingo de icke spegla sig deri, ty den nedgående solen lyste blank öfver sjön och för henne måste alla skuggor vika ur vägen.
+Jag tror att han väl kan bära upp benämningen: en bra karl.
+Jag väntade att bli afbruten, hånad, till och med utvisad, men så skedde icke.
+N.
+När vi återvände åt gårdssidan fingo vi se fru Jung, Henrika och Lundgren komma gående på skogsstigen.
+Vågar någon att tillrättavisa henne för hennes lefnad, så får han att göra med en tunga, som vet att försvara sig.
+Mamma och han komma väl öfverens, utom att mamma tycker att han är väl sträng emot folket.
+Anna var sysselsatt med att gräfva upp potates till qvällsvarden, när vi kommo.
+En medelstor karl, med gråblek hy, regelbundna drag och ett visst sjelfkärt tycke, öppnade för mig.
+Vi gingo alla ner i köket.
+Mamma blef uppskrämd efter det första försöket, som slog så ledsamt ut, att förvalta egendomen med ordentliga inspektorer.
+Hon visste väl, att han lika väl föll församlingen, som henne sjelf och hennes dotter till tunga.
+Men när man en gång fått smak på en viss försynthet, vill det liksom icke smaka en att se drängar, pigor och barn kastade huller om buller om hvarandra i ett och samma nattqvarter.
+Ibland arbetsklassen står det qvinliga könet icke en tum högre än det manliga på kyskhetsskalan.
+«Troligen finner hon icke så liten uträkning vid att ha ett vackert barn i sitt följe.
+Kort efter denna firades derföre brölloppet och Anna flyttade till sitt nya hem.
+Sqvaller om andras odygder och skadeglädje öfver att de äro felaktiga, de som hon, det synes vara den enda andliga kryddan i hennes lif. »
+«Då
+Anna var två år gammal förlorade hon sin mor och kom snart derefter till vårt hem.
+Deremot tog byggningen och en nyanlaggd plantering omkring
+den sig väl och trefligt ut.
+En karl kan befordra en vilsekommen qvinna till djupare och djupare förnedring, och vara lika välaktad för det; han anses ha uppfyllt allan rättfärdighet, om han betalar en årlig afgift till ett barn, afladt i otukt; ingen klandrar eller fördömer honom, om han lemnar barnet sjelft i sådana omständigheter från den spädaste barndomen, att det nära på uppfostras att en gång blifva förbrytare.
+Man tröttnar, minsann, icke vid henne, såsom man tröttnar vid den, som visar sig angelägen att tillfredsställa ens förflugna önskningar. »
+Jag såg, när jag kom, åtminstone fyra eller fem tvåvåningshus.
+«Den uslingen lemnade jag efter på lazarettet i Ö., » sade Anna Maja.
+Flera veckor gingo om, utan att vi en enda gång voro alla samlade för att lugnt samtala.
+Jag säger med flit icke mellan Haparanda och Ystad, ty får man döma efter den årliga summan af födda oäkta barn, så stå våra mellersta landskaper i sedligt afseende lägre än både Norrlands och Södra Sveriges.
+Hon gaf ett bestämdt afslag.
+Det är mycken rättskänsla hos honom, han är hatare af dryckenskap, spel och allt slags utsväfning.
+Men dermed är för eländigt.
+De likna de ruttna frukterna på ett sjukligt äppelträd; de ha endast af en händelse blifvit de sämsta. »
+Jag upptecknade hennes beskrifning, och vi språkade en god stund om färgning, väfnad och spånad m. m.
+Dessmera så i dag, som folket på stället var mig obekant.
+Likväl önskade han att ännu ett halft eller helt år uppskjuta lysning och vigsel.
+Denna blef först inackorderad hos Olle i Åsen, en torpare under Alstersvik.
+Vare långt ifrån mig att önska dig så hjert- eller tanklös, att du icke skulle känna ånger öfver de synder, som allmännast och svårast förnedra dina samtida! »
+Mamma följde henne till fadren för att fråga denne om han var nöjd att skiljas från dottren.
+I förbigående målade jag den framtid, som sannolikt eljest väntade henne: att vandra ur hand i hand bland Römers kamrater, sedan denne sjelf tröttnat vid henne, för att slutligen hamna som gatsoperska i ett fattighus eller på ännu eländigare sätt omkomma i en vanhedrande sjukdom.
+Sedan han hade sagt detta, drog han Maja skyndsamt bort, fastän hennes mine uttryckte att hon hade tusen saker osagda. »
+Och i bägge fallen måste han lätt förledas att vanvårda sig sjelf.
+FRÅN
+«Om somrarne händer väl att både drängar, pigor och döttrar skickas ut i ladorna för nätterna, och detta bruk är det sämsta af alla, åtminstone qvinfolkens utflyttning, men så packa de sig desto trängre tillhopa under vintern, hela högen i stora stugan; godt om en gammal farfar eller mormor får en vrå för sig sjelf, med någon af barnen, i köket.
+Visserligen har jag hört sägas, att han icke alltid burit lika afsmak som nu för låga vanor, men nu har han utbildat den till en grundsats.
+Mamsell kan vara viss om, att de gjort hvad de kunnat för att försmäda mig, derföre att jag i detta fall afvikit från bruket bland folket på orten, och säga, att jag vill låtsa att vara herrskap, m. m.
+Jag borde ha varit glad och tacksam att jag vunnit mitt syfte, men det var mig omöjligt att vara det.
+Det kostade ordentligt på mig, då jag slutligen måste öfverge den, emedan det blef mig klart, att jag aldrig hos henne skulle kunna ingjuta den stadga och ärlighet, som är
+behöflig för den som har att handleda barn.
+Fru Jung inöfvade mig i andra tankevanor.
+«Det gör mig ondt, att jag icke kan motsäga dig, » sade fru Jung «Jag har tänkt det samma sjelf.
+ÖREBRO,
+Anna påstod att man tröttnat vid henne hemma, och detta var sannt.
+Den, som min syster har, inropade hon för några få riksdaler på en auktion.
+Henrika, den yngsta af fru Jungs döttrar, påstod att hon aldrig kunde bli mätt att kika ut genom denna ränna, inbillande sig att hon såg ut öfver verldshafvet och njutande af att veta, att öppen vattenväg bar från denna vår strandända till kusterna af Amerika och Afrika.
+Troligen var det äfven påverkan af fruktan för att hon på Alstersvik skulle bli för mycket fruntimmer och missakta de sina, som han begärde henne till sig straxt efter hennes första nattvardsgång.
+Jag satte mig blygsamt på kanten af en säng, som stod vid dörren, för att icke behöfva tränga mig så långt fram som till fönstret, der två stolar stodo, de enda som funnos i rummet, och sade henne att jag icke kom för att göra henne några förebråelser, såsom hon syntes frukta; hon hade undandragit sig min domsrätt; jag kom endast för att omtala för henne ett förslag, som jag gjort Römer, att han och hon
+skulle förvandla den förbindelse de påbegynt till en laglig och oupplöslig.
+Men detta fall med inspektoren var icke det enda, der Annas sunda vett framlyste på ett vackert sätt.
+Det syntes, att ett arbetsamt och snyggt folk bodde derinnanföre.
+Säkert är i alla fall att mamma handlat rätt.
+Denna öppnade för mig, och utgick i det jag inträdde.
+Hon beslöt att uppsöka Maja och Römer – så kallade sig Majas förförare – på den ort, der man visste att åtminstone den sednare af dem uppehöll sig.
+«För er sjelf har jag ingenting som passar, » sade fru Jung.
+Skulle icke den flicka, hvars tillgifvenhet bondsonen söker vinna, kunna, om hon ville, öfvertyga denne om nödvändigheten af återhållsamhet tills ett olösligt band förenar dem?
+Han begärde några dagars betänketid innan han gaf sitt svar. »
+«Vi blefvo afbrutna i vårt samtal för en stund sedan, » sade fru Jung.
+En af de mindre
+deremot, den der med de bruna runda ögonen, har nästan ett godt och barnsligt, skälmaktigt tycke.
+Af en hastig skiftning, som for öfver hans ansigte i det samma jag nämnde mitt namn, märkte jag dock
+att detta icke var honom så obekant, som han låtsade.
+Men för att återkomma till din fråga.
+Anna sjelf nästan öfverraskades af denna framställning, och säkert bör jag tillägga att hon rördes af den.
+Han ansågs, sade man mig, som en förolyckad studiikarl, den der åratal legat vid akademien, lamt skötande sina studier, men ifrigt sina nöjen.
+Flickan var rätt mycket i hans smak; och då han i alla fall icke ämnade att skilja sig ifrån henne, kunde han kanske underkasta sig vigselceremonien.
+Säkert har du hört omtalas, Judith, att det är vanligt bland allmogen på landet, till och med hos sjelfegande bönder med stora tvåvåningsbyggningar, att hela hushållet packar sig in för natten i ett och samma rum.
+«Jag skyndade mig bort, glad att några timmar få hvila ut i Hjalmar P:s hus innan jag sökte Maja. »
+Hon är icke utan sin lilla sjelfständighet, och den kommer henne väl till pass; hon är för godsint att någonsin låta den urarta till egenvilja. »
+«Det är nog många, som i detta fall äro illa lottade.
+Du får nu sjelf snart döma om huru det hela tar sig ut. »
+Deras stuga består af blott två kamrar, och torpet är så stort, att de måste hålla både piga och dräng.
+«Detta är ett hyfsningsarbete, som tillhör qvinnorna och som de måste orka med, om de allvarligt försökte det.
+Det skar mig i hjertat att se den lille pojken och tänka mig hans sannolika framtid.
+Du kan förstå att det kostade på mamma, att en person, som åt vid hennes bord och hade att bevaka hennes fördelar, uppmuntrade torparungdomen till fräckhet så väl genom sitt exempel, som i det han tog personer ibland dem till sina medskyldige.
+Det är vilkoret för att jag då skall söka åstadkomma något plagg åt er sjelf. »
+Han uppträdde också redan ifrån första stund som en fiende till Annas kyskhet.
+Hon bemöter dem med en sann kristlig jemnlikhet och har en förmåga att i all vänlighet förmana dem och tala vid dem om deras pligter från synpunkten af deras egen välfärd, den eviga så väl som timliga, som jag många gånger afundats henne.
+Fru Jung återvände från sin resa en ljum Septemberdag vid middagstiden.
+Jag ville icke lemna denna ort utan att träffa henne, antingen jag vann eller icke vann ändamålet med min resa. »
+Han har visserligen det namn jag nämnt, men han hade ieke äran att känna någon, som har ett hvilket ens liknade mitt.
+Säkert finns det någon, hvilken i denna stund eger en lönande befattning och åtnjuter allmänt
+förtroende och aktning, som en gång understödt henne i hennes handtering.
+Jag medger visserligen att dylika äro mestadels oändligt mera oskyldiga än månget parti (giftermål) inom ståndspersonsklassen, der bruden väl är i yttre afseende oförvitlig, men brudgummen deremot genomgått den vådligaste kunskapskurs bland förstörda qvinnor, men jag sörjer i alla fall öfver dem, ty jag har haft tillfälle att se huru de förstöra en mängd hjonelags framtida lycka och vänja allmogen i allmänhet vid råhet.
+Fadren var sedan flera år omgift och bosatt som sjelfegande bonde i en af våra grannsocknar.
+Efter hvad han sedan sjelf sagt, dröjde det icke länge efter hans ankomst till Alstersvik – han har aldrig bott vid sjelfva gården, utan vid den utgård vi just nu se – förrän Annas blygsamma och lugna skick gjorde på honom ett starkt intryck.
+«Jag är icke en menniska, som kan utöfva något slags inflytande på andra.
+Hon är också mer än någon fru jag känner afhållen af sitt folk, ehuru hon ingalunda är frikostig, utan i mitt tycke nästan knapp emot dem, när fråga är om lön och gåfvor.
+Jag tog ånyo plats på min sängkant, väntande på hvad hon hade att säga.
+Liksom det för några år sedan fanns ifrare för nykterhet, så ifrade fru Jung för inskränkning af de könsförbindelser, hvilka intet lagligt band bekräftat.
+Jag led derföre ordentligt af hjertklappning och mina ben skälfde, när jag knackade på Römers dörr.
+Det var en vacker afton i Juli.
+Det är nästan otänkbart att mamma skulle kunnat förmå utplåna alla spår efter en sådan skolgång.
+«Skulle man finna, som mamma förutsätter, » sade Sophie, «att en dryg del af fängelsebefolkningen, liksom det värsta slöddret på land och i stad, utgöres af dem, hvilka omedelbart eller genom sina föräldrar bära tyngden af en oäkta börd, så bör man likväl akta sig att så förklara saken, som skulle någon viss förbannelse hvila öfver menniskor med en sådan härkomst.
+Det är mer än en tunga, det är rent af en olycka för honom, ty det förer många slags fräckhet och uselhet midt för näsan på hans barn och husfolk, och gör dem genom det nära grannskapet på sätt och vis förtroliga med sådant.
+Kommer jag rätt ihåg, så var hon fyllda åtta år, när hon kom hit och hade tillbringat största delen af dessa på landsvägen.
+Det känns riktigt tryggt och varmt att vara tillbaks i skogsbygden, sedan man uppehållit sig en tid på den omätliga, blåsiga sädesslätten. »
+Några röda strimmor i öster antyda att morgonen icke är långt borta. »
+Som hans älskarinna var jag deremot öfvertygad, att hon endast skulle tänka på att pryda sin person; hennes klädeskonto skulle bli honom drygt.
+«Jag blef för ond för att kunna svara lugnt och med vederbörlig sans.
+På icke längre afstånd an till sockenkyrkan fanns ju en välbergad herreman, hvilken icke inför dem kunde förneka sin slägtskap med honom.
+Hon har läst och skrifvit med dem, har lånt dem böcker och lärt dem konstväfnader.
+«När ni härnäst kommer hit, Anna Maja, » sade fru Jung, «så vill jag se barnen iklädda de skjortor, hvartill jag gifvit dem väf.
+Jag har väft och hon spolat, så tiden har, i anseende till vår brådska, gått någorlunda fort.
+Jag förmodar att du vill höra den, Judith, ty den är liksom ett förkroppsligadt bihang till det ämne, hvari vi talade härom dagen.
+Troligen retades han af detta motstånd och blef ännu enträgnare.
+«Den här sotarpojken, som nu följer mig, har åtminstone den förtjensten, att han orkar något.
+Nu har jag afgifvit min berättelse så vidlyftigt jag förmår.
+I det förhållandet, t. ex., du här vidrört, der tycker jag det helt och hållet tillhör qvinnorna att införa renare vanor.
+Maja var i alla fall att anse som hans hustru och han skulle erkänna hennes barn som sitt.
+Hon är också en skicklig och sparsam hushållerska och flitig i hvad arbete hon tar sig före.
+J fån i alla fall icke för lång tid på er, ifall J viljen vara uppe vid sextiden.
+«Tror du att den afmålar en lefnad, som har oändligt få sina motstycken?
+Mamsell kan vara viss om, att sådana bröllopp icke vore så vanliga, som de nu äro, om föräldrar och husbondfolk lade sig mera vinning om att vänja sina barn och tjenare vid anständighet, än de nu göra.
+Det var icke annat än några osmakliga utgjutelser om hennes fattigdom och föraktade stånd.
+«Vi kunna ju följa dig alla, » föreslog Henrika.
+«Det var verkligen icke lätt för mig, att infinna mig hos en spotsk student med ett ärende sådant som mitt, » sade fru Jung.
+Jag trodde mig redan vid blotta helsningen märka någon förmildring i den vid det förra tillfället så märkbara styfva hållningen.
+«Mammas steg var ju blott en nödfallsutväg, » sade Sophie.
+«Hvar har ni gjort af den karl, ni sist hade med er? »
+Detta var att, ehuru jag villigt medger att svårigheten
+och trängseln i boningsväg är stor, så tror jag likafullt att den, som ville, kunde inrätta sig bättre än man vanligen gör.
+En dryg tiondel af de årligen inom denna socken födda barn, äro födda utom äktenskapet, just som öfverallt annorstädes, emellan
+Stockholm och Norgesgränsen.
+Jag fann mig så väl i denna sed, att jag icke kunde förmå mig, sedan jag gifte mig och flyttade hit, att tränga oss alla, manfolk och qvinfolk, i ett och samma rum, ehuru jag visserligen icke sett annat brukas ifrån min barndom ända tills jag flyttade till T.
+Verlden dömde strängt, och det med skäl, om sådana tanklösa äktenskap; de bli en källa till allmän och enskild fattigdom. »
+Vill man smickra mig, måste man nalkas mig med höflighet och bemöta mig med aktning som ett fruntimmer, fastän jag icke är annat än en tjensteflicka; det är en fordran, som jag lärt mig af fru Jung. »
+Du har troligen redan förstått af hennes namn, Anna Lundgren, att hon är gift med den Lundgren, som är mammas allt i allom vid skötandet af Alstersvik.
+Jag kan icke neka mig att med några ord redogöra för den.
+De sågo i inbillningen fyllda påsar med kaffe och socker idkeligen vandrande från handelsboden till stugan, ett slags betalning för deras tystnad.
+Det finns hvarken högmod eller låg förtrolighet i hennes sätt emot dem.
+Lundgren har hvarenda söckendag från morgonen till sent på qvällen varit framme vid Alstersvik, och emellertid har jag och gamla döfva mor Lena sutit här allena.
+Det allmänna omdömet borde för barnens skull fordra att så många lösa förbindelser som möjligt förvandlades till lagliga, låt vara att de mången gång blefve opassande.
+Församlingen måste derföre åtaga sig den lilla flickan.
+Gubben svarade nedslagen, att Anna var för fin att tjena i en bondstuga, hade fått för många herrskapsfasoner m. m.
+«Modren lär icke vilja släppa honom, » svarade fru Jung.
+«Der blef jag så att säga litet bortskämd och van vid vissa beqvämligheter, som jag sedan icke kunnat förmå mig att lägga bort.
+Det väsendtligaste jag har att berätta är några samtal som föreföllo mellan fru Jung, hennes döttrar och mig.
+Jag hade tagit det lika mycket för det barns skull, som borde komma, som för hennes skull.
+«En karl, en qvinna och tre eller fyra barn.
+Hon hejdade mig vid dörren, aftorkade sina tårar och framstapplade några orediga ljud, hvari jag urskiljde ordet förlåtelse.
+I mina öron, jag erkände det, klingade det som det värsta medborgerliga skrymteri, när jag hörde någon
+himla sig öfver det armod, som säges bli en följd af giftermål mellan personer med knapp och otillräcklig bergning, så länge man lemnar menniskorna, fattiga och rika, försörjda och oförsörjda, den mest oqvalda frihet att föröka folkmängden som ogifta.
+De bägge parterna i en sådan förening ha sällan gifvit sig tid att pröfva om de sammanpassa i lynnen och arbetsvanor.
+Du såg honom för en tid sedan hemma.
+Hon och jag äro födda i samma socken och jag har en syster bosatt i den trakt, der hon är hemma.
+Förmögna anförvandter hade i det längsta bekostat hans vistelse vid läroanstalten, men sedan han gång efter annan bedragit dem med löfte om tagandet af än den ena, än den andra examen, hade de slutligen tröttnat att kasta sina penningar i sjön och lemnat honom att bero uteslutande på sig sjelf.
+Dessutom skulle hon alltid uppsöka honom hvar jag än satte honom, och med sin närvaro, om än aldrig så kort, inverka på honom till ondt.
+Värst blef det dock för Anna sedan det föll stjutmodren in att sammanpara henne med sin brorson, hvilken tjente som dräng i huset.
+Fruktande att jag skjutit öfver mitt mål och på ett opassande sätt syftat på en annans enskilda angelägenheter, bugade jag mig till afsked och inträdde i ett inre rum. »
+Ty sällan är det ensamt trashankar, som hjelpt henne att öka hennes familj.
+Jag har icke haft en lintygstrasa på min kropp alltsedan förliden vinter.
+Få figurer ha ingifvit mig mera afsmak än den qvinnas, som inträdde genom dörren, sedan Sophie öppnat den.
+«Kanske har han det också, » sade jag.
+Han anser sig ha rätt att i henne hata sin egen obetänksamhet och sitt eget lättsinne, derföre vänder han sig i vrede emot henne, så ofta det går honom emot, så ofta det förefaller honom tungt att försörja hustru och barn. »
+Jonas är nu också nöjd med som vi ha det, och gör mig den rättvisan att erkänna, att jag icke förbrukar mera, utan snarare mindre än grannhustrurna. »
+Derföre har jag ofta tänkt, när jag hört mindre hyfsadt herrskapsfolk, som mamsell väl vet att det ännu är godt om, föra väsen öfver lättfärdigheten
+bland allmogens flickor, att herrskaperna sjelfva till en del äro orsaken till denna, i och med detsamma de icke bygga bättre åt sina bönder och torpare, än att dessas barn vänjas till oblyghet snart sagdt ifrån vaggan.
+Jag var ofta osedd vittne till huru han öfveröste henne, så som han alltid passade på när han kom åt, med smicker öfver hennes utseende eller med gyckel öfver hennes allvarsamhet.
+«Om jag icke såge på din mine, Henrika, att du är allvarsam, så vore jag färdig tro, att du drefve gyckel med oss, » sade fru Jung, «ty hvem har någonsin sett eller hört talas om en sådan juvel till matmoder, som denna din bekantskap.
+«Någon egentlig tillfredsställelse kunde icke mamma vänta sig af ett fall, der det blott kom i fråga att rädda ett par tvetydiga menniskor från att bli ännu sämre.
+Några dagar efter fru Jungs hemkomst kallade ett bref mig till S.
+Snart derefter lemnade han nejden och återsyntes icke mera i den.
+Posten hade nyss medfört ett ledsamt bref, som förtäljde att en ung flicka, på sätt och vis fosterdotter till fru Jung, låtit förföra sig af någon slusk till herre på den gård, der hon tjenade.
+«Skär du icke alla väl mycket öfver en kam? » sade Sophie.
+Hon har många gånger omtalat med gråten i halsen huru ingen sökte bevara henne från dennes närgångenhet, utan stjufmodren tvärtom vid mer än ett tillfälle syntes ställa så till, att Anna borde duka under för den.
+Han ser sträfvare ut än han är.
+Hon tog ingen riktig reda på hans blifvande vistelseort, och när ett barn slutligen infann sig, visste man icke hvart man skulle skrifva för att uppmana fadren att bidraga till dess försörjning.
+» Jag blir så glad, när jag får se någon från Alstersvik. »
+Hvad som också både äcklar och kostar på mig, midt bland allmogen som jag lefver, är sällsyntheten här af ett äktenskap, som icke är i kroppslig måtto påbegynt före vigseln.
+Jag låg vaken hela natten, undrande ett och annat öfver orsaken till Römers hastiga beslut och öfvervägande utsigterna för det
+parets framtid, som så på tvären funno sig olösligt förenade med hvarandra.
+«Hon påstår, att man bör lemna nygifta och gifta personer i allmänhet i fred.
+«Men nu har jag pratat längre, än kanske någon vill följa med, » sade fru Jung, afbrytande sig sjelf.
+Det var dryga dygn; jag ville icke gå ut, utan satt inne i sommarhettan för att icke vara ur vägen, ifall han kom.
+Fru Jung oeh hennes dotter hade gjort Lundgren sällskap, när han gick hemåt för natten, för att hemta oss tillbaka.
+Anna lät
+icke dessa omständigheter verka på sig; hon kände honom och sig sjelf, och visste att hon alltid skulle blifva olycklig med en make af så orena seder, låt vara att han kunde lyfta henne till en samhällsställning, der hon kunde komma i åtnjutande af en viss beqvämlighet och nästan öfverflöd.
+Det löper som en bäfvan igenom mig, att hon skall begifva sig till någon af våra folkrikare städer och förfalla till allmän qvinna.
+Hon brast i gråt och fortsatte så länge dermed, utan att säga ett ord, att jag steg upp för att gå.
+«Jag ansåg verkligen våra underhandlingar afbrutna och funderade hela dagen hit och dit på huruvida jag förmådde göra något mera för Maja.
+«Ja, deri har du rätt, » sade fru Jung.
+Nu ingaf han henne endast afsmak.
+Innan jag lemnade staden ville jag en gång till besöka min för detta skyddsling för att erbjuda henne en tillflyktsort någonstädes under Alstersvik, der hon genom träget arbete, omvårdnad om sitt barn och hjelpsamhet emot andra finge tillfälle att ångra och afbedja sin skuld.
+Men hvar finns den pust, som kan hos dem inblåsa lust för ett sådant företag?
+Det är tid på att en hvar går till sitt för natten.
+Mamma och Lundgren hjelptes åt att göra detta inbjudande under de få veckor som förflöto mellan förlofningen och vigseln.
+Säkert har ni öfvertalt någon af edra grannar att göra sig deras stora utrymme till nytta.
+För att icke göra honom någon skada och likväl få denna min önskan fram, vänjde jag mig då vid att bli så sparsam om bränsle, att jag aldrig lägger ett onödigt träd på spiseln.
+Den första upprinnelsen till dessa gaf en nedslående erfarenhet, som snart efter min ankomst till Alstersvik träffade fru Jung; hon fann sig gäckad i sina käraste bemödanden; en person, som länge stått under hennes vård, gick tvärt emot de uppmuntringar hon fått.
+Detta stötte mor Stina så, att hon uppsade
+flickan för nästa halfår.
+«Jag fick vänta två hela dagar innan jag hörde någonting från Römer.
+Stjutmodren deremot ville ha henne ut på dansar och lustbarheter.
+Det var då han tvangs att söka sig informatorsplats, och fann en sådan på Stenby, hos herr och fru B.
+Hvarthän jag vänder mig, tycker jag att jag ser faror och frestelser; bedragare och sådana som äro villiga att låta sig bedragas.
+«Jag, » sade fru Jung, «kan icke se en sådan qvinna, utan att tänka: hon har icke kunnat synda ensam.
+«Har ni nu fått en sotare i ert sällskap, Anna Maja? » sade fru Jung.
+Maja föreföll mig verkligen så osmaklig med det misslyckade fruntimmersskick och den tillgjorda finkänslighet hon antagit, att jag, ju förr ju hellre, ville slippa att se henne.
+De sågo vänliga, glada och trygga ut, hvarken slampiga eller tillgjorda och besvarade och gjorde frågor med ett synbart godt omdöme.
+» Ehuru jag inser att fru Jung gjort rätt, » sade
+jag, «kan jag likväl icke undertrycka en och annan farhåga.
+Mamma begärde icke bättre, bara Annas far samtyckte att släppa henne.
+Jag springer ner och öppnar köksdörren åt dem, men hela följet ser så ruskigt ut, att jag knappt vill gå ner ensam; någon borde också stanna i köket medan jag går in i skafferiet och hemtar ut mat åt dem. »
+Hans hustru hade heller aldrig rätt lidit, att hon på fru Jungs föranstaltande fått sin enskilda skrubb till sofrum, liksom hon vore för god att bo bland bönder.
+Deremot är Römers exempel ett slags lexa åt ynglingar ur ståndspersonsklassen.
+Henrika och jag gjorde också vårt bästa, som du väl kan tro, att pryda det med hvarjehanda små dels nyttiga, dels onödiga småsaker.
+Mig ligger det om hjertat, att kunna vänja de mina ifrån barndomen vid den försynthet i umgänget de olika könen emellan, som jag sett iakttagas i hyggliga herrskapshus; ty jag tänker, att bli de oblyga till det yttre skicket, så bli de snart fria äfven till sederna.
+Icke kunde hon, en stackars arm tjensteflicka, så arm, att hon icke hade mer än det hon gick och stod i, begära att en herreman toge henne till hustru.
+Det blef också en hård tid för Anna.
+«Fortsätt nu, käraste mamma, sin berättelse ifrån L., » inföll Henrika.
+«Det är något, som jag vänjt mig till i T., der jag tjente i sex år innan jag gifte mig, » svarade mor Karin på mitt spörjsmål huru hon i detta fall kunnat komma att införa andra seder, än de i trakten brukliga.
+«Jag föreställer mig att man en och annan gång påträffar bland detta slags flickor dem med god takt och ärbar fasthet, ehuru deras dygd sällan blir känd och berömd; deras verkliga berömmelse är icke dess mindre. »
+Maja och barnets underhåll skulle kosta honom mindre som gift än ogift.
+Utaf alla gårdarne i byn har den det hyggligaste och ordentligaste utseendet.
+«Mycket ha de varit på Alstersvik; på sätt och vis äro de mammas skolbarn.
+Vi ha aldrig så kokhett inne hos oss vi, som grannarne, derföre orka vid med att elda det tredje rummet; vi koka vanligen vår qvällsvard i detta, för att icke mer än nödigt är behöfva elda köket och storstugan.
+så frågar jag oupphörligt mig sjelf, såsom den, hvilken onödigtvis flyttat på ett käril som på den nya platsen blifvit sönderslaget, vanligen frågar sig.
+Hon bad oss sitta ned på en bänk utanför byggningen, tills hon slutat sin förrättning.
+Bränvin och kaffe flöto ymnigt, som mjölk och honing
+i Kanaan.
+Hvarföre icke ställa dessa så, att de uppmuntra ynglingar och flickor till godt skick?
+Om en sådan bekantskap icke är rolig, så ger den likväl en aning
+om huru en olycklig och talrik klass af menniskor framsläpar sitt lif. »
+En välförsedd bokhylla och några goda taflor voro icke det sämsta i anordningen.
+Detta sparade mig en vidlyftig inledning, ty jag förstod deraf att Maja omnämnt mig och det förhållande, hvari hon stått till mig utaf gammalt, för honom.
+Det är min tro, att den, liksom fylleriet sjelft, till stor del befordras af den köttsliga
+bekantskap, som utgör inledningen till så många äktenskap bland folket.
+För en tre till fyra år bortåt lära de också förstått att rikligen utkräfva deras innestående fordran.
+«Mamma är en hatare af långa förlofningar.
+Detta tog sig väl och snyggt ut, framförallt om man jemför det med de gyttjiga få gator och trånga, smutsiga gårdar, som i andra byar här i socknen skilja husen från hvarandra.
+Annat får man se, » sade mor Karin.
+Derföre brukade hon ofta förr, när hon var här, att öfversvämma mig med helsningar från denna syster och andra personer i min hembygd.
+Deremot har jag tyckt mig märka, att flera af de unga hålla
+mig nästan räkning för den.
+Ni minns att jag förr uppmanat er att hålla den äldsta flickan till något arbete.
+Jag brukade visserligen, – jag, såväl som en hvar annan, – att lamt beklaga, när jag hörde omtalas någon ung flicka, som blifvit förförd eller såg barn, som ej erkändes af någon fader.
+Ehuru ärlig hon är, är hon van att beslöja sina känslor; hon yppar dem icke för andra, än dem de tillhöra. »
+Det är i alla fall de förra som ange tonen i bygden och som bestämma bruken både inom- och utomhus.
+Vi uppehöllo oss gerna på denna plats, ty man hade derifrån en ganska vacker och vidsträckt utsigt.
+Medan hon och hennes barn irra som stackars förstörda uslingar efter landsvägarne, fortgå kanske en eller flera hennes medbrottslingar helt makligt på den breda vägen till anseende och rikedom.
+Jag vet icke huru jag lyckats återge dessa samtal; jag vet endast, att de voro värda att återges.
+Jag kan icke låta bli att tänka på sådana olyckliga barn, hvilka på sin höjd äro en viss församlings och en viss fattigvårds, men icke någon särskild
+familjs tillhörighet.
+«Så syntes jag då nära att vinna ändamålet med min resa.
+När han såg att intet annat hjelpte, friade han i ordentlig form till henne.
+«Sålunda kom hon tillbaka ibland oss, men midt under en dyster och bekymmersam tid.
+Jag tänkte mig hurudan hon skulle blifvit 5 till 10 år härefter, ifall man lemnat henne åt det öde som hotade henne.
+Men ängsligt har det varit, mest derför att jag kännt mig nära på förvist från fru Jung och er.
+Jag vet icke om hon redan då besvarade Lundgrens tillgifvenhet eller om hon endast hade aktning för den manlighet och det redbara allvarliga skick, som skilde honom från andra karlar hon kände.
+Härjningar efter den vämjeligaste af sjukdomar, liksom ett och annat blåmärke dessutom, förhöjde den skräckinjagande verkan af detta oigenkänliga Guds beläte.
+Anna svarade ja till detta giftermålsförslag, hvarföre
+, det har jag svårt att afgöra.
+«Är Lundgren god emot henne? » sade jag.
+Ett stort rum, på en gång mat- och arbetsrum, på ena sidan om en trång förstuga; en trång sängkammare derinnanföre och på andra sidan förstugan ett kök, det var hela inredningen.
+«Naturligen var jag af andra tankar och sade honom mina skäl derför.
+« Allting förefaller mig här så vackert; icke minst de röda och gula äpplena, hvilka lysa så aptitliga bland de bruna löfven.
+Han hade ett litet arf att vänta och var en karl, som i timlig mening hade en framtid för sig.
+Hvar äro hennes medhjelpare?
+Det ligger mig om hjertat att visa Judith, att mamma icke endast har skyddslingar, af hvilka mamma har sorg, utan att det också finnes några, af hvilka mamma har heder. »
+«Är det någon af dessa, som infört ett likadant bruk som ni, mor Karin? » sade jag.
+Då han lät mig i ro fortsätta, tillade jag, att jag väl visste, att han icke genom något slags tvång, icke ens genom det tvång som antagna hederslagar pålägga, skulle kunna förmås till detta äktenskap, utan att han tvärtom hade både lagen och seden på sin sida, om han lemnade den qvinna han förnedrat obeskyddad och utsatt för att djupare och djupare förfalla.
+Mor Karin och jag hade just nu slutat vår rund genom byggning och trädgård.
+M. LINDH, 1860.
+Blefve sådana införda, skulle vi om ett par årtionden ega ett bättre och lyckligare folk.
+«Det var ett godt och tankfullt utseende på henne, men lyckligt eller lugnt var det icke. »
+Endera fräter han sig sjelf i onyttig förtrytelse emot de föräldrar, hvilka satt honom i en tvetydig och olycklig ställning, eller också urskuldar han dem och vårdar sig icke om antagen sedlig ordning.
+Anna Maja Grens.
+Under den långa hösten och vintern har jag tyckt om att återerinra mig huru de tänkte och talade.
+Jag trodde, att jag icke kunde låta detta passera oanmärkt, utan gick in och tillhöll torparehustrun att uppföra sig med mera vett mot det värnlösa barnet.
+Jag önskar att någon menniska med stort hjerta och öfverlägsen talang ville skrifva sådana barns historia.
+Bittida och sent talte hon om Annas tröghet; hon ville ha henne katig och munvig, färdig att utdela plumpa qvickheter till höger och venster.
+Ser jag mig vidare omkring öfver den ram af träd, som innefattar detta landskap, tycker jag att jag aldrig sett den så praktfull som nu.
+Sedan skyndade jag mig bort, viss att man lika gerna såg mig på ryggen, som jag sjelf aflägsnade mig.
+Jag har ju bott här på orten i snart trettio år, utan att drömma om, att jag en half mil härifrån hade en bundsförvandt till hvad som mest ligger mig sjelf om hjertat.
+Och jag tänker mig att enhvar, begåfvad med någon uppmärksamhet, hvilken bott en följd af år i landsorterna, der man bättre än i städerna kan ha reda på befolkningen två till tre slägtled efter hvarandra, har kunnat förvissa sig om, att det lösaste och sämsta folket i socknarne är det, hvilket sett dagen till följe af ett kyskhetsbrott.
+«Jo pytt!
+Hon har reda på tusen och tiotusen andra personer, som förbrutit sig mot samma budord som hon sjelf, och hon skyr icke att uppräkna dem; hon kommer då i sitt rätta element.
+Grannarne skulle skratta mig midt i synen, om jag föresloge dem någonting sådant.
+Vi voro alla samlade på en balkong, som från stora huset låg utöfver trädgården.
+«Säkert förgick jag mig, och blef väl mycket uppriktig.
+Jag kände mig derföre nästan lätt om hjertat, när fru B. för två år sedan erbjöd mig att taga Maja i sin tjenst.
+De dyningar, som Anna Maja Grens besök uppväckt inom mig, ha ännu icke laggt sig.
+«De förakta mig för att jag är piga, » sade hon vid sådana tillfallen.
+Sedan Anna Maja med följe var borta, dörrarne åter stängda och vi ånyo sittande på balkongen, sade fru Jung: «Denna Anna Maja Gren anser sig som en gammal bekantskap till mig.
+Doge modren, kunde jag likväl komma att tänka på saken, ifall ingen annan åtoge sig barnen.
+Jag träffade vid samma tillfälle Römer; han såg trumpen och besvärad ut.
+Hvarenda linie, hvarenda skrynkla i hennes ansigte talade om böjelsen för en viss last.
+«Väl hade jag tyckt om och hållit henne räkning för om hon uppsökt mig, ty säkert hade hon genom Römer fått höra talas om min ankomst, men jag fann naturligt, att hon i det längsta uppsköt ett sammanträffande, hvilket nödvändigt å ömse sidor skulle bli pinsamt.
+Jag hade också det bästa hopp om henne de första veckorna hon var här; hennes fyndighet och lätthet att lära både öfverraskade och gladde mig.
+Sedan förde hon oss in i byggningen.
+Kanske det hade gått henne bättre
+om hon fått stanna hos den ondsinta mor Stina i Åsen.
+Han blir en bättre make för henne, en bättre far för hennes barn, sedan de byggt bo tillsammans, än han eljest blifvit, om han icke lärt sig att underkasta sig något tvång.
+Men denna afton hade ingen ibland oss öga för utsigter, hade de också varit tusen gånger vackrare än den som vid detta tillfälle låg framföre oss.
+Gifve Gud, att så vore!
+Några år framflöto snart sagdt i sus och dus för Anna Maja och hennes mor.
+Nog har jag rätt ofta hört äldre aktningsvärda bondhustrur jemra sig öfver det växande antalet af oäkta barn, öfver ungdomens lättsinne och dess benägenhet att glömma de äldres
+varningar.
+«När jag hör dig tala om Anna, » sade jag, «så förtretar det mig å mitt köns vägnar, att det är så sällsynt bland t. ex. ångbåtsjungfrur och alla sorter uppasserskor, att någon kommer till samma betraktelse som Anna.
+Hon försökte några år att sköta den ensamt med rättare, men fann snart att hon kom på efterkälken efter alla egendomar i trakten med sitt landtbruk.
+Men det hindrar icke, att jag likaväl är skyldig att göra hvad jag kan för att förebygga den. »
+Sådana olyckliga qvinnor, som Anna Maja, äro säkert icke så gräsliga undantag från den andra befolkningen, som man vid första påseendet hoppas dem vara.
+Troligen ville hon visa mig, att hon afskuddat sig mitt välde och icke begärde mitt besök.
+Merendels upptar hon i sitt sällskap, hvarpå du såg ett profstycke i dag, än den ena, än den andra lösa manspersonen, hvilken på aflägsnare orter och der hon är okänd vid framkomsten till gårdarne spelar rollen af barnens fader.
+Det är en man af både kunskap och smak i sitt egentliga yrke, trädgårdsmästarekonsten.
+Det är möjligt att min ifver förleder mig och att saken är mindre vigtig än jag tror.
+Sedan folket var borta uppstego vi på balkongen för att se det hvita seglet af en skuta, som just nu sköt in bland holmarne utanför Alstersvik och snart lade sig för ankar bakom en af dem, så att masten stack upp bakom den låga skogen.
+«Ett sådant stadgande kommer säkert förr eller sednare till stånd, » sade fru Jung.
+«Jag ville gerna återtaga det nu.
+Mor Karin, värdinnan i huset, var ensam hemma, tillsammans med en liten åttaårig flicka.
+De, som aldrig sett annat än den gamla seden, tycka att det är rent af befängdt, att vänja sitt folk vid hvad de kalla sådant sjelfsvåld, som att låta olika kön begagna olika sofrum och sörja för att de få snygga sängkläder och renligt linne.
+Samtyckte han att gifva det, såsom han var skyldig, icke efter verldsliga lagar eller hederslagar, men efter de inre och eviga, som hviska i djupet af hvarje icke bottenfruset samvete, så förklarade jag mig villig att i yttre måtto möjliggöra detta giftermål genom ett litet årligt penningebidrag de första tio åren. »
+Vet ni hur min syster, som är torparhustru under stora Rö, på min tillrådan ställt till hos sig?
+Förliden sommar, när jag vistades på Alstersvik hos min vän, fru Jung, hörde jag mycket talas i ett ämne, hvilket på andra ställen sällan göres till föremål för samtal, annat än hviskningsvis eller såsom rått sqvaller.
+«Gå gerna dit, om ni vill, » sade fru Jung.
+«Hennes mor var en ogift kringvandrande qvinna, som sjuknade och dog i denna socken, » svarade fru Jung.
+«Men om de komma från sina mödrar, då dessa äro dåliga, redan i den tidigaste barndomen, » sade Henrika, «så borde de väl kunna räddas.
+«Jag är icke böjd att disputera din fruktan, » sade fru Jung.
+Men dertill inskränkte sig mitt deltagande for sådana saker.
+Bevisa de sig i allmänhet sämre än folket är mest, så är skälet dertill lätt funnet på naturlig väg.
+Den hustru, som skickat sig som en slinka, låt vara för mannens egen skull, missaktas snart af denne, åtminstone om han har en gnista sträfhet i sin natur; icke afhålles han af undseende för henne frän krogen eller slagsmålet.
+«Och glad blir jag att komma, » sade Anna.
+Jag var tvungen att antaga just motsatsen till det skick, som jag anser i yttre måtto passande och vettigt.
+Det är icke värdt att beskärma sig öfver ungdomens otukt och okynne, som många gamla göra, då man sjelf gör ingenting för att lära dem bättre och dertill kanske en gång föregått dem med exempel i samma väg.
+Vi trifdes icke med henne och hon icke med oss.
+Tapeter på väggarne samt trefliga och beqväma möbler gåfvo ett gladt utseende åt rummen.
+«Gud ske lof, att mamma är åter hos oss! » sade Sophie.
+Det har blifvit mig sagdt, att det någonstädes irrar ett slags motstycke, ehuru i en något mildare form, till Anna Maja Gren, hvilken Lundgren först invigt åt olyckan.
+Sophie och jag togo af en väg inåt skogen.
+Sorgligt var att se det sofvande hufvudet af ett några veckors gammalt barn hvila en half aln inunder ett sådant ansigte.
+Hon hade skrifvit till oss under det hon varit borta, så att vi visste det väsendtliga af hvad hon derunder uträttat; likväl längtade vi att muntligt få höra en omständligare berättelse derom.
+Innan två år voro förlidna måste hon lemna denna sin tjenst för att ytterligare öka befolkningen i modrens stuga.
+Det passade bra för mig, ty det var just henne mitt ärende gällde, och hon emottog mig så fryntligt, att jag snart blef hemmastadd.
+«Hon dog så hastigt, att det aldrig blef utredt hvarest hon varit hemma.
+Men jag håller på att glömma bort hvad jag egentligen ämnade säga.
+«Mig roar att sitta uppe och samtala under dessa ljusa sommarnätter, då det nästan är besvärligt att lägga ihop ögonen, emedan dagern tränger genom ögonlocken; men J ären yngre och behöfven bättre att sofva.
+Ju närmare också jag tänkt på saken, dess vissare har jag blifvit, att en sådan sammangyttring alltid är skadlig.
+«Det är en tygel, som väl behöfver läggas på den frihet, med hvilken männerna, när som helst, kanske blott för tidsfördrifs skull, kunna begagna sig af vårt köns svaghet.
+Hela hemvägen gick jag och tänkte på mitt märkvärdiga samtal med mor Karin och på huru jag dermed skulle förbluffa er i afton. »
+Våra hjertan voro betryckta.
+Jag utsatte min afresa till middagstiden andra dagen.
+Sammanfästa ensamt af de kroppsliga drifterna finns ofta mellan dem i öfrigt icke mera enighet än mellan hund och katt.
+Innan jag kom under inflytandet af hennes åsigter, var jag en ur den talrika skaran af sedligt likgiltiga.
+Kanske är det vanligt i detta grannlag, att husbondfolk
+och tjenare, drängar och pigor ha sina särskilda nattherbergen? »
+Jag föreställer mig att det verkar välgörande, när husbönder icke äro för njugga, hvarken om tid eller annat; de få icke låta sina tjenare tro att de tänka endast på sin fördel; de måste i handling, så väl som i ord, visa att de tänka äfven för dem och deras framtid.
+Men då han stod färdig att lemna en
+stor trädgård i grannskapet, den han i många år skött, föreslog fru Jung honom att komma till Alstersvik och upparbeta landtbruket der, ty hon märkte att detta under hennes egen och en gammal rättares skötsel icke kunde följa med sin tid.
+Dessutom är det icke mina egna meningar jag har att framföra; nästan alla, som här förekomma, äro lånade från en annan.
+Det hviskades väl att hennes husbonde haft del i detta hennes sednaste felsteg, men få visste det säkert, och Anna Maja angaf honom icke.
+Det kittlar i mig att säga dem, att det blott är högmodet, som gör dem oförsynta.
+«I det samma jag gick uppmanade jag honom att säga mig Majas vistelseort.
+Vi följde henne öfver hela hennes egorymd.
+Anna Maja och hennes barn inhystes i ett slags fattighus bland en skara andra gamla qvinnor.
+«Mamma har nog haft hvarjehanda obehag under sin bortovaro. »
+Till en sjutton, aderton års ålder lärer hon ingalunda haft sämre rykte än grannflickorna rundt omkring.
+Afvisar hon med fasthet de tvetydiga förslag han gör henne, så beqvämar han sig säkert att vänta, och håller henne en gång räkning derför.
+De små böckerna, med deras röda och gula omslag, lyste i barnens ögon; de ryckte dem begärligt till sig.
+«Det kan icke skada Judith att bli litet bekant med våra kringstrykande tiggarfamiljer.
+Åt detta håll hade man en bit af det slags skönhet, som hafvet erbjuder; man såg obegränsadt vatten, der sjö och himmel smälte tillsammans.
+För Sophie och Henrika äro de välbekanta. »
+En angelägenhet kallade min värdinna annorstädes, då hon måste lemna oss ensamma för en tid.
+De sågo i allmänhet hyggliga ut, och det syntes på många af dem, att fru Jung icke förgäfves varit deras matmoder i tjugufem à trettio år.
+Jag önskar att du varit med, ty det var ett roligt besök.
+Hon var då uppvuxen till en vacker och i hvarjehanda sysslor kunnig flicka, som väl borde kunna förestå en lättare huspigetjenst.
+Hade jag gjort något egentligt godt med hvad jag uträttat, så frågade jag mig sjelf? »
+Fru B. har hittills i sina bref alltid berömt Maja; hon har synts tro, att hon förmått leda denna på den goda vägen.
+«Hur kom hon först hit? » sade jag.
+«Ännu är en lång stund qvar af aftonen.
+Affärerna höllo sig någorlunda uppe så länge modren lefde, ehuru Anna Maja på sednare tider på så mångfaldigt sätt förföll, att besökarne, utom de allra vildaste sällarne, så småningom drogo sig bort.
+Men enhvar, som är något snickare, kan göra en sådan sjelf.
+Gerna ville jag använda den till ett besök hos Anna Lundgren.
+Sedan hon härdat ut i nära två år hos föräldrarne,
+kom hon till mamma och bönföll hos henne att få komma tillbaka till Alstersvik.
+Anna Majas mor, som betraktade hans ankomst blott från den timliga bergningens synpunkt, var långt ifrån att se snedt på honom.
+«Vet mamma hvad Judith och jag göra under tiden? » sade Sophie.
+Han hade aktade slägtingar, och han visste hvad han var skyldig deras och sitt eget anseende.
+Maja steg upp, när hon fick se mig, men nalkades mig icke.
+Hvad som lände mig till fördel var, att jag af min slägting, Hjalmar P., fick litet reda på Römers omständigheter innan jag besökte honom sjelf.
+Hon hade blifvit, hvad hon sjelf kallade, «bedragen » af en supig snickaregesäll, som för tillfället hade arbete i trakten.
+Som denna låg vid en större byväg, var icke heller beräkningen dålig.
+Den försmådda, beröfvad sin sjelfaktning och sin arbetslust, sjunker ur hand i hand, sedan hennes första älskare vid henne tröttnat.
+Det är icke möjligt annat, än att du verkat godt och lyckats att införa en bättre ton bland både gamla och unga. »
+Höbergningen var just i dag slutad, och fru Jung brukade vid sådana tillfällen att bjuda dagsverkarne på qvällsvard.
+Väl passar den i stycke i sin höstdrägt med de granna, mångfärgade skyar, som i detta ögonblick hvila på vestra horisonten.
+Att den aldrig skulle bli rätt god eller aktningsvärd tog jag för gifvet; utan i bästa fall en mer eller mindre hederlig kamp mot alla de små förödmjukelser, som oupphörligt plågar fåfängt så kalladt herrskapsfolk, då det ej kan bära upp sin värdighet.
+Olyckan och förförelsen kan komma till min dörr förr än till någon annans, jag vet det väl.
+Hon har följt oss mycket på resor och under dem ofta på ångbåtar och gästgifvargårdar blifvit mål för den råa uppmärksamhet, hvarmed i vårt land pöbelaktiga herrar tro sig ha fribref på att få nalkas qvinnor ur den tjenande klassen.
+Dock måste jag tillstå, att det är mest de gamle i byn, som förarga sig på mig för denna saks skull.
+Det troddes, att han kallat henne till sig och försett henne med reskassa, ty hennes kamrater upplyste om, att hon kort före sitt försvinnande hade godt om penningar.
+Husbondfolket, barnen och pigan ligga i stora stugan, den sednare bakom en skärm, som framflyttas för natten; drängen och äldste sonen i köket.
+» Lemna, käraste mamma, detta ämne för i qväll! » bönföll Henrika.
+Säkert är det sannt hvad folk i allmänhet också mer och mer börja tro, att barnets karakter bildas redan i dess allratidigaste år; de oarter, som då inläras, kunna aldrig fullt borttvättas.
+Likväl teg han i det längsta, väntande på att kunna samla något mera, för att kunna med mera beqvämlighet gifta sig.
+«Men här är väf till skjortor åt de yngsta barnen; tråd och synål följer äfven.
+Så föreföll det åtminstone mig sjelf.
+Han förmodade, att jag gått galet.
+Mer än en gång har jag sett henne rodna af vrede öfver deras näsvisa beundran, men aldrig såg jag henne med en mine eller åtbörd visa sig smickrad af den.
+Det förefaller derföre klart, att sedeslösheten bland allmogen skulle vara någorlunda lätt att inskränka, om dess qvinnor ville göra något derför.
+Jag gick en gång der förbi, sedan flickan vistats der en tid.
+Men skada är, att det är blott fåtalet, som äro så väl bebodda, att de kunna härma er.
+Om jag då infunne mig i kyrkan skulle jag få höra deras beslutade äktenskap förkunnas från predikstolen.
+så har jag sagt otaliga gånger till Jonas, med hvilken det icke aflupit utan tvister i denna sak.
+Hvarföre ha vi så stort utrymme, om vi icke skulle bruka det?
+Denna utgjorde det enda vackra draget i detta barrskogslandskap, hvilket för öfrigt såg vildt och nästan ruskigt ut, med de nakna trädstubbar och den risiga mark, som betäckte den afbrukade skogstrakten.
+«Alla åbor här i byn synas vara väl bebodda.
+På Maja särskildt är det dock möjligt att denna fru
+B:s väl stora sparsamhet verkade ofördelaktigt; den kanske förledde henne att lefva för dagen, ty de få styfrar hon hade att få gingo åt till det nödtorftiga, godt om icke detta uppoffrades för någon tillfällig grannlåt, medan hon blef ovan att tänka för ålderdomen.
+Mina föräldrar – ty min far lefde vid den tiden – hade gerna velat uppfostra Anna tillsammans med mig, som min syster; vi voro lika gamla och våra lynnen stämde öfverens.
+Van sedan sin barndom att arbeta jorden och pröfva hvad den förmår bära, har han
+också förvärfvat ett särdeles godt öga för jordbruk i allmänhet.
+Mamma hade också otaliga ekonomiska svårigheter och plågades af oro att icke rätt kunna förvalta egendomen.
+Kort
+efter vårt sista samtal kom underrättelse från fru B:s hus, att Maja, fru Jungs föga värdiga skyddsling, så godt som rymt ur sin tjenst.
+Hon bebodde en trång kammare, tillsammans med en gammal qvinna.
+Hon var sipp och oklanderlig så länge hon yar under våra ögon; man hade egentligen ingenting att förebrå henne, men man kände liksom i luften att det icke var rent spel.
+Jag vet icke om det är hämndekänslan eller sinnet för rättvisa inom mig som knotar, men endera är missbelåtet med att Maja, tvärtemot att straffas för sitt lättsinne, vunnit just det mål, som slinkor, sådana som hon, troligen uppställa som sitt högsta: giftermål och giftermål med ett slags herre.
+Det är förmätet af mig, jag tillstår det, som sjelf är nybegynnare, att vilja kringsprida meningar och skapa anhängare, men nyomvände äro hetsiga, som man vet.
+Jag omtalar saken blott som ett exempel på att det går an, äfven der utrymmet är trångt, att invänja husfolket att iakttaga en viss yttre försynthet.
+När hon sökte qvarhålla honom och fordrade någon ersättning för sin tjenstvillighet, kastade han till henne några riksdaler i penningar och en halfsliten rock.
+«Ser ni icke, att flera matta stjernor börja synas?
+På åkern och logen, på kyrkvägen så väl som i stugan passade denna gerna på och lemnade henne ensam med den plumpa drängen.
+Stjufmodren synes ha menat Anna någorlunda väl, men af en grof och ogrannlaga natur, var det henne omöjligt att begripa hvad dennas ädlare smak behöfde.
+Den lilla piggögda Lovisa, mor Karins dotter, sprang som en liten vänlig lamunge i våra spår.
+Låt henne nu sy dessa plagg åt sina syskon.
+Jag sade mitt namn och hvem jag sökte.
+Gerna må några gamla tvärväggar nämna för högfärd, hvad jag kallar för god ordning, blott jag slipper hvad som årligen händer i grannstugorna, att döttrar och pigor helt oförtänkt knuffas i brudstolen, på det brölloppet må hinna att några veckor åtminstone föregå barnsölet.
+«Han besvor mig ännu en gång att taga i betraktande om icke blotta klokheten bjöd att icke två personer, som bägge hade tomma händer, sprungo i väg och gifte sig.
+«Mamma var naturligen i kyrkan
+och afhörde lysningen.
+HÅGKOMSTER
+Man har knappt hört talas om, under de långa tider vi ägt fräcka seder på värdshus och dylika ställen, att der framstått en flicka, hvilken med ädel sjelfkänsla och förstånd stött tillbaka ett plumpt bemötande å de besökande herrarnes sida, utan skynda alla nästan utan undantag med våpig eller käck ifver att göra sig till mål för ett sådant.
+I de blygsammaste ordalag jag kunde, sade jag honom, att sedan Maja och han vore gifta, hade han att qvartalsvis hos
+Hjalmar P. uppbära det lilla penningbidrag jag erbjudit.
+Men hennes far, en hederlig fast något tvärviggig karl, satte sig deremot.
+Vi måste här afbryta vårt samtal, för att ta emot det från ängarne återvändande folket.
+Öfvergifven af honom, blefve troligen det första felsteget för henne uppränningen
+till en hel följd af sådana.
+Den sednare befattningen var för några år sedan hans egentliga och enda.
+«Jag har nästan litet medlidande med mig sjelf, när jag erinrar mig den ställning, i hvilken jag var försatt. ’ Jag vill i allmänhet om möjligt undvika att göra mig löjlig, men gick jag icke nu att göra mig till en visa för Römer och hans kamrater?
+Lilla Lovisa följde mig genom byn och sprang sedan i fyrsprång hemåt.
+De skulle kunna förändra utseendet i bygderna, om de visste sitt eget bästa.
+Ibland funderade jag nästan på, om det var ett genljud från mamma, hvilket trängt hit tvärs öfver viken.
+Något efter denna
+tid födde hon sitt första barn.
+Den sednare tog genast till ordet och förkunnade, att «hennes Carl » frågade icke, som mängden, efter rikedom och högt stånd, utan han tog henne till sin hustru, oaktadt hennes armod och föraktade ställning.
+Särdeles föreföll en sådan beskärmelse mig obefogad i dens mun, hvilken, om ryktet sade sannt, midt i ungkarlslifvet städse beflitat sig om menniskoslägtets tillväxt. »
+Jag kom att skiljas hastigare ån jag önskat från mina vänner vid Alstersvik.
+Den bugtar mestadels efter sjöstranden genom frodig barrskog, hvilken utångade frisk granrislukt efter det i natt fallna regnet.
+Nu fick Anna göromål för att tillaga qvällsvard åt så många.
+Det föll derföre fattigvården till last.
+Likvisst säger jag icke detta som en ursäkt för Maja.
+De andra ha sämre hem och det smittar ifrån sig, det kan icke hjelpas. »
+Tredje aftonen.
+De skulle bägge uppmuntras till sparsamhet och arbete, om de hade ett gemensamt mål att arbeta för.
+Men aldrig såg jag en skugga af uppmuntran åt honom att fortsätta å hennes sida; hon behöll samma fasta, blyga och stilla sätt som alltid och vände honom ryggen, icke med förakt, men med ett orubbligt lugn.
+Den inlärer de olika könen vid oblyghet i beröringen med hvarandra; åtminstone tycker jag mig ha märkt hos
+våra grannar att den bär sådana frukter.
+Dock väntade jag mig knappast annat än nej på detta förslag. »
+Mild och eftergifven i vanliga fall, var hon dock oöfvervinnerlig, när det var fråga om att bevara de blygsamma vanor, i hvilka hon uppväxt.
+Gud vet att jag icke stoltserar och menar, att jag kan få dem, såsom jag önskar dem.
+Skymningen hade redan inträdt, och vi talade just om att tillsammans bese staden i det klara Augustimånsken, som snart skulle visa sig, då man anmälde för mig, att en herre och ett fruntimmer sökte mig.
+«Ja, nog vore det godt, » sade jag, «om välmående bönder med stora stugor ville införa samma sed som ni, mor Karin.
+Mannen tycker icke om, säger hon, när hustruns gamla bekantskaper tränga sig in på henne.
+Mamma kunde icke sätta sig emot ett sådant förslag å hans sida, ehuru illa hon än tyckte om det.
+Den erinrade med sitt nya tegeltak och sina gulmålade ytterväggar så mycket om ett litet välputsadt hus i en småstad, så äfven det inre.
+Annat vore om hon vore rik och hade ansedda slägtingar, men nu hade hon ingenting annat än sin kärlek m. m.
+Deremot upptog modern gåfvan nästan likgiltigt; det syntes tydligt, att hon var stött öfver att
+ej presenten gjordes till henne.
+Så är jag t. ex. vid städseltiderna mer än andra häromkring öfverlupen af tjenstsökande, och flera af dessa ha sagt mig, att den omtanke, jag egnat åt mitt husfolks behof, lockat dem till mitt hus.
+Hans börd var i moderns och mormoderns ögon vida både förnämare och fördelaktigare än det äldre barnets.
+«Men det var ett helt kort adjö.
+Då jag yttrade en önskan att få se en drällsväf, som hon väft i sommar, följde hon mig i öfre våningen för att visa mig den, och derifrån gjorde vi en upptäcktstur äfven i nedre.
+Det skulle i högsta grad uppröra och smärta mig, om detta lemnades att uppväxa som ett bland de många, hvilka ett oärligt och hjertlöst bruk förvägra fadersvård och fadersnamn.
+Visserligen kommo under denna tid ett eller två nya barn och ökte besväret och trängseln i krognästet, men de dogo tidigt, troligen genom vanvård.
+Derföre ser du skälet, hvarföre vi icke besökt dig på hela sommaren.
+Är man bara säker på nyttan af en sådan vana, nog hittar man på utvägar, olika efter olika omständigheter, på hvilka man söker bibringa den. »
+Jag afbröt denna svada, så lik andra bortkrånglade och simpla qvinnors, och sade henne att det här icke var fråga om hvad hon begärde eller icke begärde, utan blott om hvad som i och för sig sjelft var rätt.
+Hon såg att det roade mig att se mig omkring i hennes hus, och följde mig derföre öfverallt både ut- och invändigt.
+Hon påträffade en rask och rifvande, men sedeslös karl, som gjorde mycket ondt
+i denna nejd, fast han stannade här blott ett år.
+Jag var derföre fullkomligt oberedd på den underrättelse jag nyss fick.
+Möjligt är att denna, oaktadt hennes häftiga lynne, hade bättre lampor än jag med Maja.
+Jag unnar af godt hjerta många samvetslösa ibland dessa samma straff som han får underkasta sig. »
+Huru skulle en ung man, som icke slutat sina studier och som icke hade medel till sin egen framkomst vid högskolan, kunna draga försorg om hustru och barn.
+Träffade mamma något vidare Maja och Römer? »
+Straxt på eftermiddagen, sedan hon gjort en tur genom trädgården och glädt sig åt det frodiga utseendet hos grönsaker
+och skidfrukter, togo vi plats i en syrenberså för att få höra hennes redogörelse för sin resa.
+Särskildt behagade mig några unga flickor vid Henrikas år.
+Onekligt är, att en och annan af hennes fordna kamrater och bekantskaper kan frestas att skicka sig på samma sätt för att vinna samma mål.
+Men hon har sedan fått beskedliga pigor och dessa ha dermed varit väl belåtna.
+Jag känner mig alltid besvärad, när jag måste inträda i ett främmande hus; det förefaller mig, som värdfolket skulle tänka: hvad har den der här att göra?
+Hon och modren funno att det lönade sig bättre att inrätta den sednares stuga till ett förlustelseställe, der bränvin och kort vankades.
+Allt godt och roligt och vackert som finns, bleknar
+bort när jag ställer det sida vid sida med de förvillelser, som begås i hvarje ögonblick. »
+Det var hennes öfvertygelse, att ingenting så mycket förnedrade vår tid och gjorde menniskorna i den odugliga till godt, som den öfverallt utbredda oordningen i umgänget mellan könen.
+Hon hade försvunnit från B:ska huset, men man var viss om att hon begifvit sig till L. eller trakten deromkring.
+«Det led långt på aftonen samma dag; jag satt med Hjalmar P. och hans hustru i ett litet lusthus i deras täppa till trädgård.
+Det var det enda och sista steget å min sida till inblandning i deras affärer.
+Ty det är klart, att ett dylikt öde hotar sådana barn, som t. ex.
+Men nu tala vi icke mera om den saken.
+Det har alltid varit mig i hög grad motbjudande att inblanda mig i andras enskilda angelägenheter; hvad skulle det icke vara nu, då jag måste göra det fullkomligt oombedd?
+Hvarföre gaf jag anledning att hon kom hit?
+Finge jag ställa, så skulle hvarje socken uppföra en kasern i närheten af kyrkan, der alla kringstrykande hade att söka nattherberge; den enskilda gästfriheten skulle icke belastas med sådant objudet och farligt främmande.
+Hvad jag i tysthet är öfvertygad om, det kan jag endast meddela till dem, som väl förstå och känna mig.
+Anna Maja tog nu icke längre tjenst.
+Hon var alltid ett godt, mildt och läraktigt barn.
+Det vore önskligt att många husmödrar följde mammas föredöme. »
+Fru Jung medförde väf till två stycken barnlinnen och ett par små böcker.
+Ty liksom de förråa sin omgifning i de fall, der de äro oblygt beredvilliga att lyssna till fräcka anbud, så kunde de hyfsa den och förädla dess tycken, om de sjelfva vinnlade sig om ett ärbart och värdigt skick.
+«Mamma vill så hafva det, » sade Sophie.
+Troligen är hon en tolf eller femton år yngre än jag, och var sålunda ännu en liten flicka, när jag lemnade min födelseort.
+«Hon var inbyrd i förställning långt innan hon kom i mammas händer.
+«Kom, Judith, så följa vi flickorna, » sade fru Jung; «det vore nästan synd att skicka dem ensamma för att ta emot sådana gäster.
+Emedan han varit i det längsta understödd af slägtingar, ansågs han icke farligt skuldsatt, huru oordentligt han än left; och Hjalmar trodde honom icke alldeles sakna arbetsförmåga och en viss skicklighet att slå sig fram nu, sedan han blifvit lemnad att stödja sig ensamt på egna krafter. »
+«Jag tyckte icke Anna såg så glad ut som jag väntat mig henne, » anmärkte jag på hemvägen.
+Det onda, som en sådan härkomst för med sig, hänger i icke endast en slägtgeneration, utan flera.
+Jag samtyckte icke genast dertill, men då man upprepade gånger satte åt mig med uttryckliga försäkringar att en bättre inackorderingsplats, än den hon stod färdig att lemna, för närvarande icke fanns i socknen, såvida hon ej fick komma till mig, gaf jag slutligen efter.
+Lundgrens biträde var henne derföre ett riktigt fynd.
+Jag är viss om, att smaken för renare nöjen och leda vid gröfre skulle infinna sig som en frukt af renare könsvanor.
+Duglig och allvarsam var han den främste i arbetet och dessemellan sysselsatt att uttänka huru egendomens alla tillgångar skulle rätt kunna tillvaratagas och tillgodogöras.
+Säkert bidrog det mycket till mitt samtycke, att jag fattat ett visst behag för flickans pigga mine och lifliga blick.
+Kom nu och följ mig och se på mina bägge kor; de äro nyss återkomna från betet. »
+Henrika vill säkert följa med mig. »
+Mamma skaffade densamma möjlighet till återupprättelse åt en tjensteflicka, som man skyndar sig i någorlunda hyggliga hus inom ståndspersonsklassen att ge åt en vilsekommen syster eller dotter.
+Af några ord, som hon fällt före sin flykt, gissade man att hon begifvit sig efter till L., dit hennes förförare förut rest.
+Hon hade icke i dag med sig den äldste gossen, hvars uppsyn är svår och förhärdad, lik modrens.
+Kunde jag väcka några förslag i lagstiftningsväg, så skulle mitt första bli, att intet nyfödt barn finge antecknas i kyrkboken, utan att en man och en qvinna samtidigt och på samma ställe antecknades som dess föräldrar; det skulle icke få finnas några barn som betraktades som lösa qvinnors enskilda tillhörighet. »
+Pigan muttrade hvar qväll hon skulle lyfta fram den, att det illa lönte sig för torparfolk att spela förnäma, med mera dylikt.
+Jag vet derföre ingenting om hennes historia af mig sjelf, utan har hört den dels af min syster, dels af andra bekanta i Aska församling.
+«Mamma fick gå bönfallande omkring, liksom mamma varit den
+skyldige.
+Det var mitt fel, att jag icke studerade flickans sinnelag innan jag tog henne hit; jag insåg för sent, att en försagd menniska, som jag, icke var rätta personen att ta reda på en sådan inbunden och behändig liten varelse. »
+«I sådant fall har jag icke något slags stolthet, » sade fru Jung.
+Hennes lynne, hennes utseende, liksom hennes medskyldiges samhällsställning, gör en sådan bana för henne sannolik.
+«Hvad säger du, Judith, om en sådan oskön och dyster sannsaga? » fortsatte fru Jung.
+«Det var just inga fördelaktiga underrättelser för dig och din plan, » sade jag.
+Det är ett elände, må mamsell tro, som är nästan det värsta af alla för den trångboddare åbon; den nödvändighet, hvari han är försatt, att ofta för nätterna hysa de mest förderfvade tiggare, kringstrykande gesäller, gårdfarihandlare och mera sådant.
+«Men se åt detta håll ibland träden, så får du se Annas hem framskymta.
+«Om jag också kunde säga dig några fadda saker för att hindra den, så ville jag det icke.
+Hans behof äro så pass enkla, att han tidigt kan
+gifta sig.
+Ett sådant parti vore ju en ren galenskap.
+Vi förstöras, men de som förstört oss få knappt en skråma i skinnet.
+Det hade bort vara Maja, som kommit till mamma och tiggt mamma om förlåtelse, och icke mamma som först uppsökte henne. »
+Der var icke att tänka på att kunna drifva någon utskänkningsrörelse, och med stillasittande arbeten hade Anna Maja hvarken håg eller vana att skaffa sig förbättring i den magra kost, som nu bestods.
+«Jag riktigt njuter af att åter vara hemma, » sade hon.
+Kära fru, förbarma sig öfver mig och skänk mig en! »
+Var hennes lön än aldrig så obetydlig, så hade hon dessutom att stödja sig på mig för åtskilliga små behof.
+Men det var ute med dem, i och med det samma stugan vid modrens död återföll till den egendomsegare, från hvars gård den var ett undantag på lifstid.
+Jag lärde mig att känna användbarheten af en sådan skärm, när jag tjente i T.
+«Ni helsar så sällan på mig, » sade Anna.
+«Ser mamma sådant sällskap der kommer, » inföll Sophie.
+Han erkände tacksamt det biträde jag velat göra; men jag kunde sjelf förstå att det icke räckte långt.
+«Tro icke det, » sade fru Jung.
+Förförelser af så kallade herrar äro säkert de allra farligaste för hvilka en qvinna ur arbetsklassen kan råka ut, ty de förvandlas så högst sällan till lagliga äktenskap.
+Han var gift med en ung menniska, som fru Jung uppfostrat, och var bosatt på en utgård under Alstersvik.
+Boningshusen ligga mera spridda och äro skilda från hvarandra och från sina uthus genom stora och grönskande gårdsplaner.
+Undantagsvis händer väl att bondemannen före bekantskapen med sin hustru knutit en föregående förbindelse, men icke är det regeln, såsom bland de klasser, som kalla sig de högre.
+Men dertill frestas mängden af dem dagligen och stundligen redan förut af deras egna ovanor och den dåliga sedliga ton, som ännu är allmän nära på öfverallt.
+Jag hade ännu icke sett hans hustru, en bekantskap, som längre fram gjorde på mig ett djupt intryck.
+Det öfverraskade mig som något ovanligt under det jag gick omkring med min värdinna, att i alla tre rummen på nedre botten se sängar, liksom voro de alla bebodda för nätterna.
+Försedd med dem, begaf jag mig morgonen efter min ankomst till L. till Römers bostad.
+Han beskref den gata och det hus, der hon var att träffa. »
+«Ett visst ansvar för henne kommer alltid att drabba mig, » sade fru Jung.
+Ty sällan sker, åtminstone har min erfarenhet visat mig det, att barn, mellan hvilkas föräldrar intet lagligt band finnes, blifva som fullvuxna på en, gång dugliga och hederliga menniskor.
+Jag har igenkännt qvinnan: det är Anna Maja Gren, ett främmande som ofta hedrar oss med sin närvaro och en bland de ruskigaste man kan ha.
+«Dermed är ingen fara, » sade fru Jung.
+Den som gjorde det, stötte sannolikt på ett siffertal, hvilket påpekade brotten mot sjette budet såsom en bland hufvudrötterna till andra förbrytelser. »
+Den låg på en rödjning midt i djupa skogen, med en fortsatt uthuggning i söder, derigenom en blå aflägsen skogshöjd framskymtade.
+Hon hade icke då längre varit tillgjordt känslofull, det är sannt, men hon hade varit, hvad värre är, uppenbart fräck.
+«Mamma skickade mig i ett ärende till Granvik, en gärd hvilken ligger, som du kan förstå af namnet, vid en vik här utefter sjön.
+«Han gjorde ingen hemlighet utaf, sade han, att han för ett par veckor sedan låtit hemta henne till L., då hennes vistelse i B:ska huset i alla fall icke kunde ha blifvit långvarig.
+ALSTERSVIK
+Ifrån början följde de ju endast det föredöme, som många grannflickor rundt omkring gåfvo dem.
+Jag bara teg och hörde på.
+Lundgren var just den person hon behöfde.
+«Han svarade höfligt, men sträft, att en person med någon uppfostran vanligen drar sig tillbaka för att taga en tjensteflicka till äkta.
+«Till en del har mamsell rätt, » sade mor Karin.
+Mamma har gjort emot Maja hvad mamma skulle gjort mot någon af sina döttrar, om de glömt sig lika långt som hon.
+Jag kom derföre att anropa detta biträde.
+Kunskapen om något sådant, huru aflägset det än må vara, blir dock alltid ett lidande för en sådan natur, som Annas, och väl djupare och mera frätande än månget, hvarom skrifvits långa böcker.
+Huru svårt måste det icke vara för den, hvilken aldrig egt ett egentligt hem, utan växt upp som en föraktad qvinnas försmådda tillhörighet, att vakna till redbarhet och hederskänsla.
+Såg du hur han tittade till hälften trotsigt, dock mer på lek än allvar, på modren, då han fick den lilla boken och skjortväfven i sina händer?
+Den hustru, som uppmuntrat sin man att vinna en sådan seger, förvärfvar sig utan tvifvel ett varaktigt godt inflytande öfver de sina.
+Ett förslag om uppskof ansåge jag liktydigt med afslag, och drog mig tillbaka. »
+Köksdörren och dörren till stora ingången äro säkert stängda, ty alla pigorna äro med ute på åkern.
+Den kunde icke undgå att bli en gripande lärdom om, huru många ibland oss rent af uppfostras till laster, och måttade kanske ett dödshugg åt fördragsamheten med de orena könsvanor, hvilka låta tiondelen af alla födda barn på sådant sätt uppväxa.
+Det gör mig ondt om alla de torpare och mindre åbor, hvilka bo så trångt, att de, om de ville aldrig så gerna, icke kunna följa edert exempel. »
+Under det vi gingo, sökte Sophie att göra mig bekant med Anna Lundgren.
+En landthandlande, nyss flyttad till orten, antog henne som ensam piga.
+Det beslöts, att Anna Maja sjelf skulle bort och ta tjenst sedan några månader lidit om.
+Sedan han tagit plats, inträdde några ögonblick af djup tystnad.
+Hans heder är, menar han, redan en gång genom andra förspilld; skall det löna mödan, skall han kunna orka med att genom egna förtjenster skapa sig en ny? »
+Jag bjöd henne också till Alstersvik, ty det syntes mig tydligt att mamma skulle vilja lära känna henne.
+Men mig förefaller, som om de satser, fru Jung förfäktade, behöfde ju förr ju hellre att finna talrika vänner bland alla åldrar och klasser; och jag kan icke försumma att för dem söka värfva ett och annat
+öra bland t. ex. förståndigare mödrar och flickor af allmogen.
+» Några bättre hade jag aldrig väntat mig, » svarade
+min värdinna.
+Jag utpekade dem för Henrika, och sade henne att de syntes mig som mönster för unga flickor, hvad taktfull hållning och vettigt skick angick; mönster, icke endast för flickor ur deras egen klass, utan för flickor ur alla klasser.
+Jag för min del skyller mera på de gamle än på de unge att sederna icke äro bättre än de äro.
+Han hörde i dag för första gången någon, som fordrade, att en bildad man skulle försona några tanklösa stunder med en qvinna utan bildning och samhällsställning genom ett så bittert medel, som äktenskap med en sådan.
+Denne lemnade orten innan hon förstod att hennes lättsinne skulle komma att bära en synlig frukt.
+Jag känner en viss bitterhet å hela mitt köns vägnar, jag kan icke hjelpa det, så snart jag tänker på sådant.
+Dock låter hon sig hvarken i detta fall eller något annat drifvas längre än hon anser behöfligt och nyttigt.
+Tills maten blef färdig, och det dröjde en stund, ty allt husfolket hade hjelpt till
+vid skörden, uppmanades de att förpläga sig med krusbär och vinbär i trädgården.
+«Judith vet icke hvar jag var i morse, » sade Henrika, sedan vi intagit vår sedvanliga eftermiddagsplats på balkongen.
+Morgonen den tredje dagen infann han sig ändtligen.
+Ifrån henne och hennes likars ståndpunkt kan man tycka att hon blifvit belönad för sin odygd, snarare an straffad för den.
+Det roade mig att se en del af fru Jungs underhafvande.
+» Några skäl finnas väl för den allmänna fordran, som i första rummet begär att finna sedlig sjelfaktning hos medlemmarne af vårt kön.
+En hel skärgård af större och smärre holmar låg utanför denna strand liksom för att skydda den under höst och vinter för de oväder, som emellanåt herrskade utanföre.
+Då företog hon för första gången dessa vandringar omkring socknarne, hvilka sedan gjort henne välbekant både när och fjerran.
+Nu går jag in och ser mig om i mitt hushåll, huru ni stökat och ställt under min bortovaro.
+Som hans hustru hoppades jag att hon skulle sätta sin heder i att väl vårda deras barn och gemensamma bo.
+Det var ett bland de oangenämare steg jag någonsin tagit.
+I början lär väl dess begagnande icke aflupit utan förargelse för min syster.
+Hon hade slägtingar i L., hvilka hon hoppades skulle kunna hjelpa henne att genomdrifva den föresats hon fattat, att söka förmå Römer att taga Maja till sin hustru.
+Tillföll icke en dryg procent af de summor, som af föräldrar och ädelmodiga slägtingar uppoffras på ynglingarne vid läroanstalterna, till lättfärdiga qvinnor, deras nöjen och utstyrsel?
+Han funderade på att kunna skaffa sig någon klockare- eller folkskolläraresyssla ute på landet, och hemställde till mig om det icke vore bäst att uppskjuta giftermålet tills han kunnat försäkra sig om någon sådan plats. »
+Det var icke för att skaffa henne åter till heder inför andra, som jag yrkade på giftermål; jag trodde att hon föga förtjente den slags upprättelse, som låg i ett sådant.
+Deremot ernade han ingalunda kringgå den pligt som bjöd, att han för den närmaste tiden sörjde för Maja och det barn hon väntade
+Men likväl, oaktadt han i ingen mån erkände sig skyldig till detta giftermål, tvärtom hade många betänkligheter deremot, bland andra den, att hans ekonomiska ställning icke var sådan, att han kunde gifta sig, sade han dock icke tvärt nej dertill.
+«Ni ha knappast sett Anna på hela sommaren. »
+Jag behöfde jemföra henne med den Maja som kunnat uppstå, för att icke finna henne alltför olidlig sådan hon var.
+Vet mamma, jag har tänkt att mamma borde taga Anna
+Majas lilla gosse, den der som mamma tyckte om, och inackordera honom på ett godt ställe, t. ex. hos Lundgrens. »
+Jag väntade mig det bästa af fru B:s inflytande på Maja, ty jag känner få husmödrar, som behandla sitt tjenstefolk så bra som hon.
+Jag tog afsked och tackade mor Karin för hennes bekantskap, hvilken jag uppriktigt försäkrade varit mig lärorik.
+Sådana olyckor eller felsteg, hvad man vill kalla dem, äro ohjelpliga, åtminstone inför menniskors ögon. »
+Men för att återvända till Maja, så har säkert Sophie rätt i, att man bör söka förekomma, att den som förnedrat henne kastar henne och hennes barn vind för våg.
+För längre tid sedan hade hon väl trott sig märka, att han följde henne med den fina och skygga uppmärksamhet, som utmärker en ren tillgifvenhet, men på sista tiden hade hon icke sett några spår till en sådan.
+Gården Granvik liknar snarare byarne i våra bergslager, än dem man vanligen ser häromkring och på slättbygden söderut.
+Ty icke nog att jag äcklades af det löjliga deri, att en gammal gumma, ett slägte, som unga karlar sägas sky som pesten, vände sig till en sådan karl, hvilken dertill var henne alldeles obekant, med förslaget att han burdus skulle gifta sig; icke nog dermed.
+Förekastar hon honom hans smak för bränvin, så erinrar han henne om hennes kättjefulla efterhängsenhet, den der han menar först gjorde hans olycka.
+Den förvirrar mig ännu, och jag vet icke hvad jag skall taga mig till.
+Hon hade egentligen ingenting att klaga öfver.
+Han tyckte, att det åtgick för mycket ved att elda det tredje rummet, der drängarne ligga.
+Det dröjde väl icke länge förrän jag märkte att hennes lätthet att tillegna sig hvad som stod i böcker icke var parad med smak och kärlek för att begrunda det; likväl höll jag i det längsta i med den plan, jag straxt efter hennes hitkomst fattat, att uppfostra henne till folkskollärarinna.
+«Stackars mamma! » sade Henrika.
+Oupphörligt ställde stjutmodren och stundom äfven fadren, ehuru lamt och nästan trugad, denna fram för Anna, som hennes stora förebild, efter hvilken hon hade att omskapa sitt eget skygga och försagda väsende.
+Han ville att hans dotter skulle uppfostras i samma stånd, som hennes förfäder före henne, för att icke, som han uttryckte det, en gång försmå sin far och sina begge bröder.
+Då jag inkom i mina rum, fann jag der Römer och Maja före mig.
+Fru Jung var den mest nedstämda ibland oss; vi andra plågades säkert mest af att veta henne bedröfvad.
+Troligen inblandade hon mig i denna uppsägning, och lät fattigvården förstå, att jag hyste något särskildt deltagande för flickan, ty något annat skäl har jag icke kunnat upphitta hvarföre denna vände sig till mig med begäran, att jag skulle emottaga henne.
+«Dagen före min afresa sökte jag Maja, » sade fru Jung.
+«De mena att en sådan nödvändigt måste vara en gås, som blir öfverlycklig och halfgalen, så snart en slusk till herre anspråkar henne i fri ton.
+Men att det här i grannskapet, och icke först hundra mil långt borta, finns en husmoder, som gör något bättre än jemrar sig, hvilken upptänker och i sitt hus genomför en utväg att minska detta onda, det förefaller mig orimligare än en barnsaga.
+Hittills har ingen hos Anna Maja sett några spår till samvetsqval eller blygsel.
+Hennes hjerta hade tidigt genom all slags vanvård blifvit tillslutet.
+De flesta äktenskap de hört talas om inleddes med en likadan förseelse, som deras första felsteg.
+För min del är jag dock icke böjd att sofva; edert tal har uppskrämt mig och gjort mig ängslig.
+De bägge qvinnorna tänkte nästan med stolthet på denna härkomst, men vida mera tänkte de på de fördelar, som de genom den skulle göra sig.
+Man har också sagt mig, att Anna satt sig i beröring med denna qvinna och sökt öfvertala henne att återvända från den väg hon tagit; hon säges också skaffat sig hos henne ett visst gehör, genom den mildhet och frikostighet hon visat mot hennes barn.
+När vi komma upp igen skall jag berätta Judith hvad jag vet om hennes öden.
+Saken kunde fresta till efterföljd. »
+Liksom jag icke skulle förstå, att det ingalunda är åt mitt utseende
+, drägligt eller odrägligt, huru det än må vara, som de säga artigheter, utan deras egen värdighet som «bättre folk. » Den rätta njutningen för dem i den oförskämda förtrolighet, hvarmed de nalkas flickor af mitt stånd, ligger i tanken: de der varelserna stå så lågt under oss, att vi åt dem kunna säga hvad vi behaga; stackars kräk, de bli yra i hufvudet blott vi hviska ett sött ord i deras öra.
+Under det täta lättfärdiga umgänget med män af en viss bildningsgrad hade hon dagligen lärt sig handla dåligt af grundsats; hon skulle hafva lett åt den tid, då hon felade af dårskap.
+Fru Jung var nu icke längre villrådig hvad hon hade att göra.
+Men nu
+komma vi för att be dig komma till Alstersvik och hjelpa oss att skala äpplen. »
+Det är knappt mer än halftannat år sedan han ordentligt begärde hennes hand af mamma.
+De här två böckerna äro ämnade åt henne; jag tycker mig minnas att hon börjat stafva sig fram i bok, när ni sist var här. »
+Och de utom äktenskapet födda barnen, hvilka deras fäder än må vara, qvarlemnas vanligen mellan händerna på deras råa mödrar, för att ofta nog se dessa förfalla från den ena uselheten till den andra. »
+«Dessutom vet jag, ehuru hon aldrig sjelf antydt någonting derom, att hon haft särskilda sorger att utkämpa, sedan hon gifte sig; sorger af samma slag, som så många andra finkänsliga hustrur.
+Då jag nu likvisst måste tro dig på dina ord, att en sådan ädelsten verkligen är funnen, så tackar jag Gud såväl för dess tillvaro i allmänhet, som särskildt derföre att den förekommer i vårt grannskap. »
+Mor Karin bejakade min förfrågan om de alla begagnades som sofrum och upplyste, att stora stugan var upplåten åt husbondfolket och barnen, kammaren på andra sidan förstugan åt drängarne och köket åt pigorna.
+Mamma får icke för hårdt förebrå sig, att mamma icke förstod att öppna och uppmjuka det. »
+Römer, synbart besvärad, afbröt henne i hennes ordflöde och förklarade, att de ämnat låta lysa för sig första gången nästa Söndag.
+«Upplys mig, ifall vi icke skola följa Henrikas råd och gå enhvar till sitt, » sade jag, vändande mig till fru Jung, «hurudant det sedliga skicket är bland allmogen här på trakten.
+«Det var stort ingenting bättre att vänta af Maja, » sade Sophie.
+Husets andra piga var ett snille i sådant slag.
+Den nya gästen
+blef icke ovälkommen i stugan.
+Icke nog med att husfolket sjelfva måste packa sig trångt som sillar i en och samma kammare.
+Någon glädje af hvad man gör, kan man icke begära annat än i händelse man förmår att göra en eller flera goda menniskor lyckliga.
+Hon talade så öfvertygande i detta ämne, att hon sent omsider omvände mig till sin tro.
+Den timliga nöden såväl som den andliga försoffningen eller yryakenheten skulle bli mindre än nu.
+Och jag tror allt hvad jag i detta hänseende hört om Anna
+, ty jag har sedan åratal haft tillfälle att pröfva det hjerta af guld och den äkta heder, som finns hos denna unga qvinna, jag vore nästan frestad att säga flicka. »
+Fruktar gör jag också, ty jag är i detta fall icke alldeles lika fördomsfri som Sophie, att Anna Majas barn måste ha något förderfligt redan i det naturliga anlaget, hvilket den bästa föresyn och uppfostran svårligen skall kunna utplåna.
+Sent omsider grep han sig an och förklarade att han tagit sitt beslut och kom för att säga
+mig att han samtyckte till mitt förslag.
+Det är långa år sedan dess, och Lundgrens sednare lefnad är ett ständigt arbete att utplåna detta felsteg.
+Kände någon närmare de allmänna qvinnornas historia, skulle det troligen visa sig, att dessa merendels äro sådana, hvilka vid deras första felsteg dukat under för förförelser af så kallade herrar. »
+Derföre finner du min förvåning naturlig, att vanorna i detta
+hänseende voro andra i mor Karins hus, än på orten för öfrigt. »
+Af ett uppmärksamt lynne, hade hon sedan långa år tillbaka aktgifvit på och i sitt minne antecknat de många slag af förderf och nöd, som sedeslösheten drar i sina spår.
+«Maja måste bli gift med den som förfört henne, om icke för hennes egen skull, så för det barns skull som hon väntar, » sade Sophie.
+Vi voro nu helt nära Annas bostad.
+Så ungefärligen talte mor Karin.
+Vid detta tillfälle lärde jag också att känna den person, som på en gång var rättare, inspektor och trädgårdsmästare på Alstersvik.
+«Det är dystert att dag efter dag sitta ensam eller nära på ensam i skogen, som jag nu gjort de sista veckorna.
+Så långt tillbaka jag kan minnas henne, såg jag henne aldrig ärligt bedröfvad eller hjertligt glad öfver något.
+«Det förefaller mig troligt nog, » sade jag; «och
+passar väl i stycke med hvad jag här hört om det sedliga skicket på landsbygden för öfrigt.
+Följande morgon i god tid lemnade jag L., uppmanande Hjalmar P. före min afresa att ge akt på och underrätta mig allt framgent om Majas och Römers uppförande.
+Vänligt upptog hon min förfrågan, hvilka färgstofter
+hon använder, när hon färgar svart ylle.
+Anna Majas mor åtog sig att sköta det, kanske smått i tankarne fråssande åt att få öka sitt egna magra underhåll med det som skulle utfalla för barnet.
+Våra sedebegrepp äro skonsamma mot männerna.
+«Det finns för mycket inre lif inom henne, hon är för ömtålig och intrycksfull för att någonsin kunna komma att tillhöra den vanliga klassen af lyckliga menniskor, » sade fru Jung.
+En uppburen och firad kamrat till raska och fördomsfria karlar, skulle hon sätta sin heder i att förakta, hvad hon nu åtminstone sträfvar att förvärfva, det yttre skicket af en oförderfvad qvinna.
+«Jag var tacksam för att de voro så pass goda.
+Icke heller skulle det löna sig för mig att öfvertala någon att följa vårt exempel.
+«Hennes föräldrar voro för omkring tjugufem år sedan rättarfolk vid Alstersvik, » sade hon.
+Det sedliga skicket här på orten är icke en hårsmån bättre än i hela mellersta Sverige för öfrigt.
+Framför oss på andra sidan trädgården låg en vid vattenyta, ett stycke af en bland Sveriges störrre insjöar.
+Ja, de äro bra flickor, åtminstone ett par af dem.
+Den nygifta bondhustrun finner sig sällan förenad med en utrumlad kroppsligt förstörd man, såsom allt för ofta händer för hennes i detta fall olyckligare syster ur ett förmenadt mera upplyst stånd.
+Hon trodde sig icke om att sköta den sjelf till att börja med, utan tog en inspektor i huset.
+Jag kom derföre icke pockande, utan såsom en bönfallande till honom.
+«Han ser fordrande ut, som om man aldrig kunde arbeta eller hushålla så strängt han begär. »
+Tacka Gud, om icke stugans golf är belagdt med kringvandrare, som kanske släpa med sig ohyra, smittsamma sjukdomar och allehanda skröpligheter.
+Hans hustru tyckte också i allmänhet att det var för litet ruff i Anna.
+Anna tyckte om att sitta inne och sysselsätta sig med läsning eller finare sömnad, då hon var ledig från tyngre arbete.
+Vår far hade nyss dött och efterlemnat en ohjelplig saknad och tomhet för mamma och oss syskon.
+Jag hade en beskedlig fru, som unnade sina tjenare att ligga både snyggt och rymligt; vi pigor hade ett rum för oss sjelfva och enhvar sin särskilda säng.
+Hade de haft något mer än kläderna på kroppen, så att den som första gången förledde dem funnit någon uträkning vid att äkta dem, är det ganska tänkbart att deras sednare lefnad förflutit så pass oförvitligt som mängdens.
+Kanske vore det derföre bäst att hon finge komma åter till ett ställe, der hon bättre passade. »
+Jag begaf mig derföre till hennes hemvist sent på aftonen af den samma dag jag besökte Römer.
+Många gånger har jag önskat att någon ville ta sig för att beräkna huru stor procent af fångar och dömde brottslingar ha ett sådant upphof.
+Deremot äro mänuerna i denna klass – såvida man derifrån afräknar alla, hvilka genom handtverk eller annat yrke utgått från de egentliga jordarbetarne – jemförelsevis sedliga, åtminstone såsom karlar betraktade;
+de ega t. ex. i sådant afseende öfverhufvud ett stort företräde framför hvad som förstås med herreklassen.
+Hon steg upp för att gå.
+Genom den öppna dörren – det var under sommaren – hörde jag huru mor Stina väsnades och skrek åt denna och kallade henne «horunge, » «rackarbyting » och dylika vackra smeknamn.
+Jag ägde något af en mors ansvar för denna flicka och jag hade icke rätt att i lugn åse huru hon lemnades
+i ett vådligt och vanärande läge; men vid försöket att draga henne derur hade jag funnit, att jag olyckligtvis var helt och hållet beroende af dens biträde, som ditförhjelpt henne.
+«Det känner jag bäst af det orediga samvetsqval, som i denna stund plågar mig.
+Men min erfarenhet gör mig böjd att tro, att det icke finnes många församlingar, som icke ha att uppvisa en eller flera motbilder till Anna Maja Gren, om också icke alldeles så djupt sjunkna. »
+Jag steg derföre upp för att befria henne från min obehagliga och oombedda närvaro och kände mig betryckt hela qvällen af det osunda intryck Maja nu mer än någonsin gjort på mig. »
+Sedan förföljde han henne med sitt förtal och sin bitterhet till årets slut, då han lyckligtvis lemnade orten.
+Trodde han, frågade jag honom, att de laglösa förbindelser, förutan hvilka en stor del män skicka sig, som de icke kunna lefva, kosta ingenting?
+Hon skiftade färg flera gånger och såg förolämpad ut af detta mitt tillägg.
+Jag kunde haft rätten så många gånger som helst på min sida och
+likfullt blott bli begabbad af tanklöst folk, när jag kom med en framställning, så oväntad och äfven ovanlig som min.

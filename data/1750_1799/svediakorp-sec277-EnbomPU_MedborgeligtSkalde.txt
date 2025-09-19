@@ -1,0 +1,264 @@
+# ID: svediakorp-sec277
+# author: Per Ulrik Enbom
+# pseudonym: 
+# translator: 
+# title: Medborgeligt skalde-försök öfver et odödeligt namn
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-06-14
+# sourceDescription: 
+# genre: prose
+# subgenre: 
+# location: Stockholm
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: Johan Pehr Lindh
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1793
+# editor: 
+# publisher: 
+# digitisationMethod: OCR with manual post-correction.
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Litteraturbanken (https://litteraturbanken.se/)
+# retrieveFormat: ePub
+# annotation: tokens
+# annotationMethod: automatic
+# words: 9,251
+# sentences: 557
+# sentenceOrder: original
+# URL: https://litteraturbanken.se/txt/epub/EnbomPU_MedborgeligtSkalde.epub
+# cite: 
+# availability: CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+
+
+
+
+
+
+
+Vittre och Medborgelige Läsare!
+
+Svenska Academien har ej ansedt detta Poëm värdigt någon upmärksamhet. Jag vädjar från Henne til Eder. Om J finnen det förtjent til Ert bifall; har jag ära och vinning nog.
+
+
+
+
+
+Då jag til Svenska Academien inlämnar detta lilla Försök, finner jag mig förbunden, at upgifva de skäl, som förmått mig at i et och annat afseende afvika från Dess föreskrifter. Öfvertygad derom, at Academien med Dess til Ämnet lämnade utstakningar, ej haft den afsigten at lägga tvång – lagar på Författare i allmänhet, utan endast den, at gifva goda råd åt unga Författare i synnerhet, har jag vågat försöka at följa en egen plan. Af samma skäl som jag trott, at Academien älskar Skaldens frihet, har jag äfven gjort mig försäkrad, at Academien älskar Medborgarens. Det är ock derföre, som jag dristat mig at tala i den harmfulla tonen mot Tyrannerne, i den storsinniga til Hans Majestet Konungen och Hans Kongliga Höghet Hertigen. Regenterne hafva länge nog, hafva ända til harm och vämjelse, nödgats höra träldomens vördnads-betygelser och smickrets förolämpande Panegyriker. Skola De aldrig bli hugnade af dens röst, som önskar at kunna få ädelt vörda Dem och med et älskande hjertas driftighet säga Dem, hvad han tänker? Hvad sjelfva Stilen angår, har denne, kan hända, ej öfver alt den rikedom på färgor och bilder, som fordras i et Skalde-Stycke af högre slag. Den sänker sig stundom ned til den Oratoriska Prosan. Men jag har velat göra detta Försök, i synnerhet på vissa vigtigare ställen, mera Patriotiskt än Poëtiskt. Jag älskar hjertats språk oändligen högre än snillets; medan det alfvar, hvarmed hjertat utgjuter sig, gör en långt mera stark och långt mera allmännelig verkan, än all snillets lysande möda. Metren och Rimet har jag med flit ur akt låtit. Dessas fjettrar hindra loppet af den strömmande känslan och flygten af den utsväfvande inbildningen. Jag är dessutom viss därom, at Academiens höga urskillning tyst föredrager den naturligare! skönheten af en Harmonisk Prosa för det mer konstlade behaget af en rimad Vers, hvars evigt enformige gång, hälst i et vidlöftigare Poëm, änteligen uttröttar örat. Jag vilar derföre i det hoppet, at Academiens Herrar Ledamöter ej skola fråga: Har Författaren rimat? utan: äga tankarne, bilderne, tonen, harmonien i hans Prosaiska Skald- Stycke någon grad af Poëtisk Förtjenst? Denna oväldiga pröfningens domslut underkastar jag mig med vördnad.
+
+
+
+
+
+Dignum lunde Virum Musa vetat mori.
+
+Horat.
+
+Vakna ur slumren, Harpa, i hvilken Du legat förstummad! Fordom veklig och öm Du klingade Skönhetens låf; klinga nu Majestetlig Snillets och Vishetens pris och Dygdens odödliga ära! Ack at Dina ljud hunne til kommande Sekler, hörda med helig förtjusning!
+
+Hvilke tank-bilder tränga sig kring min förvirrade själ! Hvilket Cahos af känslor, outredliga känslor! För hennes häpnande blick öppnas förflutna tidehvarf, öppnas kommande åldrar och hon förlorar sig i bägges oändliga fjerran. Odödlighet! ack jag hänrycks af Din glänsande bild, liksom en Gud i Olympen, under et nektar-rus, af den eviga Ungdomens skönhet. Jag ville följa Dig genom alla århundraden, älskad och beundrad af likar utan tal; men mit klenmod förskräcks för den omätliga mödan. Jag ville följa och fjettra Dig; men Du flyr – – Du flyr! Dock jag skall utan afvund, skall med välsignande tårblickar, se, från min dälds skuggor, Dem, hvilke träda upp mot Dina ljusfulla högder.
+
+Snillets förvånande Bragder äro Dina alster. Kloppstock, Rubens och Gluck sågo Dig och förtjustes och vandrade hjeltelikt fram på Din branta klippiga stig. Alla jordens Storverk – Storverk i dygd eller brott, i galenskap eller visdom, föddes af tanken på Dig. Under olika skepnad, tjusar Du olika dödliga. Hjelten af ljungande faror och bullrande dödar omgifven, ser Dig i dyster glans, med blodstänkta lagrar i skötet. Sköna Konsternes Odlare se Dig i mildare ljus. Blott den Vise och Dygdige skådar med klarsynt blick Din högsta och sanna skönhet. Denne allena ock njuter den högsta sällhet Du ger. Hvad äro Raphaels Taflor och Miltons Skalde – Quäden och Carls härjande Stridsbragder mot den guddomliga Howards evigt prisvärda gerningar? Ach! då min tanke följer den stora människovännen vidt kring hela Europa – – följer honom in i dessa eländets boningar, där ej mörkret, ej stanken, ej den förgiftade luften, ej lidandes marter-skri, ej brottslingars klago-ljud och skakade fjettrars gny hindrar Hans ovant ömma men ovant lugna själ, at uttänka lyckliga medel til eländets bot eller mildring – – ack! jag förtjusas, välsignar, ryter och tilbeder: tårarne störta ur ögat: jag finner mer lifligt, än äljest, sanningen, liksom skönheten, i den Romerska sångarens enfaldigt stora tanke: Intet är svårt för de dödliga.
+
+Ojämförlige Man! då den glädje, jag njuter i tanken på Din storhet, är så hög och stark, hurudan måtte den varit, hvilken Du sjelf kände? Aldrig gick någon Din like, på en mera sublim och mera mödosam väg, til Odödlighetens möte.
+
+Dygdiga, stora gerningar äro de säkraste Ledare til Hennes höga Tempel. Men bör ej ock den Upplysning, som snillet meddelar jorden, räknas til dessas antal? Ack! huru välgör det ej, då det fördt af Vishet och Dygd, än låter et känslo - fullt hjerta försmälta i ljufvaste ömhet, än uppfyller det med ädel och brinnande harm mot Tyrannerne? Hvad förmådde ej fordom Grækiske Talarn Demostenes? Hvilka förvånande rörelser väcker ej Britternes Scheridan? Hvilka väcker ej Du, nitfulle, häftige Mercier? Genskallet af Din mägtiga, dundret liknande röst har redan dånat ned en Despotismens thron, som stod på det andeliga Enväldets äntligen murknade stöder. Genskallet af denna rösten skal småningom dåna ned Tyranniets alla throner, från Seinen til Nilen och Ganges. Sanningens höge Prophet! guddomligt ingifne Vise! redan ser Du en hälft af Din lyckliga spådom fullbordad: redan skördar Du förstlingen af Din ädla möda.
+
+Du, Helvetiens Under och vårt Tidehvarfs Ära, högaste ibland Snillen och ömmaste ibland dödliga! – Om Din ljufva anda sväfvar kring de ruiner, där Friheten rest sina altaren; huru skal icke då dess himmelska tjusning förökas? Men med en öm oro skal denna tjusning blandas, då Du ser Friheten köpt med tusendes utgutna blod. Kraft-full var Din penna, som en Ängels flamsvärd, til Mänsklighetens försvar och Tyranniets förderf. Du hade indoppat den i sanningens heliga eld. Hvar tanke af Dig är en gnista, som vidgad skal utbreda ljus och tända hämdens brand i millioner förtrycktes själar. Då gruset ej mera fins qvar af de fastaste minnesvårdar, som tyckas trotsa seklerne, skal Din ära lefva. Då kommande slägters upplysning offrar med spott åt Lågorna alla vidskeplighetens evigt förbannade alster, skal Din guddomlige Bok, som brändes af bödelens hand, beundras, välsignas och följas.
+
+Ossian, Du var ock et bland dessa odödliga Snillen. Älskar jag icke dygden, när jag läser Dig? Flyger ej då i mitt hjerta upp en himmelsk gnista af Dina Hjeltars mod? Ej en dåraktig åtrå at apa en ädel Skald, som redan sungit Din ära; nej den höga förtjusning, Du skänkt min uprörda själ, fordrar af mig detta låf-offer. Det skal blifva Dig värdigt; ty offer-elden skal tändas af Dit snilles låga. Ofta sväfvar min tanke mellan de älskade berg, vid hvilkas måsslupna fot Dit segrande spjut glimmat och Din högljufve sång förvånat hundrade Echon. Vild är den natur, som Du besungit, Ossian; men i sin vildhet skön. Store i mod och dygd äro Dine Hjejtar. Bilderne, tankarne, känslorna – – alt hvad Dit snille alstrat är fullt af rörande höghet. En af Din sångs Hästar 2 segrar i majestet öfver många bland Gudarne hos Iliadens Skald. Ack! hvilka föremål för inbildningen och för hjertat! Månen i töcken lysande öfver den skumma heden – Vålnader rysligt skymtande utur stormhvirflars mörker – Stjernor ur måln-bäddar skimrande öfver et segelfullt haf eller den skönsta bland dem i afton – böljan försvunnen – Hundrade nedhuggne ekar til midnattens luft-eldar upptände – Tusende fraggiga vågor kring nakna klippor rytande – Strömmar från bergen brusande, under Bardernes strids-sång – Sköna, älskande Flickor i mörka grottor fuckande; eller med trånfulla blickar från ödsliga stränder skådande ut mot den gränslösa hafsrymden – Ack! hvilka föremål för inbildningen och för hjertat! Då jag följer krigarne in i de höga Salar, där, under harpors dån, De tömma glädjens snäckor: då jag ser dessa Qvinnor, hvilkas fria enfald liknar Naturens, som omger Dem, häfva ömt Deras bröst och hvälfva ljuft Deras ögon: då De af snäckornas nektar ovant eldade Hjeltarne föras til glada samtal om fordna bragder och öden: då jag med helig rysning ser Deras Furste Ossian sitta midt ibland Dem, snöhårig, blind, stum, i sin sublima ängslans dystra majestet, med kommande, närvarande och förflutna åldrar i tanken: då han til afledna Kämpars eller Älskares ära höjer sin klagliga röst; då Hjeltarne häpne tystna, harpornas ljud förstummas och tårarne börja at störta ur alles fördunklade ögon; – jag lyssnar och sorgligt förtjusas och gråter lika som De. Under min ljufva oro, lägger jag boken bort och brister ut i de orden: O huru rikt på sällhet skulle et verkeligt umgänge med dessa dödliga blifvit, då tankens blotta umgänge är så fullt af vällust?
+
+Seklernes ädlaste Bard! Du lefver nu, djupast vördad och utan like stor, i Skalde-Ärans himmel. Då röken af detta Offer, hvilket min erkänsla tändt Dig, försvinner i tidens omätlighet, skal Din enfaldigt höge, Din dystert öme Sång ljuda genom dess rymd til de yttersta åldrarnes gräns.
+
+Men min hänryckta inbildning bortför mig alt för långt. Hon måste af ängslan betagen skynda mot andra Föremål – – mörka, djupt bedröfvande, fasor väckande Föremål. I Tartarens våg borde min pensel doppas, för at skildra dessa med nog rysliga färgor.
+
+Tallösa jordens Barn söka Odödeligt Namn. Någre vinna det ock; men ack! de fläste vinna det, genom lysande dårskaper, genom förvånande grymheter. Människo-kärlekens ljufva, sällhet spridande dygder, äro intet för Dem mot vilda, förstörande bragder. Bländade – evigt bländade af den falska äran, kunna de aldrig skåda den sannas himmelska glans. Falska ärans sminkade skökaktiga behag hafva mägtigast tjusat jordens Hjeltar och Konungar. De ha hälst velat fruktas, sällan, sällan älskas. Tusen Neroner ha växlat med tio Antoniner. De ha ej sett – de osälle! at den ädlaste hersklystnad är at beherska hjertan. Om de ock sökt at vinna dem, hvilkas hafva de åtråt? Oftast blott den ljumma och den lättsinta pöblens. De ha ej sett – de osälle! at de Uplystes vördnad och de ädles kärlek endast är sann ära. Ack, om vårt slägtes Tyranner ägt någon känsla för denna; til et Eden i skönhet, til en himmel i sällhet skulle de omskapat jorden. De skulle då ej utfört härar af deras likar, at slagta och blifva slagtade. När jag kastar en tank-blick på dessa förödande krigen, dessa otaliga scener af mord, elenden och jämmer, hvilka Tyrannernes våldsamhet utbredt vidt kring vårt klot, trettio sekler igenom; hur fasar jag ej för dem, hur förbannar jag ej deras välde? Gifs någon fläck af jord-ytan, gifs någon trakt af hafs-rymden, hvilken ej deras grymhet låtit färga med blod? Fins et palats, en koja, där ej någon Vän eller Frände begråtit et olyckligt offer för deras rofgirighet, deras hersklust och brånad at hämnas? Men Krigets omätliga onda minskas och nästan försvinner, vid en tanke på det, som fördystrar Tyrannernes fred. Full af fasor är denna. Om de ej uppenbart gruflige, röfva, sköfla och mörda, plundrar och dödar dock långsamt, genom betungande skatter, genom förgiftande nöjen, deras finare grymhet. Sjelfve utan seder, dem de hemligt bespotta, breda de småningom ut bland det apande Folket nästan en allmän sedlöshet. Djupt fördärfvade själar blifva omärkbart danade innom märglösa kroppar. Skamlige laster följas af vederstyggeliga smärtor och äntligen följer dem döden, vid slutet af ungdomens vår. Rättvisans helighet kränkes: Sanningens ljus skymmes: Förtjensten glömd eller hatad, trånar i mörker och armod. Mänskligheten blir skymfad i lägre Medborgare, som ofta för ringare brott, nödens bedröfliga foster, vräkas i mörka fängelsen, fjettras i tunga järn och hängas nakne upp, at sargas af blodstänkta gislar. Folkets nyttigaste och lifvet värdaste antal slafvar timarne bort i evigt svettiga mödor och dör, under tusen behof, en långsam tvinsots död; då den duglöse hopen offrar en sorgfri tid åt vällustens bord eller bädd och under tusende nöjen glättigt fördärfvar sin varelse. Sjelfva Religionen, denna Himmelens Dotter, som mera skön, än Förnuftet, är dess Syster och Vän – – Gud! til hvilket spöke på en gång rysligt och löjligt ha ej Tyrannernes Präster omskapat denna Skönhet! Folkets förvillade hufvuden hafva de evigt uppfylt med låga och galna begrepp om Gud och Verlden och Själen. Icke nögdt därmed, at det verldsliga Enväldets grymhet utbredt verkliga helfveten kring detta osälla klot, har det andliga hotat med kommande inbildningshelfveten, dem, som ej tåligt fördragit, at skymfas, tryckas och trampas. 3
+
+Seen, J jordens Gudar, sådan i stora drag är taflan af Edra Gunstlingars och Ert Skapelse – verk! Seen och rysen, gruflige! rysen för Eder sjelfva! Ömkan och afsky värdig är den ära J vinnen. Galningars, djeflars väg gån J til odödlighet. Om i vårt slägtes qval och fördärf en ära gifves, då är afgrundens Konung den ärofullaste varelse. Må det lilla förståndet, hvars mullvadsblick evigt samlar i skymningens inskränkta krets, beundra Er toma storhet! Må det lilla hjertat, som aldrig rätt kunde älska, kitlas och flygtigt tjusas af Edra ljugande smilar! Lät slafvar bögde i stoftet darra vid Er åsyn! Lät rikt belönte bofvar sjunga om Edra Storverk! Ej gafs någon krönt vekling och galning eller Barbar, 4 som ej af en lögnes Skald blifvit liknad med Cæsar i mod, med Gud i vishet och mildhet. Men den Upplyste ler både åt Hjelten och Låfsångarn med bespottelsens löje. Människjo – Vännens hjerta andas harm mot dem bägge. Djupt är det förakt, som följer från tidhvarf til tidhvarf deras hatade minne.
+
+Dårlige Folkens Beherskare! hvarföre qväljen J så den jord J blott borden gläda? Viljen J heldre likna det hagel-strömmande målnet, som åtfölgdt af mörka storm - hvirflar, nedslår jordbrukarens skörd, än den duggande skyn, som frögdar klippans cedrar och dalens försmägtande rosor? Dock jag ömmar för Eder: mit hjerta nästan förlåter Er galna grymhets ras, när jag kastar ögat på dess bedröfliga ursprung. Och skulle icke jag, som nu förbannar denna, blifvit Er ömklige like, om mit höga missöde vräkt mig upp på en thron? Fjermast från Edra palats är Visheten, Dygden och Sällheten. Lögnen, fegheten omger Er från Er barndoms gryning. Under et döfvande stoj af växlande nöjens Siren - sång, kan ej Sanningens röst framtränga upp til Eder. Älskade skulle månge, månge af Eder ha blifvit; men det dödande smickret har evigt förgiftat Källan til dessas möjliga dygder, har gjort med sit falska låf Dem rusiga af Deras höghet och småningom omskapat Dem från Änglar til Plågo-andar. 5 När jag betänker detta, ömt beklagar jag då, ymnigt gråter jag då öfver Er glänsande olycka. All min förbittring väcks mot Dessa hycklande bofvar. Jag ville se hjertat ryckt ur Deras förrädiska bröst.
+
+Men ögat skyggar tilbaka från dessa osälla bilder. Den sanna Ärans skönhet återkallar dess blick. Himmelskt tilfredsställer Hon alla de stora Själar, som hafva nog ljus och mod, at följa i Hennes fjät. Hvad är Beundrans-ropet från en hel verld af Dårar mot et gillande smålöje från en enda Vis? Hjelte i at tänka, är Han öfver sit Lands, sit Tidhvarfs och jordens fördomar. Den som vinner Hans bifall, vinner Guddomens eget.
+
+Du, Engelbrecht, vann det – Du Frihetens ypperste Vän och störste bland Svenska Hjeltar! Med det högaste mod förente Du högaste dygd och sannaste vältalighet. Ädelt var Dit upsåt, fruktad Din segrande Här och Du Sjelf – Du ensam mer fruktansvärd än de alle. Alexandrars tåg förvandlas til löjliga barnspel, då de förliknas med Dina. Fölgd af hundrade tusend Stridbara Landets Odlare, hvilkas lågande harm kastat liorna bort och gripit til hämdens glafvar, gick Du Majestetelig, at för en skamlös Tyran och för et feghjertadt Råd tolka Nationens Rätt. Må de guddomliga orden, som åskade från Dina läppar skräck in i förtryckarne, outplåneligt ristas i hvarje Frihets - Väns minne: Konungar bundne til Lagen böra ej styra Tyranniskt. Folket af Lagen skyddat bör ej slafviskt förtryckas. Desse hafva ock pligter. Detta har ock rättighet. Folket är fritt från sin ed, då Furstarne bryta Deras. 6
+
+Vördnadsvärdaste Man! om ingen af Svithiods söner kunnat beundra Din storhet, om Du ensam bland dödliga hade skådat denna; då hade Din Själs blick kastad på henne sjelf ensam varit för henne en rikt belönande Guddoms. Men Du skall njuta belöning i alla deras själar, som hafva en tanke och känsla för det Odödligen Stora. Evigt, som de Fjellar, mellan hvilka Du föddes, skall Dit Namn blifva. 7
+
+Men bedröfliga öde! Människokärlekens Hjeltar följas sällan af Lyckan, då de som hylla Tyrannerne, evigt triumfera. Du föll för en mördares hand, i loppet af Dina segrar och Frihetens nedslagne Kämpar skingrades vid Dit fall. Se denna Poloniens ädla, Folket älskande Konung! Fåfäng blef Hans möda, at resa det upp ur djupet af Dess förakt och träldom. De ligga nu där å nyo. Men har Han ej ock i sin Dygd vunnit belöning nog? Ingen dödelig Magt kan röfva från Honom denna. De tacksamme glädje - tårar, som runnit til Hans låf ur Slögdarns och Jordbrukarns ögon, äro långt mer för hans själ, än prägtige ärestoder reste af smickrets hand åt jordens mäst lysande Envälden. Större, än alla Härjares, skall Hans Ära gå til de sensta århundraden. 8
+
+Men Polonien – – Gud! skall den ej åter resa sig? Skall ej en gång Europa och hela denne jordrymd, från Siams palmrika stränder til Perus målnkrönta berg, hylla Frihetens Guddom? Jo jag förtviflar ej. Seinens bölja kallar mig och ger mod åt mit hopp. Tanken förs til den Staden, ur hvars afgrunds - portar tallösa dårskaper, laster och svarta ränker utströmmat. Hvilka högtidliga Skådespel, fulla af glädje och fasa, hvimla innom dess murar! Outgrundliga Hvälfning i händelserne och i själarne! Jättelikt reser Du Dig bland alla seklernes Storverk, fördunklande dessas ära. Detta nyss så lättsinta, fåfängan älskande Folket – detta i sina Tyranner och bojor förtjusta Folket – – manligt, trotsigt, storsinnigt, skakar det fjettrarne bort, fordrar det åter sin rätt af Dess bestörta Förtryckare. Fransmän! O mine Vänner! Urgamle Galler i mod, ären J mer i ljus, än vårt Tidehvarfs Britter. J Edra Qvinnors bröst andas (min veklighet ryser) Amazonernas hjeltemod, harm och gruflige hämd. Hvilka högtidliga skådespel, fulla af glädje och fasa! Ned til grunden rifves detta mörkgråa fäste, innom hvars tjocka murar slötos hundrade offer för en grym Stats-konst. Och detta Enväldets, missdådets, lösaktighetens Palats – – se, huru det bestormadt och itändt af Folkets hand, är nära, at blifva förvandladt til en rykande aska! Hör dånet från dessa lågor, med dödades jämmerskri blandadt! Se grus och dam och blod! – Medborgares och förrädares blod tilsamman flytande – – ! Länge Kungarne gäckats, förtrykt och rasat och mördadt. Folkets Dag är kommen. Ovant förskäcklig är denne – – en hämdens och dödens Dag, lik i blodig ryslighet Bartholomæi Natt. Fransmän! O mine Vänner! rasen ej, döden ej så! Då J hasten at öfva mot Edra förrädiska fiender vedergällningens rätt, begån då ej sjelfve den grymhet, hvilken J hos dem straffen! Skonen, Fransmän, ack skonen! Mänskligheten, hvars rätt J återfordrat och vunnit – Mänskligheten bjuder det. Hennes milde blick ryser för alt det blod, som nöden ej tvingar, at gjuta. Skonen då, Fransmän, ack skonen! Vänden dessa dolkar och glafvar och dödande malm – gap mot Edra fienders härar! Redan stå de förfärlige innom Ert Lands gränsor: redan intränga de genom portarna af Edra Fästen och hota at breda förödelsen fram til Galliens Hjerta. Samlen Eder, Fransmän, til millioners tal, slån kring dessa en borg och öfverhopen dem, qväsven dem med Er styrkas omätlighet! Striden med Hjeltars mod och segren med hjeltars ära! Eller stupen och döön på Frihetens heliga jord! Sparen de ringares blod; men utgjuten all Eder hämd på Edra fienders Hufvud - Män! like dundrets strålar, som ljunga förskräcklige ned i palatsens hotande torn, men förbiflyga däldens hyddor. Nej, öfven ock efter striden mildhet emot dessa! Segren öfver dem i ädelmod liksom i vapen! Tågen tilbaka från Strids fälten i en Sublim Triumf, hvars like aldrig blef sedd på Capitolii högder; i mänsklighetens Triumf öfver dess störtade fiender! Måtte sedan de Vise och Ädle Landets Män, hvilka Er upplysta urskillning valt at förklara Er Vilja, återgifva åt Gallien, Europa och Jorden et aldrig upphörande lugn. Hennes närvarande och hennes kommande slägter skolen J då förbinda til en evig tacksamhet. Intet Ämne mer stort och ljuft för förståndet och hjertat skola Desses Vise och Dygdige finna i Häfderne. Intet Ämne mer högt och skönt för inbildningskraften skola Deras Skalder uptäcka, at besjunga – Folkslagen småningom upplysta, skola äntligen lyftas til Det höga mod, at följa Ert efterdöme. Segrande skola De följa det. Alla Tyranners throner skola krossade omstörtas; men de goda Konungars stå med klippornas fasthet. Människo - slägtets fiender skola betagne af skräck, önska, at jorden rämnade under deras fötrer eller at bergen störtade på deras brottsliga hufvuden. Ack! at J icke sjelfve sökten förstöra det Verk, som Edre egne händet äntligen hunnit fullborda, efter århundradens möda! Men jag fruktar, jag fruktar – – Denna vilda laglöshet, dessa rasande mord på odömda Likar föröfvade – – – – Gud! skall då Människo - Vännen och Verldens Medborgare aldrig få skåda den syn, som Hans älskande hjerta så åtrår? Samhällen uppstigande til högsta frihet och sällhet? Samhällen til et Harmoniskt, glädande Helt förenade? – – Hämd-fulle, gruflige Fransmän! Viljen J vandra fram, til hälften ljuse och mörke, på Er Odödlighets - väg? Ack! om genom Er vildhet och Edra fienders lift, hela vårt slägtes väl skal evigt gå förloradt: om Tyranniets thron åter skal resa sig på gruset af Frihetens altaren; då är knapt någon strimma af hoppets glada ljus för Mänskligheten mer öfrig. Måtte då detta klot, som endast tycks vara danadt för träldomen och för eländet, dränkt i verlds - hafvets böljor, öfverbrusadt af lågor utbrustna ur dess afgrunder, gifva oss för förtrycket i dessa en evig fristad! Bättre är at det kringhvälfver, tomt på lefvande varelser, än at dess osälla yta skal myrla af härjande missfoster, hvilka ej äro värda at njuta dagen och lifvet. 9
+
+Jordens Snillen och Hjeltar! ären J ej bland upphofven til det grufliga onda, som så föröder henne?– til Nationers förbittring, til Nationers resningar? Ägen J ock ej del i det som nu rasar kring Gallien? Ha’n J ej ofta med Furstarne sammansvurit Eder mot vårt förtryckta slägte? ej ofta med ifver arbetat, at göra det vekligt och slafviskt? Skalden höjer sin röst, Målaren breder sin duk, Krigsmannen drager sit svärd, på Enväldets minsta vink, til dess förgudande, til dess befästande. Och Philosophen sjelf – – har ej ock dennes penna stundom varit fal för Konungars nåd eller guld? Storverk af alla namn i de behagliga Konsterne har den pragt - sjuka Ludvigs glänsande Tidehvarf alstrat. Strömmar af tallöses blod ha dennes Fält – Herrar uppoffrat åt hans krigslystna grymhet. Marmorn, graniten, bronzen – – alt har Konsten användt, för at uphöja Kungarne, för at förnedra Folket. 10 Ej nog at det slafvar här, under dess oädla lif; det måste ock efter döden slafva i Bild-huggarns Stoder, slafva i Skaldens Sånger, eller på Målarens Taflor. Sårande Minnesmerken af Tyranniet och träldomen prunka öfver alt. Folket äger ej guld, at gifva åt Eder, J Snillen. Det har blott bifall och tjusning. Folket äger ej Titlar, ej Sköld - Bref och Herradömen at skänka åt Eder, J Hjeltar. Det har blott vördnad och kärlek. Men J förakten denna torftiga prål - toma Ära. J söken Odödligt Namn: J söken föreviga Ert i Edra afgudars minne. Men veten, den tid kan komma (och redan har den kommit) då Folket tilbaka bespottar all Er Herlighets flärd, då det harmfullt förstör dessa talrika Minnesmärken af storheten i Eder konst och lågheten i Edra hjertan. Redan Upplysningens Dag uppgått öfver verlden. Vårt slägte begynner se alt i Sanningens klara ljus. Snillet och Hjeltemodet väcker än ofta vår undran; men Förståndet och Dygden får vår eviga vördnad. Vi skatte det Nyttiga högre, än det endast sköna. Vi älske mer Verkligheten än Dikternes tjusande drömmar. Vi älske mer hjertats ömma och ädla och stora känslor, än bildningens alla rika, sublima, förvånande Skapelser. Platos guddomliga prat försvinner för Socratis gerningar. Cæsars lysande mod fördunklas af Catos rättvisa. 11 Aenaeidens Sångare rör oss ej så lifligt som Pharsaliens Skald. Stora, pathetiska Taflor af Hjeltars verkliga öden framlägger för vårt öga Dennes ädlare Snille. Drömmarne ha försvunnit och dagen har brutit fram. I detta Tidehvarfs ljus fins ingen väg til Ära, utom den, som J banen Er, genom Likars sällhet. Dock redan har Jordens vise i tjugu secler ropat det. Ack! at ej Deras Guda-rop stutsat mot döfva klippor! Ännu ha De ej återvändt, at i Edra hjertan ofta upplifva känslan af denna vigtiga sanning. Hören Dem och bevekens at följa Deras råd!
+
+J, hvilka Himlen gifvit en majestetelig Inbildning, sänken ej mera ned denna höga Guddomlighet, för at lyfta mot stjernorna ur dess blodiga stoft en Härjares nesliga ära! Ljufvare, ädlare Ämnen bjuda sig åt Eder Sång. J hafven den stora Naturens evigt rörande skönhet: J hafven et upplyst Samhälles evigt stigande sällhet. Sjungen til Frihetens pris och Människjo - kärlekens låf! Sjungen om Folkets Rätt och högsta Majestet, af hvars sjelf-egna glans Furstarnes blott är en stutsning!
+
+Harmoniens Mästare! låten ej denna blott snillrik väcka förståndets häpnad! Låten den heldre känslo-full väcka hjertats ömhet! Hvad är et förvånadt Ack och et löje från Kännarens läppar mot vällustens rörande tår i Älskarens förljufvade öga? Denna Himmelska Konst, som tjusar sjelfva djuren, blef ej bestämd i dess födsel til tankens kalla beundran.
+
+J, Apellis Lärjungar! helgen Er duk och Er pensel åt Människo-hjertats Storverk! Och då J skildren Hercules uppå skiljo - vägen mellan Dygden och Vällusten, gifven då åt Dygden den segrande himla - skönhet, som gör, at åskådarens öga, tårfullt på Henne vilande, knapt med en flygtig blick skådar Dess Medtäflarinna.
+
+J, som fått af Naturen styrka i hjertat och armen, helgen Er kraft och Ert mod til den värnlösa svaghetens hägn mot alla Förtryckarens anfall! Liknen de fasta ekar, i hvilkas mägtiga skygd asparne bäfvande stå, men frie från stormarnes våldsamhet! Om J älsken ilbragder eller lysande faror, gån, at öfva och söka dem bland vårt slägtes fiender! Sänken Er hämds svärd i dessas Crokodil-bröst! Störten dem från deras högder, hvilka de ofta befästat med tusendes svett eller blod! Och glansen af det Namn, som Romerske Hjeltarne vunno, skal mörkna i glansen af Edert.
+
+I Sanne och sällsynte Vise, som stiften Lagar för Folken, högast bland alla dödliga, ären J äfven högast bland Ärans odödliga Gunstlingar. Vidt kring i verlden, djupt ned i själarne, långt in i tidhvarfven, skådar Ert Guda - förstånd. Hela Seklers Öden äro Edra Skapelser. På millioners varelse och millioners väl, inflyter, lik Naturens, Er visdoms omärkliga Allmagt. J öfverlefven Er död, på de ymnoga skördarnes fält, hvilkas odling J lättat och hugnadt. J lefven i nyttiga alster från slöjdarens idoga hand, hvars flit J eldat och riktat. Men låf-värdast andas Ert minne i alla de Sanna Begrep, hvilkas första ljus J tändt, i alla de höga Dygder, til hvilkas lätta öfning J gifvit styrka åt själarne. Bland de talrika slägter, som skörda Edra välgärningar, prisa Eder de fläste med dessas tysta njutning, utan at kunna upplyfta mot sjelfva Välgörarne en enda välsignande tanke. Få äro upplyste nog, för at blott kunna skåda Er storhet. Skaldens förtjusning har rätt, at sjunga om Eder alla, det Skriften sagt om den förste, som gaf de dödliga Lagar. J gån in i mörkret til Gud, at lära Er känna Hans vilja och kommen tilbaka til oss, af Hans klarhets återsken lysande. Folket, hvars svage blickar ej kunna uthärda detta står på et långt afstånd, 1 häpet och förblindadt. Med Religionernas dunkla half - genom - skinliga Täckelsen mildren J ofta glansen af högare Sanningars lius. 12 J tilägnen Gudarnes visdom Er egen visdoms Verk, blott för at gifva åt detta en mer majestätelig styrka. 13 Jag ser från et närmare afstånd det heliga Ljus J spriden och af en bäfvande vördnad förstummas nästan min Sång. At prisa dessa Snillen, som födas at stifta Lagar, är redan dristighet nog. At våga uppmuntra Dem, vore missvördnad Mot Deras höghet. Mer, än alla Skalders alle uppmuntrings - sånger, förmår den mägtige röst, som kallar Dem i Deras själar til detta största bland Storverk.
+
+J vårt Slägtes Beherskare! delen Er dygdiga möda at upplysa 14 och at förädla med Landets visaste Män! Gifven åt alla de Lagar, för hvilkas helgd J vaken, med Eder egen lydnad en oemotståndelig kraft! Om J bland Edert Folk ej ägen Likar i höghet, skolen J ock bland dem ej äga Likar i sällhet. Re’n står Odödligheten beredd, at emottaga Eder. Guddomligt ljuf och mägtig är Dess kallande vink. Krönte af Hennes hand, stråla mot Edra blickar Forn - åldrens ädle Furstar och småle himmelskt i glansen af Deras eviga ära. Titus är än i dag Människo - Slägtets Vällust. Han skal ock blifva det, så länge Häfderne finnas. Och denne Galliens Titus, som lät på lantsernes spitsar åt en belägrad Stads hungrande Invånare räcka et närande bröd (Kungliga ädelmod och hjertan vinnande klokhet! – Ack! Fransmän, hvad raseri – – ! Hur djerfdes Er otacksamhet – – – ! Hvi gingen J ej med vördnad förbi Hans heliga stod, då J vräkten omkull Tyrannernes?) Denne Galliens Titus skal lefva i allas hjertan, med samma höga vällust – evigt evigt beundrad.
+
+Ack! en rättskaffens Konung, som älskar och välgör mot Folket – – följom, skådom Honom, med vår tankes blickar! Inbildom oss, om vi kunne det, hvad Hans dygd njuter, i vissa himmelska ögnablick! Folkets lifliga glädje vid blotta tanken på Honom eller vid blotta ljudet af Hans älskade Namn – Folkets bäfvande tjusning och frögdeskri och välsignelser, då det får skåda Honom och höra et ord från Hans mun – med hvilka namnlösa känslor uppfyller detta Hans hjerta! Du skulle vid Hans åsyn tro Dig skåda Gud – Gud i en människo natur, omgifven af de saliga, hvilke tilbedja Honom. Läggom til detta alt de Vises lugnare glädje, de Ädles stillare tjusning, vid Hans anblick och åtanke! Tilläggom tal-lösa Slägters prisande bifalls - rop, som skalla från Tidhvarfvens fjerran mot Hans hänryckta inbildning! Men om Han ock ej vunne, ej hoppades vinna dessa; skulle dock Hans lycksalighet aldrig gå förlorad. Den vällust, som Dygden skänker, är så ljuf och stor, at den knapt kan förökas af tanken på Seklers belöning. Han bär ju innom sit bröst en af glädje flödande himmel. Han bär öfver alt med Sig den sköna och stora Själen, hvilken Han ej kan betrakta, utan en Ängels frögd.
+
+Svearnes Unge KONUNG! ofta jag skådat Dit ansigte med den ömmaste oro, stundom ock med tårar störtande ur mit öga, och sagt i min upprörda själ, som bäfvat mellan hoppets och fruktans slippriga gräns: Ack! skal denne Prins blifva vår Sällhets Skyds - Gud eller hennes Förstörare? Välj Dig, Konung, en eftersyn i den Store Monark, af hvars lycksalighet min hand nyss vågat en tekning! Välg Dig en eftersyn bland Häfdernes ädlaste Furstar! Åtrå ej at bli en Gud i människo-fänadens ögon; utan den högaste Dödlige bland förnuftiga Likar! Vänd Dig bort med förakt från de nedriga gunstlingar, hvilkas fräcka smicker vågar intala Dig, at Du i vishet och dygd är högt upp öfver Din ålder! Kasta en ljungelds - blick, full af krossande harm, på dem, som djerfvas säga, at Konungars höghet och styrka endast bör grunda sig på Folkets låghet och vanmagt! Desse äro Dine och Dit Lands förrädare, Sällhetens evige fiender och vårt Slägtes drägg. Lär, at känna och öfva Din kommande Värdighets pligter; och Folket skal lära, förtjust, at känna och öfva sina! O huru lätt, hur ljuft, at beherska älskande hjertan! Seklerne vänta ock Dig. Måtte Dit Minne krönas med Ärans eviga Lager, ej med föraktets och hatets outplånliga brännmärke!
+
+Folkets Furste och Vän! värdes höra en röst, som aldrig än blifvit helgad och aldrig skal helgas åt Lögnen! Den höjes til Dit Låf; och Dit öra skal ej såras af något smickrets ljud. Du bär ej en Konungs Namn; men kan dock vinna en ära högre, än många Konungars. Är det ej sannare storhet, at visa Sig värdig en Thron, än at beherska en verld, som en Tyran eller dåre? Då tusende jordens Regenter låtit, vid skenet från bålens eller från afgrundens lågor, upplysa bäfvande trälar, blott om deras pligter; låter Du Svithiods Barn, vid Sanningens glädande ljus, se deras rätt och sällhet. Sjelf går Du, Prins, på Sanningens höga stig; skulle Du frukta, at skådas i Hennes dag af Verlden? Den Furste, som älskar Henne, behöfver ej söka sin tilflygt i den förvända Stats - konstens ränk - fulla hemlighets - mörker. Rättvisans straffande svärd håller Din Mildhet tillbaka från de brottslingars hufvud, hvilke kunna skonas. Lagar fulla af hotande, Folket skymfande uttryck, ger ej Din visare Stats - klokhet mot vårt Tidehvarfs öfverflöd. Den ger ömma varningar. Ädla efterdömen vänte vi ock af henne. Då skola Landets Dygdige lyda med dubbel vällust. Du skyr et ursinnigt krig med jordens högaste Folk, som strider för sin frihet och alla dödliges väl; ty Du fruktar, at knapt något Bud skulle återkomma från striden, at stamma för Dig med bäfvan om Fiendens segrande hämd. Skulle Du icke sky det – Du, Hvars alla sinnen ärfarit krigets fasor? Då Du omgafs på hafs-rymden af Moscoviens flaggor, och under vågornas brus och vindarnes tjut i seglen, mord-skotten ljungade fram ur tusen dånande malm - gap: då af de sargades skri och de döendes hesa ljud Dit öra grymt sårades: då af itända kölar, som splittrade flögo i målnen, Dit öga grufligt sönderslets; huru fasade Du för dessa afgrundens skådespel: huru förbannade Du både Kriget och Krigets upphof och den rysliga Lager, Du gick at skörda bland dödarne? Nu Dig väntar Oliven, räckt af den ljufva och fridsama Mänsklighetens hand. Fortfar, som Du begynt, at draga Svea Land ur Dess olyckors djup! Tröttna ej! Uppgifs icke! Full af mödor och faror är Din Odödlighets - Bana; men ock af Ära och Sällhet. Rörs ej af dårarnes knot eller bofvarnes nedriga tadel! Bortgif aldrig åt Börden Förtjenstens heliga Rätt! Sky den gift-fulla tjus-dryck, som Vällustens vinkar bjuda Dig! Sky det förrädiska Smickret, som störtat och evigt skall Störta både Folket och Furstarne! Sök i Dina gerningar blott det höga Förståndets, det ädla Hjertats bifall; och Du skall äntligen vinna hela det tacksama Landets. Dit Lif skall då förflyta, likt en majestätelig flod, som oftare klar och lugn, bär himlens gladhet i djupet; stundom mägtigt våldsam, bryter sig fram mellan klippor och segrande åter fortfar i sit stillare lopp. Om, innan Du lämnat Dit Välde, Du öfverger oss och jorden, skall af de ymnigsta tårar Din sorglige grift-vård fuktas. Men ej af veksinta Qvinnors: ej af lättsinta gunstlingars. Desse hafva ej känslor för deras Herres förlust, utan endast för deras Lyckas. Nej, Du skal blifva begråten af Landets ädlaste Män, hvilkas ögon blott tåras vid sorgligt stora Öden. Älskadt, vördadt, beprisadt, skall Dit Minne lefva i tusende Slägters erkänsla.
+
+
+
+
+
+Anmärkningar.
+
+________
+
+
+
+________
+
+
+
+
+
+Rättelser:
+
+Sid. 17, rad. 15, står: lifvets värdaste läs: lifvet värdaste
+
+– 33, – 19, helgen Er dikt – helgen Er duk
+
+– 35, – 7, omätliga Allmagt – omärkliga Allmagt
+
+– 39, – 21, välg – välj
+
+
+
+
+
+Noter
+
+1)
+
+Exod. 20 Cap. 21 v.
+
+
+
+
+
+2)
+
+Se målningen af Sifadda i Hjelte - Dikten Fingal.
+
+
+
+
+
+3)
+
+Må det, som här i allmänhet säges om Tyrannerne och deras Prädikanter, ej af Misstänksamheten eller Ondskan förtydas! Jag vet väl, at de af mig upräknade olycks-fostren, Sedolösheten, Yppigheten, Armodet, Orättvisan, Omänskligheten och Vidskepelsen ofta ock plåga et Land, under goda Konungars Regering. Men detta kommer däraf, at Desse haft til Deras Företrädare despotiska eller odugliga Furstar, som låtit styra sig af smärre Tyranner. De ha ej kunnat utrota alt det onda, som de föregåendes laster eller svagheter bragt til den förfärligaste högd. Jordens bäste Regenter ha suckat öfver de fruktlösa bemödanden, hvilka De därpå användt. At Lösaktigheten, Yppigheten &c. haft i Tyranniet deras förnämsta, ofta deras enda ursprung, vittna otaliga exempel ur alla Samhällens Historier. At den falska Religionen beständigt visat sig tacksam mot den falska Politiken, i hvars moderligt ömma sköte hon blifvit född och uppammad, betyga lika många exempel. Det är också endast om henne och hennes nitiska Försvarare, som talet härstädes är. Desse hafva förmänskligat Gud, ända ned til den låga grad, at Jordens ädlare Människor skulle rodna och rysa för at likna Honom. Ty de ha gifvit Honom antingen deras egna eller de krönta Förtryckarnes passioner – – dessas gränslösa äregirighet, dessas omätteliga hämd - lystnad m. m. De ha inskärpt i oss den högmodiga tanken, at himlens alle lysande Härar äro til för vårt slägtes skuld, och sedan den löjligt contrasterande, at Vårt slägte är til för några Despoters. &c. &c. &c. Jag är en förtjust Vän af den Läran i vår Religion, som lofvar oss en säll Odödlighet. Et olycksaligt tilstånd efter döden tror jag ock med et slags glädje, när jag tänker på så många Andliga och Verldsliga Tyranner och bofvar, hvilke, utan någon märkbar erfarenhet af Guds straffande Rättvisa, lämnat denna jorden. Men dessa mörka afgrunder, där eviga lågor brusa har jag aldrig kunnat förmå mig at tro. Det gifs ej heller i närvarande tid en enda förståndigare Präst, som skulle kunna finna dem rimliga.
+
+
+
+
+
+4)
+
+Om någon stutsar vid dessa uttryck, så bör han väl besinna, at man aldrig med en nog hånfull förbittringens energie kan tala om dessa ursinniga och ynkliga Despoter, hvilke, då de låta röka för sig, såsom Väsenden af en öfverjordisk natur, låta hantera tusende af deras Likar mer skymfeligt, än drag-ök och hundar. Det stygga bör målas i all dess stygghet, säger en bland våra Författare; och det förfärligaste, som kan skrifvas mot en Tyran, skal ej stöta en god Regent. Denne vet, at de som häftigast kunna hata, de som djupast kunna förakta och starkast kunna uttrycka dessa känslor, äro ock de, hvilkas kärlek och vördnad och låf har et verkeligt värde. I denna glädande visshet vilar Hans ädlare sjelfkärlek med tilfridsställelse.
+
+
+
+
+
+5)
+
+Mercier påstår, at elake Regenter ej kunna förebära det til deras ursäkt, at de oupphörligen omgifvas af Smickrare. Han säger, at alla Seklers Historia ligger för dem öppen och at Hennes bedröfliga målningar af de Nationers olycka, hvilkas Konungar blifvit förderfvade af Smickret, böra tjena andra Konungar til varning. Han tillägger, at en Regent sällan blir bedragen, så framt Han ej älskar at blifva det.
+
+
+
+
+
+6)
+
+Se dessa orden i Kammar - Rådet Bothins Svenska Historia, sidan 680.
+
+
+
+
+
+7)
+
+Sveriges afledne Konungar ha blifvit rikeligen besungne. De Hjeltar, som någon gång stridt endast för Dem, har Sången ej heller förgätit. Jag har därföre ansett för öfverflödigt, at skrifva en rad til Deras Låf. Man hör däremot de Hjeltar, som endast stridt för Folket, sällan prisas och omtalas. Bland dessa intager Vår Engelbrecht oemotsägeligen det förnämsta rummet. Skulle då Håfvets och träldomens Poëter kunnat sjunga om denna Mannen med någon själarnes värma? Et drag af en Svensk Monark hade likväl bordt blifva upptagit i mit Försök. Det är nästan så bortglömdt af oss alla, som värdigt allas beundran, och skulle ha gjort sjelfva Engelbrecht ära, om Han setat på en thron. Jag menar Konung Carl d. IX:des utmaning gifven åt Konungen i Danmark, at, til besparing af Deras Krigs-härars blod, afgöra striden med en envigs-kamp. Hvilket stort begrepp om et Folk måtte icke denne Hjelte haft; då Han skattade sina Soldaters lif långt högre än sit eget? Och hur få af jordens Beherskare ha tänkt lika ädelt som Han? Detta enda drag har nog storhet, för at göra Hans minne mera prisvärdt, än Horatiernes och Curiatiernes minne.
+
+
+
+
+
+8)
+
+Så skal visst ske, om Han först alfvarligt velat sit förtryckta Folks väl: och sedan med lika ståndaktigt alfvar fortfarit i sit bemödande at befrämja det.
+
+
+
+
+
+9)
+
+Om det skall anses för brottsligt, at i Frankrikes Revolution och Constitution prisa den mäst förvånande Stats - hvälfning och den mäst välgörande Lagstiftning, som Historien hittils kunnat upvisa; då är jag den brottsligaste bland dödliga. Men jag har denna förbrytelse gemensam med Nationens bästa Tänkare, hvilke alle allmänneligen tala, hvad jag allmänneligen skrifvit: och jag skall tilstå den med förtjusning, om det ock blefve på hvad ort som hälst. Långt ifrån at kunna gilla alt det som Fransoserne i sednare tider gjort, finner jag några af Deras företaganden aldeles oförsvarliga. Parisiska pöblens grymheter fördömer jag så väl som någon annan; (hvilket Mine Läsare redan funnit) men när jag nogare undersöker anledningarne til dessa så utskrikna grymheter, nödgas jag mildra strängheten af mit omdöme. Dessutom vet man af sednare underrättelser, at de hvarken äro så många eller så stora, som bedragne och köpte och ilviljoge och alt öfverdrifvande Tidnings - skrifvare föregifvit. At jag änteligen må uprepa det, som flere opartiske Författare redan sagt och ej nog ofta kan omsägas: bör någon bli häpen deröfver, at han ej finner all Philosophiens köld hos en mindre upplyst Folkhop, som suckar under et långvarigt förtryck och sedan den afskuddat oket, ser sig på alla sidor omgifven af de nedrigaste och grymmaste bofvar, hvilke antagit masquen af dess Befriare? Bör någon bli häpen däröfver at han ej finner all Rättvisans oväld hos en oupphörligt gäckad och blottstäld och til förtviflan bragt Folk - hop, som ser mer än hundrade bland dess Medborgare skutna af förrädiska händer, stupa i deras blod? Borde man ej snarare blifva bestört öfver de lugna, de djupt öfverlagda, de länge i Cabinetterne ventilerade och methodiskt utförda grymheter, genom hvilka så många Regenters Ministrar ruinerat så många Nationer?
+
+
+
+
+
+10)
+
+At gifva Konungarne den ära, hvilken De fordra, såsom Nationernes Hufvudmän, är både billigt och nödvändigt. Ve den tanklöse usling, som kränker en så helig skyldighet! Han är ej värdig at lefva under någon Regerings beskydd. Men at sätta Dem framför Nationerne, såsom Gudar fram för de dödliga: at tilägna Dem ensamt de Värf, som blifvit utförda med Folkens förenade styrka: at kalla det Deras Nåd, som endast är Deras Pligt: at spänna all Snillets förmåga, at slösa all Konstens rikedom, för at göra Dem lysande och stora, på bekostnaden af Millioners ära – detta är et lika så vanvettigt, som afskyvärdigt Smicker. Et Upplyst Folk kan ej tåla det. En ädel Regent kan ej älska det. Han sträfvar ej efter Chimärens, utan efter en verkelig storhet. Han finner sig mäst upphögd genom den oinskränkta vördnad, som Han vid alla tilfällen visar för Folkets egen höghet.
+
+
+
+
+
+11)
+
+Äfven af Hans alt uthärdande ståndaktighet, för Romerska Frihetens skuld, då den Krigshären, hvilken Han anförde genom Lybiens Ödemarker, var nära at förgås af alla slags eländen. Se här, i några raders Öfversättning, et prof så väl af denna ståndaktighet, som af den Frihets - älskande och Dygd - andande Skaldens tankar! ”Värdigt den Största bland Ro”mare talade Cato til Hären. Värdigt den största ”bland Romare Han ock evigt handlade. Sjelf gaf ”Han Krigarne eftersyn, huru de borde uthärda alla mö”dor och faror; aldrig gaf Han befallningar. Sjelf ”bar han sit spjut, altid til fot tågande framför den ”mattade Hären. Ingens skuldror betungades af Hans ”trötta kropp. Inge svettige hästar flämtade framför ”Hans vagn. Kortast var hans sömn på det öppna ”fältet. Aldrig sökte Han skuggen af et ensligt träd. ”Sist af hela Hären släckte Han sin törst i en sällan ”mötande källa. Lybiens grufliga heta och ormar och ”sand-orkaner – – alt var ljuft för Hans dygd. I Mö”dans och Plågans sköte fann Hans Tålamod vällust: ”och ju större offer Dygden begärde af Honom, desto”mera älskvärd blef hon i Hans ögon. §. Om genom ”stora gerningar vinnes en stor ära: om Dygden för”utan Lyckan betraktas i egen skönhet; då har nästan ”alt det vi prise i våra Fornfäders Bragder varit et ”Lyckans Verk. Hvilken, Hvilken af Dessa har nå”gonsin gjort sig förtjent til et så ärorikt Namn, ge”nom Folkslagens utgutna blod? Ack Cato! guddomli”ge Cato! Dig hade jag heldre fölgt, mellan hafvets ”klippor och reflar, til Lybiens yttersta sandfält; än ”jag tre gånger tågat, i en prägtig Triumf-Vagn, mot ”Capitolii högder, åtfölgd af vundna Regenter i blod”stänkta kedjor fjettrade. Se, O mit Fädernes-Land, ”Din Sanna och enda Fader! Se, O Rom, en Man af ”alla Din dyrkan värdigast! Om Du å nyo får mod at ”skaka oket bort från Dina trykta skuldror, skall Du ”resa åt Honom de mäst talrika altaren, skall Du välja ”i Honom Din äras förnämsta Skyds - Gud och med ”den heligsta vördnad svärja vid Hans Namn.”
+
+
+
+
+
+12)
+
+Vår Tids store Lagstiftare eller store Philosopher behöfva litet och sällan betjena sig af dessa Täckelsen. I Nationernes oerfarna barndom, då Inbildningen var mäst verksam och Förståndet än låg i dvala, kunde detta sätt af upplysa om et Samhälles dygder och pligter ofta varit ursäkteligt, stundom oumgängeligt. Men sedan en del af Folkslagen hunnit up ur barndomen: sedan Deras utvecklade begrep alt mer och mer klarnat, så at De snart kunna tåla den nakna Sanningens anblick; upphör ock snart bland Dem detta upplysnings - sätt at gagna. Det som fordom var nödvändighet och visdom, kan i en annan tid blifva en öfverflödig dårskap. Må ingen af denna tanke taga sig någon anledning at tro, at jag förkastar Religionernes alla Läror såsom blotta inbildnings-foster. Nej jag är långt från detta öfverdåd af et missbrukadt Förnuft. Jag tror med fullkomlig visshet, at det gifvas Religions - Sanningar, hvilka kunna uthärda hela styrkan af den skarpsinnigaste eftertankes pröfning, hvilkas höga och eviga Skönhet skal blifva så vigtig som glädande för de mäst Uplysta Folkslag, i de mäst aflägsna Tidehvarf. Men fordom voro ock dessa Sanningar klädda i Allegoriers bilder och svepta i Fablers slöjor. Nu börja de föreställas i deras blottade enfald. Det är af den högsta vigt för Eder, Andlige Fäder, at härefter i samma enfald föreställa hela Vår Guda - Lära. J få’n innom kort tid det mäst högtidliga tilfälle at visa Ert nit för Henne. Ack måtte blott Vishet och Kärlek styra detta nit! Befrien Henne efter handen från alla Människo-funder, alt tomt och spitsfundigt gräl, som är så ovärdigt Majestätet af en Religion svarande mot Vårt eleverade Tidehvarf! Vidtagen sådane anstalter, genom hvilka Himla-Lärans renhet må kunna stiga i mån af Upplysningens klarhet! Dennas oupphörliga fortgång är nu så omöjeligt at hindra, som at hindra dagsljusets tilväxt. Om det stundom är en helig och nödvändig pligt, at rätta sig efter sin tids herskande fördomar, är det visst en lika helig och nödvändig, at foga sig efter dess tiltagande förstånd. Förenen Er därföre med Philosopherne! Arbeten gemensamt med Dem til Religionens befästande och förädlande! Hennes Läror, så vidt de äro Sanningar, välgörande, guddomliga Sanningar, skola, betraktade i Philosophiens ljus, mer vinna, än förlora af deras kraft. Ock för Er är en Ära at skörda i Vårt märkvärdiga Tidehvarf. Denna Ära är så mycket större, som den är förenad med Guds. Er sak är Himmelens sak och Edra välgärningars verkan sträcker sig in i evigheter. Gören Er därföre vid denna instundande Jubel-Fäst förtjenta til en evig erkänsla af hvarje Sannings-älskande Hjerta af hela Svenska Nationen! Näst hoppet at lefva efter döden i en lycksaligare Verld är den tanken rik på glädje, at andas Ärans lif i millioners tacksames hugkomst.
+
+
+
+
+
+13)
+
+Denne tanke är et lån af Rousseau.
+
+
+
+
+
+14)
+
+At befordra en oinskränkt Upplysning, i alla Ämnen af Vigt, bör vara en Konung om hjertat. Denna Upplysning är ej farlig för Staten. En Regering grundad på Rättvisa behöfver ej rädas för dess sken. Han skall aldrig sakna segrande Försvarare mot alla Oförståndets eller Ondskans anfall. Den lilla tilfälliga skada, som den oinskränkta Upplysningen någon gång åftadkomer, kan ej jämföras med dess vidsträkta nytta. Ville Ni önska bort solen från himmelen, därföre at hon bränner i Afrikas ödemarker? Hennes milda och välgörande ljus utbreder ju gladhet och välsignelse öfver vida större rymder af vår jord. Upplysningen med våld fjettrad innom de Tänkandes hufvuden gör äntligen samma förfärliga verkan, som ljungelden trångt inspärrad i mörkret af tjocka måln. Eller at jag må betjena mig af en mera familier bild: den liknar en upptänd Fakla, som man inneslutit innom et Krut-hus. Hvem ville dväljas i nägden, så länge hon brinner där?
+
+
+
+
+

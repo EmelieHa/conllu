@@ -1,0 +1,149 @@
+# ID: svediakorp-sec987
+# author: 
+# pseudonym: 
+# translator: 
+# title: Det blef ingen julgröt
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-11-22
+# sourceDescription: Retrieved from Språkbanken's collection 'Svensk prosafiktion' (Swedish prose fiction). The order of the sentences is scrambled, due to copyright issues.
+# genre: prose
+# subgenre: fiction
+# location: 
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1800
+# editor: 
+# publisher: 
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Språkbanken (https://spraakbanken.gu.se/)
+# retrieveFormat: XML
+# annotation: tokens, lemma, POS, morphology, syntax, named entities
+# annotationMethod: automatic
+# words: 1,683
+# sentences: 106
+# sentenceOrder: scrambled
+# URL: https://spraakbanken.gu.se/swe/resurs/spf
+# cite: 
+# availability: CC-BY attribution (https://creativecommons.org/licenses/by/4.0/)
+
+
+1799.
+Härjämte följer också en ganska wacker tolamods Wisa,
+Ack se Farbror Adolph, skreko de små!
+Ack se Swåger Adolph!
+Hennes hjerta wille brista, då de tre oskyldiga, med hoppets och glädjens upsyn, ropade alla på en gång; Mamma kommer!
+Derför bör du intet klandra Uppå Lyckan utan säj: Gud är god, gör aldrig illa.
+Julafton
+hwi qwider du så hårt?
+hwarföre icke 50?
+Godt win i flask- fodret och friska pengar i bröstfickan förbytte snart i sorgens hemwist til glädjens boning.
+Jag afskrifwer dessa 2 Riksdaler på räkningen, och til Nyåret skall ni betala det öfriga.
+3.
+– Historier och undflygter!
+Clara betraktade sina Små.
+4.
+Han lät bära in en koffert full med Nankins, Bomullslärfter, Silkesbukar etc. åt den goda Clara och hennes barn.
+När Gud hulpit alla andra, Skulle Han ej hjelpa dej?
+Fredrica och hennes syster bjödo til at trösta henne, och gjorde mine åt Calle at ej se gråtmild ut.
+Derför wil jag korsset gärna Draga på min matta rygg, Wandra efter Jacobs Stjer na, Ibland törnetaggar trygg; Werldsens haf det må fritt bullra, Jag wil med min lilla båt Mellan berg och dalar kullra: Strandar ej at jag blir wåt.
+war hon redan der.
+Ach!
+Calle och Marie stodo wid fönstret och sågo på den högblå himmeln.
+En gnista af hopp tändes i hennes hjerta, och det blef ljusare i sjelfwa mörkret omkring henne.
+En tår föll från hennes ögon; men hon aftorkade den hastigt, och fortsatte sit arbete.
+Glädjen hos denna lilla Famille war obeskriflig, och deras fällhet tusenfalt större än den Fru von Agio i sitt Palats, med all sin öfwerdådiga yppighet, åtnjöt Julafton 1799.
+Fru von Agio hade nyss upstigit från sit kräsliga middagsbord, och Clara fick tilstånd at komma in i hennes yttersta förmak.
+Det började nu bli full skymning i hennes koja och full mörker i hennes själ.
+Hon såg i fönstret lilla Calle, som flåsat isen ifrån en ruta och med längtade ögon och klappande händer gladde sig öfwer hennes ankomst.
+Fredrica hjelpte henne at plåcka ur trådarna, och den granna Julklapp, som den rika och förnäma Fru von Agio bestält hos henne, war redan inwecklad i sit omslag.
+Se hur de glittra, syster!
+Se här 2 Riksdaler, ert arbete är wäl betalt; far wäl.
+Klockan war redan slagen 7 på afton; men hastigt blef Ljus i huset, Hjerpar från Källaren och Saffransbullar på bordet.
+Clara tog
+nu Psalmboken, och började wed hjerklig andakt: Af himmelshöjd jag kommen är.
+ropte lilla Calle, det är Julafton.
+Nu.
+Wänga länga gator ifrån Claras koja war Fru von Agios palats beläget; men ifren, kölden, och bekymret skyndade hennes steg.
+sade Calle.
+Kors, hwad ni är långsam!
+Ger Mamma oss sötgröt i qwäll?
+begabberi är tungt för den fattiga, jag har ej förtjent det; hwad jag begärt, är ej obilligt, jag har haft mycket arbete, jag har tilsatt nätterna, och denna arbetslön är det enda jag har at lefwa af med mina tre barn öfwer Helgen – Ni predikar starkt.
+Härjämte följer Wisan.
+jag skall bli så beskedlig, sade Fredrica; jag skall hjelpa Mamma städa.
+Och der uppe hos Gud bor Pappa; är det icke sant, Mamma?
+ropade Clara, utom sig af glädje.
+Hon stod up, gjorde en liten brasa i kakelugnen, och satte sig med sina små omkring den för at, under wäntan på tiden til en torftig och knapp aftonward, sjunga en wacker Julpsalm.
+Han wet wäl hwad nyttigt är, Derför wil jag tiga stilla, Han mig då wist hjelpa lär.
+Hon förestälde honom, med nödens bewekande röst, omöjligheten at nu kunna godtgöra hans fordran, och berättade at den lilla sedel hon fått war alt hwad hon ägde.
+Då fick Mamma så många Julklappar, ock systrarne och jag så wackra kläder – och jag så många leksaker och så mycket nam-nam, sade Calle.
+– Nådig Fru!
+Ni är altför modeste!
+Det blef ingen Julgröt af, men än
+6.
+När han så dit tålmod pröfwat, Fun nit dig städs wara nögd, Med alt det han på dig öfwat, Skänker han dig lust och frögd: I sann tro derföre frukta HERran och Guds Heliga Lag, När han dig med kors wil tuckta, HERre, säg: Si här är jag.
+du har ju sjelf sagt oss det?
+då en glad Julafton 1799.
+Hwem har bedt er sy om nätterna; hwem rår för at ni har tre barnungar?
+Clara framräckte i ödmjukhet sit arbete, och Fru von Agio betraktade hastigt den broderade Slöjan som skulle utgöra en af de 18 surpriser, ämnade åt älsta dottren i huset.
+Mina barn, sade hon, jag skyndar mig at få färdig min söm; jag slutar den strax, och för betalningen skall jag skaffa er sötgröt.
+Stor sak, sade Marie, stor sak söta Mamma, wi ha ju likwäl något at äta.
+Nu sprättade hon fort broderiet ur bågen.
+Si!
+Wara tolig och sig nöja, fordrar Gud i motgång mäst.
+Julgröt kunde ej fås; men den saknades icke.
+– Jag har ingen ting kunnat skaffat er, mina små, sade hon, och brast i en häftig gråt.
+Clara följde honom, för at undwika de förbigåendes upmärksamhet och i hopp at kunna beweka honom til tålamod.
+skrek han, och ryckte sedeln ur hennes hand.
+Tagit ur Stockholms-Posten för den 15 Janniaraii 1800
+– 5 Riksdaler, swarade Clara.
+Men ändå en Glad
+Gefle, tryckt hos Ernst Peter Sundqvist 1800.
+Få wi sötgröt i afton, Mamma?
+Clara tog sin gamla tunna päls, kyste sina barn, och gick.
+Wara tolig och sig nöja Fodrar Gud i mot gång mäst, Sinnet efter Lyckan böja, är
+ju utan twifwel bäst; Tro min Själ Gud för til ända Hwad som synes för dig swårt; Han kan sorg i glädje wända, O!
+5.
+Wi ha ännu bröd qwar, och om Mamma bara intet wil gråta, så skall jag äta så litet, så litet at det skall räcka ända til öfwermorgon.
+Ack hur många präktiga stjernor!
+– Med en djup suck och en bitter hemsk känsla öfwer sit hårda öde, wände den stackars Clara aldeles tomhändt hem til sin boning.
+Ack!
+Det blef ingen
+när Pappa lefde, sade Fredrica, då war det altid så roligt om Julafton.
+Och der tänker Pappa ännu på oss, och ber Gud för oss, sade Marie.
+Tanken på de förflutna gladare tider gjorde hennes närwarande belägenhet än swårare, och hon war djupt förtryckt under känslan af den häftigaste sinnes smärta.
+Nu jag tålig då wil bida, Wänta på min Faders nåd, Aldrig för olyckan qwida, Ty jag wet at Gud, är god: När han mig såleds har risat, Skänker han mig lust och frögd, Ty skal detta bli min Wisa: Jag är med min Gud förnögd.
+– 5 Riksdaler!
+så skal du dig här ställa, Om du wil ha hjelp af Gud, Och ej modet straxt nedfälla, När det sker efter hans bud; Ty
+Gud har ju i sin händer; Mackt at göra hwad han wil, Den som knorrar, Gud ej sänder, Någon hjelp, derför tig still.
+Hon gick, i sorgeliga tankar öfwer sin motgång, och öfwerlade hur hon bäst skulle anwända denna otilräckliga penning i sina många behof, då hastigt en Man hejdade hennes gång och påminte henne om en gammal räkning, som han genast fordrade betald.
+Detta barnfliga jollrandet ömsom sönderslet och fägnade den bedröfwade Modren; men de menlösas förtröstan wäckte ändteligen hennes egen.
+– Den hederliga Adolph hade warit lycklig på sin Ost-Indiska resa, och kom nu directe från Götheborg at söka up sin beskedliga Swägerska, hwars Enkestånd och fattigdom han, wid sin hemkomst, fått höra.
+Ja, om wi äro goda barn, så glömmer Gud aldrig bort oss.
+– Godt bodskap jag til eder bär, swarade en Man i reskläder, som hastigt slog up dörren och flög den förwånade Clara i famnen.
+Exemplaret kostar 9. runst.
+utbrast Fru von Agio; Hwad är er arbetslön?
+Kom här in i min bod, sade han, och betala mig de lumpna 5
+Riksdaler hwarföre jag så ofta måst kräfwa er.
+2.
+säg fort, jag har brottom.
+Jag skall hjelpa Mamma fålla, sade Marie, och jag, sade den lilla Calle, jag skall läsa så flitigt min lilla bön: Gud som hafwer barnen kär!
+– Nu förswann hon i den långa sträckan af sidenklädda rum, och Clara stum och bestört, med sedeln i handen och bedröfwelsen i hjertat, skyndade sig ifrån denna obarmhertiga.
+sade den lilla Marie til sin goda Mor, den fattiga Clara.
+Julgröt
+– Den som har känsla begriper lätt, at dessa små oskyldigas bemödande at trösta war bittrare för Claras hjerta,
+än sjelfwa nöden.
+Hon hade inga wänner, de hade förswunnit med wälmågan, ingen tilflygt, ingen mat, ganska litet wed, och på sjelfwa Julafton intet ljus.

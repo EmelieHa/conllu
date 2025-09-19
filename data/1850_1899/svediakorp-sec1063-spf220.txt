@@ -1,0 +1,735 @@
+# ID: svediakorp-sec1063
+# author: Mortimer Hærén
+# pseudonym: 
+# translator: 
+# title: Ur skogen
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-11-22
+# sourceDescription: Retrieved from Språkbanken's collection 'Svensk prosafiktion' (Swedish prose fiction). The order of the sentences is scrambled, due to copyright issues.
+# genre: prose
+# subgenre: fiction
+# location: 
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1860
+# editor: 
+# publisher: 
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Språkbanken (https://spraakbanken.gu.se/)
+# retrieveFormat: XML
+# annotation: tokens, lemma, POS, morphology, syntax, named entities
+# annotationMethod: automatic
+# words: 13,410
+# sentences: 692
+# sentenceOrder: scrambled
+# URL: https://spraakbanken.gu.se/swe/resurs/spf
+# cite: 
+# availability: CC-BY attribution (https://creativecommons.org/licenses/by/4.0/)
+
+
+I mitt sköna blomsterland Flätar hon med snöhvit hand Tillhopa rosenkransar, Ordnar Elfvans dansar, Ler mot himlen blå Med tusen klara stjernor på.
+Helt annorlunda, när det gäller menniskans egna ekonomiska framsteg, utveckling och bestånd!
+Hon älskar oss och kommer lika gerna tillbaka till oss som vi fly henne!
+Auktionen hade försiggått och Brun hade förvandlat sin egendom i reda penningar.
+– Åh ja, Gudskelof, så länge man orkar arbeta skall man väl inte låta mossan växa öfver sig.
+Ah!
+naturens röster teg.
+Vi träda åter inom grinden och gå fram till stugan.
+Måhända har denna höga makt utrustat denna varelse med sådana gåfvor, för att en gång, utvecklade genom erfarenhet och luttring i lifvets härd, för andra lysa med klarare sken till upplysning och vetande.
+De tyckas dela den jublande fröjden, som en mängd af bättre personer visa genom den mest fridfulla artighet.
+jag vid källan sutit Ofta uti qvällens frid; Gubben samvetslugnet njutit Efter lifvets strid!
+Och talte om min stora nöd
+Midsommarens högtidligheter voro slut och sällskapet hade med glada minnen återvändt, hvar och en till sitt.
+Ja!
+Det yttre lifvets företeelser, de äro naturligtvis det enda reela; dess själ, dess drifkraft är penningen.
+Der kommer torparhustrun sjelf från ladugården.
+Ingen log; en viss beklämning tycktes hafva intagit alla.
+För att barn och maka skydda, Andras och sin egen teg, Derför lemnar han sin hydda, Trampar uti blod sin väg.
+Konjunkturerna äro svåra och det lönar sig bättre med ett yrke derute, än här; ty svenskarne äro afundsjuka och söka blott att äta ut den andra, hvar och en.
+Jag sände öfver mörkan hed Min sång så trogen; Men ack!
+Det är en märkvärdig flicka.
+Är det någon, som gjort en konstgjord blomma så konstfull, så skön, som naturen sjelf ?«
+Men de ’ ä ’ mera skrifning på andra sidan der.
+En viss beundran för henne rådde bland allmogen (fastän man ansåg henne på sitt sätt förlorad
+och bragt på förtappelsens väg, alldenstund hon ej trifdes vid de tunga landtliga göromålen och det grofva arbetet, som andra); » och nog », – så menade en och annan mera upplyst – » är det en högre ande som regerar henne ».
+Något saknas.
+Det sjunger en fogel om guldfrukters glöd Långt bort öfver böljornas väg.
+– Ser ni det var Carl den tolfte, han som slog tio ryssar med en svensk soldat.
+Försynen ger blott då och då en vink om att det finnes, och ibland en tydlig fingervisning, hvarest man bör uppsöka och nyttja det goda som den beredt ät menskligheten.
+Vid fockvanterna stod en ung flicka ensam och gret.
+Ack, nej!
+Den, som fader- och moderlös, utan huld och skydd, vandrat ut från ett kärt och fridfullt barndomshem, ut i vida verlden bland främmande, idel främmande menniskor, han vet huru det kändes.
+Jag tillsade henne att låta mig se hvad hon skrifvit, och blef högst förvånad när jag fick se det skrifna, hvilket bestämdt visade, att hon länge förut sysselsatt sig med sådana saker.
+Inkomna slogo de sig ned på en plats, som stod ledig, och det syntes på deras hela skick att det nu ej var första gången, de sutto här.
+– Ja si de ’ va ’ den, som Skräddar-Isaks dräng talte om på brölloppe ’ hos Per Måns ’.
+«Annars när du kommer bruten «Som ett skepp ur storm och nöd, «Får du, sårad och förskjuten, «Grånad, tigga om ditt bröd.
+Der han sutit ganska länge, Men när flickans milda helsning Nådde till den gamles öron Vände han sitt gråa hufvud Och hans lugna öga mötte Hennes, som likt klara källan Speglade den blåa himlen; Och han sade så till flickan:
+Derefter föll hon på sina knän.
+– Det var likt, det!
+Har ni hört tals om kung Gösta, Anders Persmor?
+Hon ser så beskedlig ut; skola vi språka henne an?
+Nämndemansmor torkade sig i ögonen, och Anders Persmor satte koppen, som nu var för tredje resan tom, på bordet, torkade sig med förklädssnibben först i ögonvrån och sedan om
+munnen, och sade: de ’ va ’ skråen te unge, ho gör ’ et lika vackert, som presten sjelf.
+– Ar det möjligt!
+Det röres hårdare, det vill brista af vällust; ni vill upp, ni vill famna verlden, göra godt, blifva en engel!
+– Lycka till, bror!
+Hon går ibland ut ensam i skogen, kan sitta hela timmar på samma sten och stirra framför sig, och det ser ut som hon glömde allting omkring sig, och ibland kan man få söka henne i skogen långt in på qvällarne.
+– Jag har läst, att andra skrifva om saker som hända ute i verlden och om kungarna, som hafva styrt landet och om många andra saker.
+” När nöden är störst är hjelpen närmast. ”
+Min lilla berättelse rör det eljest stilla och tysta W som äfven låg vid en tjusande, doftande Mälarstrand, fastän den nämndes Hjelmaren.
+Denna magt sände äfven en skyddande hand till den unga skogssångarinnans stöd.
+– Nej käraste barn, jag har visst inte tid att sätta mig, ty jag har blott sprungit för att tala om att far har talt vid en, som vill ta dig an.
+– Ska ’ ni inte dricka en tår till, Anders Persmor, så ska ’ jag läsa den der romana för er, som hon gaf mej, när som hon var här och talte om tjensta.
+jag kan ej nog tacka er derför, men ni medför i detta budskap både glädje och sorg för mitt hjerta.
+Jag känner den väl, jag har svärmat och drömt Och har flyktat med den mången natt; Men det kallade alltid en stämma så ömt Från mitt land, som jag en gång förgat!
+Som vi förut hafva sagt, så var vid W eljest tyst och stilla, men i dag var der en särdeles liflighet rådande: vagnar syntes kommande och farande, herrskaper stego ur och blefvo emottagna af en äldre fru med ett vördsamt utseende, och man säg på de främmandes alla rörelser att de icke voro obekanta i det trefliga huset
+; ty om vi skola omtala sakens sammanhang, så var det den vördade fruns barn, som unnade henne den ljufva glädjen att besöka henne.
+Om allt är sig likt, gladt, fridsamt och lyckligt,
+Men när dagens strider slutat och dess böljande haf af vexlande sträfvanden, arbeten och tidsfördrif lagt sig till hvila; när skymningen och aftonrodnan ömt täfla om att vagga menniskornas sinnen i en ljuf, högre vällust, då stiger rädd och tvekande ner, på osynliga vingar den på jorden biltoga Friden, omsväfvad af det Godas englar.
+Vi behöfva så mycket mer iakttaga detta goda bruk, som vi äro öfvertygade, att endast få skola, utan en förklaring, anse dessa penndrag af något värde – ehuru de i sjelfva verket innehålla mycket underbart.
+Hon föll gumman om halsen och gret, och så häftigt stormade nu de skiljda känslorna i hennes bröst, att hon knappast hörde den goda gummans välvilliga uppmaning att lugna sig och höra, huru hon ställt till för att hjelpa henne.
+– Ja, hvarför inte!
+vi talte just nu om dig.
+Flicka!
+– Hvad?
+De finnas som säga: – penningen är Gud.
+De, som göra det, de äro de bäste, samhällets kärna, värda vår uppriktiga högaktning!
+Hon reste sig sagta upp vid den vanliga gummans helsning och bjöd henne sätta sig.
+– Här bland böljans yra hvimmel Vattenliljan höjer Kalken och sig böjer Åter ner i vattnets blåa famn.
+Det är möjligt att hennes namn försvinner lika hastigt som berättelsen om henne, och lika spårlöst som hon sjelf ute på oceanen, men det kan också hända att i framtiden det ånyo dyker upp i förening med något foster af hennes poetiska tankeflygt, som förvånar verlden.
+Det djup af känsla och förstånd, som fanns hos denna natur, kunde icke annat än på det högsta förvåna socknens värdige själasörjare.
+Och min beskedliga gubbe, han arbetar efter makten både bittida och sent, när han får vara från herrgål ’ n, så att vi stå oss Gud skelof bra vi, mot hvad många andra göra, men det är värst med den stackars flickungen, för hon är så usel och klen, så Gud vet hvad det skall bli af henne.
+Ack!
+Gör dig färdig att följa med mig in nästa torgdag, så att jag får visa dig för det goda herrskapet
+.
+Nej!
+Det var en ung skön fru, som kallades familjens sånggudinna, öfverallt berömd för sin utomordentliga dygd, samt för sin sköna harmoniska sång, hvilken klingade som en englaröst och gaf sitt eko i skog, öfver dal och berg och var således som ordspråket lyder «kronan bland barnen«.
+Ingen vän, ingen anförvandt följde den unga för att stödja och hjelpa.
+– Åh, inte annat än godt.
+Hvad tycker ni om torpet?
+Säg?
+Du sänder mig Nog hjelp i sinom tid 1 dystra skogen.
+IV.
+Här slutar handskriften med den ofullbordade strofen.
+Flora ensam är den engel, Som kan bryta portens stängel: Kastar någon stilla månskensqväll Upp en mosseblomma på den hårda häll, Vandrar åter ned Frän den nakna hed, Slår i dalen upp sitt grönbeklädda tjäll.
+Saken
+var svår att afgöra, den gällde en menniskas väl och ve.
+uti de klara morgonstunder Kysser hon de daggbeprydda blad.
+Hon bar under armen ett knyte, hvaruti hela hennes egendom, gods och håfvor voro inlagda.
+Liksom molnen rastlöst jaga, Drifna öfver fästet blå; Utaf lidelser vi svaga Jagas framåt likaså.
+Vid sådana tillfällen samlades bygdens ungdom omkring henne för att åhöra hennes verser, hvilka djupt slogo an de strängar, som hos den så kallade bättre klassen af menniskor, ofta förvändt stämda, gifva inga eller falska återljud; men hos landets enkla befolkning klinga med desto starkare genljud, ju mindre strängarne äro nötta af ett ideligt spel i de mest skilda tonarter.
+Detta anses ofta för något föga betydande, isynnerhet om det mera uteslutande har afseende på en annan menniskas moraliska utveckling och bestånd.
+Javäl!
+Fru S. beviljade syskonens begäran och sjöng med en klar och ren klingande silfverstämma, som följer:
+Nåväl!
+Visande uppå medaljen Sade han med vänligt allvar:
+flickan sade, Är det då den tappres lön!
+– Har du denna visa skrifven?
+Stackars gamle!
+Der blir en strid på lif och död; men de goda genierna segra.
+– Ja så, nå hvad sade ni då?
+Emigranterna.
+Detta öde är ej af denna omvexlande natur, som intresserar genom en hop af på hvarandra följande händelser, icke heller erbjuder hennes person något drag af någon stor, imposant karakter, som fängslar och väcker beundran; men det ligger något romantiskt och något ovanligt i en sådan företeelse, som denna.
+Wid Herregården.
+– Serra tri, det behöfs!
+Skall jag börja?
+Då har ni erfarit känslor, så milda, så underbara, att ni kännt en aning om något bättre, något högre lif, och om en njutning, som sällan återfinnes under dagens vexlande marknadssorl.
+Ensam måste jag ut i verlden, drifven af min oroliga längtan mot ett mål, så fjerran från mina barndomsfröjder.
+– Jag kan inte skrifva bättre.
+Sexskillingen köpte jag papper för och har se ’ n skrifvit mycket mera, som inte ni vet.
+Och den har Lundberg fått före mig !«
+Det är svårt visserligen; men sök, sök ifrigt och träget.
+När bort jag går, Går jag med tunga steg, Ty hemsk är skogen; Jag sänder öfver mörkan hed Min sång, så trogen, Så godt jag det förmår; Men hemsk är skogen.
+Denna väg löper i de mest omvexlande krökningar, tills den tvärt viker af till venster.
+Du måste känna dig olycklig att ej ha tillfälle att läsa så mycket du vill.
+Färgarn?
+– Ja, nådig fru!
+Guds fred, barn, gråt inte för det, du; det går nog bra, bara du blir van.
+Efter dessa anmärkningar börjades åter läsningen i samma ton.
+Skola vi titta in till Berglunds?
+Brun läste följande:
+Ofta darrade i månget öga en tår vid uppläsandet af dessa enkla lyckönskningar, dessa osökta skildringar af naturens skönhet; dessa påminnelser om förgängelsen, som framsprungo ur ett fjortonårigt barns hjerta, på hvars djup Skaparen nedlagt en rik skatt af känsla för naturens och lifvets skönheter och dess sällhet, samt med förmåga att kläda de öfversvallande känslorna i menniskospråkets bästa högtidsdrägt.
+– Är det ert barn denna lilla flicka?
+– Ja, det är ett skepp, som ligger i Stockholm, som lärer ha 400 passagerare, som skola afgå till Norra Amerika.
+– Kors!
+Hon gjöt då sin känsla i religiösa sånger, som andas en djup öfvertygelse, en innerlig tro och en brinnande kärlek.
+I den satt en gråhårig, äkta Sörmlandsbonde med ett dem eget godmodigt och ärligt utseende.
+Du tankar har På mig, för hvarje dag I dystra skogen.
+Sällan har väl någon författare varit så anspråkslös, som vi, då vi till och med förklara, att vi anse egentliga innehållet af denna lilla uppsats förlora allt sitt värde, om det endast anses som – författarens eget verk!
+Hvad våra resande kände inom sig, det vet den läsare, som engång på samma sätt öfvergifvit sitt gamla, sköna fädernesland; och den, som det icke gjort, förstår det icke.
+jag skall nog försörja både er och mig med att skrifva för de andra.
+På hvarje fråga gåfvos rediga och bestämda svar, understundom åtföljda af ett slags undervisande utläggningar, liksom hon trott, att detta vore ett terra incognita för de frågande.
+Men det der ska ’ jag tala om för er sedan.
+Vi honom fredens glädjepalmer vira Och samla oss vid kungaborgens dörr.
+Man förskaffade henne arbete, kläder och en vald läsning, i afsigt att troget följa hennes utveckling, beredda att jemt räcka en skyddande hand till den värnlösa, med ett ädelt sinne af Gud begåfvade torparflickan.
+Det der är ju ganska idylliskt!
+– Det är inte möjligt.
+– Herre Jestanes!
+«Lagerkransad var hans hjeltebana I de lunder, der ej friden ler.
+– Ingen.
+Okända författare pläga, enligt vedertaget bruk, alltid förse sina verk med ett mer eller mindre förklarande och upplysande företal.
+Han hade blifvit bjuden på många toddar af rådman Lundberg före valet.
+Men ner i sjön, der ser man Frejas glada tropp Dansa i det gyllne slott, Buga för sin drottning uti gladaste galopp, Klädda uti vågigt siden blått.
+Hon läser nästan jemt vid ledighet, och häromdagen kom jag öfver henne att hon satt och skref verser.
+– Vi skola se till hvad vi kunna göra för dig.
+Hvarvid skulle hon nu fästa sig i verlden, sedan den hon mest älskade ej var mera hos henne?
+vill inte bror Filberg och bror Stålgren tillåta mig att bjuda på en sådan, efter som det nu är för sent att misstänkas för ränker och planer till stadens förderf.
+Då barnen voro hemkomne från kyrkan klädde de af sig sina hattar, kappor och shavlar, gingo ned och helsade de främmande och hvar och en berättade sitt nya.
+!
+Men det är så vackert qvar på den här sidan om den förra:
+Man sporde henne från alla håll om hennes lefnadsomständigheter och anledningarna till hennes smak för läsning med mera, samt hvarifrån hon hämtat sitt vetande och hvar hon lärt de främmande ord, som i flera af hennes visor förekommo.
+I en skogbeväxt trakt af mellersta Södermanland ligger den gamla välbyggda egendomen W. I dess omgifning äro tjocka skogar bevuxna med åldriga mastträd, som höja sina barriga kronor mot det blåa hvalfvet.
+ljödo Starkt uti den unges sinn ’; Uti hvarje kamp de bjödo: «Strid, – och stupa eller vinn !«
+De gingo ut till att promenera och gingo till en grön björkhage, hvars löfverk glindrade som ett galler genom den blåa luften.
+Hon borde ha varit pojke och gått i skolan, för nu duger hon ändå inte riktigt att föda sig skapligt, för hon kan inte lägga sin hand till verket, som tjenare, och inte vill någon bondson ha en tocken, och torpare eller statkarl kan inte ta ’ na, om hon också ville; men det vill hon inte, för hon har ett högt humör och tycker sig ändå vara lika god, som en annan, fast hon inte har talang i händerna till något verldsligt arbete.
+De hade varit bleka sedan hennes barndom och bekymret hade tärt länge och alstrat ett djupt vemod i den ungas bröst.
+Jag måste då skiljas vid mina berg och dalar, vid
+mina foglar och min sjö; jag får då icke mer sitta om qvällarna och höra trasten slå sina drillar i skogen, under det vattnet sorlar i bäcken der borta; icke på bergklinten der se solen gå ner i vester i sin prakt, under det bien surra i trädens kronor och aftonen breder sin stilla frid öfver mitt barndomshem!
+– Må dä ’!
+Man skall troligen haka sig fast vid de många felen och bristerna i de första poemerna.
+– Då har du kanske diktat den sjelf?
+«Lyckan ett bakhåll hare, har någon sagt, «och slumpen kan icke beräknas«.
+Mycket stort och skönt har på detta sätt, ur mörkret af vår okunnighet om hvad som föregår i menniskolifvets förskolor, dykt upp för att tillväxa och framte dimensioner, s, om förvåna och väcka beundran och vördnad.
+Krigarmod och mannavärde Äro nu blott tomma ord:
+De tre hedersmännen voro handtverkare och borgare i den goda staden E. Wallström hade blifvit förbigången vid rådmansvalet, hvilket icke litet grämde hans sinne, som helt lofligen sträfvade till ett högre mål.
+Gråter ni öfver att mista ert svarta sällskap?
+Sedan fru S. hade slutat sin sång tackade de henne allesammans och fru S. föreslog att de skulle resa till Sundby och roa sig der; men fru A. sade att det var så besvärligt att packa ihop och så kunde de lika gerna roa sig hemma.
+Följande vecka skulle resan till Stockholm anträdas, der man skulle embarkera på det till Amerika och Boston destinerade skeppet, och snart lemna bakom sig det gamla, kära fäderneslandet, för att på främmande kuster söka de frukter, som den svekfulla lyckan strör ur sitt ymnighetshorn.
+De små skaldestycken, som äro angifna såsom af henne författade, äro också verkligen hennes egna verk och inga af antecknaren henne påförda utan hennes eget vett och vilja.
+Har du gått i skola hos någon, som lärt dig sådant?
+Allt gick åter sin jemna gång.
+Då sofva menniskorna, och drifva dem ej ifrån sig, utan då våga de sig hitner till den enslige.
+– Ville de ta henne till sig?
+Har ni, i en berså vid stranden, omgifven af häckar, doftande gräs, jasmin- och rosenbuskar, kännt naturens frid och sälla glädje strömma igenom hela edert väsen?
+Om den rike voro så förnöjd med sitt palats, som hon med sin låga koja!
+Men det är sannt, att aldrig har fosterlandet någonsin förut förefallit någon så dyrbart, som när man ser det försvinna vid horizontens rand, och aldrig så skönt, som då man efter en längre bortovaro återser röken stiga upp ur fädernestadens skorstenar; igenkänner de ställen, der man lekt, som barn, och de vänner, med hvilka man delat ungdomens löjen eller dess små bekymmer.
+Redan förut var det tyngdt af fysiskt lidande, och lifvets fröjder hade för öfrigt aldrig framtett sig för den stackars flickan i rosenrödt.
+Skola vi göra en lusttur dit och se till, huru det står till med innevånarne deri?
+har läst dem och är örvertvgad att, om de här kunde anföras, månget sinne af dem skulle röras.
+Å si då, så lofte jag henne te höra efter.
+Från ringa dottren, sången far Till pris i skogen.
+För sista gången stod hon der och såg tillbaka mot den lilla stugan, den hon kände så väl; på hvarje buske, hvarje träd, hvarje sten som voro henne så bekanta.
+Tog bror reda på sjelfva skriften och behöll den, så att vi kunna få höra något deraf, frågade Wallström.
+Vi vilja ej just säga att de tänka så; ty för att kunna säga så måste man vara ytterst tanklös!
+Vid krökningen af vägen, der vi första gången hörde barnets snyftningar, och der det då lättade sitt hjertas beklämning med sångens ljud, der återfinna vi än en gång den nu till hälften fullvuxna femtonåriga torparflickan.
+Den unga flicka, som är hjeltinna i berättelsen, är icke ett foster af författarens inbillning, utan en verklig menniska med kött och blod, armar och ben, samt med de förmögenheter, som härstädes blifvit skildrade.
+Större lön i mat och kläder Mången för en småsak tiggt; Ej om någon lön den beder Som af känsla gör sin pligt!
+Den var äfven lika skön, som Mälaren, fast ej så beryktad.
+En lång blick kastade hon ännu tillbaka, tog sitt knyte under armen och vandrade bort for att stadna – hvar?
+Och blomstrens kung nu sakta smyger Genom gräsets gröna haf;
+Och sedan han så hastigt flyger Att bädda blomman i sin graf.
+Prostens Kalle, som är sjöman, han har varit der, och han talte om många underliga saker om det landet.
+Denna penning är min ära – Lön mitt samvete mig ger – Och man skall den för mig bära När jag engång sänks ditner.
+O, tror du den?
+– Det var Tyran, som slog ihjäl tusen menniskor och hängde opp dom i galgen för di hade slagit Dansken.
+Jag känner ju icke verlden, men jag anar att det icke derute är lika som här.
+När nöden är störst, är hjelpen närmast, säger ordspråket.
+Och är det ej skönt när vid Mälarens strand Blå böljan hörs sucka och dö?
+Du gör mig
+olycklig på mina gamla dagar, fast jag hoppades att hafva dig att lita mig till, när jag inte orkar arbeta mera.
+Några dagar derefter gungade skeppet med fulla segel fram öfver sakta böljor mellan uddarne och skären mot det salta hafvet.
+Den gamle soldaten vid källan.
+En vacker dag flyr du från stugan och lemnar mig qvar i mitt elände.
+hvarför sitter Ni och ser på böljans tåg Och på stjernans blanka glitter I dess stilla våg?
+Den vigtiga dagen kom.
+I det omtaldta huset blef hon antagen och tillsades att om någon tid återkomma för att inträda i sin befattning.
+Kom emellertid öfver till gården i morgon.
+Men intet fick jag.
+«Hans namn vi den tolfte ibland Carlar kalla Och han var den störste ibland Svea kämpar; Hans krigarlära var, att segra eller falla, Och med sån ’ t mod en fiende man dämpar. »
+God afton, hedersbror!
+Hur mår herrskapet sjelfva?
+Brutna qvitter.
+–
+Med dess fel och brister äger den dock nog utaf ämnen till förundran.
+Jag kan fä tutingar i mängd, vinner följaktligen derpå, och staten förlorar intet i hvilket fall som helst.« Han var knifsmed, förmögen, hade sett sig omkring litet i verlden, tillräknade sig en liten bildning och bokvett, emedan han i sin ungdom var färdig att komma upp i secunda på gymnasium.
+– Hon ser sjuklig ut den lilla flickan, hon måste hafva klen helsa?
+Han vet ej om företeelsen skall på mängden af läsare göra samma intryck, som på honom sjelf, men anar det.
+Nu först vet jag att skatta min låga hydda, då jagmåste vandra ut för att ensam förtjena mitt bröd under annans tak.
+– Ja, Gud signe barnet.
+Vi föras ej blindt och ofrivilligt framåt af hvad man kallar «öde«; ty vi hafva fått förmåga af sjelfbestämning genom förnuftet och den fria viljan, som bestämma vårt handlande.
+Nämndemansmor strök med pekfingret bort den ena tåren efter den andra från kinden, och hade så när glömt, att hon lemnat fader Erik vid potatisfatet, om icke flickan sagt:
+Kring min lilla glada boning Sjunga foglarna försoning; Bäckens bölja sakta brusar, Skogens vind i toppen susar, Blomman ler för hvarje vår; Flora leker, der hon går, Med blommorna uti sitt hår.
+Och far upp till Dalom, hör vallflickans lur Ofver fjellena ljuda engång!
+der kommer ju karlen sjelf, lifslefvande.
+Men du ska väl ha någe te äta, far.
+Jag sa ’ att jag hade fått dem vid herrgården; men det var derför att jag inte ville låta er veta, att det var jag, som arbetat ihop dem.
+Dessa orden, flicka!
+En qväll då månan stod högt på himlen och nejden låg tyst och stilla, täckt af sommarnattens
+halfdunkel, promenerade ett litet sällskap från herrgården vägen framåt mot det lilla torpet.
+Sedan den hederliga torpargumman pratat
+en stund och vi tackat för mjölken, begifva vi oss, om ni vill, på återvägen.
+Af Josephine C. Barman år 1856.
+Vi skola i det följande se det.
+Detta hafva vi fått i arf efter en slägting som dog i Stockholm för ett par år sedan, och vi hålla mycket af den lilla stackarn, fast hon är mycket besynnerlig.
+II.
+– Kära mor, jag uppehåller er med mitt tal, och ni sade att ni hade brådtom.
+Å den andra deremot fruktade man att ej göra henne lycklig genom att flytta henne in i den s. k. bildade klassens område; ty man trodde att flärden kunde insmyga sig tillika med dess följeslagare: högmod och fåfänga; samt att den moraliska renhet, som nu så klart framlyste hos henne, skulle kunna grumlas af den bullersamma, ytliga, stora verldens slappa tänkesätt och moral.
+Skulle menniskorna derute i verlden omfatta henne med samma välvilja, samma omvårdnad?
+Känn!
+H – n
+Jag slipper då tigga!
+Solen börjar att sjunka i vester och vi hafva ett godt stycke heta.
+– Nej, nådig fru, jag har aldrig gått i skolan.
+Hon lemnade ett papper, som var ett bref, pä hvars baksida förenämnda sång var skrifven med ganska redig stil och bättre stafningssätt, än många i pensionen bildade tärnors.
+Ack, hvad ni är god, mor!
+– Vigten af det inre lifvets näring och utveckling, är det få som inse och vilja begripa.
+Det var en sång, som hon helgat åt sitt kära hem, åt sin skog, sina berg, åt sin dal och sjö.
+Under denna tid biktade sig någon gång det unga hjertat i sång och dikt.
+Brunte gick i sakta mak, Josefina betraktade stum vägen och gumman pratade utan uppehåll om allt som händt i hennes lifstid och i många andras; och så kom man slutligen fram till målet.
+Man behöfde sannerligen ej bygga stora hus för att få ett palats!
+Under en sådan afton satt den, som antecknat dessa händelser ner vid stranden, läste och tyckte sig förstå några tankar, skrifna af vår unga sångarinna.
+Qvinnan framsatte ett rykande potatisfat med smör och sill, och bonden njöt i lugn af jordens håfvor.
+Nämndemansmor, som visste hvad «nej, jag tackar som bjuder« betyder när man bjuder en bondgumma kaffe, slog i koppen full; Anders Persmor tog en liten sockerbit i munnen och drack långsamt i små portioner den heta drycken, under det nämndemansmor gick till det storrosiga dalkarlsskåpet, öppnade det och framtog derutur en stor silfverbägare, ur hvilken hon upptog ett sammanrulladt papper samt ett par såkallade «knipor«, satte de stora kniporna på sin näsa, vecklade opp det gamla papperet och begynte läsa i evangeliiton:
+Dock kunde intet hindra naturen att uttaga sin rätt, den gamla dog och den unga stod i torpet deruppe i skogen ensam, sörjande vid den älskade modrens stoft.
+Ta ’ mej millioner!
+På aftonen bad någon henne att försöka författa en liten berättelse öfver midsommardagens tilldragelser på W. Hon undanbad sig det, förklarande sin oförmåga af improvisation öfver ett sådant ämne; men skref i dess ställe några ganska lyckade verser öfver en liten på eftermiddagen föranstaltad utfiygt, med thy åtföljande kaffeservering.
+– Tackar ödmjukast, det skall vara intressant att höra något så märkvärdigt.
+– Ja, nådig fru.
+Middagen gå vi alldeles förbi, utan gå så mycket förr till eftermiddagen.
+Så en flicka kom och talte Till den gamle, ner vid källan Der han satt och hvälfde många Tankar under gråa hjessan.
+– Tackar, som frågar, goda herrskap, Gud skelof bra!
+Nåväl!
+Känner du igen din egen återkomst till ditt eget Framnäs, läsare?
+Du har ingen ro med arbete och ingen frid i dig sjelf.
+tre åttaskillingstoddar och tre glas öl.
+Då och då när någon namnsdag firades i byarne syntes » Fina » i helgdagsdrägt, med ett papper i handen, vandra åstad för att för den, hvars hedersdag det var, uppläsa sitt lilla skaldestycke och skörda åt sig en bättre lager, än den som kunde vinnas vid strumpan eller vid arbetet i herrgården på åker och äng.
+III.
+Aldrig vill hon leka med de andra barnen heller.
+Fast hoppets englar kring vår bostad leka Med glädjens palmer i sin hand, Dock detta nöje de oss neka Att följa med till deras sköna land.
+– Nå far, hvad fick ni för mjölet?
+Jag har
+försökt det jag, och finner ändå lugnare, att om dagen arbeta i min verkstad och om qvällen prata med gamla vänner vid ett glas.
+Resultatet blef, att man ansåg den unga flickan lyckligast, om hon på sin förra plats erhölle
+tillfälle till sin måttliga bergning och medel till själsodling.
+Neckens drottning leker Och hans lyra smeker; Men – hon lycklig är Ej bland tärnor här!
+Dessa tecken vilja dock menniskorna sällan förstå och derföre – går så mycket godt förloradt för verlden.
+hvad lifvets stormar bryter Mången blomma i sin vår; Och stormens lejon ständigt ryter, Och döden rusar i dess spår.
+Han står sig ju bra.
+– Hvad heter du, lilla barn, och huru gammal är du?
+– Jo, gudnås!
+– Det handlar om den här kungen, det.
+Vi hafva trott det.
+Kom, o död!
+«Dock som en väktare i tysta natten Bor i Norden än den höga anden qvar; Och Svea är alltjemt den dyra skatten, Som ännu ger uppå hans tankar svar.«
+– Nej, nådig herrskap, vi hafva sjelfva inga
+barn.
+Snart försvann det såsom en punkt på den ändlösa horizonten och kusten syntes som en mörkare strimma mot den blåa himlaranden.
+Men när åldern fjettrat foten, Blodet mer ej strömmar fort, Dä man gläds, att man i roten Gjort sin pligt som man har bort!
+– Ja, litet.
+Hvarhelst jag än går, om mot söder mot vest, Är det dock ej Mälarens strand; Men det land, der jag lekte min barndom är bäst, Och mitt lif är mitt Fädernesland!
+Men, ack!
+Dessa känslor, vet ni hvarifrån de komma?
+Litet emellan såg man en torftigt, men snyggt, och med en viss egendomlig smak klädd, ung
+flicka komma gående till herregården W. Hon bar oftast något paket under armen och tog vägen uppför stora trappan för att begära att få träffa gårdens egarinna, den gamla fru A Det gällde då att lemna något arbete, som den goda frun gifvit henne att utföra, såsom sömnad, virkning eller dylikt, eller ock att emottaga något sådant till förfärdigande.
+Morgonen derpå såg man alla klädda och granna samlade i direktörskans salong.
+– Ja, det gör han, men hans hustru vill det.
+Stark, som eken, stod jag färdig, Gjordad med mitt goda svärd, Blifva svenska namnet värdig Och åt äran ge min gärd.
+Torpet blir vanskött, ty jag orkar ej arbeta som förr, drängen kan ej göra mer än en menniskas höfva, och till slut går det så, att vi ej få behålla torpet, utan blifva utvräkta på bar backe.
+Och girigt ville han sig hämna På den, som både fri och den som skyldig var.«
+Hvilka öden skulle träffa henne derborta, och huru skulle hennes lif gestalta sig?
+Filberg, en hedersman från fordna dagar, grå i hufvudet som Tengmalms uggla, hade aldrig kännt någon åtrå efter något högre, än att i sitt filverk vara kry och dugtig och att hans filar, hans filare, hans Filbergar, hus, tomt och
+allt annat, som tillhörde honom, skulle anses bäst i hela staden.
+Återgå till henne!
+Han hade dessutom gjort en resa till Venersborg till sin sons bröllop, och hade mycket underbart att derom berätta.
+Det var en sextonårig flicka, af den tjenande klassen, med snarare fult än vackert utseende föröfrigt; men i hennes ögon låg något, som gaf tillkänna, att det ej var en af dessa vanliga intet tänkande verktyg, som blott utföra andras tankar och vilja, utan att någonsin sjelfva göra någon reflektion öfver hvad de utföra, nödgade att informa sig i många olikas vanor och viljor.
+Låtom oss promenera framåt denna stig, käre läsare!
+Vägen är lika skön om sommaren, då den mjuka mossan sammetslen bekläder tufvor, stenblock och stammar, som om vintern, när snömassor nedtynga trädens grenar och det hvita täcket behagligt afrundar markens
+ojemnheter i de mjukaste former.
+Blixten är hans ljus I det gråa hus.
+Å ena sidan ansåg man det bedröfligt, att dessa gåfvor i brist på näring och verkningsfält skulle sjelfva tyna af och tillika blifva ett frö till idel sorg och qval i den ungas redan af lidande tärda bröst, der behofvet af vetande och en glödande känsla kämpade en hård kamp mot nödvändighetens grymma kraf.
+Helsar Thor Der han bor Högt bland fjällen; Gråstenshällen Har han valt till rum; Ofta tyst och stum, Sjunger han dock ut nå ’ ngång, Då blir visan icke lång.
+– Reser Brun ensam med familjen eller tager du med dig ditt tjenstefolk?
+Hoppet är dock menniskans bästa följeslagare, det öfverger oss ej förr än vi med våld stöta det ifrån oss; det lifvar kraften, stärker viljan och följer oss ända till dess lifvets utgångsportar slagit sig tillhopa bakom oss.
+Honom har skräddare-Isak en stor bok om, som han ha ’ fått köpa af kusken på herrgåln i fjol för aderton skilling.
+Jag frågade mig: är det möjligt att detta är en fjortonårig torparflickas verk?
+– Ja, serra tri.
+Sålunda äro sjelfva orsakerna till våra öden, alltid att söka hos oss sjelfva ehuru det kan vara ganska beqvämt att kasta skulden på Försynen eller Ödet när det går illa, och taga förtjensten for oss sjelfva när det går väl.
+– Ja!
+– Tack för er välvilja, mor!
+Det är nu tre år sedan vi besökte det der lilla torpet.
+Du tankar har På mig för hvarje dag I dystra skogen.
+Undervisningen fortgick under årets lopp och det led mot midsommardagen, då de unga skulle första gången träda fram till Herrans bord.
+Ångor uppstego behagliga från de blommande klöfverfälten – det var blommornas morgonbön – och vinden böjde de ljusnande rågaxen på fältet i mjuka vågor.
+Hon är utan något skydd, fader- och moderlös, och jag har lofvat taga vård om henne.
+Fröja ler Då hon ser Amor, liten skalk I min blomsterpark, Lik en blomsterkalk; Mild och ren liksom en engel Smal, som liljans gröna stängel; Blicken ren Återsken Ger af nordens blåa himmel.
+– Jo, jag trodde inte att herrskapet ville läsa så ’ nader enfaldiga berättelser; för jag har icke fått lära annat, än jag kunnat få läsa i några böcker, som jag fått låna af skolmästaren och af några andra.
+– Nå, du har fälle talt vid färgarns, du vet, om flickungen i Koltorpet?
+UR SKOGEN.
+det skall bli befängdt roligt att höra.
+– Nej, efter hvad hon sjelf påstår, har hon ej gått i skola, men hon lärer hafva läst mycket för sig sjelf och haft dem, som skaffat henne tillfälle dertill förut.
+Han fann den klaraste uppfattning förenad med glödande känsla, som lifligt afstack mot den liknöjdhet och tröghet, man finner hos allmogens barn i allmänhet, då de gemenligen anse denna undervisning såsom ett tvång, ja, nästan såsom en nödvändig skärseld, hvarunder den smula tanke de hafva måste tvingas att sysselsätta sig med något annat, än att uttänka medlen för tillfredsställandet af de lägre drifterna.
+Den upplyste kyrkoherden X. menade, «att vildblommans plats är i skogen, i ängen, på fältet.
+På midsommardagen syntes bland samlingen äfven Josefina Barman, som blifvit anmodad att infinna sig vid gården.
+Och så lunkade gubbarne i god ordning in i gränden, stego in genom den låga dörren, den ena efter den andra, med brodren Wallström i spetsen.
+Då vi första gången sågo henne här sjöng hon sin barnasång med tungt sinne.
+De känslor, med hvilka hon vid den tiden lemnade det lilla torpet, äro lättare att ana, än att beskrifva.
+«En annan kämpe vi ock nämna, Som blott bödelsyxan bar.
+Hjeltedikt.
+Stålgren var en man med briljant hufvud både in- och utvändigt (han var rödhårig), och kallades, så der «inter amicos«, Michaël Knipslug.
+– Det är sig ej likt.
+På en sten satt den lilla sångerskan med hopknäppta händer, sorgset blickande framför sig.
+Troget bär jag på den skatten, I mitt armod är jag nöjd; Att i klara källans vatten Skåda himlen, är min fröjd.
+– Tack skall ni ha, vi må väl, och äro ute för att se oss omkring litet.
+Ni har så snyggt och trefligt här.
+Som man nog i hans minnesskrifter ser.«
+«Och Oscar bär nu denna spira.
+Hon kände det tomt och ödsligt omkring sig.
+– Filberg sa ’, att du skall resa till Amerika.
+Ni minns jag skref en gratulation åt Anders ’ hustru i Sörtorp i fjol.
+Vi hänvisa då blott till författarinnans omständigheter och ålder, samt tillägga att vi upptagit allt hvad vi kunnat öfverkomma af hennes handskrift i den afsigt att låta läsaren se gången af hennes fortskridande utbildning.
+Om min älskling här jag hade Lydde så min första bön:
+– Nu kommer far ifrån stan; få se, hvad han fått för mjölet och hvad färgarn sa ’ om Fina i Koltorpet.
+Nöjd med min lott, jag tackar Dig I mörka skogen!
+Hon blickade stum derpå och då och då uppsteg en tung suck ur hennes bröst.
+Ack!
+Den tid tillstundade då vår hjeltinna skulle erhålla sin undervisning i religionens sanningar och kristendomens milda läror och beredas till den heliga stund, då barnet, stående med ena foten på tröskeln till barndomens eden, är i begrepp att med den andra taga det första steget framåt på sjelfvald väg, sedan det först svurit löftet, som gäller evigt väl och evigt ve.
+I detsamma syntes en vagn köra in genom portskjulet.
+– Nej, jag tackar, dä ä ’ så opasserligt te dricka tre koppar; men nog kunde det vara rosamt te höra på den der romana ändå.
+Hvad skall det bli af dig, kära barn, när jag dör?
+Mitt hem.
+– Men det ä ’ ju kräkeln, hvad det flyttar ut mycket folk till Amerika.
+På andra sidan om denna lilla sjö ligger ett litet torp, Koltorpet kalladt.
+Den talrika slägten samlades omkring den gamla modren, på W., såsom vanligt.
+«Borta är bra men hemma är bäst«; eller hvad säger du Wallström?
+Af en händelse hade de fallit i hans hand.
+– Nå, hvad sa ’ de?
+se hvilken prakt i dess höga natur, Från klipporna skogsbäckens språng!
+Snart hade hon uppnått torpet; och då hon sakta inträdde genom dörren fann hon den femtonåriga
+torparflickan med tårar i ögonen sysselsatt med någon sömnad.
+Hör nu så vackert de ’ står här om drottning Kerstin:
+kära mor, jag vill göra så med och försöka att slippa svälta och frysa, utan att gå i herrgården på dagsverke.
+Detta hände sig på midsommaraftonen, som de älskade syskonen åter voro samlade i den ljufva fäderneboningen, som de så mycket älskade.
+På akterdäcket stodo hundrade menniskor och blickade mot denna mörka rand.
+Sedan hon något lugnat sig och gumman för henne omtalat, att hon skulle få komma till staden och sköta färgarens barn och lära hushållssysslor, med mera, gick hon fram till det lilla fönstret, såg ut genom de små rutorna och med en på den vackra omgifningen dröjande blick sade hon:
+Derefter återvände sällskapet under många funderingar öfver det underbara deruti att denna vildmarkens dotter, kunnat så odla sig sjelf, drifven af ett inre oemotståndligt begär efter vetande.
+Stilla flyta spegelklara böljor Vid den sköna strand; Lätta moln den blåa himmel höljer; Hvar finnes något bättre land?
+Frid med eder!
+ibland känner jag mig så ledsen, när jag ej kan hjelpa min goda fostermor och när jag får förgäfves gå omkring utan att förtjena något, och så när jag inte har något att läsa.
+Då föll gubben in i talet, Innan flickan hade slutat:
+Dessa menniskolifvets trogna följeslagare trädde nu inunder taket, och den nu mera sjukliga enkan förmådde icke ensam afhålla dem.
+Blif du hemma och beta och koka din pannmur; till slut blir du rådman och riksdagsman; men det blir du inte i Amerika.
+Jag vill vid vägen plocka åt dig en bukett af linnæa, nattviol, skogsstjernor och några pyrolæ; de dofta så friskt och skönt!
+Jag sänder öfver mörkan hed Min sång så trogen, Sä godt jag det förmår; Men hemsk är skogen.
+Denna ordning kunna vi sjelfve bestämma genom vår frihet att handla huru vi vilja.
+– Blif det!
+Född och uppfostrad inne i djupa skogen gungade dock nu vår hjeltinna på verldshafvets
+vågor mot ett fjerran liggande land, om hvilket hon endast hört talas, eller läst, att det finnes.
+Mitt hjerta hörde nyss ditt bud I hemska skogen.
+– Jo, jag tycker som du.
+Under glädtigt skämt intogo de frukostbordet och efter frukosten satte de sig i sina vagnar och foro till kyrkan.
+– De ’ va ’ fälle för väl de ’, kära far, för si hon va ’ här häromdan ’, å då skulle hon söka sig ut som barnpiga till en början, sa ’ hon, för att förtjena sig uppehälle; men hon gret, stackars barn, när hon tänkte på att komma ur skogen och in i stan.
+Många skrifva om menniskor som dött, och på födelsedagar och namnsdagar till rika herrskap och skaffa sig föda dermed, utan att arbeta.
+Jo det är ett land som duger, emot det här eländet.
+det känns så behagligt, så ljuft; det är som hörde ni ljud af heliga hymner derinifrån.
+Den hederlige torparen hvilade på kyrkogården; den starka armen var borta, som värjande höll post mot nöd och bekymmer.
+Dessa behagliga aftnar på landet, har ni njutit af dem?
+När han detta sagt, han knäppte Upp med allvar slitna rocken, Som var full med lappar, trasig Var den likväl ingenstädes.
+Af dessa finnas flera i behåll och äro de i sitt slag ganska märkvärdiga för de förvånande ordställningar, som deri finnas, samt den, såsom man tycker, för ett sådant naturens barn alldeles främmande, utsökta artighet, som deri röjer sig.
+Vill Ni göra det sjelf?
+På stranden hade församlat sig en hop af vänner, som ville säga ett farväl åt de afresande, hvilket många ansågo som det sista.
+Sinnet fylles af poesi, ni förstår sucken, som går ur naturens bröst och på vindens armar föres till er – ni förstår den fattiga torparflickans ensliga suckar i skogen.
+Vid krökningen af vägen på en kulle satte sig det promenerande sällskapet för att njuta af den tjusande taflan, som utbredde sig nedanföre.
+Far väntar ju på mig.
+På W. öfverlade man om bästa sättet att bringa detta ädla frö, som man upptäckt i den unga flickans sinne, till utveckling.
+– Ja, Gudnås, det har hon visst det; och så har hon så underligt lynne, så att jag har aldrig sett så ’ nt barn.
+«Så stolt, så skön Christina var, Så högt hon bar sin spira Och var sitt lands båd ’ man och far; Men såsom fosterlandets son Hon ville hvarje främling fira.«
+Det var franska soltan i Frankrike, som Carl den fjortonde slogs med, när gamla Huggen var med vid Leisvik och Grossburn, som han plär tala om på kalasen.
+– Kära barn, sade fru A, hvarifrån är du, och hvar har du lärt dig denna vackra sången, som du nyss sjöng?
+Måhända skola vi en gång höra några toner klinga öfver vågen, som söka sitt gamla hemland, vårt dyra Sverige, i hvilka vi igenkänna melodien af de sånger, dem vinden sjunger i våra skogar och dalar, friska, osminkade, naturliga, fulla af nordisk kraft och jernstyrka; men veka och milda derhos som näktergalens klagan i sommarqvällen.
+Sången lydde sålunda:
+Här vet du, hvad du har, der vet du inte, hvad du får.
+Men hon är väl så klen att hon inte orkar det, kan jag förstå.
+sade den lilla flickan och neg djupt.
+ARBOGA,
+Men först måste läsaren benäget följa med in på en liten afväg, för att derifrån se hvad som föregår på den stora vägen.
+Annorlunda fordom ljödo Svenska flickans afskedsord: «Segra eller fall« – de bjödo – «För vår kära fosterjord !«
+Har ni varit i ett sådant förr?
+När gubben hade spännt ifrån, släppt Brunte på tomten och stigit in i stugan, gick han till bordet att räkna öfver sina penningar, sedan han likväl först med ett: «Guds fred här inne«, helsat de båda qvinnorna.
+Men det finnes en magt, som ej glömmer minsta sparf, och hos hvilken ej tid och rum med deras vexlingar förmå att afvända tanken på äfven det ringaste af jordens barn.
+Den som den ena stunden är på toppen, är ofta den andra stunden på nedersta
+randen.
+fins de ’ kungar utomlands också?
+Och så vill jag heldre läsa om de der kungarne, som regerat i vårt land från gamla tider; ty under det jag läser känner
+jag inte mina plågor, och när jag kommer ut i skogen med den der boken, som jag fått låna af gamle Per, så är jag mycket nöjdare med att sätta mig på dikeskanten och läsa om märkvärdiga och underliga saker, än att leka med de andra barnen, och jag tör väl kunna göra mig nytta med det också i framtiden.
+Hon är dock sjuklig, så att jag fruktar, att hon ej
+stode ut med en så lång sjöresa, om det skulle komma i fråga.
+Under tiden försvann nämndemansmor ur stugan, utan att någon märkte det.
+När bort jag går, Går jag med tunga steg; Ty hemsk ar skogen.
+Det var då märkvärdigt och skönt att se den hänförelse, som spordes i den unga flickans ögon, och den känsla af tillfredsställelse, – måhända äfven af stolthet – hvarmed hon skådade omkring sig; njutande af den rörelse i sinnena, som hon, hon den ringa torpflickan, den ofta på spe » Skrifvar-Fina » kallade, förmådde frambringa.
+«Älska Gud, min son !« – jag lärde, – «Äran och din fosterjord !«
+Derför gläds åt solens glans, Åt månans bleka skimmer, Åt de klara stjernors krans I nattens tysta timmar !«
+I.
+M.
+Icke alltid handen darrat Såsom nu uppå sin staf; Ej hvart hinder foten narrat, Vacklande emot en graf!
+Här är ju en snygg rödmålad grind med hvita toppar på spjelorna och ett vackert flätadt stängsel af envidjor.
+Syrenbusken står qvar, ringblommorna lysa lika gula, kungshattarne vaja för vinden; men gräset vexer vildare, dörren är stängd och det är något som säger att här är annorlunda än förr.
+Det är ett hederligt och beskedligt folk, gudfruktiga och fromma, och du skall få se, att mången har det sämre än de.
+– Nådiga fru, jag är hemma i torpet derborta, der jag har min sjukliga mor.
+Det var med ett ord, en ordentlig examen, hvilken hon öfver allas förväntan bestod.
+Ni faller i en stilla gråt!
+– Kan väl vara, det.
+– Nå ja, det gör jag också, menade Stålgren.
+Ja, tack min Gud!
+Vid något tillfälle föll talet på den såkallade «poetissan«.
+Traktering vankades vid dessa högtidliga namnsdags- och födelsedagstillfällen och nog följde en och annan bulle och dylikt med, såsom lön för sången; men – » Sången fryser i nordanskog, och sångarn får lefva af vädret » – såsom hon vid ett tillfälle klagande utsade en sanning, som, henne ovetande, gäller allmänt om sköna konsterna i norden och hvaröfver redan mången förr klagat ohördan.
+!
+Det var ej underligt om man sväfvade mellan hopp och fruktan; ty hela familjens väl och ve berodde på ett tärningskast, såsom alltid i dylikt spel.
+Solen glänste varm och mild och väckte till lif den hvilande skapelsen.
+«Ett sekel var förflutet ren, En ros steg upp på thronen, Och från dess blad sig spred ett himmelskt sken, Som kom liksom ifrån den högre Zonen.«
+vi skola helsa på dig och få en sup godt Fahlubränvin och en svensk frukostrisp hos dig i det nya landet.
+– Ja, ja, ho ä ’ fälle egennyttiger, så ho ’ inte seter någon ann ’, än sig sjelf.
+» Snart han honom bredvid thronen ställde, Tog hans krona med de stolta thordönsorden: «Ditt eget land med hast dig fällde; «Öfvergifven är du uti Norden, «Öfvergifven uppå hela jorden !« – «
+Måhända ligger det i en högre viljas plan att kasta vår hjeltinna omkring verlden för något af oss okändt, ej anadt mål.
+– Hvem har lärt dig det?
+Jag går med lätta steg, Fast hemsk är skogen; Tu du mig sändt på mörkan hed Din hjelp så trogen; Mitt hjerta hörde nyss ditt bud I hemska skogen.
+De hafva gått förlorade, men förf.
+Så lyste och försvann vår torparflicka som ett irrbloss om höstaftonen.
+Afgörandet är ej lätt; ty man skadar ofta, när man vill göra som bäst.
+Vid ljudet af stegen vid de främmandes ankomst spratt hon till och blef nästan rädd att hafva blifvit så öfverrumplad på bar gerning.
+Undervisad i åtskilliga handaslöjder vid herregården, kunde Josephina Barman, så hette den unga flickan, snart nog finna utväg till en, om också knapp, bergning, tack vare den gamla fruns välvilja.
+Om vi blott hade tid skulle vi språka vidare med den hederliga gumman och finna att lyckan är hemtam i den lilla stugan, och att frid och förnöjsamhet stå der, en vid hvardera dörrposten.
+Han var föröfrigt ingen elak menniska, men tänkte så här, angående rådmanskap: «samma sak hvilken, som sitter deruppe när ingen ändå begriper sitt embete.
+Handslag, lyckönskningar, löften
+om korrespondens, kyssar och tårar omvexlade, såsom vanligt.
+«Lyd ej ärans höga stämma «Kallande till stridens larm; «Hellre sitt vid stugan hemma «Och behåll båd ’ ben och arm.
+För si hon göre ’ t så vackert på papperet, den stackarn.
+Det var midsommaren 1856.
+– Lycka till, bror!
+Furuskogar susa, dunkelgröna, Der skogsfrun hemsk och dyster går; Visst äro anletsdragen sköna Fastän de täckas af det gröna hår!
+Jag går med lätta steg, Fast hemsk är skogen; Ty du har sändt på mörkan hed Din hjelp så trogen.
+Men åter glädjens engel Spänner ljusa silfvervingen Ler åt liljans grönbeklädda stängel, Der hon står så enkel uti rosenringen.
+Från ringa dottren sången far Till pris i skogen.
+– Jo, det eger sin rigtighet, det.
+– Likgiltigt, kära bror Wallström; vi gå kortaste vägen, utlät sig Filberg.
+Om ni kunde känna, mor, huru jag känner det här!
+AF
+Hon tjusar der mera ibland naturens öfriga okonstlade
+verk, än i blomstergården bland prakten och glansen.
+Som sjutton kungar burit förr.
+Förord.
+– Det var märkvärdigt, bror; det måtte vara ett rigtigt undcrdjur.
+Nu inträffade en händelse, som gjorde djupt intryck på det unga sinnet.
+– «Om man också inte kan göra något«, tänkte Wallström, «men hedern, hedern att vara magistratsperson!
+de ’ va ’ likt, de ’.
+stämman är ljuf, men blott ånger och död Den följer.
+Händelserna vexla och vi föras med deras ström; de hafva dock ett inre samband och utvecklas den ena ur den andra i gifven ordning.
+Till detta leder från skogsvägen en smal gångstig.
+Som vanligt.
+Ack!
+Hon ville blifva ensam med sina känslor.
+Dessa frågor kunna blott framtiden besvara; ty ingen dödlig har ännu sett en minut framför sig i tiden.
+Så hemsk är skogen.
+Det, att folk som känna antecknaren endast på hans hedersord velat antaga saken såsom faktisk, ger honom anledning att på förhand afgifva denna förklaring; och just det, att händelsen kan anses så underlig, att den knappt eger trovärdighet, anser författaren, i medvetande af dess sanningsenlighet, vara
+det mägtigaste skälet att göra allmänheten underkunnig om tilldragelsen.
+– Nej, mor!
+Men som en munkekåpa öfver verlden Thordönsmolnet stiger uti norden opp; Och detta moln fördystrar flärden, Som höjer sig som Babelstornets topp.
+Så fridsam han på thronen står, Men med ett vaksamt öga Han kring hela nejden går.«
+Der kan man slå sig ner och odla opp hur mycket som helst och instänga flera mil i omkrets, och så bli alla, som bor derinom, ens tjenare; och så skördar man två gånger om året utan att så något.
+Jag sjöng för bröd Och gick med tunga steg, Så hemsk var skogen.
+Oftast blef det mycket mera skrifning, än föda, och ibland intet alls af den sednare.
+Toddarne kommo, gubbarne skålade, smuttade och talade om dagens händelser, jernpriset, krimska fälttåget och om deputationen, som följde theaterdirektör Roos ur staden, som hedersvakt
+åt den prisade konstnären.
+Hvarifrån dessa liknelser, dessa mythologiska personer i hennes kunskap?
+Sannerligen märkvärdigt!
+EFTER NATUREN,
+Hvem skall då skaffa dig födan och kläderna medan du sitter och läser, går och plockar blommor, ser på stjernorna och månan och gråter fast ingen menniska gör dig något förnär?
+Lyckans hjul hvälfver omkring sin axel i ohämmad fart.
+Jag vill säga er det, samt hvad de innebära.
+Så hemsk är skogen,
+LOUISE SÖDERQVIST, 1860.
+V. Slut.
+Om det intresserar, skall jag läsa upp den för herrarne.
+Hon sade ofta till Fina, som nu var tretton år: kära barn, nu måste du lära dig att arbeta med något, som du står ut med, och hjelpa till att förtjena födan; ty annars måste vi svälta när vintern kommer.
+– Ja, ja, det der kan nog vara bra det; men saken är nu afgjord, och om fjorton dagar reser jag, sedan jag sålt min egendom och fått mitt pick och pack i ordning.
+Då smyga de sakta in i hjertats kamrar.
+Hon gret dock ej, men under det ögat tårlöst betraktade den älskade modrens lik, sjöng själen en lofsång till lifvets Herre: «Du gaf och tog, välsignadt ditt namn !«
+Med sång så trogen.
+Det kan man kalla tur, det, såvida inte man får tillräkna denna lyckans gunst de många toddarna, han spenderat på de sednaste tiderna.
+Och älskar du högt våra fäders bedrift, Då blodröd du blir om din kind, När du skådar dess storhet i sten och i Skrift, Så väldig; men hvar är då din?
+«Och det tör väl äfven hända, «Från den dörr, du värnat har «Får du hjelplös återvända «Med din nöd och harmen qvar !«
+Nog bröd det blir på mörkan stig Om jag är trogen.
+– Jag heter Josefina, jag, och är på tionde året.
+Vi skola en ljuflig sommarafton taga oss friheten att sätta oss i de grönskiftande lunderna och höra fåglarna sjunga om glada dagar, om lätt och lustigt lif.
+Och uti de gröna lunder Källan dansar fri och glad.
+Från denna krökning är den herrligaste utsigt öfver små vackra dalsänkningar, i hvilkas djupaste dal ligger en liten spegelblank skogssjö med en derur kommande å-rännil och med miniaturholmar, som hvar för sig äro små paradis.
+Nämndemansmor vek ihop papperet, gick åter till det stora skåpet, upplät dess dörr och inlade på silfverhyllan papperet och «kniporna«.
+– Den har jag icke hört af någon annan; jag brukar sjunga så der när jag är ledsen.
+När gumman försvann i skogen såg Josefina länge efter henne.
+Och så kommo nya toddar.
+Men hvarföre gå så långa omvägar?
+Men litet längre fram på aftonen säg man en annan vagn komma svängandes uppför allén och hvilken särdeles ådrager sig vår uppmärksamhet genom innevånarne i don.
+Penningen är det enda verkliga, säga de fleste, och dyrka den ock mer än Gud.
+På vida heden sjunger jag Ditt lof så trogen.
+Född, ute på landet i en närgränsande socken, utom hvilken hon knappt har varit, af ett fattigt torparefolk, eger hon likväl mera bildning och kunskaper än många, som lärt i skolor.
+Du måtte känna ett stort behof af vetande.
+När hon så sig sänker Rodnande hon tänker I den lugna hamn: – Jag är glad och öm I min ungdoms dröm Och åt dig mitt lif jag skänker.
+Den goda fostermodren, torparhustrun, lades på sjukbädden, ett rof för plågorna.
+Du vet ej hvar du skall återfinna den förlorade?
+Man förvånades och gladdes öfver den nya upptäckten, gaf den lilla flickan kläder och mat åt både henne sjelf och modren, samt lofvade, att hon skulle få helsa på vid herregården, när hon så ville
+Farfar min, han kunde tala om ’ et han, för han var med i den tiden både mot ryssarna och hundturken, som ville äta opp ’ en.
+Det var en vacker Julimorgon.
+Du sänder mig Nog hjelp i sinom tid I dystra skogen.
+Följande dagen infann hon sig vid gården och måste omtala sin lefnadshistoria och sina omständigheter samt sjelf uppläsa stycken ur sina medhafda pappersblad.
+Nöjd med min lott jag tackar Dig I hemska skogen.
+– Ja, så lät det på dem.
+– När man talar om trollet, är det inte långt borta!
+– Tack skall ni ha, kära mor, det skall vara godt!
+Man erinrade sig då den lilla flickan; och somliga, som ej kände hennes historia, intogos af förvåning
+och nyfikenhet att se detta «underverk af naturen «.
+Den frustande draken lade ut från stranden, utandades några moln af ånga och rök, och ilade under ömsesidiga viftningar med parasoller och näsdukar öfver den lugna vattenspegeln, och snart försvann den bakom en af de der tjusande uddarne, som, klädda i barrskog och friskgröna löfdungar, omgifva Mälarens stränder och ur hvilkas sköte här och der framskymta små landtställen med gröna tegar, raka diken, boskap och idoga menniskor.
+– Gud hjelpe dig arma barn!
+Efter varma sommardagar, kommo ljumma aftnar med fogelsång och blomsterdoft, och vågen sqvalpade sakta mot stranden under det syrsan skakade sina vingar af glädje och åkerskäran på sitt vis instämde i djurens lofsång till Skaparens ära.
+Jo, ni skulle höra våran Erik, som går i skol ’ n i Strengnäs tala om ’ et, så skulle ni inte kunna sofva på en månad
+Sådant var det ordagranna innehållet af den lilla berättelsen.
+– God dag kära mor, huru står det till med helsan?
+Under den straxt öfver hjertat Viste han hvar bajonetten Velat dricka gubbens hjertblod, Som, så varmt än ’ hos den gamle, Ungt och varmt i stridens tummel Gerna offrat sig med glädje För det kära fosterlandet.
+Hon sjunger om bragder en saga ibland, Stark och vek, som en stålbrynjad mö.
+Under tiden kommo flera främmande till W, som voro bjudne till middagen, deribland
+de flesta voro stadsherrskaper, som kommo ditut.
+Daggen glänste frisk på den gröna, saftiga gräsmattan
+och foglarne qvittrade i kapp i trädkronorna.
+o, så gå!
+Turken och ryssen och tysken och fransosen, ska ’ ni veta, de ha kejsare
+, som de kalla soltan.
+Vårt är endast, att hafva omtalat händelserna samt här och der hafva hyfsat de mest framstående ojemnheterna.
+Dit bort till det gyllene land; Men hur snart skall dock tåren i ögat dig stå För det land, som ej glömma du kan!
+När hem jag går, Går jag med tunga steg, Ty hemsk är skogen.
+Har du läst Frithiofs saga?
+Det dagliga arbetets lön ville ej räcka till och emellanåt drog sjukdomen henne på sjukbädden och brödkakorna blefvo glesare på spettet i taket.
+– Åh, det var inte mycket, det.
+Nu röres hvarje nerv af hänryckning.
+Fosterlandets ära värnad, Lugn och fred på odladt fält: Derför svensken går i härnad, Derför sofver han i tält.
+Hon satte sig långsamt på den stora stenen, vänd mot det förlorade hemmet.
+– De ’ va ’ likt, de ’!
+– Derpå är jag ännu ej fullt besluten; men jag har två skickliga gesäller, som vilja följa med mig, och en barnflicka, som också gerna vill medfölja, om hon får.
+Så hade äfven här den bedrägliga vändt en annan sida till.
+Det beror på menniskorna sjelfva att göra sig till godo det goda, som finnes i verlden och i lifvet.
+Lugnt som klara källans vatten Ej min lefnadsbölja gick; Men jag vaktade den skatten, Som jag i min ungdom fick.
+Hon blef äfven lika vänligt emottagen och införd i den goda modrens rum, der de öfriga barnen helsade välkommen den unga frun och hennes man.
+Ni vet inte, ni, att jag fick sex skilling och de der två hvetebullarne derför af henne, som jag gaf åt er.
+Då skola vi med glädje lyssna till dem, då skall fosterlandet kalla tillbaka sin flyttfogel och föda den, och den vilsna skogsdufvan skall kuttra naturens ömma toner för dem som vilja förstå dess röst.
+Omdömet, huruvida saken är värd allmänhetens uppmärksamhet, lemnas åt den upplyste läsaren och åt hvar och en efter dess förmåga.
+det är Godhetens och Fridens englar, som stämma upp sin segerhymn i ert hjerta.
+KOLTECKNING
+När hon glänser präktig mot min tysta strand, Necken fäller lyran sorgsen ur sin hand Och de gudalika, sköna dragen I hans drottnings anlet skymmas af en tår; Sorgsen sänker hon sin blick och till sitt slott hon går: Aldrig solens ljus hon na ’ nsin skåda får, Ty hon lyssnade till
+Att läsa, samt » skrifva ihop » födan åt sig sjelf och åt den sjukliga fostermodren ville ej rätt väl lyckas; ty det blef ej proportion mellan skrifningen och födan.
+Har du hjerta dertill o, så gå!
+– Ja, våran Erik har en bok, han, som han kallar för historien, som det står i om både Sveriges kungar å om såna, som finns utomlands.
+– Är det sanning, ni säger, mor, eller bedraga mig mina öron?
+Af sådana personer bestod sällskapet på W. Man talade ej i förbigående i brist på annat samtalsämne om saken; utan af rent innerligt intresse och af begär att kunna välja visa medel till ett godt ändamål.
+– Nå, bror, hvad sägs om det att Lundberg blef rådman, fastän han är så ung?
+Hon bad, men hvad hon bad om det vet ingen menniska.
+Inemot klockan tu sade unga patron W, som bodde vid gården, «vi skola göra en aftonpromenad«.
+Ni känner er närmare naturen, älskar den.
+Men ner uti den stilla dalen Elfvan dansar blott och ler, Då uti den stora salen Man så mången sorgsen ser.
+«För honom första Wasasonen flydde Till Tyska riket bort;
+Men icke länge han tyrannen lydde; Han kom tillbaka inom tid så kort.«
+– Ja, det är med det, som Brun ska resa.
+Midsommardagen, Sann händelse.
+– Det var kung Gösta, som sa ’ så, det.
+Det vägde icke mycket, men – förundransvärdt var det henne ändå så tungt, att hon vid denna sten måste hvila sig!
+Se hvilken vacker ko, som betar, tjudrad i gröngräset, med fullt juver, och der, omkring den rödmålade stugan, med hvita dörren, är ju ett helt blomsterland!
+Nog bröd det blir på mörkan stig Blott jag är trogen.
+På mörka heden sjunger jag Ditt lof, så trogen.
+Samtalet fortsattes och man var af olika meningar i afseende på begreppet «fädernesland«, hvilket Stålgren ansåg liktydigt med Sverige, men Filberg menade: att det var det land der man bodde och kunde förtjena pengar i mängd.
+Dessa begär, de äro – det ondas genier i ert inre.
+Drog så ut i stridens fasor Gladt för kung och fosterland: Derför är jag klädd – i trasor, Utan fot och högra hand!
+Nu vandrade det glada sällskapet åter hem från denna naturens sköna trädgård, som var äfven
+i sitt ämne lika skön som de, hvilka menniskorna skapa med sina händer.
+«Ty ibland dem minnet står Af en forntidshjelte; Ej mer han nu ibland oss går Med svärdet vid sitt gula kyllerbälte.«
+Just i den gröna hagen satte de sig och talade med hvarandra.
+nu är det annorlunda devinne!
+Vi igenkänna uti denna person den fattiga torparflickan, som vi första gången funno gråtande i skogen.
+– Brun?
+Har hon inte gått i någon skola ändå?
+Då gråta de onda, och hotande att komma tillbaka, fly de.
+Emellanåt färdas man genom leende, gröna björkhagar, med stundom jemn och slät mark, stundom uppvräkt i de vildaste formationer.
+Midsommars ljufva vårar Glindrar genom skogens löfverk ner, Och blomman modigt sig frambårar Och mot solen glädtigt ser.
+Men jag fick låna hos klockaren en förskrift och så har jag lärt mig sjelf.
+Men, som en engel i de gröna lundar, Hoppet vinkar, friden ler, Dock morgonstjernans ljufva stunder Vi arma icke länge se.
+Nästa Lördag finna vi nämndemansmor och torpareflickan på resa till staden.
+Silfver var det innanföre Liksom märket, som hans samtid, Skattande hans ädla mandom,
+Vetat fästa utanföre, Att åt nya slägten lära Vördnad för den tappres ära.
+– Men hvarföre har du ej förr gått och bjudit ut dina berättelser i herregården, så gerna som i bondgårdarne?
+– tack min Gud!
+Mången dust jag sedan frestat Under mödans långa år; Många sorger också gästat Under detta gråa hår.
+Klädd i blått och guld Står den drottning huld, Blickar sorgsen emot dagen.
+– Stackars flicka!
+Skyndande af alla krafter gick hon vägen framåt till den lilla skogsudden der torpet låg, som hyste vår unga skaldinna.
+Du är väl mycket road af att läsa?
+Hon blir möjligen, om hon kan trifvas der, dubbel, glänsande och putsad; men doften, naturen, det förtjusande behaget, de fly, och – en konstlad blomma återstår.
+Några dagar derefter erhöll gamla fru A en present af ett litet skrifvet häfte, af följande innehåll:
+Hans sed var ej att smyga och att spana.
+Dessa verser innehöllo ganska mycken humor och uppväckte allmän munterhet; och den unga sångerskan
+belönades med sammanskottet af en summa penningar af sällskapet.
+Ännu var det ett långt stycke qvar af dagen, ty solen var knappt öfver medelpunkten af sin höjd.
+– Tackar ödmjukast, hvar som behagas, sade Stålgren.
+– Nå, än sången då, hvar har du hört den?
+Han sa ’, att han va ’ husbonde bå ’ för ryssa å alla di andra turka.
+När sången tystnat gingo fru A och jag åt det håll hvarifrån tonerna burit de vackra orden från det milda, förtröstande barnasinnet.
+– Kära mor, ni vet huru sjuklig jag är och att jag bäst trifves när jag får fatt i någon ny bok, men att arbeta på åker och mark såsom de andra, är mig omöjligt så gerna jag ville, ty jag skulle snart gå åt.
+Slutligen sade de till fru S.: «uppför något gladt sångstycke för tillfället«.
+Sålunda glömde äfven den, som antecknat denna lilla berättelse, den stackars lilla torparflickan i skogen, med det poetiska sinnet.
+Ringblommor, vallmo
+, kungshattar och åbrodd stå i flor omkring syrenträdet bredvid fönstret; och på trappsteget står en hvitskurad mjölkstäfva.
+Längre hafva vi ej kunnat följa hennes öde.
+– Kan du skrifva?
+Det låg honom derföre hårdt på hjertat, att hafva blifvit stängd från möjligheten att i verkligheten tillämpa sina rent patriotiska tänkesätt.
+Kanske vet du det sjelf, läsare?
+– Ack, nej!
+Torpet.
+Man ville gå att undersöka hvarifrån de kommo, men hejdade sig, då en klagande stämma sakta sjöng följande strofer:
+Oftast voro dessa besök föregångna af någon ödmjuk skrifvelse.
+Från de närmast omgifvande öppna fälten, med bördiga sädesskördar och med den lilla sjön nedanföre, kommer man in på en slingrande skogsväg, på båda sidor omgifven af skyhöga furor och granar, vid hvilkas rötter slingrar sig den lilla, blyga, doftande linnæan.
+– Men vill inte herrskapet stiga in, så att jag får bjuda på litet mjölk, de äro kanske törstiga?
+Se här är papperet.
+Innanför på bröstet hängde Stora tapperhetsmedaljen Uti blå och gula bandet.
+– Ja ha, just han.
+Framtiden är osedd, och vi veta endast hvad som har varit!
+– Kom till gården i morgon och medtag dina små skrifter, om du skrifvit några flera.
+«Men tid och år förflöto Och fjorton Carlar vi nu se, Men strida tårar flöto Då denna kung i grafven sänktes ner.«
+Hvarhelst jag än går, om mot söder mot rest, Ej finns någon Mälarestrand; Men den strand, der jag lekte min barndom, är bäst: Jag är stolt af mitt Fädernesland!
+Hemkomna till direktörskans boning gingo de in i salongen och roade sig med att dansa; men snart förflöt äfven denna muntra tiden och alla herrskaper foro hem till sitt; och slutet af berättelsen skola vi likväl fortsätta med «W s läge«:
+Vi skola, om du vill, besöka innevånarne i det lilla torpet.
+Då känner ni det så underligt i ert inre och ni känner en vemodets tår smyga sig fram i ögonvrån.
+Inte skulle hon trifvas, sa ’ hon, men jag sa ’, att du får fälle lof te trifvas, der du har födan, sa ’ jag.
+– Ja, jag har den visst i fickan.
+Dagar kommo och dagar gingo under vexlande händelser, och snart glömmer man det, hvarom man ej dagligen får påminnelse.
+– Men, käre bror, inföll Stålgren, det är riskabelt att göra sådana der lustturer.
+Då nådde ljudet af sorgsna snyftningar deras öron.
+Med outtröttligt nit sköttes hon dock af dottren, som ej förtviflade vid det hårda slaget, utan tåligt bar den tunga bördan.
+Straxt
+vid första stegen står en vägvisare, men vägen är villsam och lätt att förlora ty den har en afväg nästan vid hvarje steg.
+– Ja!
+men då skall du dricka en tuting med oss, eftersom du skall ut på långresa sedan.
+När försynen utrustat en varelse med större gåfvor än vanligt, sörjer hon äfven för att den ej alldeles går under.
+Se der, vi äro nu straxt framme.
+– Kypare!
+I det dagliga lifvet är ert hjertas helgedom tillsluten af de tusen sinom tusen lägre begär, som äflas deromkring och täfla, att bemäktiga sig detsamma, och att för en tid få magt öfver sinnet.
+Andra menade att hon borde uppfostras i någon pension, undervisas uti vanliga skolämnen, tills hon vore mägtig att på egen hand bemägtiga sig kunskaper och ordnadt vetande.
+Derför har han kraft i blodet, Är ej uppå slagen njugg, Derför rätt han sänder lodet Och slår fler i hvarje hugg.
+Nu hade ödets slag hårdare drabbat henne, och likväl grät hon ej då hon ånyo sjöng:
+Har du möjligen någon gång då tänkt så här:
+På himlen i Nord högt det strålar en sol, Frihet lågar i nordmannabarm; Må stormarna rasa mot isbelagd pol, Här vi ege kraft, som är varm!
+Men lyckan är oskiljaktig från naturen och vi blifva först olyckliga när vi fly dess hulda ledning, dess rika kärlek.
+Men – apropos toddy!
+– Ja, se här har jag den, nådig fru.
+i stället för att göra någon nytta går du omkring och lånar ogudaktiga böcker och visor och historier och drifver hela dagen i skogen utan mat.
+tillade han, har jag inte lust att resa till Fan Dymans Land, för der kan man köpa negrer för samma pris, som man här får
+en häst, och då slipper man aflöna arbetarne drygt och bör förtjena tio gånger så mycket som här.
+Då jag tänker på de kära, De som före mig ha gått; Ej af himlen mer begära Vill jag då än deras lott.
+Jag har varit till * * * * byn för att fråga om nämndemansmor ville köpa några berättelser och visor af mig, som jag skrifvit, och så skulle jag höra efter om jag kunde få något annat arbete, att uppehålla oss båda med.

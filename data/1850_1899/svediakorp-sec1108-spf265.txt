@@ -1,0 +1,831 @@
+# ID: svediakorp-sec1108
+# author: 
+# pseudonym: 
+# translator: 
+# title: Kärlekens tempel
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-11-22
+# sourceDescription: Retrieved from Språkbanken's collection 'Svensk prosafiktion' (Swedish prose fiction). The order of the sentences is scrambled, due to copyright issues.
+# genre: prose
+# subgenre: fiction
+# location: 
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1860
+# editor: 
+# publisher: 
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Språkbanken (https://spraakbanken.gu.se/)
+# retrieveFormat: XML
+# annotation: tokens, lemma, POS, morphology, syntax, named entities
+# annotationMethod: automatic
+# words: 12,590
+# sentences: 788
+# sentenceOrder: scrambled
+# URL: https://spraakbanken.gu.se/swe/resurs/spf
+# cite: 
+# availability: CC-BY attribution (https://creativecommons.org/licenses/by/4.0/)
+
+
+Jag blef förtjust, bedårad, eller rättare sagt förtrollad.
+I detsamma kommo tre herrar in i löfsalen.
+Han insaltade den sedan med egen hand i fjerdingar, hvilka förvarades i en stor potatiskällare, som han hyrde af en bonde i grannskapet.
+Det är nu sålt för femtusen riksdaler.
+Snart märkte jag likväl att detta var ett temligen lönlöst göra, och som penningar i första rummet
+behöfdes för realiserandet af min idé, så sökte jag på alla sätt att förtjena.
+Böljornas fradgande ryggar voro nästan betäckta med tjärtunnor, hampa och stora talgstycken, som voro af stort värde för våra kustboar.
+det får intet, det skall intet ske Grymma, otacksamma barn!
+Björner förklarade allt på ett sätt, som vittnade om en god kännedom i botaniken.
+Nej!
+Björner var en artig värd och Hulda en älsklig värdinna, som det var omöjligt att se och höra utan att betagas.
+Sjöns brusande förtog dock ljudet, så att ingen hörde hans röst.
+Hvarför kastade du mig hit på denna öde klippa
+?
+Han hade först på sednare tider och hufvudsakligen på fogdens inrådan gjort bekantskap med Björner, der han var en välkommen gäst som tredje man vid wirabordet.
+Arbetet gick med raska steg framåt, och dermed tycktes Björner vara belåten.
+Allt hvad jag lidit, sträfvat och arbetat för i tjugo långa år ligger nu på hafvets botten jag vet nog hvar det är; ty här – här ute mot det fördömda skäret var det som fartyget splittrades och här måste skrinet hafva sjunkit.
+Med denna lilla summa började jag att arbeta, handla och vandla på nytt.
+– Du finner härutaf, sade hon, att min far är bra olycklig.
+Han tog henne sedan vid handen och sade:
+Ingen satte dock något synnerligt värde på denna jord, som hufvudsakligen bestod i en stenbunden och oländig mark, endast bevext med hagtornsbuskar och några sekelgamla ekar.
+Hon hade hånat mig i min fattigdom.
+Klämming närmade sig med lätta steg till fästmön, som slöt sig lik en blyg sensitiva darrande intill hans sida.
+Sjelf skall jag bringa den i dagen, om jag också skall arbeta i åratal.
+Hulda betraktade honom med deltagande, ty hans ansigte afspeglade i detta ögonblick ett djup af lidelse och hat, som väckte både medömkan och fasa.
+Han hyste derför en ständig misstro till Björner; men som denne alltid var tyst och förekommande, så kom det aldrig till någon öppen brytning dem emellan.
+Hon skulle få göra knäfall för mig och – blifva stött tillbaka.
+Dessa voro enligt min öfvertygelse tvenne båtsmän, som stulit varan ur kronans förråd i Carlskrona.
+I långa år har jag arbetat på dess undergång, sporrad dertill af följande händelse, som var första upprinningen till mina vidriga lefnadsöden.
+Han stod som fasttrollad, och Hulda slöt sig darrande intill hans sida.
+Endast tvenne ingångar funnos, nemligen en vid stora landsvägen och en annan som ledde ut till sjön.
+– Inga predikningar, afbröt Björner.
+I första gryningen seglade han hvarje morgon i sällskap med Jonas ut till det kända skäret, der de uppehöllo sig i tre timmar och sökte på alla tänkbara sätt och med alla möjliga medel efter den förlorade kistan.
+Den breda pannan, de buskiga ögonbrynen, de vidgade näsborrarne och den krökta öfverläppen, gåfvo en hård prägel åt hans temligen regelbundna anletsdrag, som i öfrigt återspeglade en viljestark själ, mäktig att brottas med ödets stormar, dem han i närvarande stund tycktes vara färdig att utmana.
+– Säg heldre att du inte vill Jag begriper nog hur det är.
+– Jag är säkert hård och besynnerlig i dina ögon, mitt barn!
+– Vi skola dock göra vårt bästa Friskt vågadt är hälften vunnet, försäkrade Jonas.
+Nu var han gammal och hade i många år endast sysselsatt sig med fiske, i sällskap med sonen Jonas, som var en trettioårig man, stor och groflemmad som en jätte.
+Jag borde kanske i denna stund tacka dig för det jag fick behålla lifvet.
+Föräldrarne sågo vår kärlek med bifall.
+När de kommo till andra stranden, kunde han inte tala och ännu mindre gå.
+Jag skall bedja och anropa tills hans hårda hjerta blir mjukt som vax.
+Jag vill intet förtala honom, aldraminst för dig; men omständigheterna fordra att jag måste säga dig en bitter sanning.
+Gubben var en äkta sjöbuss och sonen bråddes i allo på fadren.
+Jag vet endast att han varit någon tjensteman i Stockholm Han förefaller mig stundom så besynnerlig att jag nästan blir rädd.
+Rörelsen gick med raska steg framåt.
+Hädanefter är det runda tornet icke längre i mina ögon en fiskarepina, utan ett kärlekens tempel, som jag tidt och ofta skall besöka.
+Jag säger derför ännu en gång älskade Hulda, men vill icke att du skall anse detta som en kärleksförklaring å min sida, ty jag vågar icke hoppas att min böjelse skall blifva besvarad.
+En liten båt med tvenne roddare nalkades småningom udden.
+Jag har i femton långa år under otaliga mödor och försakelser förvandlat denna summa till femtiotusende riksdaler, som ligga förvarade i denna kista.
+– Ja, hviskade Hulda och slöt sig närmare den unge mannen.
+Då de blefvo upplysta om hans frånvaro, aflemnades en fjerding som sektern skulle ha.
+Men ve alla dem som glömma att Gud allena är hämnaren.
+Mitt gamla mod och fasta vilja hade jag qvar, lifvade af det glada hoppet att jag snart skulle finna den förlorade skatten.
+Jag är icke värdig något knäfall.
+Fartyget, som jag reste med, gick i qvaf och min skatt sjönk i hafvets djup.
+I dag var det intet hopp att råka henne.
+Skall jag rygga tillbaka då jag står vid gränsen för mina önskningar?
+Det var så ljuft att luta sitt hufvud till ett faderligt bröst.
+Deras lön skall blifva stor i himmelen; ty „det minsta J hafven gjort en af dessa mina bröder, det hafven J ock gjort mig “, säger Han som thronar inom kärlekens tempel i ljusets boningar, der hvar och en skall få efter som han handlat hafver.
+Mitt beslut är fattadt, Jag skall göra hvad jag kan för min förblindade fader; och Han, som är mäktig i de svaga, skall för hjelpa mig till en lycklig utgång.
+Men Björner dref under tiden äfven ett annat yrke, som gjorde honom allmänt känd och anlitad på hela orten.
+Hennes ansigte var hvitt som snö och strida tårar perlade utför kinderna, under det barmen häfde sig som en svallande sjö.
+– Gerna, min älskade!
+Ändtligen kommer förlossningens timma och hoppets sol går åter upp på min förmörkade lefnadshimmel.
+Hans ansigte var glatt och stelt som en slipad marmorbyst.
+Främlingens räddare voro tvenne fiskare med det gemensamma namnet Elg, emedan de voro fader och
+son.
+– Ändtligen, sade mannen med glad röst och slog i samman sina händer.
+Alla hatade honom i själ och hjerta, ehuru de i nödens stund voro glade att han fanns.
+du skall aldrig blifva hans, om
+du har förtroende till mig Har du det, min älskade?
+Han hade klockan jemt i handen och räknade sekunderna, likasom han derigenom velat påskynda tiden.
+Allt annat var dem likgiltigt.
+Han gjorde äfven åtskilliga trädgårdsanläggningar och planteringar, som vittnade om ett utmärkt skönhetssinne.
+Jag lydde ögonblickligen.
+Fram på våren blef gubben litet krasslig.
+Derför har den Högste straffat dig med motgångar i dina förehafvanden, ty Han lider intet ingrepp i sina rättigheter.
+8.
+Han jemnade marken och lade grunden till en byggnad.
+Hon ruinerade inom några år sin man.
+Min far är inte så djupt förderfvad som du tror.
+I början voro hans lånetransaktioner temligen inskränkta; men vidgade sig småningom till ett betydligt omfång.
+– Med hela min förmögenhet på ryggen, följde jag en skuta från Malmö till Stockholm.
+På så sätt förtjenade jag visserligen mynt, men det ville intet förslå.
+Klämming var utstyrd i full uniform och hans fylliga ansigte sken som en fullmåne.
+Jag hade nu hunnit det föresatta målet och det återstod mig endast att göra slag i saken.
+Under tiden kan du lätt smyga dig undan.
+Han var ytterst fin och gentlemannalik i hela sitt väsende, men lefde på det hela lika isoleradt som förr.
+– Du gör mig alldeles förbryllad Skulle du vilja förena dig med honom?
+– Älskade Hulda!
+Han utropade sedan med förebråelse:
+Han öppnade kassakistan, och jag är säker på att de nu äro sysselsatta med att räkna pengar.
+6.
+Novell af Pehr Thomasson.
+Rosén höll den sköna, bäfvande flickan i sin famn och deras läppar möttes för första gången.
+Han var annars fåordig och dyster som vanligt.
+De ville nämligen veta, att ägaren pinat det fattiga folket på hela grannlåten.
+– Jag vill din lycka, älskade barn!
+Kronofogden var den enda person i grannskapet som han någon gång besökte och som äfven besökte honom tillbaka, emedan de hade ständiga penninge-affärer tillsamman.
+Emedlertid fortfor ringningen och bullret med en häftighet, som var i närvarande stund högst obehaglig för Rosén.
+Båten sattes genast i ordning och förseddes med nödiga redskap.
+Det var också på tiden, ty porten öppnades och Björner inträdde.
+De båda männen arbetade så att svetten lackade utför panna och kinder.
+Hon hade öppet sagt honom detta; hon hade med brinnande böner vädjat till hans ädelmod; men Klämming hade skämtande afslagit alla hennes inkast.
+jag skall försöka att uppfylla din önskan Må Herran stå mig bi!
+Björner reste sig upp i hela sin längd.
+Mitt sinne har länge varit slutet för sådana barnsligheter.
+Jag skall i korthet berätta dig mina lefnadsöden.
+Han var nemligen i besittning af penningar, hvilka han lånade ut till behöfvande mot dryga vilkor.
+Byggnadsstilen var visserligen något tung och tryckande, men tornet såg på det hela ganska respektabelt ut, emedan det var kalkrappadt och hade ett upphöjdt läge.
+En friare kom som hade etthundratusende riksdaler och Estrid gaf honom genast hand och hjerta.
+Genom en klok förvaltning blef det dock större med hvarje år.
+Har du intet öra?
+Det ville verkligen synas som Björner i dag för första gången på femton år hade glömt sin skatt i hafvets sköte, hvilket förundrade vår vandrare på det högsta.
+Den sjuke började småningom att svettas, hvarefter han föll i en djup sömn, som varade med några få afbrott ända tills följande dagen, då han lemnade bädden fullkomligt frisk.
+Du kan genom din vägran till giftermålet uppskjuta min hämnd för någon tid, men hindra den kan du aldrig Gör nu som dig lyster och du har hjerta till.
+Alla voro derför glade och tänkte för tillfället endast att roffa till sig det flytande godset, hvilket de också gjorde med en raskhet som var hedrande för deras armar.
+Han fattade med hänryckning sekterns hand och ville kyssa den, men detta blef icke tillåtet.
+Jag skall med Guds ord väcka honom till besinning och försoning med verlden.
+Sedan herrarne språkats vid en liten stund, hvarunder Klämming visade sig mäkta upprymd och glad, fattade Björner sitt glas och yttrade:
+Folket pratade mycket både hit och dit; men alla sågo i den timade händelsen ett nytt bevis på den evige hämnarens rättvisa.
+Ett fartyg hade nemligen under natten gått förloradt.
+Björner strök sig öfver pannan några hvarf och började sin berättelse sålunda:
+Allt var dock förgäfves.
+Hon ville veta reda på den minsta småsak.
+Gubben var deremot icke så svag för Björner.
+Baldershage blef ifrån den stunden en daglig mötesplats för de båda rivalerna.
+– Fort härifrån!
+Han stod nu framför den älskliga flickan; men tyst och sluten som en marmorbild, hvilket äfven var händelsen med Hulda.
+Det gömda krutet hade exploderat och störtat hela den präktiga byggnaden i en rykande ruin.
+Sjelf gjorde jag en gång ett sådant, men jag
+gör det icke mera Man skymfade, man hånade, och hvad som var ännu värre: man log och sparkade ut mig derför Jag vill vara barmhertigare.
+De uträttade med tiden stora saker, hvilka ännu till någon del äro synliga för den uppmärksamme betraktaren.
+Jag har uppgjort följande plan till din räddning: I morgon afton vid tiotiden infinner jag mig här, då du genast gör mig sällskap, ty en flykt är det enda, som kan hjelpa dig ur faran.
+Väl dem som gå försonande genom verlden och uppresa dylika tempel på hatets jord!
+Jag hoppas endast att du vill anse mig som en vän en vän som vill din högsta lycka.
+Vid vissa tillfällen, när Jonas förde talet på den förlorade kistan som aldrig ville komma i dagen, så kunde det hända att sektern stampade i marken och svor.
+Han rynkade endast sina buskiga ögonbryn och fortfor med sina vanliga göromål och sitt enkla lefnadssätt.
+Plötsligt ljusnade
+hans mörka anletsdrag och kroppen antog sin naturliga spänstighet.
+I afskedets stund lemnade hon honom papperslappen åter med följande påskrift:
+– Jag sade att allt var förloradt, men så var det icke, mitt barn!
+Hvarje morgon följde han med på sjön och var behjelplig med näten och fisket.
+Hon lindade sina armar kring fadrens hals och yttrade:
+Under följande sommar blef första våningen af huset färdig.
+När Klämming sednare på aftonen tog afsked af Rosén, yttrade den förre:
+De femton åren hade betydligt förändradt hans yttre menniska.
+Rosén skyndade genast till porten, men som denne var stängd måste han taga den vanliga vägen öfver muren.
+Han blef vred och kallade mig ett otacksamt barn, som förgiftade hans lefnadsdagar.
+„Goda Hulda!
+Jag tycker att den stolta qvinnan är hämnad nog genom sin fattigdom, som Gud säkerligen pålagdt henne för sin trolöshet.
+I morgon medan din far efter vanligheten är på sjön infinner jag mig här.
+Den arme mannen, hvars hela lekamen tydligen skälfde af köld, uppgaf några genomträngande nödrop.
+När detta var verkställt, anförtrodde han i största tysthet åt de båda männen, att han vid skeppsbrottet förlorat en liten jernkista, innehållande en del vigtiga papper.
+Mannen var i dessa delar högst fåordig.
+Jag hoppas herrarne tömma ett glas för deras lycka och välgång.
+Björner betraktade sin dotter länge med rörelse.
+Rosén gjorde sig färdig till flykt, men hejdade sig vid närmare betänkande, ty Björner hade ju sjelf portnyckeln.
+Båda repade likväl snart mod och sökte att hålla god min.
+Kaptenen gjorde sin skyldighet.
+den sköna, varma och gudomliga Estrid, var en hycklerska, en djefvul i qvinnohamn, en huggorm som sprutade mitt hjerta fullt af etter, ty hon svek sina eder och hånade mig.
+Medan strandboarne sålunda voro sysselsatte stod en ensam man på en närbelägen klippudde och betraktade deras förehafvande.
+När allt var i ordning, lade han bort sin simpla fiskardrägt och klädde sig som herre, hvarefter han flyttade in i sin nya boning.
+Han påstod att han var en besynnerlig man; en äfventyrare eller kanske ännu något sämre, emedan han tydligen kunde läsa i hans ansigte att han bar något stort brott på sitt samvete.
+Hon hade troligen aldrig förr sett någon trädgård på närmare håll.
+De arbetade träget ända tills aftonen, men intet stod att finna.
+Hon längtade efter fortsättning, ty Björner talade med en värma och hänförelse som var fängslande.
+Han var en kraftig gestalt af medelmåttig längd, ungefärligen fyratio år.
+Detta ställe har jag med egna händer ifrån en oländig mark omskapat till en vänlig oas, som icke har sin like i skönhet inom skärgården.
+Björner harmades i sitt sinne.
+Vi lefde som ett förlofvadt par i största frihet.
+Lik en ljusalf sväfvade hon jemt kring sin mörke, allvarsamme fader, hvars minsta önskningar hon sökte att förekomma.
+Men jag har icke gjort det af kärlek till naturens herrligheter, såsom många inbilla sig.
+Men som jag icke hade några respengar, antog jag på någon tid en yppad kondition hos en välmående häradsskrifvare i södra Skåne.
+Jag har intet annat val.
+Några smärre ättekullar reste sig der och hvar på den annars temligen släta marken, som var tätt bevext med hagtornsbuskar och några mossbelupna ekar.
+– Lugna dig!
+Ställningen blef plötsligt förändrad.
+Mycket folk kom snart tillstädes.
+Hvad skall jag göra?
+Björner erbjöd genast denna summa, som arfvingarne efter mycket betänkande slutligen antogo.
+Ett hån som jag aldrig kan glömma, ty ifrån den stunden har jag endast lefvat för hämnden.
+Efter en lång väntan blef han varse tre personer som kommo ut på det flata taket, der de satte sig ned på en grönmålad soffa.
+Hon hade en smärt, välbildad vext och ett bildskönt ansigte, kringhvärfdt af gullgula lockar, hvilka föllo klasvis kring hennes skära rosenkinder, som mildt belystes af tvenne smäktande ljusblå ögon.
+Hvarje skärf, som han sålunda hopsamlar, är en blodspenning, som förr eller sednare måste komma med förbannelse.
+Qvarlåtenskapen var visserligen ringa, men af
+stort värde för Jonas, som blef mäkta ledsen och bekymrad.
+Han var en lat skrifkarl, men en duktig jordbrukare, som hade sin största njutning i ett godt bord.
+bad Hulda med en englamild röst.
+Ingen tid är att förlora.
+I en liten löfsal, belägen vid hafsstranden, var Jonas sysselsatt med att rada upp några glas och vinbuteljer ur en korg, medan Björner och Hulda sutto tysta och sågo på.
+Marken skälfde under deras fötter och ett klart ljussken upplyste trädgården.
+Under något husligt föregifvande fick Hulda tillfälle att läsa biljetten.
+Den återstående timman syntes honom en hel evighet.
+Resan gick lyckligt ända tills härom natten, då det plötsligt uppvexte en afgrundslik storm.
+Mitt förutseende har gått i fullbordan.
+Detta var dem klart i närvarande stund, ty ögonspråket har i alla tider varit den bästa kärlekstolken.
+– Nu skall du bli min dräng och vi skola utan några dumma invändningar sköta våra förehafvanden, sade han till Jonas.
+Gubben hade i trettio år tjenstgjort som båtsman vid flottan i Carlskrona, under hvilken tid han varit med vid Hogland, Svensksund och några andra ställen, der det gått temligen hett till väga.
+Det måste således vara en fremmande, hvarför han stannade qvar.
+Vi skola vara så korta som möjligt, emedan utrymmet i en kalender är temligen inskränkt.
+Fåglarne sjöngo och blommorna prålade i sin rika midsommarsskrud, men Rosén hvarken hörde eller såg.
+Det vissa är emedlertid att Balderslund i våra dagar endast är ett vackert fiskläge, som erhållit sin största märkvärdighet i sednare tider genom några sällsamma händelser, hvilka vi här nedan skola taga oss friheten berätta, om läsaren vill låna oss ett lyssnande öra.
+Jag skall ännu en gång brottas med eder och segra, eller – gå under Nej, icke under!
+Och du usla menniskoskara, som kämpar derborta för att fånga några lumpna vrakstumpar!
+Jag kunde rädda honom och jag lofvade försöket Det är svårt, men jag måste om jag än skall duka under.
+Björner fixerade sin dotter med underliga blickar och yttrade:
+Du har glömt att ställa hämnden till Herren, som allena rätt dömmer.
+De unga älskade hvarandra med hela den första kärlekens värma, utan att ännu ett ord, som kunde förråda deras innersta känslor, blifvit vexladt dem emellan.
+Han blef genast varse krutfjerdingen, som han befallte Jonas att bära i källaren under yttrande:
+Han stampade af otålighet; han blickade med stirrande ögon genom det täta löfverket och slutligen lade han sig ned på marken för att lättare kunna uppfånga ljudet af den älskades steg.
+Han fattade slutligen det
+djerfva beslutet att i hemlighet besöka stället och göra sig underrättad om förhållandet.
+– Icke det ringaste.
+Nu skall jag icke blifva det mera.
+Han bad derför mannen göra sällskap ditut och fiska upp kistan, då de skulle få etthundrade riksdaler för besväret.
+– Så är det.
+Den stolta, trolösa älskarinnan skulle blifva min ödmjuka tjenarinna och djupt få ångra sitt beteende mot mig.
+Hulda studsade i början vid den tanken att hon skulle fly, men kärleken besegrar allt och beslutet var fattat.
+Det påstods med säkerhet att han tog minst tjugofem procent och stundom litet öfver.
+Jag vill inte för allt i verlden något sådant, emedan jag afskyr honom som en ond ande, den jag är rädd för att betrakta; men omständigheterna kunna tvinga mig till ett dylikt steg Min far har sagt, att om jag icke fogar mig efter hans önskan, så skall han ånyo börja sitt procenten.
+Jag har gjort det blott för att förtjena penningar, emedan jag från första stunden insåg, att det vid en försäljning skulle blifva ett vackert sommarställe åt någon rik stadsbo.
+Rosén läste åter porten och skyndade till löfsalen.
+– Ända ifrån det jag lemnade Skåne har jag genom en vän i hemorten noga bevakat den trolösa.
+Han gjorde täta omsättningar och afpassade alltid tiden så att han fick ut sin rätt; ty han var ingalunda hjertnupen.
+Allt var derför lif och rörelse på stranden.
+Detta måste jag förekomma till hvad pris som helst.
+Andra ville veta att han var en falskmyntare, som kunde göra så många pengar som helst.
+Somliga påstodo att „penga sektern “, såsom Björner allmänt kallades, säkerligen vore en röfvarhöfding, som mördat besättningen på det förolyckade fartyget, hvarefter han bemäktigadt sig kassan och satt skrofvet på grund.
+– Väl för dem!
+R. “
+– Haf förbarmande, goda pappa!
+De tre männen begåfvo sig genast åstad och voro snart vid det skär, der Björner påstod att händelsen inträffat.
+Han skulle kunnat gå i döden för främlingen om något sådant kommit i fråga; ty han ansåg honom för mer än menniska.
+Tvenne stora, mörklagda karlar frågade genast efter sektern, som de nödvändigt ville tala vid.
+Hans manliga ansigte lyste af fast beslutsamhet och lugn resignation.
+Björner märkte detta och rynkade lätt sina buskiga ögonbryn, men fogden stampade af förargelse i marken.
+Han har i få ord sagt varit en hård procentare.
+Många tänkte med sorgliga suckar på de skeppsbrutne, som under natten inklarerat i evighetens hamn; men de flesta gladde sig åt det rika byte, som de säkerligen skulle erhålla genom denna olyckshändelse.
+Detta ökade hans respekt och förtroende till främlingen.
+De båda männen buro honom på sina händer in i en fiskarkoja, der de gåfvo honom all den omvårdnad, de vore mäktige att åstadkomma.
+Hela tiden har jag dagligen sökt min skatt på hafvets botten, men allt har varit förgäfves.
+Björner fyllde jemt i glasen och uppmanade till dryckjom.
+Han vände sedan till hemmet och gjorde en rund på fiskläget.
+Fogden och kandidaten voro idel eld och lågor.
+Jag svor inom mig sjelf att en dag blifva ägare af hundratusende riksdaler; ty utan denna summa kunde jag icke sätta min hämndplan i verkställighet.
+– Förstå mig rätt, genmälte Hulda.
+Jonas gick sina färde.
+De fradgande böljorna lågo öfversållade med skeppsvrak och åtskilliga sjömannasaker samt äfven några menniskolik, som obarmhertigt slungades hit och dit af de vredgade vågorna, hvilka slogo mot skären så att skummet stod högt i sky.
+– Min dotter, mamsell Hulda Björner.
+Häradsskrifvaren hade en
+treflig familj, isynnerhet en nittonårig dotter, som hette Estrid.
+Detta slog han sedan i ett lerkrus och räckte åt Jonas, som lyfte upp främlingens hufvud och hällde några duktiga klunkar i hans hals.
+Strandboarne gjorde sin högsta flit.
+Jorden, som tillhörde densamma, låg i en triangel deromkring, och var af en högst romantisk beskaffenhet.
+Du vill ju inte göra ditt enda barn olyckligt för tid och evighet, älskade pappa!
+Han gick den med fasta steg till mötes, men förmådde icke sjelf att stiga ombord, emedan han var så medtagen af köld och hunger, att han hackade tänder och skälfde i alla lemmar.
+Jag vet och förstår detta bättre än du.
+Utan veklig klagan skall jag bära mitt öde, om också det sista hoppet skulle ramla Mitt arbete må de gerna veta och bedömma.
+I detsamma hördes en förfärlig knall.
+Grymma, hjertslitande tanke grymmare än alla helvetets qval.
+9.
+Så snart de fått främlingen in i stugan, drog Jonas af honom de våta kläderna och bäddade honom ner i en varm säng, bestående af tjocka fjäderbolstrar.
+Sammaledes var det med Hulda.
+Aldrig såg man ett leende på hans tunna läppar, aldrig tilltalade han någon utan skäl och aldrig svarade han ett ord, då någon
+sökte att få reda på hans affärer och fordna lefnadshändelser.
+Han har under tiden gått här som simpel arbetare och handlat och vandlat med de arme fiskarne, hvilka han med fogdens tillhjelp har prejat både till märg och ben.
+Jag är ännu ett barn, som har föga erfarenhet af lifvet.
+Estrid var fåfäng, stolt och högmodig.
+Nu kan du gå upp till grinden och passa på de fremmande, hvilka du genast kan ledsaga hit.
+Din far har bestämdt något dåligt motiv med din förening.
+Jag skall med Guds ord väcka min far ur sin förhärdelse.
+10.
+Den trogne tjenaren rörde dock sällan vid denna sträng och allt gick derför i tysthet sin jemna gång.
+Ännu en gång skall jag sätta mina penningar i rörelse, tills jag fått den bestämda summan Den stolta, den trolösa varelsen, som förgiftat hela mitt lif, skall sjunka till mina fötter och ångra sitt ovärdiga uppförande.
+Slutligen blef jag bekant med din mor, som hade tiotusende riksdaler, hvarför jag gifte mig med henne, helst som hon var en ganska vacker menniska.
+Mitt bröst var en sjudande vulkan, som måste urladda sig om icke hjertat skulle springa i stycken.
+Annat var det med de
+båda herrarna, hvilka vi nu med ett par ord vilja presentera.
+Hulda slog sina armar vänligt kring fadrens hals och tryckte en tårbemängd kyss på hans höga, något fårade panna.
+De bergade med outtröttlig ifver och sjöngo under tiden glada sånger.
+Han vallade troget sin älskade hela aftonen, så att det var omöjligt för Rosén att i ensamhet få utbyta ett ord med henne, det han så gerna önskade.
+Vår boning skall icke längre vara en fiskarepina.
+Jag har den glädjande nyheten att härmed offentligen förklara min enda dotters förlofning med vännen och kronofogden Klämming.
+Den enda, som syntes kall och likgiltig, var Björner.
+Hemgiften var en god förstärkning åt kassan.
+Jag kan hindra hans förehafvande endast genom att uppoffra mig och jag måste göra det Det är tungt och hjertslitande, men jag har intet annat val.
+Björner var af denna orsak känd som en ganska hård procentare.
+Björner lefde i största sämja och endrägt med sina fiskare, dem han vid brydsamma tillfällen äfven försträckte med
+litet penningar.
+Det var en förfärlig stund.
+Det var en hemsk tafla, som vittnade endast om död och förstörelse, ty vågorna förde städse till stranden nya föremål af det förolyckade skeppet, som var så i grunden sönderkrossadt att lemningarne icke syntes större än, vanliga sjöfåglar.
+Det var en yngling
+utan både kunskaper och utseende, så att bevekelsegrunden till hennes handlingssätt var rikedomen.
+Våra fiskare längtade att få veta hvem han var samt huru det förhöll sig med skeppsbrottet.
+Båda voro ärliga, godmodiga menniskor, som lefde endast för sitt fiske.
+Jag blef utvisad af pappa, som sade att han och Klämming hade några räkenskaper att genomgå.
+Men det skall aldrig ske Du måste följa mig på ögonblicket, om jag också skall
+Hon visade det vid alla tillfällen, och jag – jag var den sällaste bland dödlige Men länge fick icke Adam vara i paradiset Estrid!
+Hon lofvade att taga saken i moget betänkande.
+Göteborg, Handelstidningens Bolags Tryckeri, 1860.
+Jag kan intet jag vill intet ljuga kärlek det är rysligt Låt mig tänka några dagar på saken!
+Han refvade småningom lifvets segel, och bogserade sin gamla farkost i evighetens hamn.
+Du uppoffrar din lefnadslycka utan ändamål.
+Stället nämnes derföre med välsignelse af alla, och de åldriga makarna lefva der ett jordiskt paradis.
+Jag skall hafva hästar och vagn i grannskapet, som föra oss till Carlskrona, der jag lemnar dig i ett aktningsvärdt hus hos min moster.
+Aldrig skall du kunna beveka din känslolöse fader och ännu mindre din girige älskare.
+– Du svärmar, sade Rosén.
+– Tala icke så!
+– Du skall i stället duka under för hans fasta jernvilja, ty du är blott en svag qvinna.
+Genom Jonas kommo dessa nyheter till Björners öron, men han besvarade dem aldrig.
+– Det sednare medger jag, men icke det förra Vid himmel och jord!
+Förkrossad, bedragen och gäckad, lemnade jag mitt kärlekseden och svor i mitt sinne en evinnerlig hämd åt henne, ormen i paradiset, som dref mig derur.
+Hulda berättade nu i sammandrag sin faders lefnadsöden för Rosén, som var idel öra.
+Han höll dock städse ett vaksamt öga på Hulda, som han aldrig lemnade ensam med kandidaten, men så ofta som möjligt med fogden, den han i hemlighet tycktes gynna.
+Hulda svarade intet på en lång stund.
+Estrid tycktes älska mig med passion.
+De små fiskarbåtarne guppade upp och ner, så att de på långa stunder icke alls voro synliga
+.
+Jag grät
+och bönföll om skonsamhet.
+Folket ledsnade snart vid det lönlösa arbetet.
+Björner utvecklade nu med tillhjelp af Jonas en verksamhet, som var förvånande.
+Ingen hade dock med skäl något att förebrå honom.
+Han skulle kunna sälja sin kärlek, om han nånsin egt någon, för dessa båda saker.
+AF
+Jag får inte, jag kan inte följa dig i afton kanhända aldrig.
+– Allsmäktige Gud, försyn, eller hur jag må kalla dig!
+Hon converserade med ledighet och skrattade högt åt några fadda artigheter, som fogden fann för godt att uttala.
+Björner blickade med lodjurs ögon åt djupet och Jonas drejade och pejlade med öfvad hand.
+Morgonen var oändligt tjusande och vacker.
+Skynda blott, ty tiden är dyrbar Vi kunna snart bli öfverraskade.
+Gubben började under tiden tända upp eld på spiseln och satte en liten kopparpanna deröfver, innehållande bränvin och öl.
+Af denna orsak hindrade han ofta deras utflykter att söka efter skatten, hvilket högeligen förargade Björner, som var tvungen att finna sig i omständigheterna.
+Rosén och Hulda tackade Gud för det äfven penningarne voro uppbrända, emedan alla hinder nu voro undanröjda för deras närmare förening.
+– Inga barnsligheter Endast tro och lydnad!
+Hans breda bröst häfde sig våldsamt och hans ögon sköto blixtrar.
+– Vi kunna allt göra försöket, svarade Elg; men inte tror jag det lyckas.
+– Helsa sektern att jag kommer igen i afton; men akta fjerdingen väl, ty den är full af krut.
+– Stackars pappa!
+– Tror jag nog, svarade Rosén.
+Tidigt den följande dagen var Rosén på benen och gjorde en utvandring i det gröna.
+Långa timmar förgingo utan att någon farkost blef synlig.
+Sålunda har jag i allt haft penningen till ögonsigte, och aldrig förlorat det bestämda målet.
+Han släppte glaset och sjönk handfallen neder på ett gungbräde.
+Herrarne höllo ord.
+Dagen derpå förnyades försöket och äfven följande; men alltid med samma resultat.
+din far är en fullkomlig gåta.
+Jag skall försöka att rädda dig, ty jag är säker på att du anser din förening med Klämming som en olycka.
+bad Hulda.
+Björner satt rökande i en stor ländstol midt emellan sin dotter och kassakistan.
+Jag äger båda delar i denna sak, och derför modigt framåt!
+Krut är förbjudet att säljas af hvem som helst, men din far har drifvit handel dermed i många år.
+Jag studerade, konditionerade och gick min bana framåt med modiga steg.
+Han har ett hjerta, fast det är fullt af hat och bitterhet.
+Men som han var högst fragmentarisk i sina beskrifningar på blomsterverlden
+, så fann Rosén för godt att vidare utvidga ämnet.
+Utan honom kände jag mig så ensam och öfvergifven i verlden.
+Ingen mensklig makt skall kunna hindra vår flykt.
+Många voro de tankar som kretsade sig i Huldas hjerna efter mötet med sin verklige älskare.
+Mitt råd är derför att du flyr undan hans djefvulska snaror medan
+tid är, så vida du icke vill blifva ett mörksens redskap i hans hand.
+Estrids fästman köpte en liten herregård för sin förmögenhet och deras bröllop stod med lysande fröjd.
+Ingen skall heldre få veta dem.
+Var det mycket godt pris på sillen, så köptes allt hvad han kunde öfverkomma af denna vara.
+Sätt dig här vid min sida!
+Hon räckte honom till belöning en liten rosenknopp, som han skyndade att gömma vid sitt hjerta.
+Den eldige ynglingen svor inom sig sjelf, att han ovilkorligen skulle göra det tilltänkta hjonelaget om intet.
+Jonas var säker på att han hade godt förråd af denna vara; ty han hade vid ett par tillfällen sett Björner handskas med en stor sedelbundt.
+Männerna rustade ut sina ekar och skyndade i rastlös sträfvan ut från land i samma afsigt.
+Derigenom skulle jag genast få mynt, till att realisera mina länge närda förhoppningar Nu vet du allt Nej, icke hälften engång!
+Var nu stark, mitt barn, och visa att du är dotter till en man, som vet hvad han vill och som aldrig ännu ryggadt sina beslut.
+Allt hvad de fingo upplysning om var följande, som han helt lakoniskt förtäljde:
+Här smög han länge omkring på de slingrande gångarne, men stannade till sist i ett tätt busksnår, helt nära tornet, så att han kunde tydligen se hvad som tilldrog sig i dess grannskap.
+Rosén hade hunnit den efterlängtade stunden.
+Du var då tre år.
+Så fortforo de att söka utan framgång i många dagar.
+Huru jag kämpat, lidit och försakat för denna min ed, skall du i det följande få höra.
+Det var olja
+på elden.
+Nära fyratio år hafva förflutit.
+utropade Hulda och sjönk vanmäktig neder på en soffa.
+Rosén fattade hennes lilla hand och började, men blef hastigt afbruten genom en häftig ringning och ett starkt buller på strandporten.
+Hulda kunde inte annat än beundra den viljestarka mannen.
+Dock du är qvinna, och derför ger jag dig betänketid.
+Han var af denna orsak förtviflad och började misströsta om utförandet af sin vigtiga mission.
+Nu var turen kommen till mig.
+– En stor olycka, hviskade Hulda med en djup suck.
+Han beslutade att taga dig till äkta, om du var i hans tycke.
+Jag vände mig i bedröfvelsen till föräldrarne; men äfven dessa förebrådde mig min fattigdom och bemötte mig med köld och förakt.
+– Du inser detta och likväl har du bifallit till hans förening; det var illa gjort.
+Dagligen besökte de äfven sjön och gjorde sina undersökningar.
+Dina ord äro pilar, som genomborra mitt arma hjerta.
+Hon sade mig öppet att jag var en fattig stackare, som aldrig borde tänka på att fästa mig vid någon flicka, då jag icke kunde försörja henne.
+Jag har för några år sedan varit en obetydlig tjensteman i Stockholm, men nu är jag ingenting, hvarför man titulerar mig för Sekter.
+Ditt beslut är hedrande för hjertat, men icke för förståndet.
+Han skaffade äfven Jonas nya sjömanskläder och anvisade honom nedra våningen att bebo, medan han sjelf tog den andra i besittning.
+NOVELL
+De hungriga lågorna förtärde allt som var brännbart.
+Han talade i ett varmt och glödande språk om naturens underbara rikedom, och Hulda lyssnade med hänförelse till hans ord.
+Jag hade äfven ett tusende riksdaler i min plånbok.
+Vid tjugo år hade jag tagit kameralen och beslutat mig för att resa till Stockholm, der jag ämnade ingå på tjenstemannabanan.
+Andra påstodo att den allvarsamme och besynnerlige främlingen säkerligen var en smula vansinnig.
+Han tyckte att den unge kandidaten hade alltför stor framgång hos flickan, hvarföre han slog sig ut på kurtis.
+OSCAR L. LAMMS FÖRLAG.
+Han hade ett öppet, ärligt ansigte och stora bruna ögon, som lyste af mod och beslutsamhet.
+Din far är så förhärdad i sin villfarelse, att alla dina ord skola studsa mot hans hårda hjerta, likt en hammare mot hälleberget.
+En af karlarne satte den försigtigt inom porten och sade:
+Allt beror dock på dig, mitt barn!
+Han klättrade derför upp i ett högt träd, hvarifrån han svingade sig ner på stenmuren och vidare in i trädgården.
+Hulda lyfte upp sitt sköna hufvud och såg på fadren.
+Likväl klappar ett hjerta i min barm; ett hjerta, som lågat för allt skönt och herrligt på jorden; men som tidigt blef kastat i lidelsernas ugn, der det nära förbrunnit till stoft och aska Snart har jag intet hjerta mer.
+Hon ville så gerna älska och högakta sin fader; men hon kunde icke detta, då hon tänkte på de ord, som Rosén yttrat om hans lefnadssätt.
+Bort derför med all veklig klagan, alla suckar och tårar!
+Det är derför orätt af pappa att vidare vilja lägga sten på börda, ty hämnden är Herrens.
+Femton år hade förflutit sedan det timade skeppsbrottet.
+Visa dig glad, om det ock skulle svida i bröstet.
+Hon tryckte krampaktigt fadrens hand och snyftade med knappast hörbar stämma:
+Efter den betan återvände han till hyddan och åt i sällskap med Jonas en tarflig måltid, som vanligen bestod af groft rågbröd, fisk och potatis samt tjock maltdricka.
+sade Björner enstafvigt och klappade Jonas med två finger på axeln, hvilket var den första vänlighet han erhållit af den allvarsamme mannen; ty Björner hade aldrig tackat hvarken honom eller fadren för deras åtgörande dagen efter skeppsbrottet.
+Han skref i stället på lediga stunder och sysselsatte sig stundom med att revidera sin kassakista, som stod fastnaglad vid hufvudgärden af hans säng.
+Han pratade jemt och skrattade gerna, men helst åt egna qvickheter.
+Sjön låg i dag så lugn och
+klar som ett spegelglas.
+Det ligger således i godan ro och jag skulle nog fiska upp det med tiden.
+Kronofogden Klämming var en femtioårig ungkarl, liten och undersätsig till vexten, med ett fylligt, skinande anlete och små plirande ögon, hvars färg det icke hade sig så lätt att bestämma, emedan han aldrig höll ögonbrynen stilla.
+Men nej jag vill inte, jag kan inte, ty du är obarmhertig Falska, nyckfulla och stormande haf!
+Alla voro högtidsklädda, emedan de voro ordentligt bjudna, hvilket var den första bjudning som Björner gjort sen han kom till orten.
+Sjelf blef jag kastad i land på en planka.
+– Den afgörande stunden är snart inne.
+2.
+Han satte sig sedan till det dukade bordet, och åt af sill, potatis och groft bröd en bastant frukost.
+GÖTEBORG, 1860.
+Detta hus kallas allmänt för „kärlekens tempel “, emedan en menniskcälskande doktor och doktorinna derifrån hafva spridt en kärleksfull omvårdnad till hela sina omgifning.
+Den dag vardt likväl kommande, då tystnaden och det enformiga lifvet blef afbrutet, genom en stor förändring
+i Björners lefnadssätt och uppförande; en förändring som högeligen frapperade både Jonas och alla hans bekanta, hvilket vi i det följande skola förtälja.
+Björner tycktes dock icke vara särdeles road af hennes smekningar, ty han blef sig fullkomligt lik.
+De rodde sedan af alla krafter, ty mannen blef allt sämre och sämre.
+Jag skall dö af sorg och bedröfvelse, ty jag är en svag qvinna, men jag skall med undergifvenhet tömma den
+bittra sorgekalken, då jag derigenom kan lindra den armes ringa lott.
+Orden voro följande:
+Det hela blef i bouppteckningen värderat till fyrahundrade riksdaler.
+Stunden syntes gynnande.
+– Mina herrar!
+Jonas var honom trogen och tillgifven som en hund.
+– Min berusning varade i tre månader.
+Hulda hade aldrig synts honom så englaren och gudomlig som i dag.
+Hulda lydde uppmaningen.
+Det var ett rundt torn, uppfördt af tegel, tvenne våningar högt, försedt med små, fyrkantiga fönster samt ett slätt tak, der man godt kunde spatsera och njuta af den angenäma utsigten.
+Stormen tilltog med fördubbladt raseri, och som fartyget icke mera lydde rodret, så blefvo vi snart vräkta mot ett skär, der allt gick i qvaf.
+De båda herrarne täflade nu i artighet mot Hulda, som visade sig innerligt tacksam och glad.
+Hon syntes till hela sitt väsende hvit och darrande, som en vattenlilja på vågen.
+Hon var bländande skön som en Juno och majestätligt stolt som en drottning.
+Han lät tapetsera rummen och skaffade sig eleganta möbler samt andra husgerådssaker
+från Carlskrona.
+Han var i jemn rörelse
+hela dagen och stundom äfven om nätterna.
+Länge stod han likväl betagen i den vackra synen.
+– Rysligt, suckade Hulda ånyo.
+Jag slog mig derför på att blifva procentare; men äfven detta gick smått, emedan mitt rörelsekapital var ganska inskränkt.
+Han tvingade aldrig någon och bröt aldrig ett gifvet löfte till hvem det än månde vara.
+Något ditåt måste det säkert vara, ty ingen kunde begripa hvar han annars fått sin rikedom ifrån, då han i början förklarat att han förlorat allt hvad han egde.
+Hon sjönk vanmäktig i sin faders armar.
+Aldrig skall jag ingå på hans hämndplan; jag skall i stället göra den om intet med Guds hjelp.
+Det var midsommarafton.
+– Du är min min för evigt, utropade ynglingen med hänförelse, men tillade i en lågare ton: Nu gäller det handling, mod och beslutsamhet.
+Han var nu en gråhårig, gulblek och mager gubbe; men likafullt rask och rörlig i alla sina vändningar.
+– Skall ske in i bleka döden nådi sekter!
+I hans kalla famn skall du lefva ett jordiskt helfvete.
+Hela bohaget bestod i en båt och litet fiskredskap samt några nödvändiga husgerådssaker i stugans innanmäte.
+Ännu fortfor han med att dagligen uppehålla sig ett par timmar på sjön och söka efter den förlorade kistan; men han brydde sig icke det ringaste om någon fiskhandel.
+Kärlekens Tempel.
+Det skall dock blifva den sista.
+Jern kan inte flyta och silfver kan inte förgås af vatten.
+Min principal och jag blefvo såta vänner.
+Så snart gubben Elg blifvit nermyllad i jorden, infunno sig fyra bröder till Jonas och begärde att få dela arfvet.
+Han förklarade vidare att utan denna förening voro hela hans lefnadsmål förfelat; han skulle med sorg läggas i grafven.
+Jag har försökt att göra dig till viljes, men jag kan inte, jag förmår inte mina krafter svika Haf förbarmande!
+Men hon kände äfven med sig sjelf, att hon efter detta omöjligen kunde utan den djupaste afsky räcka handen åt Klämming.
+– Nej, min vän.
+Med bedröfvadt hjerta anlände han till hemmet, der han af sin kära mamma fick veta, att det redan lyst första gången för det nyförlofvade paret.
+– Du skall först höra mig och sedan råda mig.
+Rosén ledde släckningsarbetet med rastlös ifver.
+Fogden kom emedlertid till stället och höll bouppteckning.
+Björner betalade kontant och hela egendomen var hans.
+Med möda lemnade han platsen och återvände samma väg han kommit, fast besluten att göra om försöket i morgon med bättre framgång.
+Hon reste sig plötsligt upp och yttrade med svärmisk undergifvenhet:
+För att komma in måste man ringa på en klocksträng, då Jonas efter en lång väntan kom och öppnade, sedan han först gjort sig noga underrättad om den fremmandes ärende.
+Förhållandet var troligen detsamma med Hulda.
+Björner gjorde en paus i sitt tal.
+Barn och qvinnor sprungo skrikande fram och tillbaka, försedda med båtshakar och andra verktyg, hvarmed de sökte att fånga allt hvad som var möjligt af de flytande skepps-effekterna.
+Den präktiga byggnaden kallas allmänt „fiskarepinan “, emedan den är murad af enkors och fattiga fiskares svett och möda.
+Det låg så mycken sorg och förtviflan i Björners röst och åtbörder under det han talade, att Hulda icke kunde annat än känna ett djupt medlidande.
+– Res dig mitt barn!
+Vill du neka din fader hans första och sista bön, så må det blifva dervid.
+Min mening var nu att köpa och betala denna egendom.
+4.
+Jag skall icke beklaga mig.
+Rosén lindade sin arm kring hennes veka lif och fortfor:
+På fjerde dagens morgon gjorde Björner och Jonas den vanliga utflykten.
+Det öfriga af dagen tillbringades med att gräfva, hacka och bryta sten på ägorna.
+ropade Hulda och störtade förtviflad in bland bränderna.
+Du har lidit förskräckligt, men du har ifrån första början utgått från en falsk synpunkt.
+I midten af ägorna låg ett litet berg, hvarifrån man hade en tjusande utsigt öfver hafvet och den kringliggande nejden.
+Jag blef nära vansinnig af glädje, och himmelskt glada voro de dagar jag nu upplefde.
+Han sade sig bestämt veta stället der fartyget splittrades, hvarest kistan ovilkorligen måste hafva sjunkit.
+Men denna hämnd har blifvit en fix idé hos pappa, som han ovilkorligen skall sätta i fullbordan om jag icke lyckas föra honom på bättre tankar.
+Ännu mer förundrad blef han när
+Björner på aftonen kom tillbaka med en ung dam, som han omsorgsfullt inlogerade i öfra våningen.
+Hon försökte väl att le, men det var ett leende under tårar, „en sorg i rosenrödt. “ Rosén märkte genast att något ovanligt var å färde.
+Detta i förbigående, och nu till sjelfva saken!
+– Jag har redan en förut, men jag måste väl äfven taga denna.
+Rosén kysste med hänryckning de få orden och begaf sig hem i sängen, men icke sof han något den natten.
+Ändtligen visade klockan på tio, men ingen Hulda syntes till.
+Så kan tiden förändra allt.
+– Dyra, älskade pappa!
+Han började åter:
+Drycken verkade snabbt och säkert.
+Många ville till och med veta, att det hela blott var en dikt.
+Bergen och vågorna höra säkert min röst, men du är döf jag har ropat och ännu en gång vill jag ropa, så att lungorna kunna spricka.
+Detta förundrade Jonas på det högsta; ty det var första gången under de förflutna femton åren, som hans herre besökte någon stad.
+– En förbaskad dråplig flicka mamsell Björner Kan spela upp en gammal ungkarl till att tänka på äkta ståndet, hä, hä, hä!
+Medan mannen sålunda talade lade båten till vid udden.
+Hulda fattade härvid Roséns hand och drog honom sakta intill sig, under det hon såg på honom med en innerlig rörande blick, som göt ett saligt lugn öfver hans svallande känslor.
+Jag sågade ved åt värden för hyran; jag borstade åt resande på ett hotell för maten, och jag förde räkenskaperna åt en skräddare för kläderna.
+– Men mörksens makt är stor Du skall duka under och inom några dagar vara Klämmings maka.
+De måste sälja egendomen, och hafva sedan den tiden varit inspektorsfolk på stället.
+Den tredje våningen var ännu obebodd, men snart fick äfven den sin gäst.
+Snart var han likväl på den bestämda mötesplatsen, der Hulda redan väntade honom.
+Du begriper den icke sjelf och derför är det min skyldighet att
+handla I öfver trettio år har jag kämpat, lidit och arbetat för ett visst ändamål, som jag först genom denna förening kan hinna Skola då alla mina mödor stranda mot en qvinnas pjunkighet?
+Han klagade sin nöd för Björner, som endast skakade på hufvudet och teg.
+Detta gaf honom anledning till att med blyerts teckna några ord på ett papper, det han i ett lyckligt ögonblick fick tillfälle att sticka henne i handen.
+Björner makade sig närmare Hulda, som satt med nedlutadt hufvud, och fattade hennes hand i det han hviskande sade:
+Gubben ville aldrig vara ensam med Björner på sjön och han ville icke heller att Jonas skulle vara det.
+Jag längtade till hans möte och han emottog mig med öppna armar.
+– Jag måste O, hvad jag är olycklig!
+– De äro alla i lä, ty så många lik äro hittade, svarade gubben med en suck.
+Sedan är du förlorad.
+Jag skulle icke sagt dig den bittra sanningen om det icke varit nödvändigt.
+– Så är det verkligen, återtog Rosén.
+Hvad Björner uträttat på denna tid till ställets förskönande var verkligen förvånande, då man besinnar att han aldrig hafvit något annat biträde än Jonas.
+Med klappande hjerta och oroliga steg gick den eldige ynglingen fram och åter i den lilla löfsalen.
+Lik en väldig snöpelare reste det sig öfver topparne på de omgifvande träden, så att det var synligt vida omkring.
+Jonas följde sedan med honom ut till skäret, der de dagligen uppehöllo sig några timmar och drogo not efter den förlorade skatten, som aldrig ville komma i dagen.
+Det är min pligt och skyldighet.
+De älskande gåfvo hvarandra en varm handtryckning och skiljdes.
+Det var en dumhet som jag dyrt fått betala.
+Han vandrade med häftiga steg och feberglödande kinder fram och åter på stranden, för att invänta den stund då Björner skulle lägga ut med sin båt.
+Himmel, haf och menniskor!
+Han begagnade sina penningar som en handelsvara, den de mot reverser fingo tillbyta sig eller låta bli.
+Den sednare satt midt emellan de båda männen, lik en alpros emellan tvenne mosslupna trädstammar.
+De lagade sjelf sin mat och bestyrde om sitt hus, som var snyggt och ordentligt till sina minsta delar.
+– Så mycket bättre, men nu till saken.
+– Jag skall försöka, hviskade Hulda ånyo och lättade sitt betryckta bröst med en djup suck.
+Detta har jag svurit och en man ryggar aldrig sin ed Du har nu hört mitt beslut; låt mig äfven höra ditt!
+Har du sedan mod att motsätta dig min önskan, så är det icke af mitt blod som rinner i dina ådror.
+Framtiden skall vidare bestämma vårt handlingssätt Det värsta blir hur du skall komma ut vid den bestämda tiden; men jag vet att Klämming kommer hit i morgon afton och att gubbarne med säkerhet skola hafva en toddy.
+– Rysligt mer än rysligt!
+– Det tror jag inte.
+Rosén bröt ändtligen tystnaden och sade:
+Han får inte mer suga och plåga det arma folket.
+Björner kallade sitt ställe för Baldershage och byggnaden för Jungfrutornet; men allmogen gaf den det betecknande namnet: Fiskarepinan.
+– Likaledes, brummade Klämming.
+Så förflöt hösten och hela den långa vintern.
+Han var ovanligt språksam och den artigaste värd man kan tänka sig.
+Han knöt krampaktigt sin högra hand mot det oroliga hafvet och de sysselsatta menniskorna, under det han med en dof stämma höll följande monolog:
+I nästa ögonblick bars
+hon sanslös derifrån af Rosén, som lade sin ljufva börda aktsamt neder på den mjuka mossan under en ek, der han snart väckte henne till lif med sina kyssar.
+Herrarnes förvåning öfvergick dock snart till beundran, då de närmare betraktade det okända föremålet; ty Hulda var en ovanligt vacker flicka.
+Det var kronofogden, kandidaten och församlingens prest.
+Hulda njöt med barnslig förnöjelse af allt det sköna som här uppenbarade sig för hennes blickar.
+– Sådan var den hämnd jag i tjugo år föresatt mig att utöfva.
+– Känner du din far, det vill säga, har du dig hans lefnadsöden närmare bekanta?
+Saken tog dock snart en annan vändning.
+Jonas var outtröttelig och detsamma var händelsen med Björner.
+Jag vill efter detta njuta af lifvets nektar; hittills har jag endast smakat dess galla.
+– Fader!
+„Jag väntar dig! “
+Under tiden uppträdde jag äfven som sakförare, hvilket var den mest lönande af mina sysselsättningar.
+Båda voro försedda med höga portar, som alltid voro stängda.
+Den enes död är den andres bröd är ett gammalt ordspråk, som har sin fulla sanning vid sådana tillfällen.
+Rosén fick en tacksam blick.
+försäkrade Jonas och lyfte sina ärliga ögon mot höjden, likasom han velat taga himlen till vittne på sina ord.
+Sedan kaffe var drucket tog Björner sin dotter under armen och sällskapet begaf sig ut i den leende trädgården, som stod klädd i sin skäraste grönska, ty det var i slutet af Maj.
+Halfva sommarnätterna sutto vi i trädgården och lyssnade till näktergalen, under det vi njöto dessa herdestunder, som ingen dödlig kan beskrifva.
+Hur det gick med besättningen, hvilken var sju man högt, känner jag icke, emedan stormen och mörkret hindrade mig att höra och se.
+Hon blef ifrån den stunden liksom gladare till sinnes.
+Skall jag här förgås af köld och hunger som en usel hund?
+Med en fast vilja och tro kan man försätta berg.
+Hulda var den älskligaste flicka jag sett.
+Du måste lyda, äfven om det skulle vara en uppoffring, ty dina qval äro ett intet mot de själsmarter och försakelser jag i långa år har lidit.
+Det är icke utan en vigtig orsak, jag tagit mig den friheten att invitera på ett glas i afton.
+Hvarje träd och blomma väckte hennes uppmärksamhet och beundran.
+– Älskade Hulda!
+Jag skulle betala med samma
+mynt.
+Baldershage var på alla sidor omgifvet af en hög stenmur och i öfrigt bevarad som en fästning.
+Med de gamla kläderna lade han bort allt umgänge med fiskarne och alla sina gamla vanor.
+De sågo på hvarandra och deras hjertan afspeglade sig i blicken.
+Det måste så vara.
+Aldrig har jag hvarken förr eller sen sedt sådana ögon.
+Jag skulle derigenom visa den öfvermodiga huru orätt hon gjorde, då hon försköt mig.
+Hon föll derefter på knä vid hans fötter, sammanknäppte sina händer och yttrade med en bedjande stämma:
+genmälte sekter Björner i en sträf ton.
+Trösta mig heldre i denna stund; ty jag är djupt förkrossad.
+Plötsligt öppnades hoppets portar.
+Folket betraktade förstörelsen med blandade känslor.
+Många voro af den tanken att han hittat sin jernkista, som var full af silfver och guld, men Jonas svor på att detta icke var händelsen.
+När fogden och studenten den följande dagen kommo på besök, så blefvo de temligen storögda, då Björner kom emot dem med en ung flicka vid armen och yttrade:
+Han hyrde sig plats hos de båda fiskarne, under föregifvande, att han icke ville lemna orten förrän han funnit den förlorade kistan.
+Tänk på mitt långa lidande och fatta ditt beslut.
+Detta gladde i hemlighet Björner.
+Rosén vände sig om för att gå, men Hulda hejdade honom med en vältalig blick, som sade mer än tusende ord.
+– Omöjligt!
+Hon fasade likväl vid den tanken att fly, och ju närmare den afgörande stunden nalkades, desto oroligare och tveksammare blef hon.
+11.
+Hvarför slöt du icke äfven mig i dina vredgade armar, då du skoningslöst röfvade allt hvad jag egde?
+Båda voro intagna i den unga lefnadsglada flickan, som förekom dem som en skön uppenbarelse från en annan verld.
+Hon var också på det hela ett barn, ty hon hade nyligen fyllt sjutton år.
+Jag ackorderade in dig i ett aktadt borgarhus och rustade mig i ordning för att hämnas, enligt följande plan:
+Den stenbundna marken var förvandlad till en leende trädgård med slingrande gångar, doftande blomsterrabatter, lummiga bersåer och löfrika alléer, som inhägnade det hela.
+Jag trodde min lycka för alltid befästad.
+Det vissa är emedlertid att du aldrig bör blifva Klämmings maka.
+Jag åberopade min kärlek och framtiden, men hon log åt båda delar och vände mig föraktligt ryggen.
+Hela hennes väsende bar en prägel af barnafrom oskuld, som tydligen afspeglade sig i alla hennes rörelser.
+– Hårda öde!
+Björner lät massan prata och inredde sitt torn på ett komfortabelt sätt.
+Hennes svarta hår var ett glänsande nät kring en doftande rosengård och hennes bruna ögon tvenne brännspeglar, som hade skallerormens tjusblick.
+Qvällen förflöt med lust och gamman.
+frågade han.
+Det gafs återigen andra som bedyrade att han var en trollkarl, som stod i förbund med hin onde och hafsfrun, ty de hade sjelfva sett att han hvarje morgon var ute och fiskade upp mynt från hafvets botten.
+På den omnämnda bergkullen reste sig en egendomlig byggnad.
+Min moder mistade jag i vaggan och min far vet jag mig aldrig ha sett förrän jag kom hit.
+En af sjömännen måste bära honom i farkosten.
+Ingen visste huru krutet blifvit antändt.
+Björners båt låg förtöjd vid land; han tycktes hafva öfvergifvit sina sjöfärder.
+Han sökte att utforska det i Huldas anletsdrag; men han märkte tydligen att hon undvek honom, och detta stegrade hans nyfikenhet.
+De gräfde, sprängde sten och murade.
+Och om jag härutinnan icke lyckas, så skall jag stå vid hans sida som en god engel och förmildra hans hårda handlingar.
+Björner reste sig hastigt vid de sista orden och gick med häftiga steg några slag öfver golfvet.
+Jag nyttjar denna benämning, ty ända ifrån första stund jag såg dig, har mitt hjerta
+brunnit för dig; men aldrig har jag vetat det bättre än nu.
+Björner uttalade den sista meningen med en röst, som lät så hemsk och förtviflad att Hulda bäfvade dervid.
+Man måste smida medan jernet är varmt, var den grundsats som han i sin fulla bemärkelse ville göra gällande i denna sak.
+Jonas, som vid tillfället varit ute i något ärende, hvarigenom han blifvit räddad, försäkrade att sektern sjelf på eftermiddagen varit nere i källaren med ljus och lyckta, då han förmodligen sig ovetande lagt grunden till olyckan.
+För femton år sedan kom han hit som skeppsbruten, icke ägande mer än kläderna på kroppen, och han är likväl i närvarande stund en svåra riker man.
+Du är ren och oskyldig, derför måste du veta allt Har du mod att höra mig?
+– Farväl då med lycka, sällhet och allt som fröjdat mig någon tid Jag trodde du älskade mig; men min villa är skingrad farväl!
+Men denna stund ville icke komma.
+På detta berg, som egentligen var en stor kulle, började Björner sitt arbete.
+Dessa kommo vanligen på besök en gång i veckan, då de tre herrarne roade sig med att dricka toddy och spela vira.
+Vid de sista orden reste mannen sig upp och kastade ännu en spejande blick omkring sig.
+Hela sitt lif har han tillbringat i möda och försakelser, endast för att utöfva en hämnd, som är föga ädelmodig.
+Hans lära är denna:, .Förlåt, så varder dig förlåtit! “ Gud är stor i nåd och
+Penningen och ett godt bord äro de enda gudar han dyrka.
+En lång paus uppstod.
+Presten höll ett blomstrande lyckönskningstal; men kandidaten bara teg och drack.
+Din far är verkligen besynnerlig.
+Vid dessa tillfällen hände det stundom att Jonas hörde sin herre skratta och prata.
+Så hade en månad förflutit i den nya boningen, då Björner en morgon begaf sig till Carlskrona.
+7.
+Han tyckte likväl om en liten wira emellanåt och fann sig deraf föranlåten att hålla god mine i spelet.
+Bergningen var således förenad med stor fara, men detta bekymrade föga de raska sjömännen; ty fångsten var ganska lönande.
+Vattnet droppade ifrån hans kläder och obetäckta hufvud, liksom han nyligen kommit ur det våta elementet, hvilket troligen var händelsen.
+På en bördig landtunga vid en spegelklar vik i Blekinges leende skärgård, ligger ett litet trefligt fiskläge, som bär det gamla romantiska namnet Balderslund.
+Snart hade jag den beräknade summan i min kassakista.
+Rosén kunde knappast styra sin längtan.
+Tidigt från morgonen till sent på qvällen voro tjogtals båtar och menniskor i rörelse på den anvisade punkten.
+Hans blickar hvilade med en viss förnöjelse på båda delar och hans allvarsamma ansigte var mildare än vanligt.
+Björner mottog honom med ett leende, likasom ingenting hade passerat, men Hulda satt fördjupad i tankar.
+Björners fiskarhydda var belägen under en stor ek vid sjelfva hafsstranden.
+Båda blefvo förskräckta.
+Under en stor hög af aska och murbruk framdrog man slutligen tvenne förbrända lik, samt en öppen kassakista, till hälften full af falaska.
+Hennes trolöshet plågade mig mindre än det kalla hån och förakt, hvarmed hon stötte mig tillbaka.
+Man har af denna orsak kallat mig en hård menniska, en procentare, hvilket jag äfven varit, men endast för att hinna min bestämmelse.
+Jag hade mina hundratusende riksdaler i reda silfverpenningar förvarade i min lilla kassakista, Jag ville ha denna myntsort på det att Estrids stolta ögon skulle studsa af förvåning vid betraktandet af den blänkande skatten.
+Han visste dock snart att beherrska sig, och talade nu i en lugnare ton:
+Han fordrade denna förening, som utgör min afsky.
+Men ingen lyssnar till mina rop och snart orkar jag intet mera Fördömda stund då jag fick det infallet att förtro mig åt hafvet, som är lika trolöst som hon Hon – den stolta öfvermodiga, som förgiftat hela mitt lif; men som jag inom några dagar skulle fullkomligt qväft och förödmjukat Allt är dock nu förbi!
+Men länge varade icke deras lycksalighet.
+I eftermiddag blef det likväl intet spel.
+Båda voro starka och ihärdiga.
+De älskande släppte hvarandra och ilade till tornet, hvilket stod i ljusan låga.
+De nyttjade alla möjliga redskaper, och lyckades äfven att upptaga åtskilliga kokkärl och smärre jernstycken, som tillhört det förolyckade fartyget; men det de egentligen sökte var icke till finnandes.
+Äfven som hans maka skall jag med Guds bistånd icke gå förlorad.
+Traditionen vill veta, att här i fordna dagar varit en mäktig handelsstad, som blomstrat och florerat ända tills i början af femtonhundratalet, då den blifvit plundrad och ödelagd af den bekante sjöhjelten Severin Norby, som en längre tid skall hafva legat förtöjd i viken med sin röfvarflotta.
+Äfven du må draga dina slutsatser, mitt barn!
+Det torn, som Björner hade murat med tillhjelp af hatets och hämndens furier,
+ramlade snart i grus; men den luftiga boning, som fridens genier hafva timrat på ruinen, har blifvit ett kärlekens tempel, som aldrig skall falla i glömska hos en tacksam efterverld.
+I en lycklig stund yppade jag min böjelse, ty den blef besvarad.
+Ännu en månad hade förflutit.
+yttrade Björner med stark tonvigt på de sista orden.
+1.
+Du är offer för en nedrig anläggning; men misströsta icke!
+Han sjönk derför modfälld neder på en sten, gömde ansigtet i sina händer och mumlade med bruten stämma:
+– Aldrig, min älskade, återtog Hulda med sin ljufvaste stämma.
+Arbetstimmarne och göromålen voro följande:
+– Mitt namn är Björner.
+Stunden var kommen, verktygen voro färdiga och mitt hjerta jublade af fröjd.
+Vare sig med detta hur som helst.
+Du älskar mig icke, du tror mig icke, du är öfvertalad, bedragen och förvillad; men jag skall likafullt rädda dig kom!
+Jag visste att du skulle vara ung och vacker, hvilket jag anförtrodde åt vännen Klämming, den enda som har reda på mina affärer.
+Han var isynnerhet mycket noga med arrangemangerna i tredje våningen, hvilken han inredde till en riktig jungfrubur.
+Allt gick raskt undan för de båda männen, som arbetade med en ifver utan like.
+Jag känner hafsfrun från gammalt; hon lemnar sällan någon skatt tillbaka som hon en gång fått i sina klor.
+I sitt uppförande var han höflig, men allvarsam och fåordig.
+Björner gaf slutligen offentlighet åt sin förlust och fördubblade den utlofvade hittelönen.
+Några minuter sednare kom Klämming.
+Jag knäföll vid hennes fötter och tiggde om ännu en kärleksfull blick, men hennes sköna ögon hånlogo.
+– Det är bra, sade Björner till Jonas.
+Jag har sedan ett år upphört med hoppet att finna den, och derföre tänkt ut ett annat medel
+för att få den bestämda summan full på en genare väg, emedan jag brinner af otålighet att fullborda mitt förehafvande.
+Studenten, eller rättare sagt medicine kandidaten Rosén, var en lång, smärt yngling, rask och liflig i hela sitt väsende.
+Ingen var dock så lycklig som Klämming.
+Dessa formaliteter ville icke Rosén i dag efterkomma.
+Jag blef genast inskrifven som extra ordinarie i kammarrätten, der jag arbetade natt och dag för att komma fram på tjenstemannabanan.
+Mera hann han icke under första året, emedan han samtidigt lade en grof
+stenmur kring ägorna, dem han äfven försökte att odla och rödja.
+Haf derför förtroende till mig!
+På detta sättet hjelpte han de fattige fiskarne i nödens stund.
+ty intet menskligt bröst kan ana fjerdedelen af de qval jag lidit under nära fyratio år.
+Björner såg med hemlig förnöjelse, att hans dotter gjorde ett angenämt intryck på herrarne, hvilket äfven var händelsen.
+Om en bom kreverat vid Roséns fötter kunde han intet blifvit mera förvånad än öfver dessa ord.
+Rosén smög omkring i trädgården och var dagligen ett stumt vittne till Klämmings kärlekspjoller, som han omöjligen kunde hindra; ty han fann att Hulda var bevakad af fadrens skarpa argusögon.
+Jag lemnade för åtta dagar sedan hufvudstaden såsom passagerare på briggen Thor, förd af kapten Asplund
+och destinerad till Malmö med rysk hampa, tjära och talg.
+Hvad det kan vara är icke lätt att begripa, emedan han är outgrundlig i alla sina handlingar.
+5.
+Han refvade seglen, kapade masterna och fyrade ankar; men allt var förgäfves.
+Denne blef utom sig af glädje.
+Under denna tid har icke ett spår varit synligt af den fordna fiskarepinan, ty ett litet prydligt och luftigt hus har intagit platsen.
+Fogden och en ung student voro de enda som han umgicks med.
+Allt var förloradt!
+Han gick slutligen att öppna.
+Jag ville i början icke tro att hon menade allvar, och då jag blef öfvertygad att så var händelsen, besvor jag henne vid allt hvad heligt är att afstå från sitt förehafvande, emedan jag derigenom skulle blifva olycklig både för tid och evighet.
+Fadren visade mig formligen på dörren.
+– Tack mitt barn Nu finner jag att „du är ben af minom benom; “ ty en Björner kan med styrka bära sitt öde och besegra detsamma.
+Men hon tycktes vara ett gladt och godt barn, som erhållit en vårdad uppfostran.
+Klockan hade icke ännu slagit nio på aftonen, men likafullt rar Rosén på mötesplatsen och hade allt i ordning för flykten.
+Alla hennes lefnadsomständigheter äro mig bekanta.
+KÄRLEKENS TEMPEL.
+– Stackars Hulda!
+Deras första tanke var på Björner.
+Hulda svarade intet, men hon slöt sig intill ynglingens sida med en hängifvenhet som var omisskännelig.
+Som en man skall jag betvinga ödet och bringa mitt förehafvande till ett lyckligt slut jag vet ju hvar min skatt är förvarad och mera behöfves icke för min lycka.
+Ditt skall dock blifva ljuft.
+Stormen lade sig småningom, men ännu gick hafvet i starka dyningar.
+Han fattade åter Huldas hand och yttrade:
+– Jag kan inte, afbröt Hulda.
+Rosén studsade af förvåning och släppte sitt ljufva famntag.
+– Min olycklige far!
+hviskade Rosén och slöt Hulda krampaktigt i sin famn.
+Hon beslöt likväl att våga ännu ett försök.
+Det var Björner, Klämming och Hulda.
+Rosén var enda sonen af framlidne prosten i församlingen och bodde för närvarande hos sin mor i grannskapet.
+Du skall aldrig blifva Klämmings maka.
+– Hvad skall jag säga?
+Med hemlig förnöjelse såg han dock att Hulda var mer än lofligt besvärad af sin fästmans klumpiga artigheter.
+Värden helsade sina gäster välkomna, men värdinnan var tyst och sluten.
+PEHR THOMASSON.
+– Herren är mäktig i de svaga.
+Det var en hemsk, en ryslig, en förbannad stund.
+Jag fick sköta tjensten, den jag inom några månader blef förordnad att på egen hand förestå.
+Man har ej i öfrigt något att förebrå honom i allmänna lefvernet, om man undantager vissa trakasserier med en del sämre folk, såsom de båda karlarne vi nyss sågo.
+Vid tre års ålder blef jag inackorderad hos en fru i Stockholm, der jag lefvat hela min tid och åtnjutit en god uppfostran, genom min fars omvårdnad.
+Jag var en frisk och lefnadsglad student, som hufvudsakligen genom egen förtjenst tagit mig fram i verlden, emedan mina föräldrar voro ett tarfligt klockarfolk, som föga eller intet kunde bispringa sin son.
+Under sådana omständigheter hade minst en halftimma framskridit, då det plötsligt prasslade i löfven och Hulda stod bäfvande framför hans blickar.
+3.
+Han var i få ord en hemlighetsfull gåta, som gaf anledning till många förunderliga sägner bland folket.
+Det låg dessutom något manligt och mystiskt i hela Björners väsende, som hade ett mäktigt herravälde öfver Jonas.
+Efter en stormig Oktobernatt 1821 blefvo Balderslunds innevånare på morgonstunden varse en af dessa fasansfulla scener, som icke så sällan inträffa under den mörkare årstiden vid våra stenbelagda kuster.
+Hon hade nyttjat samma medel med fadren, som blifvit vred och förargad.
+Vid denna tidpunkt dog din mor.
+Han sammandrog de buskiga ögonbrynen och sammanbet tänderna; men intet hotfullt eller hopplöst ord kom öfver hans läppar.
+– Det är bra!
+Han var annars ingen beundrare af „penga sektern “, som han ansåg rätt och slätt för en hjertlös procentare.
+Hon svor mig en evig trohet, och eden beseglades med kyssar, som ännu bränna på mina läppar likt glödande eldkol.
+Det största värdet låg i besittningen af stugan, emedan den var omgifven af tre tunneland såkallad kronojord, som för evärdeliga tider hörde till stället.
+Det var ett grymt misstag!
+Klämming är en dålig karakter, en hjertlös menniska, som har med rätt och orätt roffat till sig en stor förmögenhet; det enda han njuter anseende för.
+– Visserligen Men hör mig först och du skall icke dömma så hårdt.
+Rosén hade sett nog.
+Ingen var fullkomligt säker på sin sak, men alla kommo öfverens om att främlingen var en besynnerlig menniska, som det icke var godt att utgrunda.
+Sjelf blef jag halfdöd kastad på en naken klippa.
+Ingen qvinlig varelse fanns i deras hydda.
+Han klädde sig som simpel sjöman, lefde och arbetade alldeles som fiskarne sjelfva.

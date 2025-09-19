@@ -1,0 +1,101 @@
+# ID: svediakorp-sec991
+# author: 
+# pseudonym: 
+# translator: 
+# title: Nyttan af motgångar
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-11-22
+# sourceDescription: Retrieved from Språkbanken's collection 'Svensk prosafiktion' (Swedish prose fiction). The order of the sentences is scrambled, due to copyright issues.
+# genre: prose
+# subgenre: fiction
+# location: 
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1800
+# editor: 
+# publisher: 
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Språkbanken (https://spraakbanken.gu.se/)
+# retrieveFormat: XML
+# annotation: tokens, lemma, POS, morphology, syntax, named entities
+# annotationMethod: automatic
+# words: 1,545
+# sentences: 58
+# sentenceOrder: scrambled
+# URL: https://spraakbanken.gu.se/swe/resurs/spf
+# cite: 
+# availability: CC-BY attribution (https://creativecommons.org/licenses/by/4.0/)
+
+
+Han tillät icke sina spelmän komma för sina ögon, utan lyssnade på de ängsliga midnatts-foglarnas skrän, som flögo genom pyramidernas hwalf och genljudande kamrar.
+Han såg då ett skepp anlända till den obebodda ön.
+Fursten fick genast se ett präktigt palats, beprydt med hans förfäders bildstoder, uthuggna i jaspis.
+ropade Bozaldab, låt icke denna usling blifwa ett rof för wilddjurens raseri. ” – ” War tyst!
+men wänd nu dina ögon till ett annat och dig mer rörande uppträde. ”
+Kan en dödlig wara nog tanklös och djerf att bjuda till se in i den Ewiga Wishetens djup?
+I samma ögonblick upplyftade han sin hand, hwilken Förtwiflan hade bewäpnat med en dolk, hwarmed han i raseriet wille döda sig sjelf, då hasteligen täta ljungeldar foro genom gråttan, och en warelse af öfwermensklig skönhet och storlek, klädd i azurfärgade kläder, beströdde med amaranter, och hållande en palmqwist i sin högra hand, höll den bäfwande Furstens arm tillbaka, och med ett majestätiskt småleende sade: ” Följ mig till detta bergets högsta spets. ”
+Palatsets elfenbensdörrar, widöppna och hängande på hakar af fint guld, wisade en thron af diamanter, omgifwen af femtio nationers Höfdingar, och med Ambassadörer i åtskilliga drägter och af olika utseende.
+Palatset, som nyligen wisade sig i all Österländsk prakt, förwandlades nu hastigt i ett fängelse, der hans son låg utsträckt på bara golfwet med kafle i munnen, och bunden samt med utstungna ögon.
+Bozaldab, stadd i förwirringen af sin sorg och misströstan, nekade återwända till palatset, och drog sig in i den mörkaste gråtta på det närbelägna berget, der han wältrade sig i stoftet, ref hårstrån utur sitt wärdiga skägg, och bortkastade den tröstebägare, som tålamodet räckte honom.
+Han, som j föregifwen, regerar i himmelen, är så långt ifrån att beskydda de usla menniskors barn, att Han beständigt roar sig med att fördärfwa de ljufwaste blommor i hoppets trägård, med
+sin wredes jernspira.
+Deruppå såg han prinsessan, som förut satt wid hans sida, inkomma med en giftbägare, hwilken hon förmådde honom att utdricka, och gifte sig sedermera med hans efterträdare i regeringen.
+sade Engeln, och betrakta hwad du ser! ”
+Nyköping,
+Hans fel war girighet, hwarigenom han blef icke allenast wederstygglig utan ock olycklig; han föreställde sig rikdom såsom medförande en mäktig tjusningskraft, som, lika med Abdiels staf, kunde förnöja allas önskan och förekomma all fara.
+Jag will icke längre qwarblifwa på ett sådant ställe! ”
+af
+Under det Engelen talade dessa ord, sträckte han ut sina wingar för att återfara till himmelen; och hans wingars fladdring liknade dånet af ett stort wattenfall.
+” Kan himmelen tillåta en sådan orättwisa?
+ropade Bozaldab. ” – ” Se widare!
+praten ej widare för oss om den alltstyrande och alltälskande Försynens godhet och rättwisa!
+kunna de kanaler du låtit gräfwa för att emottaga Nilflodens öfwerswämningar, inrymma werldshafwets watten?
+” Se ned härifrån!
+Förbyt nu din klagan i stillatigande, dina twifwelsmål i tillbedjande.
+” Lycklig sade Caloe, är den, som Försynen låtit dödens engel bortrycka ifrån brott och olyckor!
+Den mannen som har din medömkan, skall blifwa frälst ifrån denna torra ödemark; men icke på det sätt, som du kan föreskrifwa.
+Moralisk Historia.
+” Kasta bort dolken, sade det himmelska Sändebudet, som du höll på att störta i ditt eget hjerta.
+Bozaldab, Egyptisk Furste, hade i många år bott ostörd i nöjets sidentält, och hwarje morgon smort sitt hufwud med glädjens olja, då hans enda son Aboram, för hwilken han fullproppat sina skattkamrar med guld, utwidgat sina länder genom eröfringar, och försäkrat sig om deras besittning genom oöfwerwinneliga fästningar, hasteligen på en jagt blef sårad af en pil från en okänd hand, och deraf dog på stället.
+Han
+kastade då ifrån sig en ask med juweler på marken, såsom småsaker af intet wärde, och kröp swag och bäfwande upp på en höjd, hwarest han hwarje afton plägade sitta, för att afbida solens nedgång, och gifwa tecken åt något skepp, som händelsewis kunde komma att nalkas ön.
+från hwilka förfärliga olyckor har icke min son blifwit bortryckt genom en en död, som jag obetänksamt ansåg wara olycklig och förtida; men likwäl är en död i frid och oskuld, som har gjort hans namn wälsignat på jorden, och upplyftadt hans ande öfwer skyarna. ”
+” Nådige Gud!
+Om denna Warelse ägde den godhet och den makt, som smickrande Prester föregifwa, så skulle Han utan twifwel wara benägen och mäktig att undanrödja allt det onda, som gör werlden till ett olycksfängelse, en fåfänglighets och plågodal.
+tryckt hos P. Winge, 1800.
+Lögnaktige Prester!
+” Kan den Guden wara god, ropade han, som på detta sätt sårar själen från ett bakhåll, med oförwäntade pilar och sorger, och i ett ögonblick krossar sina kreatur med obotliga plågor?
+Denna rikdom har han nu fått lära ej allenast att förakta, utan ock att anse med fasa: han kastade sina juweler på marken, och tillstod dem wara onyttige; han tillböd sjökapitenen hälften deraf, och fann dem wara fördärflige; han har nu omsider lärt, att de göras nyttiga eller skadliga, goda eller onda, endast genom ägarens sinnes författning och tänkesätt.
+inbilla dig icke att kunna handleda hela werldsrymdens Styresman i sin disposition af händelser.
+lycklig, om han aldrig kommer till ett wälde, hwilket han, såsom innehafware deraf, skulle missbruka till andras förtryck, och derigenom öfwerhopa sig sjelf med ännu större uselhet, än han kunnat tillfoga andra. ”
+Nyttan
+swarade Engelen, och betrakta, huru som samma skepp, i hwilket du kortsynte önskade se köpmannen stigen om bord, nu mera är sönderslaget mot en klippa: hör du icke det sjunkande sjöfolkets rop?
+det är min son, ropade Fursten, o låt mig få trycka honom till mitt bröst! ” – ” Du kan icke med dödliga händer omfatta en andelig warelse,
+swarade Engelen: jag håller nu på att wisa dig, hurudant din sons öde hade blifwit, om han fått längre lefwa på jorden. ” – ” Och hwarföre inwände Fursten, fick han ej fortfara att blifwa här?
+” Det är nog, ropade Bozaldab; jag tillbeder Allwetenhetens outransakeliga wägar!
+Han gret och bäfwade, han bad och beswor dem att hjelpa sig; men förgäfwes.
+” O himmelska Warelse!
+Lycklig den, som motgången har lärt wisdom!
+Bozaldab öppnade ögonen och såg en ofruktbar, qwalmig och obebodd ö, midt på hwilken satt en blek, mager och spöklik figur: det war en köpman, på wägen att dö af hunger, och beklagande att han hwarken kunde finna wilda bär, eller någon enda springkälla i denna förlorade och obebodda öken, och anropade Himmelens beskydd emot Tigrarna, som eljest wisserligen skulle uppsluka honom, sedan han ej mera hade en enda bit fnöske qwar för att slå eld och genom uppgjorda eldar afskräcka dem.
+hwarföre fick icke jag blifwa ett gladt wittne till så mycken lycka och makt? ” – ” Beskåda det som nu följer, ” swarade han, som bor i femte himmelen.
+På thronen satt Aboram, Bozaldabs ömt begråtne son, och wid hans sida en prinsessa, skönare än en odödlig.
+sade den wördnadswärde Ledsagaren, jag är Caloe Fridens Engel; se ned härifrån i dalen! ”
+kan ett förnuft, som icke ser oändeligen, fullkomligt begripa någonting ibland en oändelighet af föremål, som hafwa inbördes förbindelse med hwarandra?
+Hwilka ord skulle kunna beskrifwa den uthungrade köpmannens förtjusning, när Kaptenen erböd sig att hemföra honom till sitt fädernesland, om han derföre fick hälften af hans juweler; men knappast hade denne obarmhertige skeppare emottagit den ackorderade summan, än han med skeppsfolket kom öfwerens att bemäktiga sig jemwäl de qwarblifna juwelerna, och lemna den olycklige främlingen i samma usla belägenhet, som de hade träffat honom.
+Bozaldab öppnade åter ögonen och såg sin sons ansigte, hwaruti han war wan att finna enfaldens behagliga småleende och helsans lifliga färg, nu mera stundom förwrängt af raseri, och stundom utmärkande dryckenskapens känslolöshet: det lifwades åter af förakt, bleknade af fruktan, och sågs wissnadt af omåttlighet: hans händer woro bestänkta med blod, och han darrade skiftewis af raseri och förskräckelse.
+Motgångar.
+kom ihog att fullkomlig lycksalighet ej kan tilläggas ett kreatur; ty fullkomlig lycksalighet är en egenskap, lika så omeddelelig, som fullkomlig makt och ewighet. ”

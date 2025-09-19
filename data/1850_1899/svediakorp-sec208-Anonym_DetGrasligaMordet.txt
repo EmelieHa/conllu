@@ -1,0 +1,300 @@
+# ID: svediakorp-sec208
+# author: 
+# pseudonym: 
+# translator: 
+# title: Det gräsliga mordet på Joh. Sofia Dahlberg i Södra Teaterhuset den 28 september 1875. Jemte hennes lefnadsbeskrifning och porträtt
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-06-14
+# sourceDescription: Etexten har framställts av David Wistrand, student inom masterprogrammet i Digital humaniora vid Göteborgs universitet, vt 2018.
+# genre: prose
+# subgenre: 
+# location: Stockholm
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1875
+# editor: 
+# publisher: Aktiebolaget Forsete
+# digitisationMethod: OCR with manual post-correction.
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Litteraturbanken (https://litteraturbanken.se/)
+# retrieveFormat: ePub
+# annotation: tokens
+# annotationMethod: automatic
+# words: 5,950
+# sentences: 303
+# sentenceOrder: original
+# URL: https://litteraturbanken.se/txt/epub/Anonym_DetGrasligaMordet.epub
+# cite: 
+# availability: CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+
+
+
+
+
+
+
+MORDET
+
+
+Ett mord å en qvinna har nyligen i hufvudstaden begåtts, som på det högsta upprört allmänheten. Det är icke ett mord af vanlig slag. Det är ett med djefulsk list uttänkt och med djefvulsk grymhet utfördt sådant. Det är ett till alla detaljer på förhand beräknadt.
+
+Mordet är med djefvulsk list uttänkt.
+
+Mördaren har begagnat sig af alla de omständigheter, som voro gynnsamma för utförandet af det hemska dådet. Han väntade till dess huset, i hvilket Johanna Sofia Dahlberg, bodde, vid flyttningstiden var för tillfället nästan obebodt. Obehagliga möten undvek han derigenom; offrets skrik — om sådant komme att höjas – skulle ej höras af några menskliga öron mer än hans. Han synes ha förstått att innästla sig i förtroende (egde han det redan förut?) hos den, hvilken han utsett till sitt offer. Han blef frivilligt insläppt (så antaga vi) i dess bostad. Johanna Sofia Dahlberg insomnade måhända vid åsynen af den, som skulle bli hennes mördare ...
+
+Mordet blef med djefvulsk grymhet utfördt.
+
+Det är ett lönnmord af rysligaste slag. Mördaren har ej, så att säga, öppet framträdt, hotat att taga och tagit Sofia Dahlbergs lif. Han har låtit henne insomna i fullaste förtroende till den, som stunden derefter handlöst och obarmhertigt skulle störta hennes själ i evighetens djup...
+
+När allt var tyst omkring honom, när hon somnat in, oförmögen att försvara sig, började mördaren sitt gräsliga verk ...
+
+Sedd af ingen, i den mörka nattens stillhet, fäster han snaran oförmärkt omkring hennes hals. Hon gör måhända några rörelser, men vaknar ej ...Sedan han gjort sig noga försäkrad om, att snaran är i ordning, tilldelar han den sofvande med något tillhygge ett starkt slag vid ena tinningen. Detta gör han för att hon skall döfvas; hon kunde annars möjligen vid snarans åtdragande vakna upp och en, låt vara kort, men förtviflad, strid blifva följden ...
+
+I och med slaget vid tinningen, drager han häftigt och hastigt till snaran! Offret vaknar måhända för en sekund ur sin sömn, för att, efter några vanmäktiga försök att rädda sig, insomna för alltid!
+
+Mördaren drager åt snaran så hårdt han förmår ... offrets krampaktiga rörelser afstanna, ögonen trängas ur sina hålor ... ansigtet blånar ...
+
+Det är stilla! Lifvet har flytt!
+
+Mördaren kastar en blick på det förvridna ansigtet, som nyss log, på de blånande läpparne, som nyss skämtade. En känsla som af samvetsförebråelse ... eller spökrädsla genomfar kanske hans mörka själ. Han tager en af hufvudkuddarne i sängen och lägger öfver den mördades ansigte, på det att likets stirrande ögon ej skola förfölja honom ...
+
+Derefter släcker han ljuset, som under illgerningen varit tändt, begifver sig ut ur den mördades bostad, smyger ned för trapporna, sedd af ingen ...!
+
+Så har, enligt alla antaganden, mordet tillgått.
+
+Men mördaren är ännu ej upptäckt.
+
+„Hvem är qvinnan?” plägar domaren vid franska brottmålsdomstolarne fråga, när han har att ransaka i ett brottmål af gräsligare beskaffenhet. Qvinnan, beherrskad af en passion, är nämligen en furie. Hon hämnas på ett mera förfärligt sätt och med en långt mera raffinerad grymhet, än mannen.
+
+Idén att strypa offret med snara antyder här att en qvinna åtminstone haft sin hand med i spelet.
+
+Men det kraftiga slaget vid tinningen, den ytterligt hårdt åtdragna snaran, som måste skäras från offrets hals, påvisa, att en man begått sjelfva mordet.
+
+
+
+
+
+SOFIA DAHLBERGS LIF.
+
+
+Vi hafva härnedan i tidsföljd sammanfört de resultater, till hvilka polisen under sina ifriga spaningar kommit.
+
+Men innan vi komma dit, lâtom oss kasta en kort blick öfver den mördades, Johanna Sofia Anderson Dahlbergs, föregående lefnadsöden;
+
+Johanna Sofia Dahlberg, eller, som hon egentligen heter Andersson, var född i Grenna den 2 Maj 1844 af fattiga, men arbetsamma och hederliga föräldrar. De lefva ännu, båda något öfver 60 år gamla, och äro innehafvare af ett mindre hemman i Grenna landsförsamling.
+
+De ha haft icke mindre än tillsammans åtta barn. Sofia var det tredje i ordningen. Tvenne systrar, äldre än hon, äro gifta sedan några år tillbaka. De hafva tillika med sina män begifvit sig öfver till Amerika, der de stå sig godt.
+
+När barnen växte upp, måste de naturligtvis ut från det torftiga hemmet, som ej kunde underhålla så många. Så kommo tre af sönerna till Stockholm, der de hafva jemförelsevis goda anställningar.
+
+Äfven Sofia skulle ut ur boet. Sedan hon blifvit konfirmerad, hvilket skedde i Grenna kyrka den 16 Juli 1859, erhöll hon tjenst hos en officersfamilj i nämnde stad. Hon beskrifves från den tiden af sina närmaste att hafva varit glad och öppen, men af ett lätt och ombytligt sinnelag — något, som slutligen blef hennes olycka.
+
+I sin första tjenst qvarstannade hon två år. Hvarken mot hennes person, hennes uppförande eller hennns göromål hade man här något att anmärka. Men Stockholm lockade henne, liksom mången hennes jemnåring, med underlig makt. På egen begäran blef hon fri från sin tjenst, hvarefter hon begaf sig till hufvudstaden. Hon var då 18 år gammal. Hon fick här sin första tjenst hos en handlande vid Götgatan.
+
+Att hon snart, alltför snart, blef stockholmiserad, kan man finna bland annat deraf, att hon ej qvarstannade länge i någon tjenst. I allmänhet räckte ingen öfver halfåret. Så kom hon från Götgatan till en familj vid Lästmakaregatan, derifrån till då varande Profossgatan, derifrån till annat ställe å Ladugårdslandet, o. s. v.
+
+Under detta sväfvande hit och dit formerade hon åtskilliga bekantskaper. De s. k. »friarne» blefvo småningom allt förnämare. Slutligen kom hon ut för en handlande. Af denne blef hon förförd. Denne hennes ”fästman” flyktade sedermera från Stockholm.
+
+På samma gång var det slut med all stadig tjenst. Sofia hade börjat att beträda det sluttande planet. Ännu räknades hon dock ej bland de olyckliga, hvilka ”stå på listan”, emedan tillsynen den tiden öfver dessa samhällets olycksbarn väl ej var så noga som nu. Ryktet om hennes äfventyr hann emellertid ändå ned till Grenna, till hennes föräldrahem.
+
+De stackars föräldrarne, som ville rädda sin vilseförda dotter, togo nu henne hem. De qvarhöllo henne i åtta månader. Längre kunde hon ej stanna der. Hon begaf sig åter till Stockholm.
+
+Återkommen till hufvudstaden, uppträdde hon som sömmerska— utan arbete och utan att kunna sy. Hvad hon egentligen var, kan man finna deraf, att hon någon tid ef ter hitkomsten inskrefs bland de fallna qvinnornas antal. Detta skedda den 22 Juli 1869.
+
+Redan månaden derefter, eller den 28 Augusti, erhöll hon i poliskammaren ”första varningen». Ytterligare en sådan — och hon skulle af ordningsmakten kunnat skicka till spinnhuset.
+
+I och med de inträdda nya lefnadsförhållandena antog Sofia Andersson nytt namn. Hon lät kalla sig Dahlberg. Hon fann den nya ställningen vara mycket mera tacksam i ekonomiskt afseende, än att vara piga eller sömmerska. Snart började hon ock utmärka sig genom sin fina och dyrbara klädsel och sitt täta besökande af allmänna förlustelseställen.
+
+Sofia Dahlberg hade en högväxt, ståtlig gestalt. Hon hade ock en egenskap, som måhända ej bör lemnas ur sigte vid detta mord : hon ville ständigt göra sina yrkessystrar svartsjuka eller, rättare härvidlag, afundsjuka på sig. Hon hade alltid något smussel med bref, verkliga eller diktade, enligt hvilka hon lät förstå, att hon hade blifvit föredragen, än framför den ena än framför den andra.
+
+Efter många öden — lätt tänkta, svåra och onödiga att beskrifva — lyckades hon ändtligen fästa en äldre, ogift grosshandlares uppmärksamhet vid sig. Hans namn
+
+
+
+
+
+och det förhållande, hvari hon stod till honom, omtalas längre fram, äfvensom den rival, som hon genom denna förbindelse förskaffade sig.
+
+Sofia Dahlberg bodde sedan en tid tillbaka i Södra teaterhuset, fyra trappor upp. Den förste Oktober skulle hon dock flytta derifrån; ofvan nämnde grosshandlare hade hyrt henne en våning, bestående af tre rum och kök, å Ladugårdslandet.
+
+Det var tisdagen den 28 September. En hennes yrkessyster, boende i Stadsgården, hade skickat bud, att hon skulle komma till henne om qvällen i sällskap med tre herrar. De tre herrarne anlände. Sofia Dahlberg lärer denna qväll ha varit mera uppsluppen, än vanligt. Erinrade detta ej om: att ”lindansa öfver sin öppna graf”? Hon skämtadeöfver sin flyttning; ej anade hon då, hvarthän flyttningen skulle ske!
+
+Redan tidigt begåfvo sig de unga männen derifrån; den tredje endast ett par minuter efter de två andra.
+
+
+
+
+
+POLISENS SPANINGAR.
+
+
+Två dagar derefter, eller den 30 September, öfverraskades allmänheten genom följande meddelande i tidningarne:
+
+Hemlighetsfullt mord.
+
+För omkring 15 år sedan hitkom från trakten af Grenna en torpardotter, vid namn Johanna Sofia Andersson Dahlberg, för att söka sin lycka. Hon var då 16 år gammal. Lyckan måtte hon ej ha funnit i dess rätta gestalt, och under de senaste 5—6 åren hade hon varit stadd på svåra villovägar, så att hon blifvit inskrifven i polisens förteckningar och stod under polisens uppsigt på det sätt, som några hundra förvillade qvinnor. I yttre måtto lefde hon dock i ett visst välstånd. Hon hade två väl, till och med elegant möblerade rum 4 tr. upp i Södra teaterhuset, der någon liberal man bekostade hennes underhåll. Hon hade bott der sedan den 1 april i fjol.
+
+I tisdags hade hon fått bud från en väninna om att denna skulle konima och tillbringa aftonen i sällskap med tre herrar. Aftonen kom och de tre herrarne äfven, men väninnan icke — åtminstone har hon icke varit der hela qvällen. Efter att ha gjort sig en glad afton, aflägsnade sig två af herrarna. De följdes ned af en liten flicka, som städade åt Dahlberg. Den tredje herren blef qvar, då flickan aflägsnade sig.
+
+Följande morgon, eller rättare ett stycke fram på förmiddagen i går, kom den lilla flickan upp i Dahlbergs bostad för att städa. Hon fann då qvinnan mördad. Det anmäldes för polisen, och denna spanar nu efter mördaren
+
+Dahlberg låg i sin imperialsäng, endast iklädd ett mycket kort linne. Hufvudet låg stödt mot högra handen, ansigtet till största delen bortvändt och nedborradt i kudden: i ena tinningen var ett svårt sår, hvarifrån blod hade strömmat ned. Dessutom har befunnits att hon var strypt. Såvidt man vet, saknades inga af hennes tillhörigheter.
+
+Johanna Sofia Dahlberg var en storväxt qvinna, omkring 31 år gammal.
+
+________
+
+
+
+Polisen hade redan fått kunskap om saken och började sina efterspaningar. Allmänheten upprördes på ett obehagligt sätt af denna hemska händelse. Dag'en derefter erhölls följande upplysning:
+
+Mordet upptäcktes omkring klockan 10 på förmiddagen af en liten flicka om 12 á 14 år, som passade upp för Dahlberg. Då flickan inträdde i rummet såg hon Dahlberg ligga död i sängen, hvilken var fyld af blod. Hon skyndade genast ned efter sin i samma gård boende moder, hvilken åtföljde henne upp i Dalbergs rum. Den mördade hade en snara om halsen och ett djupt sår i högra tinningen. Öfver hennes mun låg en sängkudde. Hennes kroppsställning och ansigtsuttryck antydde icke att hon sökt eller förmått att göra något motstånd vid mordtillfället, hvadan man antager, att den som föröfvat mordet öfverraskat henne, möjligen under sömnen.
+
+Rörande det besök som den mördade erhöll af trenne herrar vid 10-tiden på tisdags afton ha erhållits stridiga uppgifter. Enligt en uppgift skulle Sofia Dalberg från en i huset nr 14 Stadsgården boende väninna tidigare på aftonen erhållit ett bud att hon skulle hålla sig hemma för att mottaga henne och trenne herrar. Enligt en annan uppgift skulle Dahlberg tvärtom till väninnan afsäudt den ofvannämda lilla flickan med anmodan, att hon skulle infinna sig hos Dalhberg för att hålla några herrar sällskap, som påhelsade Dahlberg, till följd af hvilken uppmaning den så kallade sällskaparinnan också begifvit sig på väg till teaterhuset, men vändt om på vägen efter att hafva mött en för henne bekant person, som uppmanat henne stanna hemma. I hvilket fall som helst, kan det anses såsom konstateradt att den ifrågavarande väninnan icke åtföljt de ofvannämda tre herrarne vid deras besök hos Dahlberg. Klockan var omkring 10 på qvällen då två af herrarne gingo sin väg. Strax dereftar aflä.gsnade sig den lilla flickan.
+
+Det antyddes redan i går att Dahlberg hade understöd af en herre. Denne hade under en längre tid underhållit bekantskap med ett annat fruntimmer, med hvilket han har flera barn. Detta fruntimmer har, efter hvad i teaterhuset boende personer upplyst nyligen besökt Dahlberg och flera gånger synts ströfva omkring huset.
+
+Poliskammaren har utfästat en belöning af 300 kronor åt den af allmänheten, som upptäcker Sofia Dahlbergs mördare eller meddelar polisen sådana upplysningar,som leda till brottslingens gripande.
+
+Spaningarne fortforo. Allmänhetens nyfikenhet var spänd; men ingen upptäckt hördes af. Torsdagen den 7 oktober tillkännagafs följande :
+
+Under de åtta dagar som förflutit efter mordet, ha undersökningar och förhör oupphörligt af polisen hållits, utan att det hittills lyckats att upptäcka brottslingen. Aflidna Dahlbergs alla kända anhöriga och bekanta hafva blifvit hörda, äfvensom hennes yrkessystrar och uppasserskor, med ett ord alla, som till henne veterligen stått i något närmare förhållande, ja till och med dessas bekanta och tjenare. Af alla dessa personer, inemot femtio stycken, har flock icke kunnat erhållas någon upplysning till ledning för brottslingens upptäckande.
+
+Att Dahlberg blifvit mördad under sömnen synes framgå deraf, att hon låg afklädd i sängen med ett tretvinnadt segelgarnssnöre hårdt tillknutet om halsen samt med ett sår efter ett våldsamt, sannolikt med en yxa eller hammare tillfogadt slag vid ena tinningen, utan att något spår till försvar från hennes sida syntes. Af hennes tillhörigheter saknades intet, hvadan brottet synes icke kafva skett i uppsåt att åtkomma hennes egendom. Det kan följaktligen med skäl antagas att brottet skett af ovänskap, afundsjuka eller något dylikt motiv, men de personer, på hvilka i detta afseende misstanken möjligen skulle kunna falla, hafva visat omständigheter som göra det sannolikt, att de vid mordtillfället uppehållit sig annorstädes. Hvad som ännu förblifvit outredt är, hvem den person är, som aftonen när mordet föröfvades, tisdagen den 28 september, kl. tre qvart till 10 uppgick i huset, sedd af två fruntimmer, hvilka, da han antiäffas, kunna igenkänna honom ; likasom det äfven är okändt hvem den person är, i hvars sällskap Dahlberg uppgifves hafva lemnat bostaden vid half 10-tiden. Det är derför af allra största vigt att de personer, hvilka af en eller annan anledning besökt Södra teaterhuset efter kl. 9 ifrågavarande afton och ännu ej blifvit hörda, ofördröjligen gifva sig tillkänna hos polisen ; ty i motsatt fall måste misstanke mot dem ovilkorligen uppstå, när de blifva kända, hvilket nog kan inträffa, enär de fortfarande ifrigt efterspanas. Dylik anmälan behöfver alldeles icke göras offentligt, utan kan ske enskildt såväl hos polismästaren och polisintendenten som hos kommissarierna vid detektiva polisafdelningen, hvarvid naturligtvis den största grannlagenhet från deras sida kommer att iakttagas.
+
+________
+
+
+
+Ytterligare förflöto åtta dagar, under hvilken tid polisen var i verksamhet från morgon till qväll för att få ljus i denna mörka sak. Resultatet af all denna möda ser man i följande meddelande af den 13 Oktober:
+
+De spaningar, som anstalts för upptäckande af Sofia Andersson Dahlbergs mördare, ha tyvärr hittills icke ledt till ett gynsamt resultat. Orsaken dertill anses böra sökas dels deri att, med undantag af bottenvåningen, husets samtliga våningar vid tillfället voro obebodda, dels deri att huset är beläget på en plats, hvilken, synnerligast nattetid, är högst obetydligt trafikerad, och dels slutligen deri att gerningsmannen hvarken i Dahlbergs hostad eller annorstädes i huset qvarlemnat något vapen eller annat, som kunnat tjena till ledning för spaningarne, och icke heller något af Dahlbergs egendom saknats. Under sådana omtändigheter har man varit hänvisad förnämligast till förhör med de personer, hvilka under senare tiden verkligen till Dahlberg stått i något slags förhållande, för att genom deras berättelser om möjligt utleta något motiv till brottet och på denna väg komma mördaren på spåren. De hufvadsakligaste upplysningar, som sålunda vunnits, äro följande:
+
+Grosshandlaren Alexander Perrault, boende i huset n:o 27 Lilla Nygatan, har sedan ett par år stått till Dahlberg i förtroligt förhållande, som på senare tiden blifvit allt mera intimt. Han hade icke besökt Dahlberg sedan måndagsmorgonen och har vetat göra troligt, att han på tisdagsaftonen hemkommit kl. en qvart till 10, hvarefter han ej förr än tidigast kl. half 8 följande morgon lemnat sin bostad. Han hade en äldre dylik förbindelse med en mamsell E. U. C. Högström, nu boende nära Gustafsberg på Vermdön. Vid spaningar blef det snart ådagalagdt, att Högström vid flera tillfällen visat sig dels i närheten af och dels inom teaterhuset i afsigt att få närmare reda på den senare förbindelsen, och hade hon vid ett af dessa tillfällen infunnit sig i Dahlbergs bostad och der gifvit sitt missnöje tillkänna Vidare blef det kändt, att Högström, samma afton mordet skedde, tisdagen den 28 September, inkommit till staden och der tillbragt natten. På onsdagen, eller samma dag kännedom om brottet erhölls, söktes Högström derför genast och, ehuru hon icke tagit in hvarken på hotell eller hos sina anhöriga, anträffades hon dock på torsdagsmorgonen och hördes då. Hon berättade dervid, att hon tisdagsaftonen inkommit till staden för att hemta några mattor, genast begifvit sig till liolell Göteborg för att erhålla logis, men, då detta icke lyckats, gått till timmermannen Anders Jönsson och dennes hustru, i hvilkas bostad, n:0 5 Hökénsgatan, hon förut vid några tillfällen logerat, samt, sedan hon erhållit deras löfte att der få tillbringa natten, begifvit sig till Strömparterren, åtföljd af en 7-årig dotter och en sin barnpiga, omkring 14 år gammal, hvilka medföljt henne från landet. I Strömparterren hade hon uppehållit sig till omkring kl. tre qvart till 10 samt derifrån, åtföljd af en herre, med hvilken hon under tiden sammanträffat, begifvit sig åt S der. Vid slussen hade denne herre lemnat henne ungefår kl. 10. Från slussen hade hon, åtföljd af pigan och barnet, direkt fortsatt vägen Brunnsbacken, Götgatan och Hökensgatan till Jönssons bostad, der hon qvarstannat till kl. 9 påföljande morgon. Makarne Jönsson såväl som barnflickan och ofvannämnde herre hafva vitsordat Högströms uppgifter.
+
+Sjömanshustrun M. S. Jonsson, n:o 16 Södermalmstorgs gatan, som någon tid bott och passat upp hos Dahl berg, har uppgifvit, att Högström vid åtskilliga tillfällen af Jonsson sökt upplysningar angående Dahlbergs förhållanden och äfven velat betala Jonsson för erhållande af sådana. Jonsson, som tyckes äfven hafva gått Högström tillhanda i detta hänseende, liar uppgifvit att hon tillbragt hela den natt, då mordet skedde, i sin bostad, och har en hos henne inneboende flicka bestyrkt detta förhållande.
+
+En kontorsdräng, C. G. Torling, lär varit fästman åt Dahlberg och skall, såsom uppgifvits, hafva för omkring fem veckor sedan å gatan träffat Dahlberg, som sedermera beklagat sig öfver honom. Han har berättat, att han visserligen vid nyssnämnda tillfälle träffat Dahlberg på gatan, men, så vidt han vet, icke gifvit anledning till hennes klagan. Han hade icke besökt henne på ett och ett halft år, och natten, då mordet skedde, hade han tillbragt från kl. 10 till 11 uti Strömparterren samt derefter på ett handelskontor i Kåkbrinken, der han hade anställning och sofplats ; dock kunde han ej styrka denna uppgift, enär ingen annan uppehåller sig i lokalen nattetid.
+
+En snickeriarbetare C. 0. Berg, som omkring 5 veckors tid före mordtillfället haft arbete å Södra teatern och om nätterna tagit liggplats inne på scenen, har varit till förhör inkallad på den grund, att han skulle hafva ensam vistats i huset och, efter mordet, mot vanan dröjt med att hos arbetsförmannen infinna sig för att uppbära aflöning. Han har berättat, att han slutat ifrågavarande arbete lördagen den 25 September och – sedermera icke tillbragt någon natt inom teatern. Natten, då mordet skedde, hade han från kl. 7 på aftonen till kl. 7—8 på morgonen tillbragt hos målaregesällen Enbom i huset n:r48B. Qvartersgatan, -och ha såväl Enbom som hans hustru med flera bestyrkt detta.
+
+De öfriga personer, som blifvit hörda — uppgående till öfver 100 — hafva, utöfver hvad som bestyrkt eller förklarat ofvan omtalade händelser, icke berättat något af nämnvärd vigt, som kunnat leda ens misstanken mot viss person om brottet, så vidt sådant hittills kunnat bedömas.
+
+Bland Dahlbergs papper finnes ett bref, dateradt Örebro den 9 September 1875 och undertecknadt “Kalle Brofeldt, possessionat“, hvilket vid mordets upptäckt fanns liggande utan kuvert pâ en soffa i Dahlbergs bostad. I detta bref erbjudes Dahlberg att flytta till Brofeldt och blifva hans hushållerska. Stadsfiskalen i Örebro har emellertid på förfrågan upplyst, att någon person med detta namn ej, så vidt han vet, finnes i Örebro eller dess omgifningar.
+
+En okänd medelstor qvinna, iklädd regnkappa och med i öfrigt snygga kläder, har aftonen, då mordet skedde, kl. ¾ 9-tiden varit synlig gå af och an å öppna platsen, som utgör en fortsättning af Clevegränd nedanför teaterhuset, bvarefter hon ingått i n:r 7 Mosebacke trappor, utan att dock der vara boende eller känd.
+
+Som man vet har en belöning af 300 kr. blifvit utläst åt den, som upptäcker brottslingen eller lemnar sådana upplysningar, som leda till hans ertappande.
+
+________
+
+
+
+Ett par dagar förflöto, och saken började, syntes det, taga en annan vändning. Polisen meddelade den 15 Oktober:
+
+Under de fortsatta spaningarna i denna sak hafva följande ytterligare upplysningar erhållits, hvilka ' möjligen kunna vara af något intresse: Ogifta Högström hade, då hon lördagsaftonen före mordet hemkom till sitt logis i hotell Göteborg vid Södra bangården, ett obetydligt sår och svullnad vid högra ögat. Hon uppgaf då att hon vid ingången till hotellet blifvit misshandlad af en för henne okänd mansperson. Samma afton det upprörda mordet skedde hade klockan åttatiden en person infunnit sig i hotellet och frågat efter Högström samt, då han blifvit underrättad att hon ej mera vore der boende, sökt upplysning om hvar Högström kunde träffas. Högström har dock icke kunnat lemna besked hvarken om våldsverkaren eller om den som sökte henne. Sistnämnde person var lång och smärt, hade mustascher samt var iklädd grå sommarpaletå och styf filthatt.
+
+En person säger sig hafva på tisdagsaftonen omkring klockan ¾ 11 sett en medelstor, snyggt klädd mansperson med helt skägg och tänd cigarr komma med hastiga steg gående utför trappan från Clevegränden till Stora Glasbruksgatan och taga af åt venster. Denne person var iklädd mörk öfverrock ochsvart styf filthatt.
+
+Förut har blifvit omnämdt, att en qvinna omkring kl ¾ 9 setts gå af och an på öppna platsen som utgör fortsättning af Clevegränden, hvarifrån mördade Dahlbergs fönster äro väl synliga. Nu har det ytterligare blifvit upplyst att en qvinna, troligtvis densamma, gått af och an på samma plats såväl vid 10- som vid 11-tiden.
+
+Då de ifrågavarande personerna icke ännu äro kända, är det af vigt att enhvar, som om dem kan lemna upplysning, anmäler sådant hos polismyndigheten.
+
+________
+
+
+
+Fyra dagar derefter syntes vissa omständigheter förekomma mot en person, hvilken dock å andra sidan måste anses oskyldig.
+
+Polisens meddelande af den 19 Oktobor lydde sålunda:
+
+Beklagligen har ännu ej någon visshet kunnat erhållas angående den person, som föröfvat det ohyggliga mordet â Sofia Dahlberg. Af hvad hittills blifvit bekant, synas de misstankar, man hittills och allt fortfarande hyst mot den person, som gått upp i huset vid 10-tiden samma afton mordet skedde, alls icke ha försvagats, ehuru det hittills ej lyckats polisen att få några bestämda underrättelser om denne person. Härtill kommer äfven det besynnerliga förhållandet, att denne — ännu okände — person, oaktadt alla uppmaningar, i tidningarna, ej anmält sig i poliskammaren för att freda sig från misstankar eller bevisa sin oskuld. Att en obekant person uppgått i huset vid ofvannämnda tid, är likväl nu mera fullt intygadt af ej mindre än tre personer.
+
+I en föregående redogörelse för denna sak hafva vi nämnt, att en grosshandlare här i staden med den mördade haft närmare bekantskap, samt att samme grosshandlare blifvit af vederbörande polismyndighet härom hörd. Denne person, hr Alexander Perrault, har omkring 2 år stått i närmare förbindelse med Sofia Dahlberg, och han har flere gånger blifvit hörd i saken. Hans uppgifter hafva hvarje gång afgifvits fritt, otvunget och med största beredvillighet. Hr Perrault påstår med bestämdhet, att han den ifrågavarande aftonen omkring kl. 9,15 hemkommit från besök hos bekanta, boende i grannskapet af hans egen bostad, samt att han då gått till hvila, utan att hafva lemnat hemmet förr än påföljande morgon. De personer, hos hvilka han tillbragt aftonen, hafva intygat hans uppgift, i hvad hans vistelse hos dera angår, och har hans husfolk äfven intygat, att hr P., så länge de voro uppe på aftonen, eller till 11-tiden, varit hemma i sin bostad.
+
+Polisen har emellertid anställt visitation så väl i hr P:s hemvist som å lians kontor, men dervid endast kunnat fästa sig vid en enda sak af någon större vigt, nämligen att å kontoret fans en bundt bindgarn, hvilket, enligt repslagares intyg, är af alldeles samma slag, som den segelgarnsstump, hvarmed Dahlberg blifvit strypt. Hörda fackmän kunna likväl icke vara förvissade om, att det bindgarn, hvarmed Dahlberg blifvit strypt, tillhört samma stycke, som å kontoret påträffats, då bindgarn af samma slag ofta begagnas. (Här bör tilläggas ytterligare, att ej minsta misstanke mot hr Perrault uppstått eller vunnit stöd af någon hittills känd omständighet.)
+
+Af hittills hållna undersökningar framgår i öfrigt, att den, som begått mordet, åtnjutit den mördades förtroende, alldenstund han kunnat inkomma i rummet — efter all sannolikhet med hennes begifvande — och att han, såsom det vill synas, begått mordet under det Dahlberg sof. När mordet upptäcktes, var yttre dörren låst och nyckeln fans ej i rummen, hvarför man måste antaga, att mördaren låst dörren och medtagit nyckeln för att fördröja upptäckten. Af besigtningen å den mördades kropp framgår, att strypning först verkställts, samt att derefter blifvit henne tillfogadt ett krossår vid tinningen. Herr Perrault, som, efter hvad vi ofvan nämnt, synes hafva i alla afseenden velat lemna så tillfredsställande upplysningar, som han kunnat, har efter egen, af andra bestyrkt, uppgift, allt sedan sistlidne maj månad lidit af någon virrighet och är nu sängliggande sjuk, så illa, att hans läkare förklarat, att han för närvarande ej kan i denna sak vidare höras.
+
+På denna punkt står saken för närvarande. Polismyndigheten saknar hvarje ledtråd för sina spaningar. Det skulle nästan kunna anses som en lyckträff, om man komme mördaren på spåren. Häraf framgår, att det är af största vigt att få närmare reda på hvarje den minsta omständighet och följaktligen äfven på hvem det kunde vara, som kl. ¾ 10 gick upp för trapporna i Södra teaterhuset. Är denne person icke skyldig, så bör man dock besinna, att hans hörande kan vara af största vigt, ty den ena upplysningen fogad till den andra kan slutligen leda till att bringa ljus i saken.
+
+________
+
+
+
+Härtill kunna vi lägga, enligt enskilda meddelanden, följande:
+
+Det var lördagen innan mordet begicks. Ogifta Högström bodde då, såsom förut nämnts, å hotell Göteborg vid Södra bangården. Hon hade stämt möte med enkan Anna Löfström å en källare i huset n:o 25 Götgatan klockan 1/2 8 om qvällen, för att gifva Löfström några uppdrag om inköp.
+
+Löfström har berättat, att hon väntade på mamsell Högström i två timmar, men förgäfves. Hon beslöt då att begifva sig till hotell Göteborg för att träffa henne der. När hon vek af från Götgatan in på den öppna platsen, som leder ned till Södra bangården, såg hon ett ensamt, fruntimmer gående framför sig och som gick in på hotell Göteborg, dit Löfström ämnade sig. När Löfström hunnit in i korridoren, upphann hon fruntimret, hvilket hon fann vara mamsell Högström. Denna beklagade sig nu att straxt utanför hotellet ha blifvit öfverfallen af en för henne okänd mansperson och tilldelad ett slag i ansigtet.
+
+Men det är att märka, att Löfström, som alltifrån Götgatan gått efter Högström, ej varseblifvit någon person utom henne, mycket mindre sett henne blifva öfverfallen.
+
+Löfström har vidare berättat, att Högström sagt, att hon erhållit slaget af en mansperson, hvilken varit i sällskap med Dahlberg. Derefter skulle Högström ha tillagt:
+
+— Det har jag Dahlberg att tacka för. Men det skall hon få betala!
+
+Högström påstår fortfarande, att hon erhållit slaget i ansigtet i närheten af hotellet, samt att den mansperson, som tilldelat henne det, säkert omedelbart derefter försvunnit i mörkret. Att hon blifvit öfverfallen på anstiftan af Dahlberg, tror han; denna förmodan hade hon äfven uttryckt för Löfström. Hon nekar att ha sagt, att nämnde mansperson varit i sällskap med Dahlberg.
+
+Måndagen derefter flyttade Högström från hotellet: hon sade sig skola återkomma den derpå följande torsdagen. Emellertid återkom hon dagen derpå eller tisdagen, — samma dag, under hvars natt mordet sedan skedde. Då något
+
+
+
+
+
+rum för tillfället ej fanns att erhålla å hotellet, hyrde hon i stället ett sådant i ett hus vid Kocksgatan.
+
+
+
+
+
+SLUTBETRAKTELSER.
+
+
+Flera frågor framställa sig för den, som uppmärksamt fästat sina tankar vid denna hemska händelse.
+
+När skedde mordet?
+
+Det upptäcktes på morgonen till onsdagen den 29 September, omkring kl. ½10. Man vet ej hvad som tilldragit sig i Dahlbergs bostad efter kl. ½10 aftonen förut. Man vet ej bestämdt om porten till hennes trappuppgång varit stängd under någon tid af natten. Måhända någon kunnat senare på morgenen i tysthet smyga sin väg ur huset? Mordet kunde således lika gerna ha skett tidigt på onsdags morgon som sent på tisdags qväll, såsom hitinttlls blifvit antaget.
+
+Har mördaren varit inne i Dahlbergs bostad med hennes vetskap och vilja innan mordet skedde? Det har antydts, att Dahlberg lagt sig att sofva i närvaro af sin lefvande mördare.
+
+Men kan ej förhållandet ha varit annorlunda ?
+
+Kan ej mördaren ha haft egen nyckel, falsk nyckel eller på annat sätt förstått inkomma medan Dahlberg sof?
+
+Sedan man så med sina frågor sväfvat omkring, återkommer dock alltid tanken och misstanken på den person, hvilken vid ¾ 10-tiden syntes i trapporna till Dahlbergs hostad, rökande cigarr. Hvem är han?
+
+Hvem är mördaren?
+
+Åter hopa sig frågorna. Då man vet, att Södra teaterhuset för tillfället stod nästan obebodt och att Dahlberg ett par dagar senare skulle flytta, är något annat tänkbart, än att mordet, skett efter en bestämd plan och med noggrann kunskap om de gynnsamma förhållanden inom lokalen just natten till den 29 September? Det har uppgifvits att inga af Dahlbergs tillhörigheter saknats. Äro särdeles många bevekelsegrunder till brottet tänkbara? Hvilken eller hvilka kunde draga fördel eller anse sig vinna något genom Dahlbergs undanrödjande ? Är ingen möjlighet för handen att en person varit den verkande orsaken, någon annan den verkställande handen vid mordet?
+
+Intet svar!
+
+Men det veta vi, att vår skickliga och nitiska spanande polis gjort och gör allt hvad göras kan för att afslöja mördaren. Vi hysa ännu den förhoppning, att den skall lyckas få den grofve brottslingen ur sitt gömsle.
+
+Dock antingen mordet blir upptäckt eller ej, står den förfärliga händelsen som ett mene tekel ufarsin för dessa dagsländor, Dahlbergs medsystrar, af hvilka här finnas många. Hon, liksom de, föraktade allt arbete och ansåg lifvet blott som en sinnlig lek. Hon sålde sin kropp och själ för lättjan och stundens nöje ... Affären var inbringande. Hon lefde och klädde sig som en förnäm dam och nekade sig ingen njutning. Hon intog sin middag på Hasselbacken, när så roade henne, och skalkades om qvällen vid punschglaset i Berns salong. Hon sväfvade förvirrad från lust till lust, liksom insekten omkring eldslågan.
+
+Och midt under ruset, när natten är som svartast, träder mordengeln, som fordom dags i Egypten, in till henne. Huru? Ingen vet det. Men det vet man, att hon från spetsen af njutning och löje plötsligt störtades ned i det ”tysta, mörka, djupa”...
+
+Men om vi anse oss ha skäl att bryta stafven öfver den olyckliga, öfver hennes irringar och hennes kamrater, med huru mycket större skäl kunna vi ej då bryta den öfdenna falang af män, unga och gamla, för hvilka njutningen är allt och de s. k. »fallna» äro offer! Utan samvete som de äro, anse de ingenting heligt, hvarken qvinnors dygd eller annat. Domen öfver den fallna är en dom också öfver dem!
+
+________
+
+
+
+
+

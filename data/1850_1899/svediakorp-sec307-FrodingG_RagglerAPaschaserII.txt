@@ -1,0 +1,1378 @@
+# ID: svediakorp-sec307
+# author: Gustaf Fröding
+# pseudonym: 
+# translator: 
+# title: Räggler å paschaser på vårat mål tå en bonne
+# subtitle: Boka numra två
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-06-14
+# sourceDescription: 
+# genre: prose
+# subgenre: 
+# location: Stockholm
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1897
+# editor: 
+# publisher: Albert Bonniers förlag
+# digitisationMethod: OCR with manual post-correction.
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Litteraturbanken (https://litteraturbanken.se/)
+# retrieveFormat: ePub
+# annotation: tokens
+# annotationMethod: automatic
+# words: 8,149
+# sentences: 608
+# sentenceOrder: original
+# URL: https://litteraturbanken.se/txt/epub/FrodingG_RagglerAPaschaserII.epub
+# cite: 
+# availability: CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+
+
+
+
+
+
+
+Fröken på Slorbôrg
+
+tillägner ja diss här rägglan å paschasan, för ho ha vôr beskeli ve mä å på ett vis vôr mä te hjälp ve decktinga.
+
+Boen.
+
+
+
+
+
+Förola.
+
+Di mäst tå di här rägglan å paschasan ha vôr tröckt fôr i Kallstatininga, di åg, å di ä allt på unjfär samm fason sôm di are. Satt nô nytt ä dä int å e litta uschli bok ä dä. Men bokhannler Bonnier ha lôf mä, att ja ska få tämli bra betart för’a, satt d’ä mer sôm en affärd. Hällers ha ja allt bynnt bli le ve den här skrifvinga, å d’ä fäll mäst sist gangen ja ä ut på räggling å paschasing. För ja ä för gammel å d’ä mäst bar ôm för i vala ja kan skrif, å dä blir int likt, sôm dä ä nu för tia, satt ja får fäll si farväll te allmänheta nu å lätt di ny skrifran skrif ôm di ny sakan, sôm di förstår bätter än ja.
+
+Boen.
+
+* * *
+
+
+
+
+
+Fredrek på Ransätt.
+
+* * *
+
+
+
+
+
+Den låta Ransätts-Fredrek sang
+
+ho hadde allt si ega klang,
+
+når utta ok å utta tvang,
+
+där tall å gran tog vinn i fang,
+
+sôm geta lätt ho sprang.
+
+
+
+
+
+På logera ho flög ikring
+
+mä hôpp å tramp i sväng å spring,
+
+dä va e fart, dä va ett sving,
+
+e takt, sôm hällers ingenting
+
+på hele jolas ring,
+
+
+
+
+
+Kring stôgera ho flög sôm bi,
+
+för ho va lätt sôm di,
+
+e fin bevingat melodi
+
+mä sol å sôrr å hônning i
+
+å dôft tå sômmerti.
+
+
+
+
+
+Ho gjord en gôdt sôm sômmern gär,
+
+å hele Varmlann helt’a kär
+
+sôm skogen sjôl, når sômmern klär
+
+hôr skogsbacksäng mä blômst å bär
+
+å sol å vackert vär.
+
+
+
+
+
+* * *
+
+
+
+
+
+Ä du mä på dä.
+
+* * *
+
+
+
+
+
+Mi jänte ho hadde sôm jäntera plä
+
+två yger tå sol å ett hjarte tå trä,
+
+ja låg där å kve sôm ett kräk på knä
+
+å sa: »vell du ta mä, så uschli ja ä?
+
+ä du mä på dä, ä du mä på dä?»
+
+— å tänkte, att jänta va mä.
+
+
+
+
+
+Ho las i e bok å ho bynnte å blä
+
+å va sôm ho rakt inte alls va mä,
+
+Ja töla, ja ba: »ja vell fö, ja vell klä
+
+mi käre lelle tös mä dä bäste, sôm ä,
+
+— ä du mä på dä, ä du mä på dä?»
+
+Da flint’ ho, da sa ho: »nähä!»
+
+
+
+
+
+»Nä allri, nä allri, nä ni ganger nä,
+
+förr tog ja fäll bäsen, sôm jämt sier bä,
+
+än kräke, sôm jämt sier mä på dä,
+
+ä du mä på dä, ä du mä på dä,
+
+ä du mä på dä, ä du mä på dä,
+
+nä ni ganger, ni ganger nä.»
+
+
+
+
+
+O gôsser, I alle, sôm faller på knä,
+
+I vet fäll, I hör fäll, hvalls jäntera ä
+
+ä yga tå sol, så ä hjarte tå trä,
+
+lätt jäntera gå, ä I mä på dä,
+
+ä I mä på dä, ä I mä på dä?
+
+— ja tänker, ja tror I ä mä!
+
+
+
+
+
+* * *
+
+
+
+
+
+Når ja fridd te Anna Lek.
+
+* * *
+
+
+
+Dä va e lang ti ja int vell lägg två tôrkate strå i körs för e jäntsmôle mer, för ja töckt dä bar ble smälek tå’t.
+
+Men manfôlk ä manfôlk, å utta kvennfôlk kan en int li sä på jola. Ja ble sôm uroli i krôppen tå te gå emsammen utta jäntfölj.
+
+Da va dä e ti ja kôm te ha min väg förbi Lekens tôrp — han va seldat, Leken — å iblann feck’a se ett skymten tå Anna, dotra hans, når ho geck te laggårn för te ställ mä konna äll bål ôt källa ätter vatten. Dä va e grann jänt, ska ja säj er. Ho va bli i yga å dä va ett sving i’a, når ho geck, satt dä va sôm ett seglande skepp.
+
+Vi hadd int tal mö mä hôrann ut i bögda, å allri kom dä te, att ja kom te stann å tal mä’a, når ja geck ôm. För ja va jäntsky den tia. Men glaninga kunn ja int lätt var. Ja glan ôt jänta å jänta glan igän, satt dä ble änn sôm e maskpi mälla ôss i all fall. D’ä mäst i yga käleken setter å d’ä mä dôm en sier iffrå, att en ä gla i hôrann.
+
+Nu va dä en da, sôm ja geck förbi Lekens å kast en titt bål kring knutan för te se, ôm Anna va där — nä dä va inga Anna där, bar gôbben Lek, sôm stog där å slifft öxa si. Ja kan int nek, att ja ble litt surmodi.
+
+Men når ja hadd hunn ett stöck länger bort på vägen, så va dä nô, sôm sang bål i bärga. Hocken kan dä var, sôm sjonger så ljufverliga, tänkt ja.
+
+Jo, dä feck ja snart vet, för rässôm dä va kom e stor grann jänt ut på vägen ett bra stöck länger fram. Ja känd igän’a på ryggsia att dä va Anna Lek.
+
+Ôm jänta hadd sett mä, dä vet int ja. Men en kunn se på’a att ho vesst, att dä va en sôm va bakôm’a. Iblann sang ho en litten trall å iblann så böjd ho sä ner å rep tessä en näf kröser ve vägkanten.
+
+»Ska ja? — ska ja int? — ska ja? — ska ja int?» Tocken geck’a å öfverla för mä sjôl. Men dä ble sôm dä va, jänta geck för å ja kôm ätter å lik langt va å förble dä mälla ôss.
+
+D’ä dä kônsti mä jänter, att di kan titt mä nacken. För nock såg Anna, att ja ble ätter, å nock va dä änn sôm ho skull blett vesen å int kunn gå så fort sôm fôr. Ho bynnt å titt ôpp ôt talltôppan för te se, ôm där va nôn ickre, å senna feck ho löf å knyt kängbanna, å allt dä där tog ti, ska ja säj, satt hock ja vell äll int, så hannt ja allt ôpp jänta å ble gånass si ôm si mä’a.
+
+Fäll töckt ja att ja bol säj nô te’a, men dä hek imot, satt ja int feck ol fram. Da ga ho mä ett bleg, satt dä klack te immä.
+
+»D’ä en bra nock väg te gå på, den här,» sa ja. Senna hek dä fast igen.
+
+»Åja, d’ä ingen dåli väg,» sa jänta å ga mä ett siglante, satt ja ble rö i syna.
+
+Senna geck vi e bra stönn å sa itnô, nôn tå ôss. Men så töckt ja fäll att ja bol säj nô ol igän.
+
+»D’ä bra nock mä kröser bål mä hulta,» sa ja.
+
+»Å ja,» sa jänta— »å môltera ha häller int vôr uschli i år.»
+
+»Ja, d’ä gôdt ôm bär,» sa ja å så hek de fast. Men nu lell ska ja fram mä’t, tänkt ja å stannt medt för Anna. Ho ble rö ända ôpp i yga.
+
+Ja så skull ja da dra te å säj, att ja så gärn vell ha’a. Men näe, dä vell int gå.
+
+Allt ja feck fram va: »ha Anna sett, ôm älgen går om ve erat?»
+
+»Jo, dä geck allt e ko mä en kalf ôm när ôss i förgårs,» sa Anna ho.
+
+Senna bynnt vi gå igän. Anna såg lessen ut å ja tänkt, att ho töckt fäll att ja va ett nöt.
+
+Å så geck vi å geck igän e stönn. Å rässôm dä va försöckt ja kom fram mä friersaka, men dä hek imot. I ställ kom ja te tal ôm årvägen.
+
+Ja, te sist kôm vi da te vägskele å dä va inga anna rå än vi feck skers ve.
+
+»Ajö, Anna,» sa ja å tröckt’a hardt i hanna.
+
+»Ajö, Agust,» sa Anna å tröckt hardt igän.
+
+Men når ho hadd hônn ett stöck iffrå mä, va dä änn sôm dä hadd komm e stor svårmodihet övver mä, å ja kunn int stå imot länger utta vänd mä ôm å sa:
+
+»Vell du ha mä, Anna lelle?»
+
+Da vänd Anna sä ôm ho mä å bynnt å nyp på fôrklä sett å titt på foten sin å så sa ho:
+
+»Åja, dä kunn kansch int var så domt häller.»
+
+* * *
+
+
+
+
+
+Nypenrosa.
+
+* * *
+
+
+
+
+
+Fin sôm nypenrosa står
+
+tili, tili, når dä dagger
+
+selfverdrôp å blaa vagger
+
+lent där môraväre går,
+
+
+
+
+
+Int just lik e trägårsros,
+
+int så stôlt å medt i sola,
+
+int så grann å stor i ola,
+
+mer litt bly å mer te tros.
+
+
+
+
+
+Tocken stog mi Anna Lek,
+
+ljus i håre, rö i kläe,
+
+»rosa stecker,» sa di, näe,
+
+Anna mi va utta svek.
+
+
+
+
+
+Hennas tagg va lätt te se,
+
+are roser, are flecker
+
+gär sä lene, når di stecker,
+
+Anna gjord sä allri te.
+
+
+
+
+
+Harrgårsplan mä roser i
+
+gjord mä itnô kälekshôga,
+
+nypenrosa bål ve stôga
+
+dä va rosa rosa mi.
+
+
+
+
+
+* * *
+
+
+
+
+
+Rammelbuljången i Backa.
+
+* * *
+
+
+
+Se dä va så, att gamle Jan i Backa skull ha bröllôp för dotra si. Nu ha Backafôlke allti vôr storgo tå sä, å når di hadd kolifäj, da va allt brännvinspegasen itändt varrer än på nô ann ställ.
+
+Ja va bjudd, ja åg, å Anna Lek ho va allt bjudd ho mä, för ho hadd gått fram för prästen på samm gang sôm brura.
+
+Ja, ja klef fäll in, ja. Dä va mö fôlk där, bå insocknes å utsocknes. Å dä va mang storkärer mä, bå Annersch Annerscha i Otterstan å Selfver-Pär i Tranås, å nämnkärn i Blaxere — d’ä hômmen di kaller Leveransen, för dä att han lefver å regärer så mö sôm’en gär. Mang pôjker å jänter va dä åg å gunås va allt di värst bråkstakan mä åg — en di kall Kalle Gla å en di kall för Lars i Hôsera å Däng-Jan va allt mä, han åg. Å längst bål i stôga satt Anna Lek breve gamle Leken. Ja kast yga bål ôt Anna te, men ja tords int gå fram, utta helt mä ner ve dôra iblandt di are tôrperpôjkan. Å brura å brugummen di satt fram ve bole sôm ett par målate träbocker å sa allri ol. Men gamle Jan han geck ikring å persvadér ôss te dreck brännvin, å dä va ingen, sôm sa näj te dä. Vi tog bå en å två super, inna nôn hant te säj mock. Ja va int van ve brännvin ve den tia, så ja bynnt å bli veli mä däsamm.
+
+Nu va dä så, att dä här skull var ett recktitt finnt bröllôp å däfför hadd di fått e, sôm hadd vôr köks hos major Frykmark te komm dit å kok mat å årn mä alltihop. Å på bole va dä ett grannt ôppställ mä tallrecker å bonker, å i vråa så hadd di ställt ôpp ett så kallt smörgåssbol å där va allt möjlitt framsatt å mang, mang brännvinsputäler.
+
+Mällerti hadd prästen blitt ätter ve körka å dä dröjd fali länge, inna att han kom. Å mennas va dä ingen, sôm tords rör ve maten, å vi stog där bar å glodd ôt hôrann å va ännsôm litt andäckti.
+
+»Ja, mennas så tar vi en klonk,» sa gamle Jan allt imälla å hälld i glasa. Å så tog vi ôss en klonk.
+
+D’ä int så gôdt å stå tocken där å bar bälj issä brännvin å hôll käfft å int få mat te. Hôlls dä va, så bynnt dä kok hett immä, satt ja gärn vell gär nô stöllitt, å ja såg att dä va på samm vis mä di are pôjkan å käran. Di lysst rödt i syna å ble besönnli i knäveka å en kunn se på dôm, att di hälst vell dans rilen äll gär hallingkast. Men dä va ingen, sôm tords rör en lem, för vi vänt hvar stönn, att prästen skull komm in, men hvalls dä nu va, så dröjd dä allt mä prästen.
+
+»Ja, mennas så tar vi ôss fäll en klonk,» sa gamle Jan han å tonga slang allt litt för’n, för persvaderinga bynt å ta övverhanna mä’n. Å så tog vi en klonk å ställd ôss te titt rackt fram å va still igän.
+
+Ja kännd påmmä att dä kom ännsôm e rasenhet imma bar tå brännvin å för dä att ja int feck rör mä. Ifall bar att nôn hadd stött vemmä mä armbôgen, så skull ja tvart ha kast rocken tåmmä å dängt’en. Dä vesst’a, å däfför kröp ja unna, så langt ja kunn.
+
+Da feck’a se Selfver-Pär å Leveransen stå å bläng på hôrann å dä va just itnô himmelrik i yga på dôm. Di va int vider vänner, för Leveransen hadd lur Selfver-Pär på en skogsaffärd, å di sa att Selfver-Pär hadd pinnt pänga ur Leveransen på ett fintlitt kuntrakt.
+
+Di hadd komm å stå brevé hôrann å ja kunn se att di tôk sä bort, för dä att di int skull tramp hôrann på liktonan.
+
+»Ja, mennas så tar vi ôss fäll en klonk te,» sa gamle Jan å heck te ett tag. Men i däsamm kôm allt prästen.
+
+»Nu börjer den rätt finheta,» va dä en, sôm sa. Men så fali finnt ble de fäll int, för vi va int recktitt stadi på bena, å den möne andackta va blidd ännsôm e rasen elektrisstet i ôss.
+
+Å så kom da ho, sôm hadd vôr köks när Frykmarks, in mä buljången å så skull den fin härrskappsmeddan bynn på.
+
+»Dä va en go buljång dä här,»sa Leveransen te prästen, för han töckt fäll att han skull vis, att han förstog sä på tock där han. Men da händ den ulöcka att han i däsamm kôm te snör te Selfver-Pär mä armbôgen, satt Selfver-Pär feck dä het spa i syna å ner imälla västen.
+
+»Hutt,» skrek Pär å ga Leveransen en boffel, satt’en kom farnass bål i vråa där ja va. Å i däsamm bynnt dä dask å däng å vröl å flyg ikring mä all möjli lösör gômmen stôga. Ja såg, att Kalle Gla å Lars i Hôsera va fram på gôlfve å hôpp baglängs å tjoa å skrek. Jäntan å käringan bynt å gråt å antur sä. »Still där,» röt prästen te, men dä va allt försennt te säj nô, sôm kunn var te nôa nötte.
+
+Sjôl rännd’a å slog ikring mä ôt all hôll mä bägg knytnäfvan. Hvafför ja slogs, vet int ja, men ja kunn int lätt bli, för brännvinspegasen va imma. Dä va en gammel bonn där, sôm int dä ja vet hadd gjort mä ett kofén te urätt, men ja feck tag i kärn å slängd’en bål övver en bänk sôm en skinnfäll. »Häj,» skrek’a å skull just gär samm res mä en aen gôbbstacker, men da va dä nô, sôm hang sä fast i armen påmmä. »Släpp mä,» skrek’a å dängd’et i vägga. Da feck’a se att dä va Anna Lek, jänta mi, sôm ja hadd gjort så ill ve, å da klack dä te immä å ja ble sôm en skensk häst. Hva sôm senna skedd, dä vet ja int, för ja va blankt iffrå mä.
+
+Men når ja kom temmä igän, låg’a långt ut på jale å grät. Yga va igänmurat påmmä, skael va sönnersläjen å näsa va ôppflôga sôm e väl jäsat brölimp.
+
+Men tänk på di jäntan, d’ä allt nô unlitt mä dôm. För rässôm ja låg där, så satt Anna brevé mä å grät, ho åg, å tôrk blogen ur syna påmmä mä förklä.
+
+»Gå dänna,» sa ja, »ja ha slag dä fôrdarfva — ja ä den värst lömmel, sôm finns i hel vala — ta Nils, du — han ä ingen fylltratt, han.»
+
+Men da grät ho bar varrer å sa, att ja int skull tal så styggt te’a. »Du ä söpen nu, Agust lelle,» sa ho, »men dä ska nock bli bra igän, ska du få se å försök å gå nu, så ska ja hjälp dä hem te mor di,» sa Anna ho.
+
+Ja, så strackla vi ôss allt iväg — ja geck å hängd mä armen om halsen på jänta å stortöt hel vägen ända hem. Å mor mi å Anna feck hjälp mä å mä klära å lägg ner mä i sänga å så dôrma ja å ifrå allt ilänn på den här jola för den gangen.
+
+D’ä fäll inte vardt te säj mö ôm hvalls dä ble senna. Vi pojker, sôm hadd vôr mä, kom inför härasrätten — sômma va inn på häckte i Kallsta, å sjôl feck’a svi läng å väl för pleckta, sôm ja feck betal. Å hvalls dä nu va, så kom ja allt liksôm te räcktnes mä te di där bråkstakan, sôm va di varst utskrekne i hel sockna. Å di kall bröllôpe i Backa för den stor rammelbuljången i Backa, å hôr en kom så kast di fram nô ôm, att dä va gôdt te få buljång å att dä skull bli ätterrätt ätter.
+
+Men för allt dä le ja ha litt för den buljången, så vell ja int att den vôr ogjord, för gômmen den feck’a se hva gôdt dä kan finns i ett kvennfôlk å dä ä ännsôm att den buljången skull hôll ihopp Anna å mäj, satt dä int ha blitt nôa ufre hemm i stôga hemm när ôss, sôm dä allt hällers plär kunn bli mälla gefte.
+
+* * *
+
+
+
+
+
+Gå på dompen.
+
+* * *
+
+
+
+
+
+Å DängJan sa te Kvennfôlks-Pälle:
+
+»du Pälle, vi går te ett anna ställe,
+
+dä här, dä ä lessamt dä,
+
+nu går vi på dompen te Finnbacka-jänta,
+
+ta brännvine mäddä, å Pälle du, vänta,
+
+vänta!
+
+vi tar allt klavére mä!»
+
+
+
+
+
+Di gjord en musik ner i vägaskele
+
+å spelt så kärvännli på piglåckspele,
+
+men Britta ho kom inte ut,
+
+di perka på Brittas lås mä en pinne,
+
+å ställd sä ve fönstre å sa: »ä du inne,
+
+Britta!»
+
+men Britta ho kom inte ut.
+
+
+
+
+
+Sen hveska di finnt: »ä du ängschli för
+
+mor di?»
+
+dä halp inte möe, da skrek di å svor di,
+
+men Britta ho kom inte ut.
+
+Da tog di ôpp sten å i vägga di donka
+
+på fönstra di banka, på dôra di ronka
+
+å skrek: »gi dä ut!»
+
+å da kom Britta ut.
+
+
+
+
+
+Mä gamlingens gamle gevär i näfven
+
+geck Britta å smög bak mä knuta sôm räfven
+
+å huka sä ner å kröp.
+
+Sen fyra ho tå bak mä halmen i stacken
+
+å Däng-Jan han domp som en mjölsäck i backen,
+
+han slog sä i nacken,
+
+å Kvennfôlks-Pälle han stöp.
+
+
+
+
+
+Di dog å stog ôpp, di ble skenske i bena,
+
+di tängde, di gne, satt dä ella tå stena,
+
+för skôte va bare tå krut.
+
+Å senna ä Däng-Jan å Kvennfôlks-Pälle
+
+just itnô så rogat te gå te nô ställe
+
+å donke små jäntonger ut.
+
+
+
+
+
+Å Britta ho satt sä på jola å skratta,
+
+å vre sä å va sôm en sjuke fått fatt’a,
+
+kröp senna i sänga igän,
+
+men langt bål i Eda å langt bål i Köla
+
+geck eko tå sköte i bärga å töla
+
+å langt bål i Nôrge
+
+geck skratte å går fälle än.
+
+
+
+
+
+* * *
+
+
+
+
+
+Bolaggsvinsta.
+
+* * *
+
+
+
+Te rep ihopp så mö en kan ôt sä sjôl å barna, å ställ dä klokerst en kan för framtia, dä gär fäll hôriveli männisch, sôm har nô vet i skael. Ja, dä gär te å mä sômma tå djura, sôm itnô vet har.
+
+Men d’ä sômma, sôm ä kloker än di are å te dôm hör sômma tå brukskäran. Te äxämpel når ja va stater unner Björkstaförs, så hadd vi en fôrvalter, sôm va så övverhôvvlianste klok, satt vi bruksfôlk ble jämt skamnôm för’n.
+
+Nu vet en hvalls dä ä, når dä ska bli tocka där bolaggsvinst. Dä går te på dä vis, att en tar så mö arbett ur arbeterskrôttan, sôm står te, å gir så litta lön, sôm kan dras ihopp. Dä sôm da blir övver åttå dä di vell gi för di sakan, arbetran ha gjort, når di drar den minst möjli löna iffrå, å dä förvaltern å kôntorshärran ska ha å unnerhôllinga tå bruke å ann tock där, bolaggsvinsta.
+
+Men nu va dä tocken ve Björkstafôrs, att där ågd bruke ôm mäst hel sockna å allt fôlk, sôm va, så va di född å ôppfödd på brukes mark. Nu tänkt bruksfôrvaltern sôm så — »ôm atte ja slör tå tjufem ör på löna, så blir dä litt mer pänga, å ifall atte sågran å smean mocker, så sier ja bar, att di kan få flött sin väg, ôm att di int kan li sä i stôga di har tå bruke — å senna får vi se, hvalls di gär», ment’en.
+
+Ja, di ôppstinnér sä fäll e ti, men hvalls dä nu va, så feck di allt gi mässä, för di töckt dä va för ledt te gå iffrå stôga å di tänkt fäll att di skull dra sä fram i all fall. Når en da la tehoppers tjufem ör på hôr kär å hôrt dagsverk för ett år, så ble dä e litta bra bolaggsvinst, dä åg.
+
+Men fôrvaltern va allt kloker än så. Han satt ôpp e handelsbo, för han sa att vi fôlk skull ha’t litt bekvämer, satt vi int behöfd gå så lang väg, når vi skull köp mjöl å kaffi. Han skull bar dra å på löna, sa’n, för hôr gang vi köfft nô. Å så gjord’en ett kuntrakt mä ôss, att vi int skull ha handel på nô ann ställ — den, sôm dä hadd, skull bli ôppsagd, sa’n.
+
+På dä vis feck’en mä en gang mäst hel sockna te köp allt di behöfd i bolaggsboa. Dä ble e ny bolaggsvinst.
+
+Men fôrvaltern va int nöjd ända han. Han satt ôpp prisa mä ett ör mer per skålpunn än di hadd hällers i handelsboan, å på dä vis feck statran å sågran betal mer för sett husbehof mä minner lön än ann fôlk. Dä ble åg e bolaggsvinst.
+
+Ja fôrvaltern hadd fäll allt mang fler sätt te gär bolaggsvinst; å sågran bynnt allt å flött iffrå bruke å far te Amerka. Å når dä le på, så gjord allt bolagge kôllbôtt, fastän att en skull töck, att mä ett tock rejment å tocka go bolaggsvinst skull dä allt gå bra. Mällerti va int just fôrvaltern nô fatti, når’n flött iffrå Björkstafôrs, men han hadd fäll funn på nôa snudi metod ôt sä — för te gär ny metoder dä va just fôrvalterns sak dä, å en övverhôvvlianste klok kär va’n, dä va int en ve Björkstafôrs, sôm vell nek för dä, fast att di int hadd just nôn fördel tå’t.
+
+* * *
+
+
+
+
+
+En sôm va langhört å högtänkt.
+
+* * *
+
+
+
+Dä va en gôbb, sôm va langhört å högtänkt hemm i sockna, där ja va. Han hörd te dôm, sôm int kan lätt bli te tänk högt, fast att di tror, att d’ä invartes å töst, di tänker. Å så va dä dä unnli mä’n, att’en kunn hör på langt hôll dä ann folk tänkt å sa ôm’en.
+
+Mä däsamm gôbben feck se en, bynt’en på å mommel te exämpel så här, ifall dä te exämpel va ja, sôm mött’en: »Håja den där ha ja allt sett fôr — d’ä vesst en tå di lömmlan där väst — han vet’el ing, han vet’el ing — hvalls skull den kunn vet nô — han va fäll int född den gangen fäll.»
+
+Allti va dä nô ôm nô en int skull vet. Men en feck allt vet ända, hva dä va, för dä tart’en allt ôm sjôl.
+
+»Nä, dä kan fäll ingen vet,» sa’n, »för d’ä för langsenna — å int kan ja tro att dä va nôn, sôm såg’e häller — mässé klocka kunn var åtta på kväel å da ä folk för dä mäst hemm å äter aftan — men nock kan dä fäll gå fôlk ômkring å stryk ända ve den tia, å jänta skrek allt, dä gjord ho allt — men ätter dä inge tal ble ôm’et, så tror ja vi kan lätt den saka få var sôm ho ä — å int va dä fäll häller så jävvlitt te gär tocken mä’a häller, fast nock va ho imot’e — å nock sa di senna att ho hadd gått i sjögen — men dä va fäll för ongen ho hadd, å den ä fäll int så innlitt evitt sanningans sagdt, att dä va min — fast nock stämd dä fäll nôglunda på tia, mässé, åja nock stämd dä allti — men d’ä langsenna å dä ä fäll kansch ingen sôm mins’e, ifall så skull var, att jänta int ôrk hôll käfft mat — ja tror att vi kan lätt saka var sôm ho ä, ja,» sa gôbben å geck å neck å titt ôt sia å gjord miner för sä sjôl.
+
+Dä va ännsôm han skull vell rå å öfvertal sä sjôl att dä inge va te ha bekommer för, å så frest’en fäll å karsk opp sä, men så kom dä allt tebakas igän dä där mä jänta å så bynnt en å mommel igän ôm att dä va, langsenna å ingen sôm i all fall vest å’t äll kunn mins’e.
+
+Men når att en slog sä i tal mä’n, va’n i förstninga sôm e anna männisch å sa tock sôm ann fôlk sier. Men rässôm dä va, kunn dä händ, att’en ännsôm sack ihopp å ble sôm’en skull var esam. Å han stog ännsôm å lydd invartes å så bynnt’en å mommel för sä sjôl: »mässé, jo ve tvärvägen ôt Skoga,» sa’n — »dä kan fäll int var länsman sôm sa’t — åjo dä kan fäll allt var länsman i all fall — å den are kan fäll möjlivis var prästen — hm, hm, hm, så di taler — dä här kan vesst bli ledt för mäj dä — hm, hm, hm, töcker länsman dä — å nännä — ånä d’ä för langsenna.»
+
+Å så vacktn’en ôpp å bynnt tal sôm ann folk igän. Men når en hadd gått iffrå’en ett stöck, kunn en allt hör att’en geck å grönna, ôm att’en hadd gjort nô sôm kunn förfall te var misstänkt. »Må tro pôjken kunn märk nô — ånä, dä kan fäll int sess uttapå så här langt ätter — för d’ä mang, mang år senna nu,» sa’n — »langsenna, langsenna, d’ä för langsenna,» môttra dä e lang stönn iffrå gôbben, senna en hadd skerts ve’n.
+
+Att gôbben hadd gjort nô ondt fôr i vala, dä trodd all männischer, för hvafför skull’en hällers gå å säj tocken för sä sjôl å int ôrk lätt bli. Men dä va ingen sôm vell gär nô ve’t, för di töckt att gôbben va för gammel.
+
+I all fall ä dä unnlitt mä di här, sôm ä langhört å högtänkt. D’ä sômma, sôm tror att en blir tocken, ôm att en ha gjort nô ondt å int ha komm te stå för’t. Dä ä sôm dä onn skull vell gi sä ut ännsôm ett utslag i en sjuke å sôm att di, sôm ha ondt gjort skull få straff, gômmen dä att di ä pocka te hör invärtes allt ondt, sôm ä sagdt ôm onnheta derses äll bol ha blitt sagdt, ôm ho hadd vôr bekant.
+
+* * *
+
+
+
+
+
+Frimureran.
+
+* * *
+
+
+
+Ôm att d’ä sant nu för tia, dä vet int ja. Men på far mins ti va dä allt si sôm så mä frimureran.
+
+Far min va ingen rädd kär, men nog ble’n unnli, når de ble tal ôm den tia han va gårsdräng när källmäster Lunngren ve Låsen i Kallsta.
+
+Skrömt å ilänn lär dä ha vôr för jämnan därôpp i frimurstehôlla i Låsen. Far min va pocka te gå ôpp på vien iblann å da feck’en lôf te gå förbi di utäck dôran sôm va därôpp. Dä tass å tass å host å skrömtulér sä därinn, sa’n, för jämnan, å en gang sa dä »Jan» te’n iffrå e dörr. »Akt dä, Jan,» töckt’en dä sa.
+
+Å tocka liklockt, sôm dä va. Men varst va dä, når frimureran skull ha storkalas, för da kom dä tock i dagen, sôm int kan utsäjs af en kristen mans tunga.
+
+Men hvalls han först feck nys ôm barnätinga, dä ôrk’en int hôll töst mä.
+
+Dä va en gang di hadd en tocken där stor kanaljation därôpp. Dä hadd komm storfôlk dit iffrå Örbro å Stockhôlm — å tjock å bre va di, sa’n — å fäll vet en hva den välmåga kom iffrå, välgödd onger ä inga fattimanskôst. Di, sôm ha bynnt på mä den matårninga, kan fäll int lätt bli, men urätt ä å förblir dä te ät barn.
+
+Far min feck förståss spring te källern ätter putäler — kônsti putäler va dä, sa’n, gammel å nersmord va di, å far min trodd att dä va svafvelsyr å amoniak i dôm, sa’n, för tocker vinputäler hadd’en för sin del allri sett.
+
+Men så kom Lunngren å sa te’n, att’en skull tull fram en kagg, sôm stog bål i a vrå. »Tull fram den där kaggen,» sa Lunngren han. »D’ä litt salta fårkött — frimureran ska allti ha salta fårkött, dä hör te frimurerlagen.» Kônsti lag, tänkt far min han, men han sa itnô, utta han tull fram kaggen, sôm han va tesagt.
+
+Men da händ dä int bätter än att den en botten valt iffrå å da rann dä ut armer å ben tå små barn.
+
+Va’ke dä dä ja tänkt, tänkt far min han, men sa itnô den gangen häller. Men Lunngren ble hvit sôm ett lakan i syna å sprang fram å feck fast bôtten igän på kaggen. »Ja ska tull in kaggen sjôl,» sa’n.
+
+»Ja, den kaggen får allt Lunngren tull in sjôl,» sa far min, »Mä tock fårkött vell ja han nô te skaff,» sa’n.
+
+Men senna va dä ett steken å fräsen därinn i köke, satt far min feck kvalm, når’n tänkt på hva dä va di stekt. Å når tia kom, att meddan skull bli, va dä ett sôl å kakkalorum därôpp, sa far min, satt han kunn hör att frimureran hadd’et bra. Där satt förståss all diss stor maktkannibalan å slök issä den en välgödd barnongen ätter den are å bälj issä all den sur svafvelsyra å ammoniaken.
+
+Tocken geck dä te när frimureran fôr i vala. Hvalls dä nu kan var, vet int ja.
+
+* * *
+
+
+
+
+
+Studentjakta.
+
+* * *
+
+
+
+
+
+Studentan va i trakta
+
+når jäntan va i vall,
+
+studentan va på jakta,
+
+dä vren å dä small.
+
+
+
+
+
+Dä flisa sönner tôppan,
+
+där skôta sköt blindt,
+
+di uvôrne krôppan
+
+sköt skackt å sköt vindt.
+
+
+
+
+
+Å ôrran å tjädran,
+
+sôm mälla träa flög,
+
+slapp unna, fast fjädran,
+
+kom ner sôm en snög.
+
+
+
+
+
+Men tackan å kalfvan
+
+di va i stora nö,
+
+di ôrk int stå för salfvan,
+
+di feck en blodi dö.
+
+
+
+
+
+Å varst di stackers jäntan
+
+geck krigerfala ôt,
+
+når di åttå studentan
+
+feck kälekens skôt.
+
+
+
+
+
+Di satt å töt i backan,
+
+når jakta va förbi,
+
+ôt kalfvan å ôt tackan
+
+å allt di sjôl feck li.
+
+
+
+
+
+Feck li så tongt tå kälek,
+
+sôm feck så dålitt slut,
+
+å all den nö å smälek,
+
+studentan hadd bredt ut.
+
+
+
+
+
+* * *
+
+
+
+
+
+Melangtäras intåg i Kallsta.
+
+* * *
+
+
+
+
+I.
+
+
+Melangtära får se Kallsta.
+
+
+
+
+
+Se Kallsta, se Kallsta, se Kallsta sta!
+
+Guda!
+
+Hurra!
+
+Se sola, se sola i Kallsta store sta!
+
+
+
+
+
+Se högt skiner Kallstas domkörktorn
+
+i tôpp!
+
+Spel ôpp
+
+ett klangsens guda! mä trompeter å horn!
+
+
+
+
+
+Se älfva, se broa, se bispens gål,
+
+hur skön
+
+står grön
+
+den stôlta staden Kallstas potatis och kål!
+
+
+
+
+
+Se fanornas vaj uti solas ljus,
+
+hurra
+
+för bra
+
+å go å fin trakterning uti Kallstas fine hus!
+
+
+
+
+
+Så fram I tappre gossar, uti lonk, lonk, lonk,
+
+gå på,
+
+I blå,
+
+i takt ätter donk, ätter donk, ätter donk, donk,
+
+donk.
+
+
+
+
+
+___
+
+
+
+
+II.
+
+
+Befäle.
+
+
+
+
+
+Befäle, befäle för tam-tam-tam,
+
+befäle mä makt drager fram.
+
+Herr öfversten kumderer,
+
+majorn han exerer
+
+sin stôlta bataljon i den stôlta staden in,
+
+kafftinen han ä barsker,
+
+lyttnánten han ä karsker,
+
+han sträcker så stôlt på den stôlta ryggen
+
+sin.
+
+
+
+
+
+Å fanjonkerbaken, för bom-bom-bom,
+
+sig breder så granner å grom,
+
+säschanten gör sig raker,
+
+han kan allt sine saker,
+
+det vet herr säschanten allt af,
+
+korpralen gör sig bister
+
+och bär i sin tornister
+
+en generalfältmarskalkstaf.
+
+
+
+
+
+___
+
+
+
+
+III.
+
+
+Vi.
+
+
+
+
+
+Så följa vi kafftinera å lyttnantera,
+
+vi dra
+
+i ra
+
+att Värmland bevara,
+
+för hej tranterara,
+
+med hvassa bajonetter, för tjong hej trantera!
+
+
+
+
+
+Vi hörna dä lyser tå jäntekjolera,
+
+vi ser
+
+på Er,
+
+I fina kjoler alla,
+
+I fina kjoler alla,
+
+mä tacksamhet för vackerlek, för hej, tjoh-lera!
+
+
+
+
+
+Dä drar ôss, dä drar ôss i skosulera
+
+te gå
+
+å få
+
+en köss bak mä knuta
+
+på truta, på truta,
+
+för ptuttu, för ptuttu, för ptutulera!
+
+
+
+
+
+Ve husa står civilera, di trinnskallera,
+
+på lur
+
+mä sur
+
+å le å better galla,
+
+för domses fästmör alla,
+
+för domses fästmör alla
+
+gir kärleken åt kongliga armén, trallera!
+
+
+
+
+
+Se dombom ve dombom står dombommera,
+
+jo jo,
+
+må tro
+
+dä känns i en dombom
+
+tå bombom på bombom
+
+på bombom, på bombom, på bombommera.
+
+
+
+
+
+* * *
+
+
+
+
+
+Å jasså, må dä?
+
+* * *
+
+
+
+Dä va en gammel såger ve bruke, sôm hett Annersch, å han va tocken, att inge bet på’n. »Å jasså» äll »å må dä» va allt han sa, hur ill dä än va för’n.
+
+Når di fôr i vala kom te’n å sa, att koléra hadd komm te sockna, sa’n bar »jasså, må dä, ha ho dä?»
+
+»Ja, men ho ä allt i granngårn när släkta di,» sa di.
+
+»Å jasså,» sa Annersch han.
+
+»Ja, bror din ä allt när ve te dö han, Annersch,» sa di.
+
+»Å jasså,» sa Annersch han.
+
+Å »jasså, må dä» feck’en allt hett åg. Men når di tart ôm för’n att di kall’en »jasså, må dä», tog’en allt åssä mössa å ref sä i skael.
+
+»Å jasså, må dä,» sa’n.
+
+Da va dä en gang, att Annersch kom unner ett bräras, satt di feck lôf å ha in en te lasarätte i Kallsta, å dä va allt ja sôm feck frakt in’en.
+
+Dä va int mö lif kvar i Annersch. En öre va åslet ätter rota på’n å hang mä nö fast. Hôvvsvårn va te hällta årefven å i halsen bakte va dä a stor grop.
+
+»D’ä allt slut mäddä nu, Annersch,» tänkt ja, för Annersch låg sôm han va dö. Men dä va int fritt att ja int tänkt, att Annersch skull res sä ôpp å säj: »å jasså».
+
+Ja så kom vi te lasarätte å feck ôpp Annersch i sael, där di skull bese’n, ôm dä va nô te gär ve’n. Å så la vi Annersch på ett bol, å lasarättskvennfôlka kom in mä all lavmanger å varktyg å bôrker mä ôljer, som di skull begagn på Annersch.
+
+Mällerti bynnt allt doktarn vräng ôpp ärman å ställ mä bôrkan å klepp å lef mä Annersch, å da bynnt allt Annersch å vackten ôpp.
+
+»Hur står dä te mä gôbben, har gôbben mö plager,» frågt doktarn.
+
+»Ånä,» sa Annersch han — »fast nock känns dä litt unnlitt.»
+
+»Ja, ja ska allt säj gôbben, att dä ä allt allvarlitt dä här,» sa doktarn. »Han har ett stort hôl i hôvve å hôvvesvårn ä allt mäst åsleten den på’n.»
+
+»Å jasså?» sa Annersch han å drog allt på’t.
+
+»Å ena örat ä åsletet,» sa doktarn.
+
+»Å jasså ä dä dä, ja dä va allt könstitt,» sa Annersch han.
+
+»Å en kan se in i svalje på’n gômmen nacken.»
+
+»Ja dä va allt besönnli, hocken skall ha trott tocke,» sa Annersch han.
+
+»Å d’ä allt frågan, ôm gôbben kan bli bra,» sa doktarn. »Vi vet int om dä int kan te å mä bli dön.»
+
+»Å jasså,» sa Annersch han å gjord ett litt fresten te få ôpp näfven te nacken. »Ja dä blir allt varst för kärnga dä,» la’n te, når’n hadd grönn ätter e stönn.
+
+»Men ja ska allt gär ett försök te lapp ihopp gôbben ja,» sa doktarn, för han ble änn sôm rasen för dä, att inge bet på Annersch, å så bynnt’en sy å plåstre på’n igän.
+
+Å han lapp allt ihop Annersch, å Annersch han lefver allt än han å ä ve go häls, fast att han ser allt litt skarfvat å lagat ut.
+
+Men når han blir dö en gang å kommer te hemmel å änglan sier te’n: »nu ä du allt sali, Annersch,» så ä dä int fritt att ja int tror att Annersch sier: »å jasså, ä ja dä, hocken skull ha trott tocke!»
+
+* * *
+
+
+
+
+
+E gökvis.
+
+* * *
+
+
+
+
+
+Så môrk va mi stôge
+
+å hemmalens bôge
+
+i väst langt i skyan va rö,
+
+da hörde ja nôge,
+
+som skrek bål i haga: ko dö!
+
+
+
+
+
+Da sa ja: »du västgök
+
+ä bästgök,
+
+hva spår du för löcke?»
+
+— käpp å kröcke,
+
+ondt ôm brö!
+
+
+
+
+
+Sen spord ja: »du östgök
+
+ä tröstgök,
+
+så si, hôr ä tröst, du?
+
+— natt å höst, du,
+
+svält å nö!
+
+
+
+
+
+Da sa ja: »I ljuger, ja tror inte på,
+
+hva göker kan spå,
+
+min skog å min sjö vell ja fråge om rå.»
+
+Da svara dä så:
+
+
+
+
+
+Se, gräse dä tôrker
+
+å löfgrönska ôrker
+
+i hösten int länge bestå,
+
+I fôlk ä sôm strå,
+
+I fôlk ä sôm kôrker
+
+på böljan di blå.
+
+
+
+
+
+Så sa dä, så sang dä frå skog å frå sjö,
+
+når mörk va mi stôge
+
+å hemmalens bôge
+
+i väst langt i skyan va rö,
+
+da hörde ja nôge,
+
+sôm skrek bål i haga: ko dö, ko dö!
+
+
+
+
+
+* * *
+
+
+
+
+
+Mä sjôl.
+
+* * *
+
+
+
+
+
+Ja vell int var strå äll kôrk,
+
+int hö äll vesne bla,
+
+i blåsten på sjön, i het å tôrk
+
+ja vell vare mä sjôl ändá,
+
+
+
+
+
+Å fäll kan dä händ, att ja dör,
+
+å fäll kan dä händ, att för vinn ja far,
+
+å fäll kan dä händ att e våg mä för
+
+å tôrken den siste krafta tar.
+
+
+
+
+
+Men tôrken må bränn mä å blåst på sjön
+
+hantér mä varr än ja tôl,
+
+når lifve mä släpper te sist ve dön,
+
+så vell ja höll fast i mä sjôl.
+
+
+
+
+
+* * *
+
+
+
+
+
+Stôlliheta i vala.
+
+* * *
+
+
+
+
+
+I ska vänje er å mä te skratt,
+
+för en lefver bar för te dö,
+
+ôm dan ska en tänke på natt,
+
+i sol ska en tänke på snö,
+
+du ska gråte, når lifve ä gladt,
+
+å int ska du vell dä du vell,
+
+dä ä allt så stôllitt, satt
+
+en allt vell skratte lell.
+
+
+
+* * *
+
+
+
+
+
+E anna gökvis.
+
+* * *
+
+
+
+
+
+Å môra ho kom å en aen gök
+
+gol högt å han gol iffrå sör,
+
+da spord ja igän på försök:
+
+»du sörgök ä dögök, så hör:
+
+Hvalls blir da den nöa,
+
+ôm hvem di are gökan gol?»
+
+»Jo,» svart’en, »att föa
+
+blir fet å möa
+
+i boens spis å på boens bol!»
+
+Da sa ja: »må dä, å må dä!
+
+di gökan di gal allt bå »ja» å »nä»,
+
+men hocken tå dôm ska ja tro?»
+
+Da flint dä å klocka: hoho, hoho!
+
+
+
+* * *
+
+
+
+
+
+Harrgårstösa i äppelapla.
+
+* * *
+
+
+
+
+
+Dä satt å sang i e äppelapel,
+
+där apeläppla hang grannt i ra,
+
+filinkeli lät e låt i tôppen,
+
+tilideli, trilla drilla gla.
+
+
+
+
+
+»Hva hetter du där i äppelapla
+
+mä vackerlåta i mun?» — sa ja.
+
+Da sang dä lideli lidelalla,
+
+dä drilla te sôm e lärk å sa:
+
+
+
+
+
+»Ja hetter Astri af Astrakanien,
+
+ja hetter Lideli Lidela»
+
+— dä titta fram sôm ett apeläpple
+
+i apeltôpp mälla äppelbla.
+
+
+
+
+
+Ordförklaring.
+
+A — en (femin.) ’a — henne ’a — jag aen — annan affärd — affär antura sä — buro sig åt apeläpple— i Värmland lär det  ibland göras skillnad mellan  apeläpple, päräpple och joläpple  samt mellan äppelapel  och pärapel are — andra Betart — betalt bleg — bligande, stortittande blogen — blodet boffel — en knytnäfstöt bol — bord bôrkan — burkarne brura — bruden bynnt — begynt, begynte bögda — bygden Da — då derses — deras dompen, gå på dompen — gå  på giljarfärd dôger — duger dôra — dörren dängt’en — gifvit honom ett  kok stryk En — man ’en — han ’e — det ’el — väl emsammen, esam — ensam erat, ve erat — edert, hos er Fali — farlig felt — föll flint — flinade fôr — förr fäll — väl förstninga, i förstninga — i  början Glan, glaning — titt, titta,  tittning gômmen — genom grom — väldig grönn, grönna — grunnade, funderade  Hannt — hann hek — hakade het — hetta helt — höll hôr, hôrt — hvar, hvart hôriveli — hvarenda hôrann — hvarandra — gå hövvsvårn — hufvudsvålen hvalls, hölls — huruledes hällers — eljest Ickre — ekorre ing — inget immä — i mig issä — i sig itnô — inte Jale — gärdet
+
+
+
+
+
+jäntbleg — jäntbligande jämnan, för jämnan — beständigt  Klocka — kluckade kôbben — stubben kofe’n — det minsta lilla fjun kôllbôtt — kullbytta, konkurs Lell — likaväl, i alla fall liklockt — liklukt Låsen — Logen Maskpi — maskopi mennas — under tiden môltera — hjortronen môttra — muttrade, mumlade mä — med mä — mig (obetonadt) mäj — mig (betonadt) mässé — låt mig se mäddä — med dig mässä — med sig mö, möe, möa — mycket, mycken  Nô, nôge — något nôn — någon når — när när — hos Ol — ord ôppflôga — uppflugen Paschaser — något, som passerat , äfventyr påmmä — på mig Rilen — reel, scottish Räggler — historier, ibland  med liten bismak af lögn Satt— så att sack — sjönk seldat — soldat si, sier — säga, säger si ôm si — sida om sida, tätt  bredvid siglan — sidtittande sjôl — själf skael — skallen skamnôm — rådlös skers — skiljas vid skôt — skott skrömt — spökeri slifft — slipade snudi — klippsk, påhittig snör te — köra till sôrr — surr sôl — sorl stortöt — storgrät surmodi — ledsen och missbelåten  Tart, tard — talade, talat tebakas — tillbaka temmä — till mig tessä — till sig tili — tidigt tock, tocke, töcken — sådant,  sådan tôk, — tåkade, flyttade tull — rulla tå — utaf tänga — springa förtvifladt fort töt — grät högt, tjöt Ugörlitt — ogörligt, omöjligt unna — undan utta — utan uvôrne — ovarsamma Vala — världen vacktn’en ôpp — vaknade han  upp varr, varrer — värre vemmä — vid mig
+
+
+
+
+
+vesen — vissnad vien — vinden vôr — varit Yg, yger — öga, ögon Åg — också ågd — ägde årn — ordna åssä — af sig All — eller ätter — efter änn — ända ändå — ändå
+
+___
+
+Satiren i “Bolaggsvinsta“ är delvis framkallad af hörsagor om förhållanden vid ett eller annat bruk, men hörsagor äro hörsagor och få stå i sitt värde såsom sådana, möjligen sanna, möjligen osanna.
+
+
+
+
+
+Innehåll:
+
+Förola 7
+
+Fredrek på Ransätt 9
+
+Ä du mä på dä 11
+
+Når ja fridd te Anna Lek 13
+
+Nypenrosa 18
+
+Rammelbuljången i Backa 20
+
+Gå på dompen 28
+
+Bolaggsvinsta 31
+
+En sôm va langhört å högtänkt 35
+
+Frimureran 40
+
+Studentjakta 44
+
+Melangtäras intåg i Kallsta 47
+
+Å jasså, må dä? 54
+
+E gökvis 58
+
+Mä sjôl 61
+
+Stôlliheta i vala 63
+
+E anna gökvis 64
+
+Harrgårstösa i äppelapla 66
+
+Ordförklaring 69
+
+________
+
+
+
+
+

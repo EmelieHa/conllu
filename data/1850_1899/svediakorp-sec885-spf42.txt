@@ -1,0 +1,722 @@
+# ID: svediakorp-sec885
+# author: Hjalmar Strömer
+# pseudonym: 
+# translator: 
+# title: En andesyn: Astronomiska fantasier
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-11-22
+# sourceDescription: Retrieved from Språkbanken's collection 'Svensk prosafiktion' (Swedish prose fiction). The order of the sentences is scrambled, due to copyright issues.
+# genre: prose
+# subgenre: fiction
+# location: 
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1880
+# editor: 
+# publisher: 
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Språkbanken (https://spraakbanken.gu.se/)
+# retrieveFormat: XML
+# annotation: tokens, lemma, POS, morphology, syntax, named entities
+# annotationMethod: automatic
+# words: 17,713
+# sentences: 679
+# sentenceOrder: scrambled
+# URL: https://spraakbanken.gu.se/swe/resurs/spf
+# cite: 
+# availability: CC-BY attribution (https://creativecommons.org/licenses/by/4.0/)
+
+
+Det är liksom alla meteorologiska fenomen vore på väg att somna utaf, och så förhåller det sig ock i sjelfva verket.
+Af kölden och den öfverhandtagande nivelleringen för längesedan drifna från högre breddgrader, äro areiterna nu mera sammanträngde till öflockarna längs eqvatorns bälte, och här ståndar dess sällsamma och sista strid för tillvaron, en strid icke med klinga af stål utan med andans svärd.
+Jag kände mig på nytt ila genom rymden, och snart var det skimrande system jag gästat begrafvet i fjerran.
+IV.
+Det behöfver icke bevisas, att det skulle varit en högst betydllig » planlöshet i systemet », om en så praktfull verld icke skulle hugnats med något lif, eller rättare, om lifvet icke skulle hugnats med att få bebo ett så härligt klot, då det dock blifvit förvist till en så tvetydig ort som jorden.
+Månen är alltså ett enda ofantligt lik, numera utstött ur den krets af befolkade verldar, der han en gång haft sig en plats gifven.
+Det var Sirius, en jättesol af 14 gånger större massa och 4,800 gånger större volym än Helios och omkretsad af en till massan något mindre (½) och till skenet mycket svag komponent.
+Visserligen fans det en tid, då tanken på dessa kringlors sönderbristande och nedstörtande vållade en viss häpnad, men tack vare deras (ringarnes) lagbundna rotation är det nu kändt, att de ingalunda skola taga ett så snöpligt slut utan fortfara att stråla kring Saturnus ’ tinning, så länge den underbara planeten fortsätter sin vandring genom rymden.
+Var det en fédrottnings förtrollande gemak jag förts uti, eller hade jag skådat in i sjelfva gudomens himmel?
+Har det skett i följd af någon väldig naturrevolution, genom krig eller farsoter?
+Det närvarande och det tillkommande
+I sanning, jag kunde icke vandra midt ibland dessa lemningar – mot hvilka Tebes och Ninives äro
+minnen från i går – utan att tänka på en tid, då här,
+Icke mindre än 8 månar – hvaraf en är jemförlig med Mars i storlek – uppvakta honom på hans resa genom rymden, sökande, i hvad på dem kan ankomma, att sprida glans och trefnad öfver den vördnadsvärde » fördettingens » återstående dagar.
+Den slöja af mörker, som omslöt mig, då jag lemnade jorden, fans nu icke mer; jag sväfvade liksom i en evig morgonrodnads badande strålar.
+Detta var
+en ögonblicklig reflexion under färden genom denna svärm af celesta kadaver, och i det följande hade jag åter blicken fäst på mitt nya mål: Jupiters majestätiska verld, planetsystemets härligaste skapelse.
+I sin
+opposition åter hafva de till ersättning för en stunds natt en dag med två i hvarandras granskap lysande solar.
+Onekligen kan en sådan tanke, så länge man vistas på jorden, synas ha skäl för sig, ty solen är ju den underbara
+och aldrig tröttnande gifvarinnan af allt yppigt och skönt, som pryder detta klot.
+I förhållande till hvad bruket är på jorden, måste ock det till Venusmenniskornas ära sägas, att de endast undantagsvis slagta hvarandra.
+Tusende solar ha redan slocknat och vandra nu genom verldsrymden som förfrusna kadaver, andra tusenden ha redan framgått till nytt lif och stråla ånyo med förskönad glans.
+» Du öknarna i blomster kläder Och tjusar i ruinens grus. » –
+13 Mars 1881 – firar sitt hundraåriga jubileum som medlem i telluristernas planetsystem.
+Hvad andra skulle fordra veckor och månader för att uträtta, tager af dem endast en flygtig stund i anspråk, och innan en vanlig tellurist ens hunne sätta
+tankens ur i gång, hafva de med snillets ljungeldar belyst hemligheterna i tingens mörkaste schakter.
+Man har gjort sina svärd till plogbillar och spjut till liar, och örlig och rykte af örlig höras icke mer.
+Upplyser nu ingen den hjertskrämde eskimåen om rätta förhållandet med järtecknet, kommer han förvisso att bringa de hemmavarande den förfärliga underrättelsen, att Saturnus skall förgås endera dagen.
+Kring vida trakter höras odjurens stönande, genom märg och ben gående läten, och ännu på långt afstånd synas deras blinkande ögon gnistra likt eldröda kol i det hemska mörkret.
+Deras utseende är omöjligt att beskrifva; de liknade intet som jag förut sett, om icke en egendomlig personage, som jag vill minnas jag någonstädes sett folk måla på väggen för att ge honom risbas.
+Naturen gör inga språng, och
+då Venus är en yngre syster till jorden, är det en nödvändighet, att hon nu måste befinna sig på ett utvecklingsstadium, som, hvad jorden angår, tillhör länge, länge sedan begrafna årtusenden.
+De vackra drömmarna om ett blommande lif på dess yta äro sålunda oriktiga, ty der lika litet som i solen kan något sådant finnas.
+I andra trakter åter, der man från vaggan till grafven är van vid fenomenet, hyser man för detsamma icke ringaste fruktan, utan erfar vid dess åsyn ungefär samma känslor som dem, hvilka det endast och allenast står i en månes våld att framkalla.
+Här liksom på jorden hvälfver sig dagens azurglänsande himmel och nattens stjernbeströdda hvalf öfver grönskande slätter och blånande haf, solens uppgång bebådas af morgonrodnadens skimmer, och öfver dess nedgång sväfva hvirflande purpurskyar.
+De hafva förräntat det pund en blid natur skänkt dem och stå färdiga att lemna det åter i gifvarinnans våld.
+Omedelbart skänker naturen sina skatter, och vid hennes prunkande bord är en och hvar en sjelfskrifven gäst, som kommer och går, då honom godt synes.
+På detta ofantliga afstånd, dit han skenat i väg, kan han naturligtvis ej påräkna någon närmare omsorg från moderklotets sida och den får han icke heller.
+Jag ville se Orions skapelser, men se, det fans snart ingen Orion mer; dess stjernor liksom flydde för min syn och jag såg dem snart förströdda omkring mig på ofantliga djup i rymden.
+Det är svårt att beskrifva de intryck jag erhöll af solen; de äro i sjelfva verket obeskrifliga, ty de låta icke förlikna sig vid någonting jordiskt En atmosfer omgifver henne visserligen, men den har ingen likhet med planeternas.
+» Ödslig och mörk och kall » hvälfver sig himmelen öfver denna dystra tafla, der nakna klippor likt eviga mumier i en hemsk tystnad betrakta hvar andra.
+Men spörj mig icke om mig sjelf eller något annat; jag vet hvad dig göres behof och talar af mig sjelf hvad dig godt är. »
+Redan hade jordnätternas bleka sol växt ut till en ofantlig jättesköld med väldiga bucklor, ännu vittnade om den förtviflade strid den en gång uthärdat, och redan kände jag kraften af dess tilldragande allmaktshand.
+På ett afstånd af 270 millioner mil från solen fortsätter denne planet sin onekligen dystra lefnadsbana, och fordrar icke mindre än 84 (jord) år för att fullända sitt omlopp.
+Du skall der finna väsen stående lika mycket öfver ditt systems högsta representanter, som dessa stå öfver dig och dina medbröder, du skall der skåda hvad ingen af Helios ’ verldar haft eller skall ha; men du skall se det för att sedan lära dig förstå, att i universum finnas otaliga grader af fulländning och att till och med den skenbart högsta fullkomlighet dock blott är ett steg till något ännu fullkomligare. »
+Han är tvärtom en sol.
+De arma varelserna, eller hvad man nu ville kalla dem, skulle ju bokstafligen brinna upp.
+Häraf och i följd af Venus ’ stora axellutning (53° 12 ’), hvarigenom vinterns polarsnö våldsamt försmälter, råder på denna planet högst betydliga neptuniska omhvälfningar.
+I sanning just en treflig verld; och dit skulle jag nu ha fört mina läsare?
+Deras yttersta dag är härföre ingen förskräckelsens eller ängslans dag, utan en stilla, fridfull afton, då den sjunkande solen breder sitt gyllne skimmer öfver en till sömn längtande natur.
+Och liksom om himlens blida makter ännu icke gjort nog, hafva de åt de väsen, de satt att bo i dessa gårdar, skänkt en skönhet, som ingen Praxiteles mejsel eller Rafaëls pensel kunnat härma.
+Men är denna planet oförliknelig i imposant majestät, har han dock, hvad märkvärdighet angår, sin öfverman i sin närmaste granne, Saturnus.
+De gamla strandvallarna bära ännu skönjbara märken från den tid, då Ägirs plaskande döttrar lekte vid dess fot, och de brant stupande klipporna tala ännu om ett fordom, då upproriska störtsjöar vältrade sig mot dess fasta grund.
+Jag styrde alltså kosan till dessa trakter, letade mig väg emellan söndersplittrade kratrar och nakna klippor.
+Och jag såg i krigsgudens rike hvad på jorden skall ses en gång.
+Någon sysselsättning har icke en uranit, ty hvarför skulle han göra någonting i ett lif, som är så genomgående uselt, och hvilket han uthärdar endast och allenast derföre att han ej kan svälta ihjäl eller på annat sätt dö utom naturens ordning.
+Då rycktes i ett nu liksom en slöja från mitt anlete, min syn var klar och det var som om tusen himlar utstrött sina härligheter omkring mig.
+Stående på en kulturgrad långt under rödskinnen i nya verldens urskogar, är deras lif i fullaste bemärkelse en » kamp för tillvaron ».
+E. FRITZE ’ S K. HOFBOKHANDEL.
+Fullt på det klara med det absolut illusoriska i hvarje tanke på att söka skilja smärtan från en tillvaro, som är just i kraft af sin förnimmelse af smärta, bär han sitt öde som det egnar en sann filosof, räknande och räknande till den stund, som skall skänka honom den absoluta befrielsen, förintelsens hvila på stranden af Nirwana.
+» Juvelstoftet » glesnade, dess gnistrande punkter svälde ut till lysande klot, och jag befann mig snart på en af dessa lycksalighetens öar, som härute badas af den eviga glansens omätliga haf.
+Bortom mig utbredde sig stjernoceanen, beströdd af skimrande ljusöar utan tal.
+Tankom det orimliga!
+Saturnus ’ – och för öfrigt hela planetsystemets – största märkvärdighet är hans högst egendomliga ringsystem, som för resenären erbjuder den sällsammaste anblick.
+H. Hj.
+Ja, hvarföre skulle det ej kunna vara så, och onekligen antydde allt, att seleniterna för länge sedan utkämpat sin sista strid för tillvaron och dervid för alltid lagt sina hufvuden till ro i den eviga sömnens sköte.
+Så flög min tanke från rymd till rymd, tills jag helt och hållet försjönk i inre betraktelser.
+Ja, så tidsenligt stäldt är det här ute, och då härtill kommer de förälskade saturniternas ovärderliga fördel att få lustvandra och svärma under inflytande af alla dessa kärleksgynnande månars skimmer, skall till och med den mest konservative tellurist tvifvelsutan medgifva, att jorden ändå är bra styfmoderligt lottad i jemförelse med denna totalt misskända verld.
+Men det är så: en jätte i Lilleput är ett småkryp i Brobdignag, och jag måste, med eller mot min vilja, vidgå, att den lärde saturniten i somt hade rätt och att man på jorden allt emellanåt bär sig åt som mullvaden, som från toppen af sin hög förmätet mönstrar berget der borta vid synranden.
+Du skall en gång inbjudas till gästabuden på Sirius ’ verldar, och du skall bo i diamantslotten och dricka ljus i x:s system.
+Vetenskapen är ingen slafvinna i de förutfattade meningarnas, de föråldrade lärornas tjenst, hvilken får åtnöja
+sig med de smulor en ljusrädd, maktegande despotism kastar för hennes fötter, utan fri som hafvets gungande våg och sugande likt vinträdet sin lifskraft ur den oförvillade tankens bördiga mark och sträckande sin evigt grönskande krona mot skyn, mot evigheten, medan foglarne under himmelen bygga sina nästen på dess qvistar.
+De der menniskorna, skapelsens krona, eller hvad det nu var, skulle ju – i saknad af våra talrika och för en rätt astronomisk insigt högst gynsamma ring- och månförmörkelser m. m. som endast på Saturnus kan finnas, – nödgas vara i djupaste okunnighet om de simplaste astronomiska saker och ej ens få i sig, att deras planet var rund; ja, de skulle på en sådan ömklig punkt ständigt nödgas slagta och nedgöra hvarandra för att kunna något så när få skapligt rum.
+Jag hastade åter genom eterslätterna; jag såg
+stjernor slockna i djupet bakom mig och andra dyka upp i djupet framom mig.
+Men med sådana höga andar är icke tillvaron afslutad.
+Endast den tanklöse, som är ur stånd att fatta verkligheten, eller den sjelfbedragne, som ej har mod att se henne såsom hon är, kan vara dåraktig nog att vilja finna en skymt af ljus eller förmildrande dager i denna fullständigaste af alla obegripligheter: tillvaron.
+Huru har nu lifvets källa sinat ut på detta klot?
+På viktorialandets isiga fält har resanden en evig tystnad blott som sällskap och kanske trampade jag just en sådan nejd på månen.
+Beträffande växt- och djurformen återfann jag i flere arter en påfallande likhet med de jordiska typerna; dock syntes jordens högst stående representanter inom såväl djur- som växtriket ännu ej gjort sitt inträde på Venus.
+De finnas då icke mer, utan slumra i samma sköte, som en gång födde dem.
+Och härmed sade jag månen mitt farväl och fördes bort på geniens vingar.
+Men en gång skall en Prometeus skaffa dem detta väldiga vapen från gudarne, och från den stunden skola afroditerna datera en ny aera i sin utveckling.
+Dessa kolosser bilda tillhopa ett så kalladt dubbelsystem, en dubbelstjerna, med en gemensam tyngdpunkt, hvaromkring de likt oerhörda solvisare vända sig på ett halft sekel (noga 49.4 år).
+Jag tager mig friheten nämna detta för att ingen tellurist må glömma sig derhän att födas under denna planets sannolikt mycket tvifvelaktiga inflytande.
+Du är det, som leder Neptuns ’ öden på 420 millioner mils afstånd, och ur din barm strömmar den flod af ljus, hvari planeterna bada;
+Att detta slags regn
+varit häftigare fordom än nu, är klart, liksom att det en gång alldeles eller åtminstone till väsentlig del skall upphöra.
+Jag kände mig tilltalad af deras trånande glans, jag kände dragningen af ett sympatiens slägtband, en hemlig längtan grep mig och jag önskade mig vingar att plöja luftens ocean, eterns omätliga blåa rymder.
+Att Jupiter uppkallats efter honom, som blott behöfde rynka på ögonbrynen för att komma hela olympen att darra, det vittnar om lika mycken pietet för olympens beherskare som respekt för jätten bland planeterna.
+37
+I dess ställe hade solen svält ut och visade en 2¼ gånger större apparent skifva än på jorden, likasom äfven dess värme och ljus i samma proportion voro förökade.
+Man skulle kunna säga, att Venus är jordens perfektum, liksom månen är dess futurum; ty att det funnits en tid, då jordens första söner kämpat samma strid, som afroditerna kämpa i dag, är lika obestridligt, som att hon en gång skall vandra genom rymden lika förfrusen och ödslig, som fallet redan är med hennes lifdömde drabant.
+Och likväl hade jag med allt detta ännu ej sett ens så mycket som en punkt i evigheten, ett sandkorn i verldshafvet.
+Jag mönstrade ännu en gång den jordiska solen, nu en stjerna af knappt synlig storlek vid ε i örnens stjert, då jag helt plötsligt varseblef en bländande sol på himlen.
+Den hastighet, hvarmed dessa kroppar slutligen falla i solen, är så stor (ända till 60 mil i sekunden) att den vid sin omsättning i värme, d. v. s. i vibration, direkt förser henne med ett oskattbart lifskapital, och det är en lycka för planeternas lif, att solen under sin svindlande fart genom rymden emellanåt erhåller ny kontingent af lifsmedel – låt vara af sten, men det är just derpå verklighetens Kronos kan lefva – ty annars är det icke så gifvet, att någon » Planetbewohner » i dag fröjdade sig åt himlaljuset der uppe.
+Jorden, som från månen ännu liknade en väldig glänsande skifva, en jättebalong, upphängd i firmamentets hvalf, hade nu hopkrympt till en vacker stjerna, vexlande, allt efter Venus ’ läge i den ena eller andra konjunktionen, betydligt i ljusstyrka och i sin opposition tillräckligt klar för att åstadkomma ett helt svagt
+jordsken.
+E. FRITZE ’ S K. HOFBOKHANDEL.
+V.
+Skapelsen är ej här i uppror mot sig sjelf och lifvet utan, genom dess lagars utforskande, bragt i den skönaste harmoni och en lydig tjenarinna i förnuftets värf.
+Belägen på obetydligt afstånd från solen, mottager han mer än 40 gånger mera ljus
+och värme på en viss qvadratyta, än som sker på jorden.
+Hvarje väsen har alltså att under evigheterna genomlöpa oräkneliga existensformer och har, allt efter graden af sin utveckling, sin vistelseort på det ena eller andra verldsklotet, i det ena eller andra systemet, i den ena eller andra trakten af verldsalltet.
+Utan hus, utan hem tillbringar han sitt lif under öppen himmel, ty hvarför skulle han bygga ett hus, dit tillvarons elände i alla fall flyttade in med honom sjelf.
+» Säg mig med hvem du umgås, och jag skall säga hvem du är! » ansåg jag, att jag redan på förhand borde kunna tillämpa på Merkurius ’ närmaste umgängesbroder, Vulkanus, och vid framkomsten dit, fann jag det fullkomligt berättigade deri, helst denne kyklopernas skyddspatron i allt syntes ha gått till ytterlighet.
+Och dock äro äfven de, ehuru de fullkomligaste, hvarom du för närvarande kan göra dig något begrepp, ingalunda af annat än relativt lägre slag i förhållande till dem som bebo ännu högre system.
+Det underbara systemet ϰ i Korset hör till de fullkomligaste inom dubbelstjernornas klass och äfven till de fullkomligaste inom vintergatan.
+Skuggor och mörker äro kända på jorden blott, men icke i himmelen.
+Den som der nere på jorden i stilla nätter betraktar detta blåhvitt glänsande klot, der det rullar bland stjernorna, kan icke undgå att fattas af en sällsam längtan att en gång komma dit upp till » den eviga kärlekens ö », och en stor man tillbragte sin sista natt på jorden med att betrakta denna sköna verld, der han trodde sig efter döden skola fortsätta sin tillvaro.
+Der öfvervintra sommarbin I myrtenlundars varma sus, Och jorden dricker solens vin Uti ett evigt rus. »
+Han bär ingen nöd, inga lidanden, ingen gäckad förhoppning mer på sin yta.
+O, jag ville se de underbara verldar, som tråda dansen kring dessa facklor, och helsa de menskligheter, som der fröjda sig i ett ljus utan mörkers omskiftning.
+Visserligen uppnå de der, såsom Jupiters inbyggare visat, en jemförelsevis hög grad af fullkomning, men i förhållande till hvad de en gång varda på andra verldar, äro de alltjemt omyndlingar, så länge de der hafva sin tillvaro.
+Ja, just så kände jag mig till mods på denna planet, som jag tillät mig anse för en lycka att han är så pass långt skild från jorden som han faktiskt är.
+Vetenskaper och konster af utomordentligaste omfång och fulländning äro i sjelfva verket det enda, som kan tillfredsställa dessa höga andar och derföre det enda hvaråt de hängifva sig och akta som något sant verkligt.
+Som emellertid ringarnes
+plan gör en betydlig vinkel mot ekliptikan, blir fenomenet ett väsentligt annat och hvilket läsaren sjelf får söka tänka sig så godt han kan, då det är för inveckladt att närmare kunna beskrifvas.
+Men en gång skall sådant ske, och då skall förnuftet här, liksom annorstädes, söka sig en väg till det förgångna och blad för blad läsa historien om hvad som försiggår i den dag som är, men som då skall slumra i årmillionernas tysta graf.
+Jag hade sett månens dödsåkrar, grottmenniskorna på Venus, naturupproren på Merkurius och Vulkanus.
+Dessa olyckliga skuggor lefva derföre i ständig fejd med hvarandra, men som hvar och en endast har sig sjelf att ställa i striden, stannar detta oerhörda » bellum omnium inter omnes », som annars lätt kunde antända hela Neptunus, lyckligtvis i byxfickorna i form af knutna näfvar, d. v. s. symboliskt, ty någonting så reelt som ett par byxor ha tydligtvis inte ett skuggväsende sådant som neptuniterna.
+Jag ville byta tusende år mot att en enda minut få blicka in i denna undrens helgedom, hvars dôm hvälfver sig öfverallt, men ingenstädes står att finna.
+På sjelfva kanterna skulle man, derest ringarnes plan sammanfölle med ekliptikans, ha en evig dag, illustrerad af en gigantisk halfmåne, som, jemt stående vid horizonten, för hvarje ringomlopp genomlöpte alla sina faser och vid hvarje öfvergång från nedan till ny regelbundet förmörkade solen.
+Det är den stora lagen för tillvaron, och så ha seleniterna uppträdt och åter försvunnit från skådebanan.
+– Jordens astronomer hafva tänkt och skrifvit mångt och mycket om solen, och några bland dem, t. ex. den store Herschel m.
+I skenet af dessa smygande facklor njuter naturen sin lätta sömn för att redan i nattens första väkt åter uppstå till nytt lif och ny sträfvan.
+Redan hade solen gått till sömns i Tetis salar, purpurns sista droppe förbleknat, dagen följt sin herskarinna i grafven
+och natten intagit sin tron.
+Jag tyckte
+mig i en sky af ljus och jag kände mig som i en dröm af oändlig lycksalighet.
+Vexlingar mellan köld och värme äro för den skull betydligt intensivare på Venus än på jorden, hvaraf storartade meteorologiska rubbningar äro en följd.
+Afroditerna (så böra i analogi med benämningen seleniter desse inbyggare heta) lefva af djur, som de lyckas döda, och i varmare trakter äfven af vegetabilier och annat.
+En gastronom från jorden skulle knappt mer än hinna börja sin middag under de flyktande timmarna, och en stackars baldrottning bli vansinnig af att ej ens hinna ordna sina löslockar innan dag åter grydde.
+I de pölaktiga träsken – eller hvad jag må kalla dessa obetydliga vätskesamlingar, som ännu trotsat den oerhörda kölden – simma inga fiskar och ingen köl arbetar sig fram genom den halfstelnade gyttjan.
+Det sades mig icke, men det glunkades, att de icke vore infödingar på Neptunus, utan att de kommit från en mycket aflägsen
+, mycket stor och härlig verld, någonstädes i rymden, der de sökt upphäfva sig till gudar och tillvällat sig makten öfver sjelfva stjernorna.
+Deras drägter voro finare än något siden och skiftande i alla möjliga färger af guld, skarlakan och purpur, deras lemmar fagrare än skönhetsgudinnans, då hon steg ur hafvets skum, deras hy en väfnad af purpur och snö och deras ögon klarare än diamantens vatten.
+Detta är hvad jag hann inhämta af uraniternas filosofi, visserligen litet, men som icke-filosof vardt jag derpå admitterad.
+Den genomskinliga purpur, som på jorden och Venus bilda ljusets mest fängslande företeelser, äro här en okänd sak.
+Man kan svårligen tänka sig en slätare figur än den denna planet spelar på jorden men, det kan jag försäkra, också ingen sällsammare än den han af en frikostig natur i verkligheten fått.
+C.
+På min heder, här äro underliga ting att se, och Saturnus är för resten icke alls farlig.
+I bemärkelse af stelnad och mörk verldskropp är Jupiter ingen planet.
+Huruvida de emellertid i följd af sin vana att jemt se det häpnadsväckande djupet under sig ega någon specifik disposition för lindansareyrket vågar jag ej afgöra.
+Der går solen aldrig upp, ty hon har aldrig gått ned, sedan dess bländande strålar för första gången vibrerade genom oändligheten, sedan hon i sin tillvaros morgon sattes att stråla i skyn.
+Med undantag af några gudlösa fritänkare, blir han naturligtvis trodd af alla, sedan han med vederbörlig kolorit underrättat om himmelstecknet, och med all aktning för dessa menniskors förstånd måste dock sägas, att det nu för en tid kommer att svika dem.
+Onekligen är det poesi i det skimmer månen breder öfver jordens nattlandskap, ehuru den poesien något påminner om grafhymnens, men i motsats till de nutida jordmenniskornas uppfattning af kärlek och månsken såsom ett, var det mera sanning i att symbolisera nattens tysta vandrare i Dianas kyliga väsen, och sannast har någon jordisk författare förstått månen, samt liknat honom vid den af ålder och lefnadsvisdom höjde
+siaren, som ännu vid grafvens rand lotsar vandraren genom okända ödens dunkla natt.
+Ack, så frågade jag mig sjelf vid åsynen af dessa härligheter, om dessa privilegierade väsen visste, att denna lilla, lilla punkt (d. v. s. jorden), som de under lyckliga förhållanden någon gång skönja omedelbart vid randen af den upp- eller nedgående solen, ack om de visste, att den är befolkad, och att denna punkts väldiga pygméer i sin höga vishet lifdömt universum ej mindre än dem, som sökt utforska det; hvad månne de då skulle tänka?
+De skola – i likhet med ditt slägtes representanter, hvilka de i utveckling stå närmast – så småningom aflägga den ena akrobatmasken efter den andra, tills de uppnått den högsta grad af fullkomning, som för deras verld är möjlig.
+Men det är annan sed här ute.
+fl., till och med trott henne vara bebodd och till hennes ofantliga klot förlagt tillvaron af de sällaste väsen, som menniskofantasien kunnat skapa sig.
+STOCKHOLM
+Jemt förbrukande sin lefvande kraft, sin aktuela energi, genom att armbåga sig fram genom den kosmiska dimman, skall han i en, astronomiskt taladt, jemförelsevis föga aflägsen framtid, efter att hafva fulländat sin starkt spiralformiga bana, sitt korta lefnadslopp, hamna i solen, försvinna, likt bubblan, i det sköte, som nyss födt honom.
+» Hvarför bor man icke der? » Dock, det är sant, » himmelriket är icke gjordt för menniskors barn ».
+Till ersättning härför hugnas nu
+visserligen samma halfklot, så snart vårdagjemningen ingår, med en lika lång dag, men som dock icke uppdrifver värmen mer än högst – 28°, och det vore derföre obilligt fordradt att uraniterna under sådana förhållanden skulle visa en glad uppsyn.
+Hettan om dagen och kölden om natten äro derför betydligt kontrasterande, hvartill ytterligare sälla sig de i följd af axelns betydliga lutning (omkring 70°) och årstidernas korthet (året är nämligen endast 84 jorddygn) nödvändigt uppkommande våldsamma omvexlingarna i så väl klimatiskt som fysiskt hänseende.
+Detta fenomen är ännu ej sedt på ditt fosterklot, men efter några årtusenden skall den härold, som dit flög åstad på ljusets vingar, hinna fram, och då skall en ny stjerna inregistreras i deras kataloger och någon tid öfvergå sina likar i glans, men så småningom, allt efter som de bränbaraste gaserna hinna förtäras, sjunka tills hon antingen blir helt svag eller ock alldeles osynlig; det skall varda en ny η i denna stjernbild.
+Lyckligtvis behöfva de det icke.
+Utan omsvep tillstår jag, att jag afundades honom hans lycka.
+Allt är insvept i en natt, ogenomträngligt som Stygens, ödsligt som grafvens.
+Likväl erbjuder vistelsen här en anblick, som i egendomlighet med intet kan jemföras.
+jag ville trösta honom, men förgäfves.
+Ett hycklande bedrägeri, en gäckande drömbild, en tragedi med namnlöst elände, det är tillvarons början, fortsättning och slut.
+Hans länder skola aldtig blifva föremål för några hersklystne tyranners blodiga spekulationer, och det måste erkännas, att det är en lycklig lott; men så skall han aldrig heller blifva stationen för några spejande astronomer, och det är, hvad solärastronomien angår, nog att beklaga.
+Annat få desse inbyggare kännas vid.
+Ställningar och förhållanden på Saturnus
+Allt var så tyst, så tyst.
+Ännu några ögonblick, och jag landade på en ny jord, seleniternas tysta rike.
+opponerar Jupiter) och den tindrande stjernhimlen de mest tjusande föremål för undersökning och betraktelse.
+Sträckande sig till en höjd af minst en million mil, öfvergår den i solkroppens granskap till ett formligt haf af eld, som omsluter hela solklotet till flera hundra, ja tusende mil i djup.
+En sådan best till saturnit!
+För mig åter innebär dess förhandenvaro naturligtvis ingenting öfverraskande, alldenstund jag, såsom kommande från en så högst upplyst planet som jorden, tydligtvis redan ägde hans närmare bekantskap.
+För öfrigt har den svarta skuggkägla, som planeten hvar natt kastar på ringen och hvilken från öster till vester skrider öfver densamma, tidigt ingifvit dem klara föreställningar om en mycket vigtig, på jorden högst svårförståelig astronomisk sanning, och det veta nog de bildade saturniterna att hålla ringarne (ty de äro tre) räkning för.
+Kanske, så frågade jag mig sjelf, trampade jag på månen, en längesedan befolkad jord, grusade lemningar af en förgången kultur.
+– Jorden!
+Då dessa rader – till mågon mindre del och i annat skick offentliggjorda i Nya Dagl.
+I hela ditt eget planetsystem har du ändtligen sett en typ för hvad man kan kalla system af lägre slag, och otaliga sådana finnas i vintergatan och andra nebulosor.
+Då och då klyfver åskans stråle denna natt, bryter dess skakande dunder den hemska tystnaden, men blott för att i nästa sekund lemna den skälfvande naturen i mörkrets våld.
+– Auf Wiedersehen!
+Brunröd uppstiger dagens stjerna i öster, liksom ur ett blodhaf, och som en bestänkt brahminsk offerprest går hon ned i vester.
+» Evolemus, evolemus ad œterna gaudia! »
+Jag såg bäckar bryta sig i kaskader af renaste silfver och guldbelagda stränder och blommande lustgårdar spegla sig i flodens azurglänsande våg.
+Men i detta farliga pass gå tusentals kometer under på en gång, utan att sedan något spår af dem mer blir att se.
+Kommen till denna verld, befann jag mig åter bland idel nya förhållanden.
+Och likväl är det icke desto mindre det glupska djuret, som ofta går segrande ur striden och då antingen löper bort med sitt rof, eller
+ock börjar frossa på bytet midt för de stackars varelsernas ögon, liksom ville den fyrfotade röfvaren likt Polyphemus göra de återstående förtrogna med hvad som en annan gång skall blifva deras lott.
+– Ja, så svarade jag den närgångne infödingen, som emellertid icke dermed fann sig tillfreds utan fortsatte: Men äfven om en sådan planet funnes, hvilket är omöjligt, då ju ingen på hela Saturnus någonsin sett honom, skulle åtminstone några väsenden aldrig kunna finnas der.
+Denna planet är, med andra ord, i följd af sitt obetydliga vinkelafstånd (högst 28°) från solen mycket svår att med blotta ögat urskilja, och högst få jordmenniskor torde derför ens hafva sett denne medlem i den planetanska syskonringen, mycket mindre trängt djupare in i hans tillvaros hemlighet.
+De röra sig nämligen, för att nu tala astronomiskt, i retrograd riktning, och detta är ett alldeles säreget faktum inom planetsystemet och har, åtminstone hittills, fullständigt trotsat äfven den skarpsinnigaste diagnos.
+Den öfverhängande, i hvarje ögonblick hotande faran har likväl drifvit dem att associera sig med hvarandra och till någon del bistå hvarandra; den har väckt till lif medvetandet om deras gemensamma lifsintresse, den har sammanknutit deras slägtband och således lagt grunden för deras låt vara mycket långsamt, men dock säkert fortgående utveckling.
+Det var som om jag mött tusende blickar från nattens alla regioner, som om rymdens alla menskligheter hälsande dragit mig förbi, och hela min själ uppgick i denna stund i en oändlig längtans suck:
+Allt hvad naturen kan skänka, har hon med slösande hand utstrött öfver dessa verldar.
+Ingen fogelsång tonar genom luften och intet nyttigt djur förskönar tillvaron.
+och fördes på den luftiga färden mot Selenes silfverglänsande kuster.
+Kunskapen är deras religion och insupes redan från de spädaste åren.
+Träd, örter och växter af på jorden aldrig sedd skönhet pryda dess länder och någon vildmark gifves icke.
+Fridens banér svajar öfver alla länder och förenar dess inbyggare till en enda brödrakrets, hvars högsta mission är » den största möjliga lycka för det största möjliga antal individer. » Man fyller ej historiens blad med krystade loftal öfver sjelfviskhetens och lögnens illbragder utan med deras namn och deras bedrifter, som offrat sitt lif i sanningens tjenst.
+och dessa ömsom qvadrat- och ömsom rektangelformiga terrasser, som vid de utsinade flodernas fordna stränder möta betraktaren, tala de icke alla om en svunnen tid, då lifvet utvecklade sin rastlösa verksamhet på detta nu så ödsligt vordna klot?
+Med en känsla af medlidande, blandad med verklig beundran, lemnade jag denna pessimistiska nation, för att i förbifarten bese Neptunus, denne novus homo bland planeterna, som någon fransman gifvit det kanske något anspråksfulla namnet: » Vården på Leverriers graf ».
+Då du i en vattendroppe skådar tusentals infusorier af lika enkel organism som flygtigt lif, synes det dig visserligen som vore det befäst ett oöfverstigligt svalg mellan dem och ditt eget höga väsen, men det är icke så.
+Uh, så hemskt!
+Han äger, kan jag försäkra, Merkurius ’ alla fel, men ingen af hans förtjenster, och det är väl litet.
+En tid af några timmar skall delas mellan arbete, hvila och förströelse!
+Jo, jorden det är en ofantlig himlakropp, kring hvilken sjelfva solen i fordna dar tjenstvilligt rullade, ehuru hon numera anses afsatt från sitt hedrande uppdrag, och menniskor, så kallas denna underbara verlds invånare, emedan vår herre särskildt gifvit dem förmågan att kunna tänka och vara förnuftiga.
+Hafvet kokar och luften genljuder af ett brakande, som om alla himlar remnade och störtade i kras: det är en afgrund, som råkat i uppror mot sig sjelf och sönderslites i raseriets vånda.
+Men allt är här af helt annan beskaffenhet än på jorden.
+I motsats till Venus, som helst tjusar på egen hand, håller han sig så envist i solens omedelbara granskap, att nästan endast den astronomiska psykologiens skarpa öga är i stånd att urskilja hans individualitet.
+Då hörde jag liksom susningen af en sakta vind, en ljum fläkt omsvepte mig, och jag tyckte mig buren på starka vingar, stigande med ljuset.
+Detta förstod jag nu bäst, der jag stod ansigte mot ansigte med en, som det syntes, allsvåldig förgängelse.
+Bäst jag ingen ting såg af dem, omgåfvo de mig som hungriga demoner.
+Men de skola ej så för alltid förbli, utan småningom höja sig ur sin vildhet, afkasta sina vilddjurshudar och ikläda sig humanitetens rena skrud.
+V. En döende mensklighet
+Der uppe i det himmelska herradömet triumferar den högtidligaste tystnad, liksom låge allt försänkt i en evig tillbedjan af Honom, hvars panna omstrålas af verldarnas ovanskliga diadem.
+Lutande så betydligt som 70° mot sitt plan, inträder hans norra pol vid höstdagjemningen i en 42-årig natt, som vid vintersolståndet betäcker nästan hela halfkloket (en följd ju af den stora axellutningen) och hvarunder allt förstelnar i köldens isande fjättrar.
+Du har alltså sett en sol, som snart skall dö, och din egen skall en gång dela samma öde.
+I det samma kändes det som om geniens hand hade släppt mig, min dröm var slut, och jag befann mig åter på hafvets strand.
+Regn, moln och vindar likna jordens, men äro af betydligt svagare natur.
+Det är tankens och icke den blodiga bragdens representanter, man här viger åt odödligheten, det är humanitetens, men icke våldets och eröfringens fana man svär sin trohet.
+Knappt har mörkret inträdt, förr än det åter förjagas af de uppgående solarne (som nu tydligtvis följas åt).
+43
+Derföre gifves äfven ett annat giltigt skäl, det nämligen att saturniterna – ty det är naturligtvis dem man skulle anlitat – icke ha den ringaste aning om att någonting, som heter jorden, fins till, till stöd hvarför jag skall tillåta mig anföra ett exempel.
+Ett sällsynt, på jorden ej sedt skådespel erbjuda de himlasträfvande bergens snöbemantlade toppar, i det de hvarje klar afton bada i solens glans, långt sedan mörkret sänkt sig i dalen, och hvarje morgon förgyllas af Auroras
+strålar, medan sömnguden ännu beherskar naturen.
+För resten är allt det der bara soppa på gamla, för länge sedan vederlagda rationalistiska paradoxer.
+Följande dessa sluttande dalgångar, som här och der utmynna i de fordna hafvens och sjöarnas uttorkade bäcken, påträffade jag de otvetydigaste vittnesbörd om andra tider, då sakta mot sina utlopp skridande floder här banade sig fram och afspeglade menskliga boningar och menskliga verk.
+Hvart gällde nu min färd: mot Karlavagnens regioner, mot sjustjernorna, Sirius
+eller Orions bälte?
+Hettan på dagen är derför odräglig, minst 1,000 grader, då på jorden skulle vara blott 25, och silfver, tenn, bly, natrium m. fl.
+63
+Ingen sky hade under dagens lopp grumlat azurens hvalf, ingen slöja dragits öfver solens anlete, och ännu i aftonväkten stod himlens bild lika klar i hafvets spegel.
+Befriade från allt arbete utom den rena intelligensens, nötas icke dessa väsendens krafter under oket af någon träldom, och nedtryckas icke deras själar af något bekymmer för hvad de skola äta eller dricka.
+X. Lycksalighetens ö
+Skall hon kanske varda hem för lifvet, för någon underbar mensklighet?
+Dessa vida slätter, som på jorden ännu kallas haf, sjöar, träsk o. s. v., hafva helt visst en gång i verkligheten varit hvad de nu äro endast till namnet.
+Ehuru uppfyllelsen af denna önskan alltid inneburit en tillräcklig belöning för hans verksamma och nyttiga lif, är det likväl min förhoppning, att han skyndade till en verld ännu skönare än Jupiters och der fortsätter att förverkliga den sköna sanning han en gång uttalade här nere, » att en menniskas lif icke är de flere eller färre år hon left, utan det verk hon verkat, och att ett overksamt eller i sjelfviska intressen förnött lif icke i högre bemärkelse är något lif, varade det än tusende år. » Huru som helst, förtjenar Jupiter i hög grad den beundran, som jordens barn skänka honom, äfven om han i
+verkligheten väsentligt afviker från deras föreställningar om honom.
+Nej, uraniten är född pessimist och dör pessimist Hvarför skulle han icke vara uppriktig och medgifva det eländiga i lifvet?
+Hon tillgrep då de barn hon en gång födt och ville lefva på dem, men hennes dom var redan besluten och i hennes anlete beseglad.
+Men äro de födda förr än jordmenniskorna, skola de ock dö långt före dessa, och i denna tillvarons sista fas äro areiterna redan på väg att inträda.
+Liksom det gifves oändliga fullkomlighetsstadier inom varelsernas serie, så finnes det ock otaliga bostäder, som svara deremot.
+53
+Det var vid Zevs en kuriobel verld, det kan jag försäkra.
+Jag såg ett haf mera klart och skinande än kristall, jag såg dess kuster glänsa af perlor och ädelstenar och jag såg bekransade gyllne farkoster glida fram öfver dess spegel.
+Han liknar en af ålder bräcklig moders sent födda barn, som, afladt med döden i sin barm, snart offras åt förgängelsen.
+Sedan dess står henne intet mera åter än att dö, och sekund för sekund slungar henne allt närmare den graf som skall uppsluka henne, sedan likväl först alla de slägten, hvilka hon skänkt lifvet, kommit till ro i hennes moderliga sköte.
+Dess invånare hafva stält för dina ögon en bild af ditt eget slägte, sådant det ännu lefde, tänkte och rörde sig för hundratusental af år sedan.
+Den är identisk med deras natur och har icke kunnat utrotas eller ens motarbetas, trots tid efter annan nitiske optimister uppstått, som funnit tillvaron på Uranus alldeles förträfflig, som dragit i härnad mot en sådan förblindelse, som att icke kunna inse, att frost och svält, lidande, nöd, jämmer och elände af alla slag äro alldeles förträffliga saker, och att den icke kan vara vid fullt förstånd, som icke lider och kämpar och våndas från vaggan till grafven och derför, som för en stor gåfva, tackar sin skapare.
+Den ofantliga mängd af vattenångor, som under dagen bildas och mätta atmosferen, kondenceras under inflytande af nattens köld och nedfalla i form af väldiga störtskurar, mot hvilka jordens tropiska regn är att förlikna vid en sommaraftons läskande dagg.
+Natten har ingen måne, och ej ens de klarast lysande stjernorna förmå genomskåda det täta dimhöljet.
+Vid eqvatorn ser man detta bihang från öster till vester klyfva himmelen i två hälfter, men ju mer man närmar sig polerna, sjunker det mot horizonten tills det omsider totalt försvinner.
+Sekler äro flyktiga minuter blott i deras tillvaro, och de se det ena efter det andra fly bort som en rosendröm, medan andra leende inbjuda till nya fröjder i sitt sköte.
+Sid.
+Solen lyser sällan på en molnfri himmel, och äfven då sådant enligt merkuriska begrepp sker, arbetar hon sig fram genom ett dunstkaos, som till och med på middagen kommer henne att lysa som en utlefvad bonvivants sömnbenägna blickar, och som i horizontens granskap nästan alldeles begrafver henne i en rostfärgad imma.
+Detta stenregn på solen är för henne af lika stor betydelse som ett arla regn för jordens vegetation.
+50 öre.
+Här utslungas inga fördömelsens åskviggar, ty huru skulle man vilja störta något väsen i ett oändligt qval för en ändlig förseelse!
+Ja, så kan det synas så länge man på 14 millioner mil betraktar denna häpnadsväckande eldhärd, och så tyckte äfven jag, när jag dernere såg det blän dande klotet rulla öfver lufthimlens skinande hvalf Nu åter, sedan jag ser solstormarnes väldighet och hör dånet af deras brottningar, har illusionen förbleknat, ty huru skulle några väsen kunna finnas i ett eldhaf, hvari hela jordklotet på en enda sekund skulle förbrännas som en vaxdroppe?
+– Men hvad skall det då varda af planeterna?
+Från solstatens gränser
+– Men det bar vidare mot de okända verklarnas fjerran stränder.
+– Se der hvad jag såg på Mars: en mensklighet, som dör med Sokrates ’ ande.
+Fattade redan i aflägsna rymder af solens sympatetiska band och brinnande af en omotståndlig längtans åtrå, skynda de med ljusets snabbhet för att, om icke mer, så åtminstone en gång i sitt lif få betyga den mäktiga herskarinnan sin hyllning.
+Under mig i djupet glittrade ännu likt skimrande lysmaskar de bleklagda ljusen från de nattomhöljda boningarna, men bullret och stimmet hördes icke mera: » sorlet af menniskors lif studsar mot himmelens port ».
+Och likväl är all denna härlighet en obetydlighet emot den andliga spis af renaste slag, som utgör dessa väsendens
+egentliga lycksalighet och högre lif.
+Vi, » skapelsens krona », vi skulle tro jorden vara » flak som en pandekage » och ha för sed att ta lif af folk!
+Någon egentlig religion hade de icke heller; det enda jag möjligen kunde tillerkänna dem i den vägen, var en dunkel föreställning om ett godt och ett ondt gudomsväsen, hvaraf det förra troddes sända dem ljus och löna deras jagt med byte, medan det onda ansågs råda öfver mörker, köld och storm och sända dem rofgiriga djur, som bortröfvade och söndersleto deras barn.
+reste sig lysande palats, i hvilka man köpte och sålde, fröjdades och led, hatade och älskade, tills allt en gång insöfdes i förstörelsens tysta natt.
+Shelley.
+X.
+Han talar sällan, ty hvad skulle han annat tala om än detta tillvarons elände, som ju ändå icke försvinner dermed att man talar om det.
+Har nu en sådan eskimå icke begrepp om sin bostads runda form, och det är väl knappt begärligt, att han skulle ha det, så skall han naturligtvis tro, att det är den mystiska bågen som ändrar läge, och efter att upprepade gånger sett henne förmörka solen, och efter att hvarje natt hafva sett, huru ett kolsvart spöke sakta promenerar på den sväfvande bron, skall han näppeligen kunna undgå att föreställa sig, det en oerhörd drake uppstigit från afgrunden och rustar sig till en förfärlig strid mot de stackars saturnusboarne.
+Så gestaltar sig tillvarons slutscen hos dessa sista dagarnas helige.
+Bisolen är redan till hälften utslocknad, liknande i viss mån Jupiter, och skall – astronomiskt sedt – fort nog varda en planet, hvarpå ett underbart lif skall uppblomstra, hvarförinnan dock millioner slägten skola värma sig och fröjdas i hennes sken.
+Hafven, som den ena gången sjuda af raseri, afspegla en annan gång det fridfullaste lugn, och den himmel, som den ena stunden är höljd af nattsvarta moln och genomkorsad af Zeus ’ mördande blixtar, är en annan gång genomskinlig och klar som sjelfva kärleksgudinnans allt besegrande blickar.
+Ack, jag ville, om ock blott för ett ögonblick, förlänga tillvaron af denna trollprakt, men förgäfves.
+Men ack, de känna icke hennes makts obetvingliga
+bojor, veta icke att den förtärande glansen i hennes öga skall förinta dem, och att de just i hyllningens stund skola gripas och som eldbränder kastas i den gapande afgrunden.
+Det är ett tragiskt men äfven på samma gång sublimt öde.
+Hvad som då försiggick, der allting nu är vigt ål
+förödelsen, det är höljdt i evig natt; men att skepp plöjde vågen och idoga händer en gifmild jord, derpå kunde jag icke tvifla.
+Inga menniskor hälsade mig välkommen, inga nyfikna blickar mönstrade mig, och ingen mensklig boning syntes till.
+Så rasa elementen någon tid för att inom kort åter igen förstelna i köldens bojor.
+Här och der flög jag förbi någon meteorsvärm, här och der en irrande komet.
+Hvad det är sublimt midt i skötet af denna himmelska prakt!
+Djuren tystnade och bäcken stannade, träden sänkte bugande sina kronor och hafvet jublade och vestanvinden dansade af fröjd.
+ASTRONOMISKA FANTASIER
+Hvilken rörlighet!
+Vattnet sjuder och fräser som i en kokande kittel och skulle, derest det atmosferiska trycket icke vore så starkt, ej en enda sekund förekomma annat än i gasform.
+Ännu för ett år
+sedan fans hon icke till annat än som tvenne på vid skilda trakter i rymden vandrande mörka massor.
+Jag sträfvade från haf till haf, från sjö till sjö, väntande att omsider finna hesperidernas trädgårdar.
+Skådespelets skimrande fatamorgana upplöste sig som syner i en dröm och allt var förbi.
+Allehanda sistlidne vinter – härmed öfverlemnas åt allmänheten, sker det utan annan förhoppning än att de måtte skänka några ögonblicks förljufvande känsla åt enhvar som i likhet med mig finner sig tilltalad af en möjligen illusorisk, möjligen verklig och i hvarje fall skön tanke, som blott derföre är så mycket mer fängslande som den väl för alltid skall förblifva utom det menskliga vetandets råmarker.
+Ja, derpå svarade mig ingen, men den försonande
+tanken föresväfvade mig, att de icke skulle tänka alls utan ädelmodigt förlåta i förhoppning att dessa menniskor en gång skola komma på bättre tankar.
+Nå, hvad äro då neptuniterna för folk?
+Med förenade krafter kämpa dock inbyggarne mot desse rånare, och det är intet tvifvel, att de till sist skola blifva deras fullkomlige beherskare.
+Helt visst intet af allt detta.
+Lysande palatser, bygda, ett af skinande guld, ett annat af diamanter, ett tredje af glödande rubiner, ett fjerde af blåglänsande safir, ett femte af grönskimrande smaragder, reste sig såsom frammanade af en trollmakt och glänste i en färgprakt mera lysande än någon tunga
+kan uttala.
+En saftig vegetation pryder bergens sluttningar, och mellan dalens lummiga träd hoppa lekande vattubäckar.
+Hans roll i skapelsens ekonomi är i stort sedt för längesedan utspelt, men
+minnet af hvad han en gång var omstrålar ännu hans tinning och bildar ett lika intressant som lärorikt blad i historien om verldarnas lif och öden.
+Denna döende mensklighet står nu vid randen af sitt slägtes graf, ett lefvande vittne om att det onda är blott ändligt och förgängligt men att det goda är det eviga och absoluta, ett vittne om att ett slägte, som kom i verlden belastad med fel och brister, lemnar henne förädladt som det sofrade guldet i smältarens degel.
+Och dessa korta nätter äro ingalunda, den flyktiga stund de vara, ödsliga och mörka, utan upplysta af talrika månar, som, skiftande i alla möjliga faser, kläda nattlandskapen i det silfverhvita skimrets bleka skrud.
+Man har icke sin gudsdyrkan allenast i munnen, i form af väggtaflor och vimlande ströskrifter, under det den verkliga dyrkan faktiskt tillkommer några skröpliga menniskor, utan religionen är omsatt i verklighet, är lifvets stjerna och kärna, tankens och handlingarnas
+ledande makt.
+Kunna de väl vara något annat än de tysta gårdar, i hvilka seleniterna en gång helgat åt den sista hvilan, stoftet af sina hädangångne anförvandter?
+Deras klädedrägt, för så vidt någon sådan nyttjas, består af djurshudar, som de i oberedt tillstånd svepa omkring sig.
+II.
+Man innesluter sig icke under stenhimlar för att nalkas sin Gud, det sker icke under ceremoniens isande tvång, icke på den eller den orten, utan Allfaders dyrkan är en tillbedjan i anda och sanning, ett själens samtal ansigte mot ansigte med den Evige, utan dogmer och traditioner, utan krucifix och ritual, utan pomp och ståt, utan messor och klockeklang; intet vantrons täckelse döljer gudomens panna och inga diktade vrångbilder vanställa dess ansigte.
+Från din egen ödsliga punkt i vintergatans djup
+skall du, i mån af din andliga fulländning, sväfva mot högre och högre verldar, med allt skönare och fullkomligare lif.
+De syntes oförbätterliga och tåla icke på vilkor hvarandra, ty hvar och en tror sig ensam rå om hela Neptunus och det är ju ingenting att dela på.
+Och detta lysande gästabud, rikligare än Krœsus ’ och långvarigare en Ahasverus ’ har efter tusental och åter tusental af år icke sinat.
+Utaf de verldar du nu skådat, så fortfar åter genien, skall du kunna göra dig ett begrepp om några af de olika faser tillvaron har att genomlöpa, samt om de skilda vistelseplatser den under skilda stadier af utveckling tager i anspråk.
+Såväl dag som natt ser man desse trotjenare med vaksamt öga följa sin herskares minsta rörelser, och ännu hafva årmillionerna icke sett dem samtidigt luta sina godmodiga ansigten till sömn.
+Slutligen har du i din egen bostads drabant sett hvad verldarna en gång skola bli, sedan kölden förstelnat dem och lifvet derifrån försvunnit, liksom Mars ingifvit dig en föreställning om slutscenerna i ett lägre menniskoslägtes lif.
+Inga träd spira upp ur dessa förtorkade nejder, och inga doftande betesmarker gifva näring åt några hjordar.
+De yttersta planeterna, Uranus och Neptunus, äro vistelseorter för
+sådana väsen, som på ett eller annat sätt motarbetat sin egen och såmedelst äfven det helas utveckling och i egentlig mening straff- och förvisningsorter för andliga brottslingar från systemets öfriga verldar.
+Lidande, jämmer och nöd äro utplånade ur dessa varelsers språk, sedan de icke längre finnas i verkligheten.
+Religionen är ingen modeartikel, ingen helgdagsdrägt, hvarmed man skyler hvardagslifvets nakna lyten, utan en hjertats sak, en källa med springande vatten, flytande lika ymnigt under lifvets alla skiften.
+Någre jordiske skriftställares utsago, att man på Venus vore sysselsatt med idel kärliga nöjen och tidsfördrif af det mest eteriska slag, håller ej stånd inför verkligheten.
+Jag lemnade månen i den öfvertygelsen att, om der en gång funnits varelser, dessa dock för länge sedan ingått i » icke-tillvarons » saliga hvila.
+Ingen seglare plöjer detta haf, men på dess brinnande yta brottas de förfärligaste stormar.
+EN ANDESYN.
+I.
+Venus delar, ehuru i mindre grad, dessa egenskaper
+och är äfven hon att räkna till verldar af lägre rang.
+Det var mig likgiltigt; jag visste, att evigheten är full af under.
+En hemsk aning genomfor mig, jag kände mig till mods, som vandrade jag omkring i en ofantlig graf, som befunne jag mig på ett slagfält, öfver hvilket dödens tystnad ännu råder.
+Många af dessa kringströfvare löpa i perihelium solen mycket nära, och härunder störta milliontals af de små kroppar, hvaraf kärnorna bestå, gripna som de bli af tyngdkraftens hand, ned mot sin förstörelse i den stora eldstaden, och äfven om de göra ett eller annat spiralhvarf kring sin graf, innan de våga sig dit, sätta de derigenom endast några sekunder till längden af sitt lif.
+Äfven Merkurius har sina haf och kontinenter, dalsänkningar och floder.
+Bundna vid sina klot med en väldig kraft (minst 10 gånger större än på jorden), äga dessa varelser en förhållningsvis mycket stor både andlig och fysisk styrka.
+Jag anade ännu underbarare ting än dem jag hittills sett, min längtan blef omotståndlig och jag ville just ila bort, då genien hejdade mig.
+De äro de vistelseorter intelligenserna bebo strax efter sin sinliga födelse och sedan under hela den tid de ännu qvarstå på sina lägre utvecklingsstadier.
+skapelsens krona!
+Maktlystnad och vinstbegär, egoism och lögnaktighet med hela sitt följe af ovänskap, tvister och krigens namnlösa eländen äro för all tid i afgrunden nedstörtade titaner och frihetens och kärlekens himmelska genier insatta i sina everldliga rättigheter.
+Jag ville skynda från stjerna till stjerna, från trakt till trakt af vintergatans hvitglänsande moln, jag ville gästa nebulosornas aflägsna ängder och hälsa anförvandterna, som bebo öarna i den gränslösa oceanen!
+Andra hem och andra slägten
+Huruvida han i sjelfva verket utöfvar de svartkonstfunktioner, som Saturnus orätt ansetts bedrifva, kan jag icke säga, men misstänkt såg det ut.
+I.
+Ännu hörde jag det sakta bruset omgifva mig, under det jag lyftades uppåt och uppåt mot oändligheten och evigheten.
+VI.
+A. Agardh.
+Vid min ankomst till Saturnus frågade mig en af infödingarne
+, hvem och hvadan jag vore.
+Träden droppade af den ljufligaste sötma och mellan blad af klaraste guld hängde svällande frukter af rubinens glöd.
+Detta skall mycket bidraga till fred i solstaten, men den freden skall stå solen dyrt, ty hon måste köpa den med sitt lif.
+» Der ler en evig lagerskog, Med vinlöfskransar rikt behängd, Och marken, rörd af ingen plog, Ger skördar der i mängd.
+I lifvet visar denna religion sin makt genom att skapa en tillvaro af harmoni och skönhet, och i döden genom att låta åldringen under några sekunder af saliga syner undergå sin förvandling.
+Beträffande inbyggarne på ringarne (n. b. de yttre, ty den innersta är obeboelig) gestaltar sig deras lif på väsentligt annat sätt än på planeten.
+» I milliarder årtusenden – så återtog genien – fortfor denna sol att sprida glans och lif omkring sig, men evigheten
+tärde på hennes lifskapital, och så kom en dag, då döden slog sig ned i hennes barm.
+I stil med Saturnus är han försedd med en ring och i öfrigt, så vidt kändt är, välfrejdad, hvilket ingalunda kan sägas om t. ex. den » store Jupiter » och den » härliga Venus. » Af djur och växter finnas här inga spår; ödsligheten är ännu förskräckligare än på Uranus och väcker den pinsammaste ängslan, likt den en menniska skulle erfara, hvilken en kolsvart natt blefve satt att bo i ett likhus, der en uppskrämd inbillning hörde tunga suckar från hvarje vrå, tassande steg af kringsmygande vålnader och kände sig berörd af iskalla skepnader, som uppstigit ur sina likkistor.
+IX.
+Men snart bringar orkanen det i det våldsammaste uppror.
+En ocean af eld, det låter besynnerligt, men det är bokstafligen just hvad solen har, ty så måste jag anse detta hölje af vätgas, magnesium och kalcium, som omsluter henne och har en temperatur, mot hvilken brinnande olja vore kall som is.
+Allt var ännu tyst omkring mig, och ännu brunno stjernorna der oppe på det omätliga hvalfvet.
+C.
+I känslan af denna lycksalighet sväfva de likt Œdipus på Kolonos, som förklarade skuggor öfver sina egna väsen, tills den sista blicken har brustit, den sista tungan stelnat och den sista bloddroppen upphört att sippra genom någon varelses ådror.
+STRÖMER
+Der såg du ett lif af sådan fulländning som endast högst ofullkomligt kan på jordiskt språk uttryckas.
+Bäst en lyktat sitt öga, bligar en annan under ögonlocket, medan en tredje stirrar som en uppskrämd posterande gardist, i hvars skyllerkur nattkylan vållat några misstänkta knakningar, och häraf är det att hoppas, att något vidare attentat mot högstdensammes person icke skall komma till
+stånd.
+Deras hår var granatglänsande och öfver pannan lyste ett diadem af gnistrande juveler.
+Från aftonstjernans hulda sköte – det medgifves att detta uttryck är riktigt blott i jordmenniskornas fantasi – stäldes min färd till tvenne andra der nere föga väl anskrifna verldsklot, Merkurius och Vulkanus.
+Till och med det fallna och skenbart förlorade är stadt i samma oaflåtliga fullkomning, om det ock ofta synes som vore det för alltid tillspillogifvet.
+XI.
+Jordens
+astronomer ha väl förespått, men ej lyckats få bevittna en dylik katastrof, men detta beror derpå, att de på långt när ej se alla kometer, som trängas kring solen.
+Deras närvarande
+höga andlighet är en följd af en lång utveckling på lägre verldar, och sin närvarande fullkomliga bostad skulle de annars icke ens kunna bebo.
+En harmonisk och andefull lefnad åter är en större gåfva ju längre den varar, och onekligen vore dessa varelser att beklaga, om de, efter en lefnad, kort som på jorden, nögdades lemna ett lif, bygdt af ljus och ambradoft.
+Granaten, mandeln blommar der, Och oljeträdet drar sin must, Och drufvan kokar sina bär På evig solskens kust. »
+Sins emellan lefva dessa arma varelser ofta i de vildaste fejder och göra derigenom sin tillvaro dubbelt sorglig.
+Sakta höjer sig lifvets låga till full intensitet och sakta sjunker den åter i dödens natt.
+Men de hafva ej alltid så varit.
+Förgängelse och död i definitiv bemärkelse finnas endast till för sjelfviska och låga själar men icke för den vise.
+För något ögonblick kan det vara jemförelsevis lugnt och inger då anblicken af någonting outsägligt, på samma gång hemskt och
+sublimt.
+Med en sol 900 gånger mindre och svagare än på jorden, vandrar denne planet så att säga i det eviga mörkret, hvilket äfven hans uppvaktande måne får finna sig i.
+På solen faller jemt ett störtregn, icke af vatten utan af glödande meteorstenar.
+Djuren äro icke de högre väsendenas fiender eller misshandlade offer, utan deras ömt vårdade skyddslingar, som genom sin klokhet på mångfaldiga sätt försköna lifvet.
+Se der i Argos konstellation denna flammande sol, som nu öfverträffar alla sina grannar i ljusstyrka!
+Blott existensformerna gå under, födas och dö som vågorna på ett brusande haf, men hvad som var det väsentliga deri, förnuftet, anden, det öfverlefver alla vexlingar och framgår ur hvarje tillvarelseform med ett högre och renare innehåll.
+I hennes närhet kretsa milliontals sådana kroppar, som allesammans förr eller senare hamna på hennes yta, eller rättare i hennes eldstad.
+Jag tillät mig i alla händelser att på eget ansvar anse det rätt beklagansvärdt, det dessa » durchlauchtar », som genom » blod- och jernmannen » mist och framdeles komma att mista sina besittningar, i » de filosofiska och lärda hårpiskornas stora, härliga och fria land », icke här kunde göra sig skadeslösa genom ett eller annat dussin planetoider, hvilka ingen i hela verlden skulle bestrida dem att styra och regera.
+» Dessa system vore visserligen outsägligt underbara, men de intoge i ordningen af sina likar samma plats som Helios intager i den ordning, der hon är af lägre och Sirius och hennes likar af högsta rang.
+En evig vår beherskar dessa verldar och utströr med ymnig hand sina håfvor öfver länder, dem ingen frostil härjat och intet blod vattnat.
+Blott vidriga kräldjur af den förfärligaste skepnad hafva sitt tillhåll i dessa hemska trakter, hvilka ingen uranit för sitt lif vågar nalkas.
+Hon är dessutom en representant för de hem, der förnuftet ännu så att säga tager sina första fjät på den oändliga utvecklingens stråt.
+Lifvet och döden begränsa äfven här hvarandra, och om så icke vore, skulle det i hela verldsalltet ej mer vara en enda stjerna att skåda. »
+De störtskurar, som atmosferen vid öfvermättning gifver ifrån sig, blifva till följd af den starka värmen snart i form af ånga åter jagade dit upp, derifrån de kommit.
+Genom Jupiters födelse störtades Saturnus från den tron, han inom planetsystemet förut innehade.
+Med ängslig otålighet lemnade jag Vulkans ömkliga verld, som var föga annat än en halfglödande slaggmassa, för att göra ett besök i solen.
+16
+Redan innan ännu någon alg
+prydt jordklotets öde skär, hvimlade det af ett mångskiftande lif på Mars, och millioner år, innan några stenverktyg knackades der, bodde areiterna i städer och lysande palatser.
+– Men en slocknad sol, hvad skall det varda
+af henne?
+Jag vände mina blickar mot höjden, mot dessa blinkande strålpunkter, som der tindra likt aldrig slockande ljus i Allfaderns boning.
+För öfrigt, en planet, som du säger, utan ringar, med
+en enda fattig måne och sjelf endast 1 / 800 af vår härliga Saturnus, ett sådant oting skulle kunna hysa något slags lif eller ens sjelf finnas till!
+Allt är der ytterst primitivt, men det var ej annat att vänta.
+ämnen befinna sig i flytande tillstånd.
+Merkurius ’ verkliga solafstånd är ungefär 2½ gånger mindre än jordens, i följd hvaraf solens apparenta storlek och dess ljusstyrka här äro något mer än 6½ (noga 6.69) gånger större än på jorden.
+Den jordiska mytologien har ju gjort honom till en vederstygglig antropofag, som slutligen föll, men icke på anständigt vis för t. ex. » kruppska kanoner », utan för en ömklig skära, och
+hvad folktron angår, så har hon uppdragit åt det fallna majestätet att i smyg utöfva sin makt genom att skrifva recept på gallfeber, liktornar, epilepsi, mordlust och jag kan ej räkna upp allt.
+Han drar ju sitt första andedrag med smärta, hans behof äro till blott för att gäckas, han hoppas blott för att bli besviken, längtar och tror allenast för att finna bedrägligheten deri; aldrig har kärleken funnit sitt mål, en förhoppning förverkligats eller själens ädlaste drift skådat det ljus, den trånande sökt.
+Derför, liksom för ett och annat i öfrigt, hade de blifvit deporterade till denna ödsliga ort för att lida det deras gerningar vore värda.
+Huruvida dessa quasivarelser för all evighet skola bebo denna verld, kunde jag ej få veta, men det är det troligaste, ty det är det enda sättet att från andra väsenden afvända de olyckor, de
+synas vara skapade att framkalla.
+» Spirit of Nature!
+Likväl torde något tvifvel derom kunna hysas, alldenstund ringvarelserna lika litet som dessa på jorden se något djup » under sig », ty något annat uppåt och nedåt än från och till medelpunkten af den bebodda kroppen fins icke heller här, och häraf har lifvet på en saturnus-ring tydligtvis icke någon likhet med att dansa på lina.
+Hvaraf dessa varelser lefva kunde jag icke utröna, men att det åtminstone icke var af » solsken och vackert väder » ens, det var tydligt, ty naturen derute, styfmoderlig alltigenom, består intet sådant heller.
+Så fira de sin jubelfest under vandringen genom rymden, så ledsagas de af en huld
+natur från den ena pelarsalen till den andra, der syn på syn upprullas för deras blick och skatt på skatt bringas deras själ, allt under det lefnadssolen fortfarande lyser lika ofördunklad på middagens himmel.
+» Som i Elyséens flod Hans bild för Platos ande stod. »
+Kölden har dem redan i sitt våld och skall snart nog viga dem åt evig sömn.
+Vilkoren för lifvet hafva så småningom beröfvats dem och i och dermed äfven de sjelfva så sakta gått under.
+Detta!
+Visserligen emigrera de hvarje (Uranus ’) - höst från det halfklot, som då inträder i den förfärliga natten, till det som då får dag – ett försigtighetsmått hvarförutan de längesedan utan undantag varit ihjälfrusna – men då de till lön för alla häraf uppstående vedervärdigheter få värma sig i 28 graders köld, är det ej att undra på, om de blifvit rama pessimister hvarenda en.
+Venus har således, såsom jag redan på jorden hade förestält mig, både sina goda och dåliga sidor, och det är för den skull lika oriktigt att söka göra henne till en afskyvärd furie som att vilja upphöja henne till en fläckfri vestal i solens tempel.
+Skall väl denna omätliga eld någonsin slockna?
+VI.
+Intelligens och vett äro här något helt annat än besittningen af de flesta bandstumparna eller att tillbringa tvåtredjedelar af lifvet framför en toilettspegel.
+Hänvisade, som de emellertid äro och helt visst ännu för lång tid skola varda till de mest primitiva verktyg – en stenålder kan knappt sägas ännu ha inträdt på denna planet – skall det dock dröja årtusenden innan de tillkämpat sig en aldrig så liten yttre säkerhet till sitt lif.
+Merkurius har visat dig typen för en verld, der endast ett lägre djur- och växtlif ännu kunnat uppstå och der intelligenser först i en aflägsen framtid skola komma att uppträda.
+Likväl är förskräckligt ett allt för starkt uttryck, ty äfven här äro naturens taflor rika på prakt och skönhet.
+För dess qval skyddar blott döden.
+VII.
+Medan den » invertes menniskan » hvarje natt ser planeten sväfva i zenith likt en ofantlig jättemåne med svarta och hvita bälten, har deremot en » utvertes menniska » aldrig sett sitt moderklot.
+Otvifvelaktigt skall han det.
+Ifrån den tiden saktades hennes sjudande pulsar och dödskylan förlamade hennes hjerta.
+De voro fasaväckande stora och egentligen ett slags skuggvarelser.
+Mitt sinne var stämdt till betraktelsens andakt och sekund för sekund följde blicken det sakta sjunkande eldklotet som i oförlikneligt majestät sänkte sig mot himlaranden, dragande sina guldfåror öfver vågens skimrande yta.
+Här den sjusvansade hårstjernan af 1744 (i parentes här utan svans), der 1680 års jättekomet och här en tredje, som besåg jorden på grottmenniskornas
+tid och som vid sitt nästa besök der skall lysa öfver Viktor Hugos verldsrepublik.
+Saknande ordentliga boningar och delande bergens skrefvor med blodtörstiga djur, hafva de att i hvarje stund vara på sin vakt mot dessas giriga anfall.
+Det är ett ögonblick, då skapelsen hänryckt skänker hyllningens offergärd åt sitt eget skönaste verk.
+Att » tänka tankar » är här det yppersta budet i lagen, och företrädesrätten detsamma som öfverlägsenhet i snille.
+Blott en flyende minut hägrade dessa syner för min blick och allt var åter insvept i en sky af ljus, hvarur de underbaraste toner ånyo brusade.
+Om det någonsin gäller om några varelser, att deras lif är » ett jubelår med fester firadt », så är det visserligen om dem, som bebo dessa lyckliga verldar, och de kunna uthärda det utan att derför hemfalla under den sinliga njutningens ok, ty andens vingar höja dem öfver materien, lyfta dem mot ljuset, och derför bruka de denna verlden, såsom brukade de henne icke.
+menniskan!
+De obetydliga vattensamlingar, som, då den kalla årstiden råder, betäcka planetens yta, äro af lika flygtig tillvaro som aprilsnö på jorden och försvinna, d. v. s. dunsta bort, så fort den varmare tiden inträder, hvilket i följd af den obetydliga omloppstiden vill säga ungefär hvart 16:de (jord-) dygn.
+För sitt uppehälle behöfva de ej mera taga en växtoch djurverld i anspråk, ty de veta sedan länge
+att på kemisk väg förskaffa sig omedelbart ur den oorganiska naturen de näringsämnen, som lägre väsenden nödgas skaffa sig genom att döda och förtära andra organismer.
+Dock är det att hoppas, att när vulkaniterna skulle kunnat rikta något instrument mot skyn, de andra planeternas inbyggare då för länge, länge sedan aflockat solen hennes hemligheter och fått del af hennes dunklaste gåtor.
+Dermed är hennes födelsevånda förbi och hon fortsätter sitt nya lif och sin nya vandring genom de vida ängderna.
+Lifvets första representant var en primitiv kryptogam, så ock dess sista, men deremellan föllo oräkneliga årtusenden af progress, kulmer och regress, innan lifvets genius för alltid svingade hän från verldsklotets öde strand.
+Stackars uranit!
+30
+Förhållandet är nämligen, att denna planet i följd af såväl sin litenhet som ålder betydligt avancerat i afkylning, hvadan hans atmosfer till stor del reducerats.
+En af mödor och sorg uppfyld tillvaro kan ha åtminstone en förtjenst: den att vara kort.
+» Der falla löfven aldrig af, Ej frukt är der från blomma skild, Och majs-skörd vaggar som ett haf, Och kaktus växer vild.
+Det sköna är skönt blott för den sköne, och i det tillstånd ditt slägte ännu i andligt hänseende i stort befinner sig, skulle det icke kunna bebo en sådan verld som dem du sett kretsa i Sirius ’ system.
+Vid konjunktionstiden hafva de följaktligen ingen natt, utan ständig dag, underhållen af en liten, men intensivt glänsande sol (centralsolen) och en oerhörd jättesol – på den innersta satelliten mer än 1,500 gånger större än jordens fullmåne – af svagt sken (Jupiter).
+Men intet, intet var att finna och inga spår syntes af någon mån-mensklig tillvaro.
+FÖRF.
+Ja, så såg det ut på denna tilldragande verld, som ömsom sjunker med dagen i vester och ömsom föregår den uppstigande solen som dess härold.
+Den väldige griper dem ändå till sist för att upplifva någon fiber i sina domnande lemmar.
+Berg, höjder och kullar hafva under tidernas längd förvittrat och nästan alldeles utplånats; floderna ha efter hand fört deras mossar till hafven, och då inga höjningar och sänkningar vidare försiggått, har slutresultatet blifvit en nästan fullständig nivellering: ett grundt haf, med talrika flacka öar, som hota att snart alldeles gå under i vattnet.
+Bländad af det öfvermått af ljus, som i regnbågens alla färger strömmade ned från dessa hundra solar, som brunno på firmamentet, kunde jag ännu ingenting se omkring mig, men hörde liksom ett sakta brus af sväfvande orgeltoner och kände fläktar af den ljufligaste rosendoft.
+C.
+Ditt systems högsta verldar och högsta intelligenser har jag visat dig i Jupiters koloni, hvars slägten utgöra det ideal, mot hvilket de lägre verldsinbyggarnes sträfvan oaflåtligen tendera, om det ock endast ofullkomligt kan uppnås.
+Kring dessa solar kretsa talrika väldiga planeter, ägande alla förmånen att belysas af två ömsom åtföljande och ömsom åtskilda solar, af hvilka den större lyser med en ljusstyrka minst 200 gånger starkare än solens ljus på jorden.
+Dertill äro många dels för obetydliga och dels för länge sedan utströdda utefter sina banor och egande endast sekundär tillvaro.
+Läggas nu härtill de gigantiska bergen – de högsta tre (3) gånger så höga som Himalayas högsta spets –
+lufthafvets våldsamma stormar och åskmolnens förfärliga urladdningar, måste det till någon del medgifvas, » att om Venus ser förtjusande ut på afstånd, är det endast för att hon på nära håll och sedan man blifvit hennes undersåte ser så mycket förskräckligare ut ».
+Strålande plejader lyste öfver mitt hufvud och hvälfvande solar gungade i djupet under mina fötter.
+Jag återtog då, en smula förnärmad, min jordiska ståndpunkt och svarade: Jag kommer från jorden, den härligaste och märkvärdigaste verld i hela universum, skapelsens vigtigaste del och bostaden för menniskan, » skapelsens krona ».
+En planet (det är verkligt vidrigt att så kalla någonting, som icke fins!)
+Deras lifslängd är ej som på jorden » 70 högst 80 år », utan väl tusende.
+Men du skall sjelf en gång komma att se hvad du nu icke kan se, känna hvad du nu icke kan känna och fatta hvad du nu icke fattar annat än såsom i en spegel uti ett mörkt tal.
+Och så skall du skynda » från sol till sol, från vintergata till vintergata », från himlar till himlar – och sedan du då lemnat evigheter af stigande salighet bakom dig, skall du se andra evigheter af stigande saligheter framom dig. »
+Polarländernas flodbäddar, som under vintern uttorka och begrafvas under snö- och ismassor, fyllas under våren och sommaren af upproriska vattenmassor, som i vildt galopp störta mot hafven, ryckande med sig och begrafvande i sitt brusande flöde allt som fins i deras väg.
+En kosmisk graf
+– det var hvad jag önskade vid afresan från denna intressanta verld.
+Jag hade sett solsystemets alla verldar.
+STOCKHOLM, CENTRAL-TRYCKERIET, 1880.
+Pessimismen är uraniternas religion och enda vetenskap.
+De äro icke heller längre slafvar under de talrika, gröfre, rent djuriska behof, som på lägre stadier af andlig utveckling ännu göra sig gällande, och deraf ställer sig deras rent materiela tillvaro på väsentligt annat sätt än t. ex. på jorden.
+Så hafva oräkneliga af dessa verldsrymdens pilgrimer slutat sina öden, och så skola de alla en gång komma att sluta, somliga i denna sol, andra i andra solar.
+De omkretsa sin sol på olika tider och afstånd – de två innersta på respektive 1¾ och 3½ jorddygn, de öfriga på 7⅛ och 16⅔ jorddygn – och njuta härunder förmånen att vara belysta af tvenne solar: sin egen (Jupiter) och centralsolen.
+Ett besök i solen
+Ingen Orion fans.
+En underbar känsla genombäfvade mitt väsen, och jag såg liksom en skinande gestalt sväfva vid min sida.
+Brinnande störtsjöar, väldigare än något berg, drabba samman och uppkasta ett stänk af fräsande eldflammor tiotusentals mil i höjden.
+I polarländerna vet man ej om dessa ringar, och det är derföre lätt att tänka sig en saturnits förvåning, då han, styrande kurs mot eqvatorn, för första gången får sigte på den vid synranden uppdykande
+ljusbågen, som i mån af färdens fortgång allt mer och mer höjer sig för att omsider sväfva i skyn midt öfver hans hufvud.
+Men dessa massor voro sedan sekler fattade af en inbördes attraktion, och så närmade de sig omsider hvarandra; de stötte samman med en oerhörd hastighet, och se, då flammade upp en ny stjerna, en sol sprang fram ur de mörka kloten, hvilka i detta ögonblick firade sin återuppståndelse från död och natt.
+Den ene brodern bedrager ej den andre, och att i barbarisk grymhet uppoffra sina medmenniskors lif förekommer lika
+litet i form af mord som lagligen protegerade alrättningar.
+N. HJ.
+Deras år, räknadt efter solarnas omlopp kring sin gemensamma tyngdpunkt, är lika med 50 jordår och har sin varmaste tid vid periastriipassagen.
+Jag säger högre system, ty liksom din sols likar äro otaliga, Sirius ’ likar otaliga och ϰ:s likar otaliga, så gifves det otaliga af ännu högre och högre system, ehuru jag icke kan föra dig dit eller visa dig deras härlighet, då du icke ännu äger en sådan andlig fullkomlighet, som för att se eller fatta det mera öfversinliga är af nöden.
+Här söndras icke folken genom en slafvisk dyrkan af några förgängliga urkunder, ty det har blifvit en lefvande sanning, att » bokstafven dödar, men att anden gör lefvande », och här tvistas ändtligen icke om med hvilka menskliga inskränkningar gudomen lämpligast bör framställas, ty man jemför icke här det eviga med det timliga, det absoluta med det relativa.
+Merkurius hör, efter jordiska begrepp, till dessa storheter, som gerna uppoffra sin egen sjelfständighet, endast de få den nåden värma sig i glansen af sina herskare och som bugande vasaller omgifva denne, hvar han än gör sin apparition.
+O, hvad deras glans syntes mig skön i denna stund!
+Här tändas inga kättarebål, ty det är endast okunnighetens skumma öga, som ser kätteriets spökscener och för hvilket förnuftets heligaste bruk, tänkandet, är en synd.
+Odlingen och fliten hafva tagit hvarje kust och ö i besittning och förvandlat dem antingen till bördiga fält eller grönskande trädgårdar, som i aldrig sinnadt mått skänka behofvens och njutningens skatter.
+Det barbariska har förbränts, uppstått och åter förbränts otaliga gånger, men fågeln Phœnix, den sanna idéen, har för hvarje gång åter uppstått förskönad ur bålets aska, tills den omsider framstod, renad och skön
+III.
+Skyndande mot Mars ’ guldglänsande klot, väntade jag med otålighet, hvad jag der skulle finna: en lysande skådeplats för lifvet, en tårdränkt jord, eller en ödslig graf.
+Ty liksom du sett högre och lägre verldar inom ditt eget system, så gifves det högre och lägre system, högre och lägre nebulosor o. s. v. Sirius system är fullkomligare än Helios ’ och de intelligenser du der sett likaledes fullkomligare än t. o. m. dem som bebo Jupiter.
+88
+Dess klagande ekon hafva för länge sedan förstummats i hans dalar och dess offer inslumrat i samma ljufva hvila som de lekande böljor, hvars melodiska sorl en gång vyssjade qvalda hjertan till ro.
+Talrika sammanstötningar mellan meteoriterna försiggå redan i den högre solatmosferen, och härigenom dels upphäfves deras rörelse alldeles, hvarigenom ett direkt fall mot solkroppen eger rum, och dels förändrar den sig från omkretsande till starkt spiralformig, då den naturligtvis äfven slutar i solen.
+VII.
+III.
+Nakna och sterila utbreda sig de ödsliga
+fälten, liknande ofantliga öknar, i hvilka ingen oas grönskar.
+Jag vistades på en verld i rymden, der intelligenser bygga och bo.
+» Der djupt under föttren jag såg som en graf Den grönskande jorden, det blånande haf »,
+1 / 330 af ljuset och värmet på jorden är hvad han får reda sig med, och klart är, att han då ock reder sig derefter.
+Men han har fyra drabanter, och de ersätta mer än rikligt hvad inbillningen såg men verkligheten icke hade på Jupiter sjelf.
+thou Imperishable as this glorious scene!
+Ur en sådan sedlig och religiös grund har en yttre välmåga sprungit, som icke sträcker sig endast till några få mäktiga, under det millionerna födas och dö i försakelsens och armodets bojor, utan till hvarje individ, eho han vara må.
+Utan den inre fullkomligheten kan ingen yttre gifvas, och om en svag och sjelfvisk ande sättes att bo på en skönare verld än som är med hans ståndpunkt förenlig, skulle han der ingen lycksalighet kunna erfara, så länge han hade sitt sjelfviska sinnelag i behåll och såmedelst bure inom sig en förstörare, som snart skulle utså ogräs och förvandla äfven den härligaste jord till ett splitets hemvist.
+Likväl är han det oaktadt ännu en mäktig storhet, en riktig storpotentat, nära 800 gånger större än jorden, och det skall genast inge oss tvifvel på, att han någonsin nedlåtit sig till ett sådant hokus pokus som att betjena henne i svartkonstväg.
+I asteroidernas zon hade jag nästan väntat att finna en stor kejsarstat af små furstendömen, ungefär i stil med » det stora fäderneslandet », men så är der åtminstone icke förhållandet nu, och huruvida det någonsin varit så, derom kunde de sedan millioner år förfrusna öknarna naturligtvis ingenting förtälja mig.
+IV.
+I sublimt majestät afbida de sin absoluta frigörelse, följa med orubbadt lugn dödskylans fortskridande genom de domnande lemmarna, räkna det stannande hjertats allt mattare och mattare slag för att, när ändtligen den sista spänningen genomfar dess muskler, ännu i oförminskad klarhet fatta hela vidden af den sällhet, som för ett sant menniskohjerta ligger i medvetandet, att den absoluta förlossningens timma är slagen och att sjelfva möjligheten för något väsende att mer lida är för alltid tillintetgjord.
+Af alla planeter är Saturnus beledsagad af det talrikaste följet, en reminiscens tydligen från hans makts dagar.
+Pris: 1 kr.
+De höga och rena andar, som lustvandra i dessa paradis, hafva genomgått mångfaldiga stadier af kroppslig tillvaro, innan de kunnat
+sättas att bo i skötet af all den härlighet, som på deras nuvarande bostad glänser omkring dem.
+Slägte efter slägte utan tal har fröjdats der, men ändock varar den eviga högtiden och skall stånda ännu i ofattliga tider och inbjuda ännu efter detta otaliga slägten att bo i » marmorsalar, att pryda sig med rosenkransar och purpurmantlar och dricka nektar och ambrosia ur guldskålar ».
+De äro numera bärarna af sitt slägtes idé i dess mognads stund, och de hafva derföre för längesedan insett, att sjelfva tillvaron af någonting kroppsligt med nödvändighet äfven i sig innebär detta kroppsligas undergång.
+Men Vulkanus har ingen sådan.
+» Der nu blott döden ser med slocknadt öga »,
+Mars har en tunn och ytterst genomskinlig atmosfer, hvarigenom sljernorna tindra till och med på dagen, hvilken senare omständighet till en del äfven är förorsakad af det betydligt matta dagsljuset
+(2¼ svagare än på jorden).
+TILL: » EN FÄRD GENOM VERLDSRYMDEN ».
+Gigantiska fabulösa kräldjur tumla om i dypölarna eller lura på sitt rof i de dystra snåren, och i de pölaktiga hafven anställa andra vidunder sina hemsökelser.
+I alla fall, välkomna till Saturnus!
+23
+Och det är ock hvad hela Uranus är.
+Jag styrde hardt nära henne och såg underbara ting.
+Men sekunder i evigheten äro sekler i menniskolif, och derföre skola de öfverblifna af denna slocknande sols planeter ännu en tid lång varda skådeplatsen för det konvulsiviska dödsarbete, som dess menskligheter hafva att utslå, innan de gifva sig i dödens våld.
+Till
+följd af en utomordentlig hastighet i rotation (hastigare än Jupiters) äro de ej ens i sina oppositioner besvärade af någon längre natt.
+Någon vinter gifves icke, lika litet som dessa brännande dagar och isande nätter, som på jorden aflösa hvarandra, härjande på hvar sitt vis lifvets ömtåligaste former.
+Naturligtvis.
+81
+» Se der », sade min genius, visande på Hundstjernan, » den första verld af högre slag, som jag vill visa dig och der du skall finna en ny länk uppåt i intelligensernas serie.
+Icke för ty äro de som vanligt begåfvade med ett förtjusande månsken och lefva i den berömvärdaste täflan att öfver sin herskares mörkaste sidor få breda en slöja af det renaste skimmer.
+Det är som om denne vältalighetens samt lögnarnes och bedragarnes (en
+högst egendomlig kombination, hvartill jag ej var i stånd utleta någon orsak) skyddsgud vore rädd att se folk i synen och för den skull helst älskade att lysa genom sin frånvaro.
+En stor del kometer – som telluriterna af den anledningen hade allt skäl tacka i stället för frukta – erhåller liksom meteoriterna sin slutliga hvilostad i solen, dels genom en långsam, för hvarje periheliipassage fortgående beskattning af det ursprungligen lilla pundet, och dels äfven någon gång genom en total instörtning.
+Här har ännu ingen mensklig fot trampat vildmarken, ingen mensklig stämma ljudit genom skogarnes ödsliga natt, inga tänkande väsen bevittnat naturens scenerier och odjurens vilda fejder.
+Nej, intet deraf.
+Ett förnuftsrike
+Arbetande sig fram genom den hopning af kosmiska kroppar, som på ett djup af åtminstone en million mil och till olika
+täthet omgifver solen, är han nämligen jemt utsatt för ett bombardement af verldsgrus, som helt visst för alltid skulle omöjliggöra något högre lifs uppblomstring på hans yta, äfven om han hade en aldrig så lång lefnadsbana framför sig.
+Men det gifves ju, tänkte jag, sådana trakter på jorden, och hvarför då ej äfven på månen.
+Hela jordklotets söndersplittring vore ett stillsamt fenomen emot dina kraftiga andedrag!
+XI.
+Jag styrktes ytterligare i denna tro genom ett noggrannare aktgifvande på flere omständigheter.
+Men ännu visade trapetsiet i ϑ ett sammanhängande helt, ännu skimrade nebularfältet som en ljusaktig sky i aflägset fjerran, och ännu bildade σ samma 16-taliga syskongrupp, som då jag från mitt fosterklots ensliga ö för första gången såg henne tindra i natten.
+Here is thy fitting temple! »
+Närmast syntes dess flora och fauna motsvara jordens under den miocena och pliocena tiden.
+Jag vågade emellertid ej vidare inlåta mig i dispyt med infödingen, ty jag började nästan misstänka, att han studerat teologi i Oxford eller Lund, och fann derföre säkrast att taga min person i akt,
+helst äfven andra mera moderata infödingar visat betänklighet, när talet kommit på de der menniskorna, som efter saturniska begrepp skulle nödgas att en sommardag uthärda en hetta af minst 3,000 grader.
+Från dessa efemera varelser i droppen löper en oafbruten kedja af organismer, ända tills du återfinner dig sjelf som en länk deri.
+Jag sväfvade åter genom rymden, tjusad af maningen om nya verldar och nya under, som skulle möta mig på min himmelsfärd.
+Som emellertid seleniterna
+, efter allt hvad jag på jorden hade erfarit, måste vara utomordentligt eteriska väsen, var det ej att undra på, om de för längesedan lemnat dessa öknar i arf åt döden och för alltid bofäst sig på stränderna af » Lugnets haf », » Näktarhafvet », » Drömmarnas sjö » och andra af månens genompoetiska vatten.
+Hunna redan vid en jordmenniskas medelålder vida utöfver hvad dessa i intelligens och
+vetande någonsin kunna uppnå, hafva de framför sig en verksamhetsålder af flera sekler och hvarunder de med fulla händer taga och gifva af vetandets alla skatter, förkofrande och lyckliggörande sig sjelfva genom att lyckliggöra andra.
+Med dessa ord kände jag mig åter ila genom rymden.
+Jag säger dig, att det gifves i universum otaliga slägten, stående lika mycket öfver dig, som du står öfver zoofyten eller vorticellan och att äfven deremellan
+löper en oafbruten kedja med länkar af jemt stigande fullkomning.
+Det gifves ingenting ändligt i skapelsen, allt är lika evigt i tiden som i rummet.
+Eller dessa egendomligt omgärdade platåer, öfversådda med kägelformiga kullar, tyda de ej för oss kärnan af tillvarons dikt äfven på andra verldar.
+Så födas solar på nytt åter och åter, sedan de en tid lång sväfvat som skuggor genom rymden.
+Och derför har den moderligt visa naturen så långtifrån utsett Saturnus till en onyttig vildmark och en den stumma ödslighetens eviga arfslott, att hon i stället, äfven med hänsyn till lifvet, skänkt honom den näst högsta platsen i solens vidsträckta rike.
+VIII.
+Han ville ej lyssna till min jordiska visdom, som syntes honom väl kunna vara god nog för svärmiska ungdomar, men åtminstone icke för en mensklighet, som har » illusionernas stadier » bakom sig.
+Icke heller kan jag förtälja dig något från eller om dessa verldar, ty du har icke öron att höra eller förstånd att begripa det.
+Bergen gifva villigt sin skatt; vindar, floder, hafven och ljungeldarna ställa underdånigt sin makt till framåtskridandets disposition.
+73
+Uppfylda af vidsträckta sumptrakter och till största delen beklädda med väldiga skogar af ormbunkartade- och andra liknande kryptogamer, utgöra dessa nejder inga hemvist
+för några intellektuela idrotters representanter.
+Du skall iklädas en mer och mer förandligad lekamen, i hvilken intet förgängligt mer finnes, och du skall stiga från den ena klarheten till den andra.
+Du ser dessa sväfvande töckenfläckar, som dunkelt skimra der borta i de ofantliga djupen; de äro vintergator, nebulosor, som du der ser på mer än 10 millioner ljusårs afstånd.
+Jag stod på hafvets strand.
+Adjö!
+Förfogande öfver vetenskapliga resurser, som är ett arf från deras slägtes långa arbetsdag, hafva de vetat att på tusende sätt fördröja sin undergång och veta ännu, då den står för dörren, att förvandla den i en fridfull hvila med förljufvande drömmar, hvilken föregår en sömn af evig ro.
+Hvad under då, om allt detta blott vore ett svagt återsken af den outsägliga prakten i solens eget rike!
+Som rent andlig resenär kunde jag icke besväras af den allt kroppsligt förbrännande hettan, lika litet som af det kompakta meteorvimlet.
+Här slitas icke samlefnadens skönaste band genom förnuftsvidriga och vidskepliga lärosatser, ty här gifves endast en religon: kärlekens.
+Vulkanus är dessutom skådeplatsen för väldiga meteoritiska företeelser, och hade jag ej försigtigtvis qvarlemnat min kroppliga tillvaros grofva träskor på jorden, skulle jag ofelbart tillintetgjorts af stenregnet i hans ogästvänliga rike.
+En kosmisk vagga
+Men har denna planet några varelser, är den bebodd?
+Den sista fläcken af likars blod är för länge, länge sedan aftvådd från dessa varelsers händer, som åtnjuta gudomens högsta välsignelser i kraft af att de älska bröderna.
+etc. etc, äro olycksaliga doktriner, som de fått i sig, gud vet hvar, och som det icke vidare är värdt att söka fråntaga dem.
+O, Helios hvad du är väldig! » genljöd det ännu i min själ, då jag ilade bort från det öfverväldigande skådespel, hvartill jag några sekunder varit vittne.
+Nej, äfven de äro i sin ordning lika ofullkomliga vid sidan af ännu högre, och så vidare in infinitum.
+Den rödglödande α i hans högra skuldra var numera en väldig sol, på hvars yta syntes simma ofantliga slaggfläckar, en begynnelse till hennes undergång, som sedan sekler spridt aningens sång till vidt aflägsna regioner.
+Ängar lyste i en blomsterskrud af oförlikneligt slag, och ur jorden sprungo källor med gnistrande vin, skänkande icke stundens yra utan snillets eld och odödlighetens lif.
+L ’ état c ’ est moi, Sabrez la Canaille!
+I likhet med sin mäktige ättling har Uranus en hofstat af 8 uppvaktande månar, hvilkas enskilda lif tyvärr
+icke är det bästa, i ty att det står i alldeles snörrak strid med allt hvad lag och författning heter i solstaten.
+En annan direkt följd af denna afkylning är, att inga plutoniska verkningar ega rum, och häraf har åter följt alt hafven, som en gång voro inskränkta till de djupaste bäckena, efter hand igenslammats och inkräktat stora landtområden utan att, som på jorden sker, lemna något af sin botten som ersättning.
+Redan var sista skymten af den sista planeten försvunnen – d. v. s. icke Neptunus, utan en 500 millioner mil utanför honom befintlig yttersta planet, som någon framtida jordastronom skall inregistrera under namnet Pluto – redan hade solen blifvit en stjerna blott.
+Under sin vandring kring jättesolen hafva dessa verldars inbyggare att fröjda sig åt talrika förmörkelser, passager och tusende andra fenomen af underbart slag, hvaribland moderklotets väldiga stormar, revolutioner och hastiga rotation (på 9⅚ timmar) särskildt tilldraga sig uppmärksamhet, och under oppositionstidens nätter utgöra Saturni närbelägna, sällsamma verld (då den näml.
+Jag kastade ännu en blick ditner,
+S.
+Jag bad honom bringa » le grande république » min vördnad och för öfrigt skynda sig hvad han förmådde.
+7
+Färden gälde nu en annan på jorden vida besjungen verld, den strålande Hesperus, som befunnits värdig att bära hennes namn, som är tillbedd af jordens dödlige ej mindre än Olympens gudar.
+För öfrigt lära banditer och galgfoglar af alla slag vara direkt införskrifna till jorden från Saturnus, som efter döden åter tager dem i sitt hägn.
+De materiela tingen hafva, i all sin yppighet, för dem endast ett imderordnadt värde, och njutningen deraf skattas endast för hvad den är: en yttring af lägre behof, hvilkas tillfredsställande endast indirekt kan skänka tillvaron någon sann njutning.
+Jemte dessa förmåner af andlig och materiel art, äga de äfven den af ett långt lif.
+Kastande en medlidsam blick mot den lilla stjernan, som ännu brann i Örnens konstellation och den punkt i dess granskap, der jag först skådat hennes glans, fördes jag vidare genom himlarne.
+med mer än 90 gånger så stark hetta som här, den skulle kunna bebos!
+Nej, sådana der historier ha vi nog hört, men hvar och en, som ej alldeles förlorat förståndet, vet att taga sig i akt för slika nyhetsmakare, som vilja inbilla hederliga saturniter det stört orimliga.
+II.
+Jemnvigten rubbas, fotosferens bräckliga skal söndersplittras, stora trakter slungas i djupet, andra kastas mot skyn, och hela solkroppen skälfver af bäfvan.
+De fira redan sin sista själamessa och bida sin förlossning.
+IX.
+Hvad är detta för slag?
+Jag hade sett stormarne på solens eldhaf, lifvets aftonskymning på Mars, oaserna kring Jupiter, scenerierna på Saturnus och ändtligen de sorgliga skepnaderna på Uranus ’ och Neptunus ’ ödsliga klot.
+Som synes, saturniterna hafva ingen aktning för jorden, men saken torde vara förlåtlig, då de ej veta om henne.
+STOCKHOLM
+Stationerade på i rummet skilda hem, hafva de dock förstått att genom snillets och vetenskapens enande band sammansluta sig till ett enda väldigt förnuftsrike, styrdt af de högsta intelligensernas samfälda makt.
+För hundra år sedan skulle en fantasiresande genom verldsrymden icke blifvit litet förvånad, då han utanför Saturnus, denne förmente gränsväktare på planetsystemets kant, funnit en ny, visserligen mindre än denne, men dock ganska märkvärdig verld, Uranus, denne, som redan hans namn anger, i allo vördnadsvärde gubbe, hvilken i rappet, – d.
+Huruvida dylika förutsägelser – som naturligtvis litet emellanåt för bättre minnes skull förnyats – med ty åtföljande
+felsteg ingifvit några allmänna tvifvelsmål på yttersta domen, kunde jag ej med bestämdhet utröna, men att det ingalunda aflupit utan skada för den sanna tron, att Saturnus med en envis gubbes hela oefterrättlighet ända till dato framhärdat i sina gamla vanor, det är tyvärr att befara.
+Jag kände mig fattad af hans hand och jag hörde en stilla
+röst som sade: » jag har hört din längtan och jag har lemnat min saliga boning för att föra dig dit din själ åstundar.
+Inga verop, ingen klagan, ingen fruktan, intet qval.
+Uranus vandrande knyten voro visserligen icke så särdeles graciösa, men midt ibland Neptunus ’ förskräckliga skepnader erinrade jag mig dem som riktiga änglar, och dertill ville minsann mycket.
+Men det var en verld af ojemförligt fullkomligare slag än jag förut skådat, en verld, der ingen natt gifves och inga år finnas, och der himlens alla ljuskällor sammangjuta sina olikfärgade flöden till en aldrig slocknande dag, sådan intet jordiskt öga sett och ingen jordisk aning drömt.
+Vidare är denna verld i så måtto af lägre ordning, att den i följd af sin stora axellutning, brist på en måne och särskildt sina skarpa vexlingar af köld om natten och hetta om dagen icke skall bli annat än ett hem för relativt ofullkomliga (förnuftiga) varelser.
+Hvad der såg dystert ut i månen!
+INNEHÅLL:
+Ännu hörde jag bruset af dessa outsägligt underbara toner, som fylde luften, ännu kände jag dessa fläktar af berusande dofter leka omkring mig, men jag såg ingenting.
+Deras språk var ljufligare än någon musik, och då de öppnade sin mun till tal, var det som om hela naturen förtrollades.
+väl liten och svagt lysande emot centralsolen i systemet, men dock en sol, åtminstone ännu för en eller annan million af år.
+Och dessa nedrasade, halft förvittrade stenblock, som här och der betäcka marken, månne de icke en gång varit föremål för intellektuela krafters inverkan?
+Insvept i en besynnerlig drägt, som ger
+honom utseendet af ett ofantligt vandrande knyte, förblir han för det mesta orörligt sittande på ett ställe, seende utomordentligt filosofisk ut, hvilket han ju ock är.
+Farväl, mäktiga sol, tillvarons herskarinna, mitt lifs upphof, min timliga försyn och mitt stofts slutliga graf!
+O, Helios, hvad du är väldig, hvad du är förfärande!
+Derföre triumferar sanningen i förvandlingens ögonblick skönare och fullständigare än någonsin, och dödens udd är absolut bruten och dess makt (att förfära) fins icke mer.
+Det började se misstänksamt ut, att » hafven » ej allenast voro blotta sand- och grusslätter, saknande hvarje tillstymmelse till vatten, utan dertill omgifna af idel ödsliga stränder, utan vegetation, utan städer och utan boningar.
+Med hvar andra stå de skilda satelliternas invånare i en optografisk förbindelse, som förmedlar ett utbyte af tankar, idéer och uppfinningar, hvilket i högsta tänkbara grad bidragit till denna stora menniskofamiljs andliga och materiela utveckling.
+Verldsalltet är fyldt af sådana skapelser utan tal, och jag har visat dig några af de sköna verldar de dölja i sina sköten.
+Från att vara en grym hop af primitiva vildar hafva de, visserligen icke utan strid, blifvit hvad de nu äro.
+Något fysiskt lidande känna de icke mer; i tusental af år hafva dessa upplysta andar i så mening varit herre öfver sjukdomar och död, att de förutsett och förebygt hvarje anfall från de förra och hindrat den senare att förr än enligt naturens ordning inträffa, och dessa kunskaper tillhöra sedan oräkneliga menniskoåldrar icke några enskilda, hvaraf de öfrigas lif skulle bero, utan hvarje individ, så snart han blott växt från sin allra första ungdom.
+AF
+Dessa planeter äro sinsemellan af något skiljaktig storlek men alla vida större än jordens måne och den störste jemförlig med Mars i volym.
+Likvisst är det möjligt att, när Neptunus en gång anträder sin sista färd in i solen, han då äfven tar med sina undersåter.
+Här är ogudaktighet det samma som att handla sjelfviskt, lika godt hvad munnen bekänner, medan gudaktighet är lika med en kärleksfull och oegennyttig vandel, och dessa sanningar finnas ej förvarade allenast i långa tal och » vackra predikningar », utan äro i gudomlig skrift inristade i hvarje hjerta och i följd deraf födande ett gudsrike, som icke består i ord, utan kraft, som icke kommer med utvältes åthäfvor, utan är inre verkande, omskapande lif.
+Obebodda verldar
+Men har ock denne planet ingen annan uppgift än att tjena som offer på solens härd, skall ingen derföre djerfvas anse, att han förfelat ett högre mål, ty genom denna sjelfförintelse skall han i 7 år förlänga solens lif, och hvilka oräkneliga milliarder af väsenden skola då icke ha denne endes död att tacka för sitt lif!
+En omätligt vigtig häfstång för så väl andlig som materiel utveckling syntes de helt och hållet sakna, nämligen elden.
+Från lundarnes hvalf läto rosenfjädrade foglar höra den härligaste sång och derunder uppkastade spelande fontäner ett regn af silfverdroppar.
+På ett afstånd af 420 millioner mil från solen träffade jag denne nabo, som för ett enda omlopp fordrar den rundliga tiden af 164 år 8 månader och 26 dagar.
+Merkurius har otvifvelakligt framtid för sig, och det tröstade mig midt i skötet af hans närvarande vildhet.
+Döden är för dem icke en hämdens, en förstörelsens buse, en lifvets absolute fiende
+och motståndare, utan dess andra jag, dess beting och vilkor.
+De kunde derföre icke ingifva någon rätt föreställning om den ovanskliga prakt, som blommar i mångdubbla system af högsta slag såsom t. ex. ϰ i Korset, och dit – fortfor genien, pekande på denna, ett gnistrande juvelstoft liknande stjernsamling – vill jag nu föra dig, på det du må se den högsta form för skapelsens under, som du i din närvarande existens är i stånd att fatta. »
+Jag måste säga, att så förhåller det sig verkligen.
+En hög atmosfer omsluter planeten, och i detta lufthaf simma oftast digra molnmassor, som ömsom utgjuta sina störtsjöar af regn och ömsom lössläppa sina tordön och ljungeldar för att låta naturen bäfva, som vore det verldens yttersta dag.
+Hvad neptuniterna angår, voro de mer än förfärliga.
+VIII.
+Rör han sig några fjät, sker det ytterst varligt och endast för att straxt sluta i samma grubblande betraktelser.
+I dessa af ljus genomstrålade
+rymder gifvas inga dagar och nätter.
+Ingen våg brusade, ingen zefir dansade och intet jordiskt fängslade längre mitt sinne.

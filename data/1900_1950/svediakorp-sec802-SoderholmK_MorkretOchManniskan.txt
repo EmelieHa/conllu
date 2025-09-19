@@ -1,0 +1,3303 @@
+# ID: svediakorp-sec802
+# author: Kerstin Söderholm
+# pseudonym: 
+# translator: 
+# title: Mörkret och människan
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-06-14
+# sourceDescription: 
+# genre: prose
+# subgenre: 
+# location: Helsingfors
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1941
+# editor: 
+# publisher: Söderström & C:o förlagsaktiebolag
+# digitisationMethod: OCR with manual post-correction.
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Litteraturbanken (https://litteraturbanken.se/)
+# retrieveFormat: ePub
+# annotation: tokens
+# annotationMethod: automatic
+# words: 8,000
+# sentences: 1,379
+# sentenceOrder: original
+# URL: https://litteraturbanken.se/txt/epub/SoderholmK_MorkretOchManniskan.epub
+# cite: 
+# availability: CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+
+
+
+
+
+
+
+Tillägnad min Far.
+
+
+
+
+
+I
+
+
+VINTER 1941
+
+
+
+
+
+KRIGSVINTER 1941
+
+
+
+
+
+Torget i hamnen.
+
+Högar med frusen torsk och simpor
+
+saltad strömming.
+
+Ett stånd med kålrötter, potatis och gröna
+
+citroner
+
+och mitt i alltsammans ett glasskåp med bleka
+
+hyacinther,
+
+mycket dyra.
+
+Man köper utan en tanke på vad som är loc-
+
+kande eller smakligt
+
+bara efter råd och lägenhet,
+
+så och så mycket saltad torsk och kålrötter och
+
+så en sur citron,
+
+så får man det nödvändigaste.
+
+— Och mjölken var nästan slut i mjölkaffären
+
+i morgse.
+
+Vi fick med knapp nöd vår ranson idag,
+
+min mor och jag.
+
+
+
+
+
+— Efter frukostgröten med några skedblad
+
+mjölk till
+
+rusar jag längs huvudgatan till arkivet där jag
+
+arbetar.
+
+Skyltfönstren prålar ännu här och var med bal-
+
+toaletter i siden och silverspets
+
+och tunga pälsverk.
+
+Och blommor finns det
+
+— inte endast frusna hyacinther i ett glasskåp —
+
+syréner, orkidéer och svartröda nejlikor.
+
+Varifrån de kommer begriper ingen,
+
+när mänskorna fryser med 14 grader i sina
+
+rum —
+
+Det flyger en bild genom min hjärna:
+
+en upplyst restaurant,
+
+festliga dräkter, dämpad musik, skimret av
+
+glas och blommor.
+
+Det susar ett sorl av röster i mina öron,
+
+det sorlet som inte liknar någonting annat,
+
+som säger en att människorna för en kväll är
+
+utanför sig själva
+
+— har glömt att livet är halvhunger, jäkt, miss-
+
+troende,
+
+dragiga rum och grannarnas radio,
+
+lever livet en kväll.
+
+Men så snuddar min blick vid ett annat fönster:
+
+en skyddskårsdräkt, en ränsel och några gevär,
+
+och tidningsståndens löpsedlar stirrar med jätte-
+
+stora bokstäver emot mig:
+
+NYA STRIDER I ALBANIEN MED OFÖR-
+
+MINSKAD HÄFTIGHET.
+
+BEFARAD HUNGERSNÖD I FRANKRIKE
+
+VÅREN 1941.
+
+Då ser jag en sårad soldat med ena benet av-
+
+slitet
+
+i en klyfta uppe i de albanska bergen
+
+i bitande köld.
+
+
+
+
+
+Jag arbetar i iltempo några timmar,
+
+slår upp i register och kataloger,
+
+svarar på besökandes frågor
+
+och får fram dammiga handlingar,
+
+som ingen rört på ett årtionde.
+
+Jag vet inte längre att jag finns.
+
+— Paus. Kafferummet.
+
+Jag tänder en cigarrett och går fram till fönstret.
+
+Där går en man på trottoaren mitt emot,
+
+och han har samma gång och samma rörelser,
+
+som en annan engång hade —
+
+Var det för fem år sen, var det för två dar sen?
+
+Jag vet det inte.
+
+Men jag vet att mitt mänskohjärta är lika friskt
+
+och lika oförbrukat
+
+som det var då.
+
+Jag vänder mig om
+
+lite yr — det var visst den starka cigarretten
+
+och den svaga kosten —
+
+och ser vaktmästarn, ännu tunnare och gråare
+
+än vanligt,
+
+komma in med surrogatkaffet på en bricka,
+
+och han säger liksom i förbigående:
+
+dom säger att de våra är kallade till konferens
+
+i Moskva
+
+om Petsamogruvorna —
+
+— Jag sitter med några kamrater på en res-
+
+taurant en kväll.
+
+Vi dricker öl och äter »smörgås» med pålägg.
+
+De flesta i salen pratar högljutt,
+
+men stämningen är på något sätt pressad,
+
+och jazzen i orkestern har en underligt sprucken
+
+biton.
+
+Vid bordet bredvid sitter några affärsmän
+
+med extra kristidsinkomster.
+
+De orerar först om konjunkturerna,
+
+då är de tämligen ense,
+
+men så kommer de in på politiken,
+
+och då är den ena förbannat viss om att Tysk-
+
+land skall segra
+
+och att Europa går en ny strålande aera till
+
+mötes,
+
+medan en annan ger sitt huvud i pant på att
+
+England plus Amerika
+
+skall hembära segern 1943.
+
+Men en tredje som redan är ganska full
+
+säger stillsamt och lite frånvarande:
+
+»men vad blir det egentligen kvar att ta
+
+hand om
+
+när den ena segrar 1943 —»
+
+Men vid ett annat bord sitter det två unga
+
+människor,
+
+som inte vet om kriget och krisen och den öron-
+
+skärande musiken,
+
+och han har ett ärr på ena kinden
+
+och ett litet leende som är utan ord.
+
+Hon har en ljus hårslinga,
+
+som tittar fram under hennes åtsittande svarta
+
+hatt
+
+och ögon som speglar någonting som liknar en
+
+mörkblå skogssjö.
+
+Och hon ser bara det ordlösa leendet och den
+
+lite tärda kinden
+
+och han ser bara den mörkblåa skogssjön —
+
+
+
+
+
+„EVAKUERAD“
+
+
+
+
+
+Det är så underligt med ett rum.
+
+Taklampan och skrivbordet och korgstolen
+
+kan vara vänliga och förstående
+
+och viska till en just de små ord man behöver,
+
+men det finns också sådana som ser på en med
+
+kalla ögon
+
+och bara säger ovänliga ting.
+
+Och då kommer jag ihåg en liten förgylld pendyl,
+
+som brukade mäta ut timmarna någon gång förr,
+
+och två rococostolar, som varit min farfars,
+
+som stod på var sin sida om ett bord med mar-
+
+morskiva.
+
+Och så var det ju en lång rad av böcker
+
+— de upptog nästan en hel vägg —
+
+Egentligen borde jag vara glad,
+
+för jag har haft mycket god tur;
+
+jag fick nästan genast en maskinskrivningsplats
+
+på ett kontor,
+
+där allt är putsat och välordnat
+
+och man blir hyggligt bemött —
+
+och inte heller behöver frysa alltför mycket.
+
+Och det är ju nästan allt man kan begära nuför-
+
+tiden.
+
+Men jag är rädd att gå hem varje eftermiddag,
+
+för de ljusmålade väggarna är så underligt kalla,
+
+fastän jag försökt hänga fotografier och land-
+
+skap på dem
+
+och jag nästan alltid har en frisk blomma i en
+
+vas
+
+på bordet framför soffan.
+
+
+
+
+
+Jag har talat med en god vän som är i samma
+
+läge som jag,
+
+och hon säger: »du skall inte gå hem från kon-
+
+toret,
+
+du skall arbeta som jag på en Lottacentral,
+
+där vi tillverkar allehanda varma plagg,
+
+som kanske kan komma att behövas ännu en
+
+gång —
+
+och vi har mycket trevligt där,
+
+för alla har nyheter att berätta,
+
+och ibland sjunger vi allsång tillsammans.»
+
+Men nu är det så att mina ben inte riktigt vill
+
+bära mig,
+
+när skrivmaskinstyperna dansat för mina ögon
+
+hela förmiddagen
+
+— och det har gällt att vara mycket snabb,
+
+för eljes händer det att chefen får en rynka
+
+mellan ögonbrynen,
+
+och det önskar jag inte.
+
+
+
+
+
+Och så går jag »hem» i alla fall
+
+till den moderna hyreskasernen där jag bor
+
+med rum och kokvrå och hyrda möbler.
+
+Och när jag stiger in i hissen ser jag för mig
+
+en urgammal 1600-talsgård,
+
+där jag har vuxit upp,
+
+med ett lågt vitt stenhus och en brunn på gården
+
+och en väldig ask, som sträckte sina grenar ända
+
+över taket.
+
+Och jag minns att man gick uppför stentrappor,
+
+som var ojämna och ganska obekväma
+
+och att man genom fönstret såg siluetten av
+
+ett gammalt runt torn
+
+i närheten.
+
+Och jag minns att jag brukade ta ner en bok
+
+från bokhyllan
+
+eller bara låta tankarna glida en stund,
+
+när jag vilade mig på eftermiddagen,
+
+medan jag såg på kopparsticken, som min far
+
+hade samlat,
+
+och som jag egentligen kunde utantill.
+
+— Men här hör man mestadels en hes radio
+
+på andra sidan väggen,
+
+så tankarna vägrar att komma,
+
+och biblioteksböckerna, som jag ibland lånar
+
+hem till mig
+
+är så smutsiga, att jag har svårt att röra vid dem.
+
+
+
+
+
+Det silar en sol på morgonen in i mitt rum mel-
+
+lan gardinerna,
+
+men det är inte riktigt samma sol som där
+
+österut.
+
+Och det besynnerliga är att mänskorna som
+
+jag möter på gatan,
+
+när jag går till kontoret inte heller riktigt är
+
+desamma,
+
+fastän de talar samma modersmål som jag
+
+och har samma ävlan och ofta samma bekym-
+
+mer.
+
+Men vanligen går den känslan över,
+
+när jag hamrat på min maskin i sex timmar
+
+och ätit mitt middagsmål på en automat med
+
+andra hemlösa.
+
+
+
+
+
+Men det är en sak jag ännu är lite rädd för
+
+och det är våren —
+
+För det brukade skjuta ut sådana söta violetta
+
+blomhuvuden
+
+på den gamla asken på gården,
+
+och i varje trädgård i min hemstad
+
+sprack det ut bladknoppar på syrenerna och
+
+fruktträden
+
+— och allt gick liksom genom ett trollslag.
+
+Men här finns inga trädgårdar
+
+bara stenlagda gator och husrader
+
+— och våren kommer väl att vara helt annor-
+
+lunda här
+
+liksom allt annat
+
+— så strängt taget behöver jag väl inte vara
+
+rädd för den heller —
+
+
+
+
+
+DIKTEN
+
+
+
+
+
+Det är gråkall vinter
+
+— men när jag går hem från mitt arbete
+
+strömmar det en svag doft av liljekonvaljer
+
+ut från blomsterhandeln där jag går förbi,
+
+och jag har gjort en dikt om den där blomdoften.
+
+Det är alltid så mycket att se till när man kom-
+
+mer hem
+
+— att kläderna blir lappade och gröten kokad
+
+och att den sura veden fås att brinna i kakel-
+
+ugnen.
+
+Men under tiden gjorde jag en dikt om den där
+
+blomdoften
+
+— för då gick allting lättare.
+
+Jag behövde den för att den skulle ge mig ro
+
+om kvällen,
+
+medan radion ropar ut gräsligheter
+
+och det svaga tevattnet äntligen blir färdigt
+
+och allt är så mörkt och trist omkring en
+
+— jag hade alltmer svårt att vara utan den.
+
+
+
+
+
+Men när jag kom hem från mitt arbete idag
+
+såg jag något.
+
+Det var en lång kö utanför stadens livsmedels-
+
+kontor,
+
+och det var 15 grader kallt.
+
+Där stod en enkelt klädd kvinna
+
+och hon såg på mig med så underliga ögon.
+
+Då stannade jag ett ögonblick bredvid henne
+
+i kön.
+
+Det gällde licens för en extra fruktranson för
+
+barn.
+
+Och kvinnan började berätta för mig
+
+att hon hade svårt att få sina barn att gå till
+
+skolan om morgnarna
+
+för de hade blivit försvagade av undernäring,
+
+när det var brist på allting
+
+smör och ägg och potatis,
+
+och det kom jämnt anmärkningar från skolan
+
+om ouppmärksamhet och dålig förberedelse.
+
+Och frukt hade man ju inte sett sen före jul —
+
+så hon hade därför tänkt försöka få av den där
+
+ransonen.
+
+Men nu hade hon stått i kön så länge
+
+att hon var stel om benen ända över knäna —
+
+Då åtog jag mig att stå i hennes ställe
+
+medan hon gick in och värmde sig i kaféet bred-
+
+vid.
+
+
+
+
+
+Men när jag kom hem igen och var kall i min
+
+tur till knäna
+
+och skulle ta fram min dikt som jag brukade
+
+medan vattnet kokade upp,
+
+kunde jag det inte längre.
+
+Då vek jag sakta ihop den
+
+och låste in den i min skrivbordslåda
+
+— för jag förstod att den inte var gjord
+
+för allt det som nu skedde.
+
+
+
+
+
+EN LINJEBILCHAUFFÖR
+
+
+
+
+
+Idag ser det ut som vi skulle komma fram på
+
+sju timmar
+
+— i vanliga fall räcker det fyra —
+
+men igår var vi på väg nio timmar, på morgon-
+
+turen,
+
+det gör 16 timmars arbetsdag.
+
+Så öser det också ner snö så förbannat varje
+
+natt,
+
+och att staten skall sköta plogningen nu om
+
+morgnarna
+
+lär man inte kunna begära,
+
+när den har så mycket annat att tänka på
+
+med att befästa gränserna
+
+och bolschevikerna inte lämnar oss i fred
+
+— fast de har skrivit under alla slags traktat.
+
+
+
+
+
+Huff, det var en grop!
+
+Plogningen ja, en får kava sig fram, så gott en
+
+kan på morgnarna
+
+— på dagen går det ju bättre, när vägen är
+
+uppkörd.
+
+Men för smal blir den.
+
+Det vore inte gott att möta en lastbil här mitt
+
+i skogen,
+
+där drivorna är metershöga.
+
+Det är bäst att köra på nu.
+
+— Tiden är nog ur led den.
+
+
+
+
+
+Fan, var det inte det jag tänkte,
+
+där kom en lastbil!
+
+Nu blev vi fast i drivan,
+
+men bilen stannade åtminstone.
+
+Det gäller bara att hala.
+
+Sku inte vägen vara så ojämn till —
+
+Där gick det en halvtimme.
+
+— Det kommer mer och mer folk.
+
+Ja, sittplatser finns inte mer,
+
+ni får försöka tränga ihop er där bakpå.
+
+— Och nu har vi den där krokiga backen i Snap-
+
+pertuna.
+
+Det gäller ta fart om man ska opp.
+
+Nej, det gick förstås inte.
+
+Alla karlar ut och hjälpa!
+
+Bäst att så många som möjligt stiger ur!
+
+Är det inte isgata här också,
+
+fast vägen annars är tjock av snö.
+
+Ta i linan här framför! de andra får skjuta på
+
+baktill
+
+när jag sätter motorn i gång!
+
+De här gengasarna har inte mer än halv kraft
+
+i backarna, de.
+
+Nej den rör sig inte.
+
+Vi får breda ut granris i backen och försöka
+
+igen.
+
+Satan, så tung den är idag! Dra på,
+
+dra på!
+
+Så där ja, nu gick det!
+
+Svettig är man, men det är man hela tiden,
+
+svettas och fryser om vartannat.
+
+Om man ändå hade hunnit röka en pipa emel-
+
+lan —
+
+Nå, det var väl, där steg en hel hop av,
+
+det lättar betydligt.
+
+— Tiderna var det ja,
+
+kan nån begripa, varför alla mänskor blev galna
+
+på engång,
+
+och likadant över hela världen.
+
+Om jag annekterar ett land är det befrielse,
+
+tjänar att återställa världsfreden och så vidare,
+
+men gör fienden det, så är det våldsdåd och
+
+krigshets
+
+och förräderi.
+
+Det här kan aldrig gå i längden.
+
+
+
+
+
+Och svälta gör man mer eller mindre överallt
+
+— utom soldaterna — och kommissarierna och
+
+politrukerna där på andra sidan,
+
+efter vad det sägs.
+
+— Undras just om hustru min fått några ägg
+
+idag åt vår älsta pojke.
+
+Han har klena lungor säjer doktorn
+
+och sku »gödas» sa han —
+
+Bror min stupade sista vintras,
+
+jag får lov att ha ett öga på hans barn också.
+
+Har inte hunnit se till dem den sista tiden.
+
+
+
+
+
+Nu börjar förstås snön sila ner igen
+
+och mörknat har det redan.
+
+Säjer ni att det är kallt i vagnen?
+
+Med gengasarn får man varmt bara med full
+
+fart,
+
+och vem kan hålla full fart i mörkret och det
+
+här väglaget?
+
+Vi får nog vänja oss alla att frysa lite.
+
+
+
+
+
+Nu har jag kört re’n i sju timmar.
+
+Besynnerligt att det känns som om armarna
+
+sku börja domna mot kvällen,
+
+och jag är ändå ovanligt stark.
+
+Men i morgon är mitt lediga dygn ja, ja.
+
+Att få varm gröt till kvällen, när man kommer
+
+hem!
+
+— det räcker kupongerna till, gudskelov, —
+
+och sen sova —
+
+Vad är det för mörkt där i diket framför oss?
+
+En havererad bil naturligtvis,
+
+sådana ligger nu lite varstans.
+
+Jaså axeln är bräckt —
+
+det lönar sig inte att dra opp den nu i mörkret,
+
+men passagerarna kan få plats här allesammans.
+
+
+
+
+
+Nu kan man sätta opp farten den här sista
+
+milen
+
+som är jämnast.
+
+— Varm gröt och kaffe —
+
+Det snurrar lite för ögona i kväll,
+
+men jag känner ju vägen, så att jag visst kunde
+
+köra den i sömnen.
+
+Och i morgon får en sova.
+
+— Allt går nog bra bara ryssen kunde fås längre
+
+bort
+
+— och Viborg och Hangö tillbaka —
+
+Men det blir väl någon råd med det också —
+
+vi har inte sett slutet än.
+
+— Ja så är vi då framme —
+
+
+
+
+
+DE NAMNLÖSA
+
+
+
+
+
+Edra namn basunas inte ut av tidningar och
+
+radio.
+
+Ni har inte presterat rekord i höjdhopp eller
+
+boxning
+
+i sänkandet av handelsfartyg
+
+eller bombkastning av arbetarkvarter.
+
+Ni lever i en tystnad som blir djupare
+
+ju längre ni når i ert arbete.
+
+Ni kämpar utan yttre åthävor
+
+segt, oavlåtligt,
+
+utan visshet om att engång få se solen gå upp
+
+över ett fullbordat verk.
+
+För en heder som världen söker förneka
+
+en framtid som är osäker,
+
+för det sista heligt mänskliga
+
+som finns gömt inom människan.
+
+
+
+
+
+Tystnadens män
+
+i städernas trängsel
+
+i studerkamrarnas köld
+
+i avlägsna bygder
+
+— namnlösa, spårlösa skall ni försvinna
+
+utan tanke på lön
+
+utan tanke på erkännande
+
+— ensamma i ensamhetens strid.
+
+Gärningens villkor var tigandet.
+
+
+
+
+
+GEMENSKAP
+
+
+
+
+
+Det var en surmulen eftermiddag med snöslagg
+
+och de bristfälligt skyfflade trottoarerna
+
+gapade tröstlösare än vanligt emot mig
+
+när jag gick hem.
+
+Mina elever hade visst varit mer förströdda i
+
+skolan än de brukade
+
+denna nervösa vinter.
+
+och radion hemma var också mer än vanligt
+
+krass
+
+i sitt utmålande av den förstörelse, som bomb-
+
+flyget åstadkommit
+
+i »fiendens» städer
+
+och av den härjade landsbygden
+
+där de »segrande» gått fram.
+
+Men min mor bad mig gå över gatan till en gam-
+
+mal dam mitt emot med en bok
+
+— en eterisk gammal dam med snövitt hår.
+
+Hon är ensam och sjuklig
+
+och lämnar sällan sitt rum,
+
+men jag vet intet av vikt som sker i mänsklig-
+
+hetens liv
+
+som undgår henne
+
+eller lämnar henne oberörd.
+
+Och hon ser på allt med samma milda och visa
+
+blick
+
+som såg hon genom allt.
+
+Och hon begär själv ingenting mera.
+
+
+
+
+
+Men i kväll var jag ändå orolig
+
+— det skedde liksom alltför mycket.
+
+Atmosfären omkring henne var lika klar som
+
+vanligt,
+
+men utan att jag själv visste det, brast det ur
+
+mig:
+
+hur skall vi orka längre!
+
+Och hon såg på mig som hon alltid brukade
+
+göra och sade:
+
+jag tänker också så ibland — kanske gör jag
+
+det ofta —
+
+men innerst inne vet jag ändå att mänskorna
+
+behöver varandra alltför mycket
+
+för att de slutligen skulle kunna undvara var-
+
+andra,
+
+och därför vet jag att gemenskapen skall komma
+
+att segra ännu,
+
+hur mörkt det än ser ut.
+
+
+
+
+
+När jag gick hem gjorde jag en lång omväg,
+
+för molnen hade skingrats och luften var lätt
+
+och frostig
+
+och rakt över mitt huvud fladdrade ett vitt
+
+norrsken
+
+i fina strimmor.
+
+
+
+
+
+EFTER KRIGET
+
+
+I
+
+
+
+
+
+Ett år hade vi varit gifta när det skedde.
+
+Då inkallelseordern kom hade min man endast
+
+tre dagar på sig
+
+för att bli färdig.
+
+Jag arbetade som i feber för att hjälpa honom,
+
+själv hade han fullt upp på byrån med att in-
+
+struera dem,
+
+som skulle överta arbetet där efter honom.
+
+Vi såg varann bara om kvällarna.
+
+Underliga kvällar
+
+underliga nätter.
+
+Vi kunde inte längre säga varann det som var
+
+osagt.
+
+Vi låg bara tysta.
+
+Det var mycket nog —
+
+
+
+
+
+Så gick det två veckor.
+
+Jag fick brev, ömma som förut,
+
+men med någonting mörkt och okänt mellan
+
+raderna
+
+som jag inte vågade se in i.
+
+
+
+
+
+En dag ringde prästen på hos mig —
+
+Johan hade lastat en ammunitionsfora,
+
+när bomben föll.
+
+Man fann aldrig mer än några små rester —
+
+
+
+
+
+Vad som sedan följde minns jag ingenting av.
+
+
+
+
+
+Vår lilla flicka föddes några månader senare.
+
+Nu jollrar hon i rummet bredvid,
+
+hon upptar hela min tid.
+
+Men innerst inne är jag fylld av en underlig
+
+rastlöshet.
+
+Jag skulle göra något jag inte kan,
+
+det skulle ske något som inte sker.
+
+— Vi offrade allt och mörkret tycks bara tätare,
+
+ringen dras bara trängre omkring oss.
+
+Skall vi aldrig vakna mer ur den förfärliga
+
+drömmen?
+
+Skall ljusglimten på min fönsterpost aldrig mer
+
+bli ett solsken?
+
+Skall den smältande snön aldrig mer betyda
+
+vår?
+
+— Min lilla flicka, skall hon genomgå allt det-
+
+samma som vi?
+
+Skall hon dö just när livet öppnar sig för henne —
+
+skall hon leva ett långt liv, fast hon redan är
+
+död?
+
+
+
+
+
+II
+
+
+
+
+
+Det står en bokhylla i ett rum
+
+med Goethe, Schopenhauer, Bergson
+
+och våra svenska klassiker från sekelskiftet.
+
+Det hänger en räcka porträtt på väggen över
+
+sängen
+
+Beethoven, Gluck, Mozart —
+
+Och skrivbordet står orört, som han lämnade
+
+det,
+
+när han reste ut min son,
+
+för att inte komma tillbaka —
+
+
+
+
+
+Där står skrivtyget, som han engång fick som
+
+gosse
+
+och förstoringsglaset och brevvågen
+
+och ett gammalt gulnat porträtt av Nietsche
+
+som engång var hans idol.
+
+Och allt skall stå orört än så länge.
+
+
+
+
+
+Det gäller ju bara att arbeta för att komma
+
+vidare igen,
+
+och det har jag gjort i tio långa månader,
+
+arbetat för hemlösa,
+
+landsflyktiga och utblottade,
+
+och jag har sett mycket som var namnlöst svårt.
+
+Kanske kom jag på det sättet över dessa tio
+
+månader.
+
+
+
+
+
+Men ibland kan det komma en tanke:
+
+det är ju så meningslöst alltsammans,
+
+detta mördande och förstörande ute i världen,
+
+som inte har något slut.
+
+Och då går jag igen in i min sons rum,
+
+bläddrar i hans anteckningar från gossåren
+
+och i de få artiklar han hunnit publicera
+
+och i det stora manuskript han redan hade på-
+
+börjat —
+
+Och en sådan dag kan jag inte mera gå ut till
+
+mina skyddslingar
+
+i stadens utkant,
+
+för då känner jag att jag själv ingenting har
+
+att ge.
+
+Men det kommer ju en ny dag igen,
+
+och jag vet att jag då skall vara frisk och arbets-
+
+duglig på nytt.
+
+För det finns ju ändå ingenting annat för oss
+
+människor
+
+än att försöka hjälpa varandra.
+
+
+
+
+
+II
+
+
+1939—1940
+
+
+
+
+
+PÅ POST
+
+
+(Oktober 1939)
+
+
+I
+
+
+
+Hemma ligger sydåkern ännu oplöjd.
+
+Frosten har gått över betor och turnips,
+
+som inte hann bärgas.
+
+På höstgråa vägar vi vandrar tillsammans
+
+mot mål vi ej känner.
+
+— Det skymmer mot kvällen.
+
+Min hustru därhemma,
+
+har hon hunnit vända
+
+trädgårdslanden redan?
+
+Har hon ensam forslat
+
+veden jag fick lämna?
+
+— Vi går att gräva löpgravar alla gemensamt,
+
+ingen av oss frågar efter diket därhemma
+
+som inte hann grävas.
+
+Något annat, något större
+
+förestår oss alla.
+
+Liksom kornen i sanden
+
+som vi vänder med spaden
+
+är vi länkar i det hela.
+
+
+
+
+
+II
+
+
+
+Jag lämnade mina barn i min moders vård
+
+för att själv gå ut att vårda,
+
+om det skulle fordras,
+
+sårade i fält.
+
+Och barnens far hade redan tidigare lämnat
+
+dem.
+
+Jag sitter nu med hundra andra och viker för-
+
+bandstyg
+
+och fållar flanellsbindor
+
+långt in på natten.
+
+Och i morgon väntar nya högar av vitt.
+
+Men tankarna rör sig.
+
+Min lilla Henrik, han leker med sina trähästar
+
+och frågar alla dagar efter mor.
+
+Han är fyra år.
+
+Hans syster ligger ännu i sin korg,
+
+hon har redan glömt mig.
+
+Kanske kan jag aldrig komma tillbaka.
+
+Men det fanns intet val.
+
+Stundom är det något som väger mera
+
+mera än moder
+
+mera än fader betyder för sitt barn.
+
+
+
+
+
+III
+
+
+
+
+
+Min penna ligger kvar hemma på skrivbordet.
+
+Det var en sida i boken jag inte hann fullborda.
+
+Förunderligare händelser går jag själv nu till
+
+möte.
+
+Igår har jag burit stenar och sand
+
+lera och tegel
+
+till vallar och befästningar.
+
+Det var ansträngande och tungt
+
+men också så självfallet, som hade intet annat
+
+kunnat ske.
+
+— När jag nu ligger vaken om natten i den stora
+
+sovsalen
+
+och hör kamraterna sova omkring mig
+
+minns jag igen den där sidan
+
+som jag inte fick skriva färdig.
+
+
+
+
+
+Den var nämligen av stor vikt.
+
+Kanske det viktigaste jag skulle ha sagt.
+
+Jag vrider och vänder på den
+
+men ser den inte längre som den skulle ha varit.
+
+Där är någonting borta.
+
+Men märkligare sanningar går jag kanske nu
+
+att fullborda
+
+en bland hundratusen
+
+— med livet som insats.
+
+
+
+
+
+OMVÄRDERING
+
+
+(November 1939)
+
+
+I
+
+
+
+
+
+Skall min oväns lömska små anslag
+
+få betydelse för mig igen engång?
+
+Skall min grannes självbelåtna småleende gå
+
+mig på nerverna?
+
+Skall jag minnas att jag den gången gick miste
+
+om en framgång
+
+jag hade räknat på.
+
+Allt är så långt borta.
+
+
+
+
+
+Spårvagnen gnisslar på samma sätt som förr
+
+och stannar med samma ohyggliga rassel,
+
+och en bil sveper mjukt och fantomlikt förbi.
+
+Människor rör sig i dimman och blir ett med den
+
+som alla höstar
+
+— och ändå är ingenting som förr.
+
+
+
+
+
+Vi som går på gatan
+
+vi är inte längre bara vi,
+
+vi är något annat tillika,
+
+vet något annat
+
+tror något annat
+
+tänker något annat.
+
+
+
+
+
+Vi var alla små, små hjul,
+
+som snurrade runtomkring oss själva,
+
+och små, små kryp, som plockade upp de korn
+
+vi hade fått sikte på.
+
+Vi var kanske också små spegelglas,
+
+som lät stjärnorna då och då återkastas i en
+
+skärva
+
+någon klar och tindrande kväll.
+
+
+
+
+
+Och våra tankar gjorde stundom ganska våg-
+
+samma utflykter
+
+ända in i det obekanta.
+
+Men de kom ganska säkert tillbaka igen
+
+och hamnade efter sina irrfärder
+
+i det välbekanta mikrokosmos
+
+som var vi.
+
+
+
+
+
+Nu är vi ett litet stycke av en stor enhet,
+
+en lem i ett stort verktyg,
+
+en muskel i en enda vilja.
+
+Och gatorna ligger ödsligt bara framför oss,
+
+och skymningen är en annan skymning än förut.
+
+Vi är kvistarna och barken och barren i ett
+
+stort träd
+
+med rötterna ända ned i det okända.
+
+Och vart barr måste fylla sitt värv och andas
+
+och tillföra trädet luft och ljus
+
+om det skall leva.
+
+
+
+
+
+Allt har blivit så främmande och stort,
+
+och det kan hända
+
+att vi stannar ett ögonblick på gatan
+
+för att se oss omkring.
+
+
+
+
+
+II
+
+
+
+
+
+Vi skulle gifta oss om tre månader.
+
+Vi hade byggt upp vårt hem i en villastad,
+
+vi hade röjt och planerat.
+
+Vi skulle ha trädgård och brygga och terrass
+
+och båthus nere vid stranden,
+
+och allt var nästan färdigt.
+
+Det fanns bara ett mål och en mening
+
+för dig och mig.
+
+
+
+
+
+Men idag susar furorna
+
+och nu är allt något annat.
+
+Det är bara stora mörka barrskogar
+
+och små glimmande vattenblänk emellan
+
+och gråa åkrar nere under åsarna,
+
+nyplöjda åkrar och med fin grön brodd,
+
+och glestsådda röda hem mellan skogarna.
+
+Det är bara ett ändlöst, stumt och höstligt land
+
+med hemlighetsfulla barråsar.
+
+
+
+
+
+Och en solskensglimt träffar det höstliga landet,
+
+tänder sjöarnas speglande ögon
+
+och de sista gula löven i brand
+
+och smeker skogarnas mörka grönska
+
+i en varm prakt
+
+och låter molnen kasta sällsamma violetta och
+
+bruna skuggor
+
+över de gråa åkrarna och de avlövade dungarna.
+
+Och den tidiga skymningen faller sakta
+
+och sveper skogarna och dälderna i sin blåa slöja,
+
+och den genomskinliga luften sugs liksom upp
+
+av den,
+
+medan stjärnorna tänds en efter en
+
+på det glasklara himlavalvet.
+
+Det är bara ett ändlöst höstligt land
+
+och ingenting annat.
+
+
+
+
+
+TROTS ALLT —
+
+
+(Februari 1940)
+
+
+
+
+
+Det gäller bara att se rakt fram
+
+icke åt sidan.
+
+— Det sker så mycket.
+
+Min väns hem är uppbränt,
+
+och allt vad han ägt har gått förlorat.
+
+Hans familj söker sig en fristad inne i landet,
+
+som redan hyser flera än den egentligen kan.
+
+Fadern är själv vid fronten.
+
+På två veckor har inga underrättelser kommit
+
+från honom.
+
+Men fienden pressar hårt på vid Kämärä och
+
+Taipale och Viborg,
+
+och han sänder hela tiden nya utvilade divisio-
+
+ner i strid.
+
+Och var dag rullar nya fullsatta ambulanståg
+
+från Karelska näset.
+
+
+
+
+
+Det händer så mycket besynnerligt i världen,
+
+som vi inte rätt kan förstå.
+
+Ett faktum är inte längre ett faktum,
+
+utan dess innebörd är beroende av de politiska
+
+vindarna
+
+där allt passerar.
+
+Bomber, som sprängt sönder sjukhus och fred-
+
+liga byar
+
+och satt hela arbetarkvarter i brand,
+
+har inte alls fallit ner,
+
+och »rättvisa» betyder endast att man har de
+
+starkaste kanonerna.
+
+En statlig nyhetsförmedling i Europa företar
+
+helt små retoucheringar
+
+i ett annat lands karta,
+
+när den utsänder krigsnyheter därifrån,
+
+och mellanfolkliga traktat kränkes endast av
+
+motståndarn.
+
+Men det gäller bara att se rakt fram
+
+och inte dröja vid det oförklarliga
+
+och otroliga
+
+och inte låta mardrömmens grepp om vårt liv
+
+bli alltför fast —
+
+Ty hem och anhöriga
+
+och dödsbud
+
+och uppbrända gårdar
+
+och sårades namnlösa lidanden
+
+har inte samma innebörd som förut.
+
+Och det finns bara ett mål och en vilja:
+
+att övervinna lögnen.
+
+
+
+
+
+DEN UNDERLIGA FÅGELN
+
+
+(Den 16 mars 1940)
+
+
+
+
+
+Det synes ibland som om sanningen
+
+ville gömma sig undan i världen
+
+när den behövdes som bäst
+
+— och den smusslas undan bakom vackra kulis-
+
+ser och målade draperier
+
+tills den blir helt osynlig.
+
+Alla vet var den finns,
+
+men när den skall tagas i bruk är den som bort-
+
+trollad,
+
+och det är omöjligt att få syn på den.
+
+Men kvar finns det vackra deviser och broderier
+
+som alla lär sig utantill.
+
+Och alla går förbi och omkring sanningens göm-
+
+ställe
+
+och vet var den är,
+
+men ingen vågar öppna för den.
+
+För mänskligheten älskar de vackra deviserna
+
+och den tror slutligen själv på dem.
+
+
+
+
+
+Men den lilla underliga fågeln sanning
+
+är det något särskilt med,
+
+och den lever alltjämt kvar i sitt gömställe
+
+starkare än alla deviserna.
+
+Den är en så sällsynt företeelse,
+
+att när vi engång fått sikte på den
+
+kan den inte mätas med de största upptäckter
+
+och de dyrbaraste skatter på hela jordklotet.
+
+Men mänskorna skyndar sig att låsa väl till om
+
+den,
+
+och de målar allt vackrare draperier
+
+och fråssar i »syften» och »utredningar»,
+
+och den övriga mänskligheten lyssnar andlös
+
+på dem
+
+för detta är någonting som den uppskattar.
+
+Men sanningen vågar ingen öppna för
+
+ty den har den egenheten
+
+att den inte har några »syften» alls och inga
+
+»förklaringar».
+
+Den bara är rätt och slätt.
+
+Och den kan inte skönmålas och inte bäras
+
+omkring som en kliché
+
+— för i samma ögonblick vore den ingen san-
+
+ning längre —
+
+och mänskorna måste ha något som de kan se på
+
+och spegla sig i,
+
+som de kan dyrka,
+
+och som framför allt inte är obekvämt.
+
+För sanningen har den lilla egenheten
+
+att den också fordrar
+
+utan alla betingelser
+
+och alla kommentarer.
+
+
+
+
+
+Men den lilla fågeln sanning
+
+som vi fann häruppe denna hårda vinter
+
+och som flugit framför oss i köld och nöd,
+
+den har förvandlats till en låga av nästan genom-
+
+lysande klarhet,
+
+och den skymtar ännu alltjämt i nattmörker
+
+och frost.
+
+För den lever lika starkt
+
+trots alla försök att låsa den inne.
+
+Och när vi nu måste börja allt ånyo,
+
+och livet tränges samman till en enda svårfram-
+
+komlig stig för oss,
+
+skall den hjälpa oss genom mörkret
+
+och med alla de övermåttan tunga bördorna
+
+vi fått bära.
+
+Och inga försök att trolla bort den
+
+och gömma den bakom de vackra deviserna
+
+skall mer kunna förinta den.
+
+
+
+
+
+HÖST I TRÄDGÅRDEN
+
+
+(Bromarv, september 1940)
+
+
+
+
+
+Trädgårdsland vändas,
+
+mörkbrun och tung klibbar jorden vid spaden.
+
+Djupare tränger den
+
+ända ner till alven.
+
+— en rad lastbilar far skramlande förbi på vägen,
+
+lastade tungt med bjälkar och plåtar,
+
+material för baracker och skjul.
+
+
+
+
+
+Dova, jämna skott ljuder från »andra sidan».
+
+Vem skall så här i vår,
+
+för vem vänder vi jorden?
+
+Glänsande och fuktig bredes tången över sän-
+
+garna,
+
+halvmultnad, musselfylld,
+
+doftande sälta och jod.
+
+
+
+
+
+Idag hörs ett oavbrutet dån av flygplan i söder.
+
+
+
+
+
+Vi planterar bärbuskar,
+
+blandar omsorgsfullt mullen,
+
+lägger ner dem varsamt
+
+en efter en.
+
+
+
+
+
+Nu kom en flygmaskin lite för nära,
+
+vårt luftvärn ger signal.
+
+— Vem skall plocka bär här nästa år?
+
+
+
+
+
+Smultronen omläggas,
+
+små, små plantor frigöras,
+
+planteras i rader
+
+står som i ett leksaksland.
+
+Nu hörs ett dovt rassel på vägen,
+
+det liknar ingen lastbil,
+
+skrämmande och tungt nalkas det långsamt.
+
+Ljudet går genom nerverna
+
+— nu blir fordonet synligt.
+
+En grov kanon forslas vidare mot gränsen —
+
+
+
+
+
+III
+
+
+SOMMAR 1941
+
+
+
+
+
+NATT I TAVASTLAND
+
+
+
+
+
+Sval och fuktig andas natten genom fönstret
+
+efter heta timmar.
+
+Aspen prasslar, knappast märkbart.
+
+Lönnen tecknar skarp sitt mönster
+
+mot den ljusa himlen.
+
+
+
+
+
+Då och då ett flygplanssurr vid horisonten.
+
+Skott i fjärran som från andra världar.
+
+
+
+
+
+Vaknar upp i ångest ur min slummer.
+
+Var det skott vid Riga eller Vuoksen
+
+— vid Smolensk, Beresina, vid Dnjestr
+
+— nya mord i Kiev eller Dorpat?
+
+Åter slummer. Onda drömmar.
+
+Någonting har skett för längesedan
+
+— när jag ännu nästan var ett barn,
+
+någonting jag aldrig mera
+
+kunde vakna helt ifrån till livet.
+
+
+
+
+
+Det finns mörka, underliga skogar tätt invid oss
+
+där vi vandrar.
+
+Sorgsna bruna blommor växer där i dälden.
+
+Det finns blinda lagar man ej borde varsna
+
+alltför tidigt.
+
+
+
+
+
+— Doft av klöver tränger genom natten,
+
+ängar, tunga, yppiga av grönska
+
+badar mjukt i dimman,
+
+medan himlen, genomskinlig, ljusgrön
+
+spänns däröver
+
+
+
+
+
+— Har man engång fattat alltför mycket
+
+av det ofattbara, blinda, ödesbundna,
+
+måste man för varje gång man stannar under vägen
+
+alltför söndrad
+
+tränga åter genom samma mur
+
+till andra sidan
+
+för att kunna börja åter ...
+
+
+
+
+
+— Vad var det som skar igenom tystnan?
+
+En krevad, en bomb som föll, ett sprängskott?
+
+Kom det ifrån staden här helt nära?
+
+Åter tystnad.
+
+
+
+
+
+Gryningsvinden börjar andas genom träden.
+
+Dimman färgas rosenröd i norr,
+
+och som en drömsyn stiger solen
+
+målar himlavalvet gult och blekrött.
+
+
+
+
+
+Men i öster stiger smal och vit en pelare av rök
+
+mot fästet.
+
+
+
+
+
+— Ännu dröjer svalkan över träden,
+
+svalorna har vaknat, pilar genom luften.
+
+Långsamt tränger värmen ner mot jorden,
+
+suset av insekter börjar anas.
+
+
+
+
+
+Flygplanssurret tystnat,
+
+inga skott kan mera höras.
+
+
+
+
+
+Natten glider
+
+oförmärkt och linddoftsmättad
+
+ut i dagen.
+
+
+
+
+
+MOT FRONTERNA
+
+
+I
+
+
+
+Militärtåg österut.
+
+Äldre män, bleka, tärda män,
+
+brunbrända, sportsmässiga
+
+— unga gossar.
+
+Trängsel på plattformen.
+
+Man hör några ord:
+
+»två söner ute, nu reser min man»,
+
+hårt sammanpressade läppar, spänd blick
+
+inga tårar.
+
+Stim av röster, forcerad glättighet:
+
+»vi ses igen»!
+
+Ett försök till leende.
+
+En ung man står ensam, som kom honom intet
+
+vid av allt omkring honom.
+
+Han stirrar med mörka ögon liksom in i ett
+
+annat land.
+
+Två unga mänskor sammanslutna
+
+tigande.
+
+Ännu har de två minuter — nu står tiden stilla.
+
+— I andra ändan av tåget sjunger man en
+
+krigssång.
+
+
+
+
+
+II
+
+
+
+Sen julikväll.
+
+Gränsstad, nyss bombarderad,
+
+nu helt utrymd.
+
+Gravens stillhet.
+
+Brandrök från brinnande skogar sveper omkring
+
+husen,
+
+skymmer dem.
+
+Upprivna gator,
+
+avspärrade övergångar,
+
+tomma fönsterbågar gapar här och var.
+
+Icke en människa.
+
+En nerbränd gård står på en kulle med svart-
+
+nade eldstäder
+
+och kvällshimlen dunkel, brungul bakom,
+
+gravens stillhet.
+
+
+
+
+
+III
+
+
+
+Färd genom natten,
+
+släckta lanternor, gråklädda väpnade män.
+
+Fälten i dimma.
+
+Det blixtrar till på himlavalvet
+
+— ett långt, utdraget dån följer.
+
+Skogarna är främmande,
+
+rökdiset framför fjärdarna skymmer sikten.
+
+Nya blixtar i båge på himlen,
+
+skotten blir tätare.
+
+Vi far genom några byar.
+
+Husen livlösa,
+
+icke en ljusstrimma,
+
+icke en levande varelse syns till.
+
+Vid vägen blott några gråklädda på väg till
+
+sin förläggning.
+
+Det mörknar mot midnatt,
+
+Man skönjer knappt skogen vid sidan av vägen,
+
+åker rätt in i mörkret.
+
+Brandlukten blir starkare.
+
+Det dånar till söderut,
+
+en lång krevad
+
+och ekot fortplantar sig som en rullning
+
+längs de klippiga skären.
+
+— Men bakom dimtäcket hänger en violettröd
+
+månskiva,
+
+främmande, besynnerlig,
+
+som ett halvöppet gap.
+
+
+
+
+
+AUGUSTISTORM
+
+
+
+
+
+Smäckra som palmer svajar och böjer sig furor-
+
+nas stammar,
+
+björkarnas kronor mänger sitt ljusa och dröm-
+
+mande prassel
+
+in i orkestern, medan långt nere fjärden i upp-
+
+ror,
+
+grågrön och skummande vältrar sitt flöde upp
+
+emot alarnas
+
+knotiga rötter, kantande stranden med brun-
+
+röda tången.
+
+Utdragna dånet av skotten försvinner, förintas
+
+i bruset,
+
+klippiga hällar och tvärbranta bergsstup ej
+
+längre ger eko.
+
+— Stympade människor ligger på slätten vid
+
+Dnjepr och Luga
+
+uppe vid Salmis, vid Aunus och Salla; sårades
+
+jämmer
+
+slukas av skogarnas milsvida djup, av myrar
+
+och moar.
+
+Jättevidunder i skyn och på jorden plånar ut
+
+städer
+
+sopar från marken åkrarnas skördar — mord-
+
+brand och vådeld
+
+härjar vad bomberna sparat — vildmarken
+
+vinner det åter.
+
+
+
+
+
+— Stormen blott ökar, nu rasar den över åsar-
+
+nas ljungmark,
+
+granarnas toppar brytas och sveper som kvastar
+
+längs jorden
+
+— liksom vid bombnedslag furornas kronor
+
+bräckas som pinnar
+
+inne i skogen, där stammarna svedda och stym-
+
+pade dröjer
+
+ännu som spöken runtomkring klyftor och ga-
+
+pande kratrar.
+
+Lik en orkester, vinande, dånande, smekande,
+
+sargande
+
+brusar den fram, där stämmorna blandas, heta
+
+och kalla,
+
+vaknande, bristande, bringande vanmakt och
+
+nöd eller lisa.
+
+Jämmerrop flätas samman med jubel och gråt
+
+till en enda
+
+tonande enhet, som likt musiken hämtar sin
+
+kraft ur
+
+alla de brunnar, dolda och kända, som livet är
+
+givna.
+
+
+
+
+
+— Stormar som rasar i människosinnet, djupare
+
+stammar
+
+dessa ifrån än vi själva med tanken har fattat
+
+och letat.
+
+Lika förödande grodder stundom människan
+
+bär på
+
+som de minor och sprängskott skogarnas tyst-
+
+nad begraver.
+
+— Engång kanhända det skedde, engång har
+
+knutits hårdare
+
+fjättrar kring sinnet, än livet senare mäktade
+
+lösa —
+
+Fängsla en havsörn, och ettdera händer: antin-
+
+gen slår den
+
+vingen till blods emot gallret tills senorna bris-
+
+ter eller
+
+lever den ruggig och liknöjd ett liv som ej längre
+
+är leva
+
+Skulle då mänskan mindre än örnen träffas i
+
+djupet,
+
+stryps hennes vilja, tvingas hon leva i bur bakom
+
+gallret —
+
+
+
+
+
+— Vita och blygråa skyarna skockas och tätnar,
+
+ila med jagande fart högt över skogarnas toppar.
+
+Luften skymmes alltmer, det sylvassa regnet
+
+piskar
+
+åkrarnas vete och korn, ännu ej bärgat, mot
+
+mullen.
+
+Fruktträdens omogna skörd singlar från grenar-
+
+nas klykor,
+
+blommorna rivas till döds, slokar på sviktande
+
+stjälkar.
+
+
+
+
+
+Plötsligt som regnet störtat mot jorden rämnar
+
+så åter
+
+skyarnas blygråa tak, luften fylles av ljuset.
+
+Silvervit, strålande, segrande solen nu bryter
+
+igenom
+
+molnen och skiner ner över ängar och mejade
+
+åkrar.
+
+Skrovliga bergen och stenarna glänser av ymniga
+
+vätan,
+
+skogarnas tallösa barr speglar ljuset ånyo,
+
+medan ett leende, vilset och främmande, sprider
+
+sig tveksamt
+
+över den härjade, plågade, söndertrasade
+
+jorden.
+
+
+
+
+
+— Underlig visshet: mänskan är ändå inte helt
+
+örnen
+
+eller lik tigern i bur, berövad viddernas
+
+frihet.
+
+Ensam hon är i skapelsens mångfald, fast hen-
+
+nes rötter
+
+suger sin kraft ur alstrande mullen som djuren
+
+och gräsen.
+
+Människan växer som markernas ört, som örn
+
+och som tiger,
+
+men hon kan växa också helt annorlunda än
+
+dessa.
+
+Världen är inte för henne endast öknarnas vid-
+
+der,
+
+svala källornas sorl och solens brinnande rym-
+
+der
+
+— inåt sig själv hon ser milsvida andra länder.
+
+Icke ett liv allenast är hennes, hon lever en mång-
+
+fald
+
+öden och liv — mister hon ett kan hon vinna
+
+ett annat
+
+— fastän det synes ibland som vore de kedjade
+
+samman.
+
+Underlig människan är, och begränsningens
+
+eviga lagar
+
+gäller icke för henne med samma bud som natu-
+
+rens.
+
+Stormen bedarrat. Liksom när blodet, som
+
+ohämmat bultat
+
+i ådror och pulsar plötsligen stillnar, när man
+
+förnimmer
+
+sällsam musik, som icke i ord eller tanke kan
+
+fångas,
+
+mattas och saktar dånet därute, förvandlas till
+
+brusning,
+
+sedan till viskning — mjukt som när smekande
+
+händer bringar
+
+långsamt ett febersjukt barn till ro och för-
+
+lösande slummer.
+
+
+
+
+
+— Skotten blott dånar vid Hangö och Reval,
+
+vid Dagö och Narva,
+
+nere vid Kaukasus gränser, vid Mannheim,
+
+Boulogne och vid Tobruk.
+
+Döende händer famlar i vånda — bristande
+
+ögon
+
+stirrar mot stjärnor, lika oändliga här som på
+
+stäppen.
+
+— Skall väl den hets och förnedring som män-
+
+niskan gripit
+
+lösas ånyo, finner hon engång sitt mänskliga
+
+värde
+
+— människans gåtfulla mål, gnistan som nu
+
+synes slockna?
+
+Eller är den re’n död, förintad i fasornas nät-
+
+ter ..?
+
+
+
+
+
+Skogens döende brus ensam ger frågorna svaret.
+
+
+
+
+
+IV
+
+
+OMPRÖVNING
+
+
+
+
+
+Jorden brinner.
+
+Aldrig har dess vånda varit mer förtätad,
+
+ringen kring allt levande har aldrig slutits
+
+mera hårt
+
+och bundit oss i bojor.
+
+Jorden brinner.
+
+
+
+
+
+Lösenord som burit mänskligheten,
+
+lyst som stjärnor
+
+smutsats och förnedrats,
+
+dragits ner i stoftet.
+
+Solar som har värmt och eldat
+
+falnat såsom bränder.
+
+
+
+
+
+Inga formler människorna skapat
+
+håller mera.
+
+Falska ord vi lyssnat till i alltför dyra dagar
+
+nu har blottats,
+
+spruckit såsom bubblor.
+
+Fristen som oss ännu givits rinner.
+
+Vad är viktigast för oss av allt i livet?
+
+Jorden brinner.
+
+
+
+
+
+Engång var det
+
+viktigast av allting att få offra
+
+det som var oss dyrast,
+
+det som ensamt tycktes göra jordelivet värt
+
+sin plåga
+
+— att allena utan varje stöd och mänskligt
+
+bistånd
+
+träda ut i natten.
+
+Lika ensam
+
+som ett skogens barr är ensamt under drivan,
+
+som en stjärna
+
+med myriader mil till nästa ljus som glimmar
+
+är omätligt ensam.
+
+— Engång var det
+
+viktigast av allting att få fånga
+
+vårens första svaga glimt i frosthård jord,
+
+i isbelagda sjöar,
+
+hasseldungens lätta aningsfulla susning
+
+genom bruna hängen,
+
+gökens sista lockrop,
+
+kvällens viskning, när det skymmer,
+
+och den ofattbara sommarnattens blåa sken
+
+som sveper jord och vatten.
+
+
+
+
+
+Engång var det
+
+att se vidder öppna sig
+
+som intet öga skådat,
+
+höra vingslag ifrån starka fåglar
+
+susande i än mer vita nätter
+
+känna blodet
+
+flytande som eld i än mer spända ådror
+
+veta aningen, som ingen vågat ana
+
+bliva sanning.
+
+
+
+
+
+— Engång var det
+
+att få böja sig i stoftet
+
+överlämna allt vårt eget åt en annan makt
+
+och själva plånas ut som ängens blommor
+
+plånas ut, när frostens första vita svepning
+
+täcker fälten.
+
+
+
+
+
+Intet av allt detta håller längre.
+
+Viktigast av allting är ett enda,
+
+att få veta
+
+vad är detta: vara mänska.
+
+
+
+
+
+Vara människa är icke måttlöst ängslas
+
+och förnedras,
+
+välva all vår skuld och skam
+
+och våra onda tankar på en annan,
+
+frälsas rena.
+
+Vara människa är själva bära
+
+yrseln, följden, straffet, plågan
+
+av vår handling
+
+— icke tvingas att förneka mänskans särart.
+
+Icke kräva gudsfullkomning
+
+av en gräsens vederlike.
+
+
+
+
+
+Vara människa är känna gränserna
+
+vi pendlar mellan
+
+— nära djur och gudom.
+
+Skapelsens myriader liv vi bär inom oss
+
+från myriader sekler.
+
+Ett och allt vi är
+
+och likväl något eget, nytt och ändlöst
+
+— bundna såsom furans rot är bunden intill
+
+marken
+
+men med frihet att få pröva nya rymders sol
+
+i nya etersfärer.
+
+
+
+
+
+Söker vi att bryta bandet
+
+— hela denna kedja liv från evigt och till evigt —
+
+bryter vi på engång grunden,
+
+som vi hämtar näring ur
+
+vår egen rätt att vara
+
+— denna sällsamt stora, rika,
+
+hjälplösa och tunga gåva
+
+vara mänska.
+
+
+
+
+
+Som vid solnedgång i täta mörkret mellan sko-
+
+gens stammar
+
+plötsligt glimmar till ett ljus
+
+som nästan bländar ögat,
+
+kommer en att stanna halvt förvirrad
+
+— lyser det en sällsam stund när mörkret fallit
+
+tätast
+
+som en visshet:
+
+Människan är barren, löven,
+
+mossan, gruset, som vi trampar,
+
+fläkten som ger luften liv
+
+och fjärran stjärnevärldars solljus.
+
+Men hon är tillika något mera
+
+något som ej markens ört kan fatta.
+
+Hon är kampen mellan skilda världar,
+
+spänningen i alltet som förtätats
+
+inom mänskan
+
+mellan jordisk hunger och en trånad att få
+
+offras
+
+för en annan — för ett större.
+
+
+
+
+
+Det är hennes öde, bann och gåva.
+
+
+
+
+
+Människan allena bär på denna spjälkning
+
+mellan viljor
+
+— själv en lekboll under hårda vindars spel
+
+och blinda öden,
+
+själv ett universum,
+
+där allt brytes,
+
+som i jordelivet tar gestalt och toner.
+
+Blind och suverän är mänskan,
+
+men sitt ursprung kan hon aldrig neka
+
+— kedjad intill evighet
+
+vid allt av stoft som andas —
+
+
+
+
+
+Svävande, bävande, trevande ljuder fiolen i
+
+natten,
+
+tonen letar sig fram över svindlande stup, över
+
+öknar.
+
+Fram genom glasklara, isiga rymder den tve-
+
+kande glider,
+
+stegras, fylles, förstärkes, förtätas, spännes till
+
+bristning
+
+— når till det ytterstas gräns, landet där män-
+
+niskotanke
+
+aldrig har prövat en stig, aningen aldrig ett
+
+fäste
+
+— längre än människokänslans gåtfulla yrsel
+
+når den,
+
+gnistrande som en kristall, dallrande som en
+
+droppe
+
+dagg på ett strå i gryningens timme bristande
+
+dallrar,
+
+ensam i rymdernas djup, oåtkomlig och fjärran.
+
+
+
+
+
+Bävande, trevande susar fioltonen längre i
+
+natten
+
+— plötsligt den sjunker, klagande, kvidande,
+
+skärande når den
+
+människonejder, krymper i vånda, ångest, för-
+
+färan,
+
+tänjes ånyo ut till en enda förtärande smärta,
+
+innan den dämpas, domnar, förtvinar och slock-
+
+nar i vanmakt.
+
+
+
+
+
+Åter den stiger, smärtan den fyller, bräddfullt,
+
+förtvivlat,
+
+mänskliga ångestens skri rågar tonernas flöde.
+
+Krympande, rysande, vrider sig tonen — men
+
+plötsligen bär ej
+
+stråkens svidande drag jordiska smärtornas tec-
+
+ken,
+
+människohjärtats sorg, rymmes ej mera däri.
+
+Renad, förklarad, förvandlad, den närmar sig
+
+jublandets gränser,
+
+löses i vingad flykt, sväller i segrande frihet.
+
+Jordiska känslornas skal oemotståndligt spränges
+
+offret förvandlas till skänk, smärtan till svidande
+
+lycka.
+
+Större än levandets jubel den lyfter vart stråk-
+
+drag mot höjden.
+
+Offrets mysterium här tonernas flöde löser
+
+självmant och lugnt som när höljande bladen
+
+kring mognande knoppen
+
+brister i gryningens sol och blomman badar i
+
+ljuset
+
+— hemligt det sker en sekund, när livet har
+
+stannat i bidan.
+
+
+
+
+
+— Människa, grässtrå, markernas sandkorn,
+
+ensam du bär på
+
+strängarnas under, ensamt hos dig har gåtornas
+
+gåta
+
+lösts i befriade, ändlösa, hemliga, brinnande
+
+stunder.
+
+
+
+
+
+Svävande, bävande, trevande ljuder fiolen i
+
+natten.
+
+
+
+
+
+INNEHÅLL
+
+
+I VINTER 1941
+
+Krigsvinter 1941 9
+
+»Evakuerad» 15
+
+Dikten 21
+
+Linjebilchaufför 24
+
+De namnlösa 30
+
+Gemenskap 32
+
+Efter kriget I—II 35
+
+
+
+
+II 1939—1940
+
+På post I—III 43
+
+Omvärdering I—II 49
+
+Trots allt — 54
+
+Den underliga fågeln 57
+
+Höst i trädgården 61
+
+
+
+
+III SOMMAR 1941
+
+Natt i Tavastland 67
+
+Mot fronterna I—III 71
+
+Augustistorm 76
+
+
+
+
+IV OMPRÖVNING
+
+Jorden brinner — 87
+
+Engång var det — 89
+
+Vara människa är icke — 92
+
+Som vid solnedgång — 94
+
+Svävande, bävande, trevande ljuder — 96
+
+
+
+
+

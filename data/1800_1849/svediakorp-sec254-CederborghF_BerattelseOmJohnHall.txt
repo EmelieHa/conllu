@@ -1,0 +1,176 @@
+# ID: svediakorp-sec254
+# author: Fredrik Cederborgh
+# pseudonym: 
+# translator: 
+# title: Berättelse om Den, först rike och ansedde, sedermera fattige och föraktade John Hall, Deß lefnadsöden och ömkanswärda död. Sannfärdig Sannsaga. Med porträtt
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-06-14
+# sourceDescription: 
+# genre: prose
+# subgenre: 
+# location: Stockholm
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1831
+# editor: 
+# publisher: Eméns och Granbergs Tryckeri
+# digitisationMethod: OCR with manual post-correction.
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Litteraturbanken (https://litteraturbanken.se/)
+# retrieveFormat: ePub
+# annotation: tokens
+# annotationMethod: automatic
+# words: 3,447
+# sentences: 114
+# sentenceOrder: original
+# URL: https://litteraturbanken.se/txt/epub/CederborghF_BerattelseOmJohnHall.epub
+# cite: 
+# availability: CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+
+
+
+
+
+
+
+– ”Hören hwad jag nu berätta skall:
+
+Om den rike arfwingen till Erwich,
+
+Om hans lyckas höjd och om hans fall.”
+
+
+
+Gammal Skotsk Folkwisa.
+
+__________
+
+
+
+
+
+John Halls fader, af Skotsk härkomst, war den rikaste och kanhända stoltaste köpman i Swerige wid slutet af förra århundradet. Han war millionär, och ägde blott en ende Son. Derföre fick ock denne sin wagga af silfwer och sin dryckesbägare af guld.
+
+Då Herr John Hall hunnit något uppwäxa och öfwer de så kallade slyngelåren, ansåg förste Kontoristen hos gamla Herr Hall (en skicklig och driftig man, som derigenom förwärfwat en årlig lön af mer än en tunna guld,) att unga Patron John också i tid borde wänjas wid ordning och flit, för att en dag kunna sköta husets affärer, och yttrade derföre wid ett tillfälle till honom: ”Herrn kunde alltför wäl nu begynna, att, såsom arbetande, infinna sig på kontoret.”
+
+”Se! Se!” ropade gamla Herrn, som satt wid sin wälförsedda mahogonypulpet i inre rummet, och hörde detta yttrande: ”Se! min son behöfwer inte arbeta, Han kan alldrig bli fattig.” – Kontoristen teg, ty det war hans skyldighet.
+
+I stället för att lära något i handelswägen nyttigt och att söka gå i sin fars fotspår, fick alltså unga Herrn göra hwad han behagade, och slog sig derföre på det enda som roade honom, hwilket war: att rita, särdeles theater-scener; att uppköpa snäckor, uppstoppade foglar, underliga naturalster, förnämligast mineralier och månstenar, ty penningar erhöll han otrytandes och i öfwerflöd.
+
+För att kunna åtkomma dylikt, wäl rätt artigt men föga räntegifwande kram, beslöt han, att, med en särdeles wäl försedd kaßa, resa till Danmarks hufwudstad, ungefär trettio mil aflägsen från deß födelseort Götheborg. Men, wid ankomsten till Helsingborg, hwarifrån sundet till Danmark knappt utgör en half Swensk mils bredd, tordes han ej fara längre på wattnet, än några hundrade alnar, ty unga Herrn lärer hafwa warit, som Swenska ordspråket lyder: En kruka till sjöß; hwarföre han ock befallte styrmannen att wända om till lands igen, på det han, den så kallade Norra wägen, genom Törneå och Ryßland, som utgör några hundrade mil, måtte kunna, utan någon sjöresa, komma åtminstone till Danmarks fasta land, om än målet, Köpenhamn, hwars tornspetsar han från Skåne ägde i ögnasigte, alldrig kunde nås.
+
+Han återwände derföre, först till Götheborg, och aflemnade der i sina granna rum, i palatset wid Sillegatan, de småstenar af barlast och andra underting, dem han wid Höganäs och stränderna kring Kullen och Torekow, förskaffat sig. – Deßa dyrbarheter hade han samlat, ej i lådor eller till sådant ändamål wanligen nyttjade portörer, utan om hwarandra, i ett par obrukade, från London till resan ankomna sidenbyxor – naturligtwis så skurna, som de den tiden brukades af unga herrar, nemligen korta och så formade, att då en snörstump eller segelgarnsända, som också anwändes, omknöts hwardera benet, de i det närmaste liknade en gårdfarihandlandes warusäck.
+
+I den wåning eller de rum Herr John Hall bebodde, hade han sina samlingar utan all ordning, eller som det i Götheborg kallades: huller om buller. Der stodo dyrbara marmorbyster, der lågo Hoffbros, Hogarts, Åkerströms och Correggios taflor, der lågo sällsamheter, wapen och redskap från Australien, och der befunnos paradisfoglar i länga glascylindrar, och colibri på nålar, mellan Buffons praktwerk, Frimurare-kalendrar, Coldinu- och Neptuni- Ordens band (dem han troligen ej till sjöß gjort sig förtjent att bära, Swia Griser-Ordens dekorationer synas hafwa warit honom mera paßande;) der funnos porceläner m. m, hwaribland ej må glömmas twenne högst kostbara Japanska vaser eller urnor, dem han nyttjade – (med respekt för krukorna taladt) till all ting, hwarigenom obehag snart inträffade i hela wåningen, till stor molest för uppwaktande, men ej för unga Herrn sjelf, ty han war i denna wäg ej nogräknad, och hans näsa war måhända den fördragsammaste i Europa, Asien, Afrika, Amerika och Polynesien.
+
+Möjligtwis war det endast af samma orsak han, snart sagdt alldrig, eller åtminstone högst sällan, wille ombyta kläder, oaktadt nya framlades. – Han wille swårligen raka sig – swårligen twätta sig – swårligen klippa sina naglar och, minst af allt, kamma sitt hår. – Sådan war Herr John Hall, då han från Götheborg anträdde sin artistiska och naturalhistoriska resa kring Bottniska wiken till Ryßland.
+
+Sedan, som sagdt är, han i sina rum och på sina samlingar hopat hwad han i de omrörda sidenplaggen hemfört från Skåne, nåddes hans bra snart af Nordens näktergal, – eller för att tala mera i hans egen stil, som ingalunda war poetisk, han paßerade wid midsommartiden gästgifwaregårdarne genom Wester- och Österbotten samt Finland, och inkörde på en wärdshusgård i S:t Pettersburg.
+
+De skägg han der såg, syntes ännu mer hafwa befäst kärleken för hans eget, och från samma tid kom, liksom på Guds Nazir Simson, ej sax eller knif wid deß hufwudhår eller hakas prydnad, förr än han i armodets dwala, (i bilderspråk taladt) bunden till hand och fot, mot sin wilja, blef duktigt klippt och rakad. – Detta gjorde dock ingen Delila, ty ett sådant namn finnes ej ibland Hallska maßans administratorer. – Hall war ej heller någon Simson, som med återwäxt styrka kunde sönderslita sina band, han war och förblef John Hall, endast liknande Simson i blindhet. – Dock detta hör ej till hans resa – att han återwände landwägen är en sanning, – skedde det för att undwika den korrta färden öfwer hafwet är onekligt att, som förr nämndt är, han, ehuru Neptuni-Ordens Broder, war föga böjd för sjömannalifwet – kanske rent af afswuren fiende till watten i gemen, hwilken förmodan synes få ett stöd deraf, att han ej ens deri wille twå ett enda finger.
+
+Wid 1800-talets början, då salige gamle Herrn aflidit och lemnat sin son en enorm förmögenhet, fortfor han att wara lika oböjlig emot all slags snygghet i former och bruk, som dittills emot sjöresor och twagning – Mahomedan war han således ingalunda. Han lät sitt skägg ej endast wäxa, han lät deri wäxa hwad en frikostig natur behagade – oaktadt all den warning och det goda exempel, han af Mamsell Inga Åberg i Stockholm, hos hwilken han warit satt i privat kärlekspension, erhållit, och ehuru han ej sparade kostnad och bemödande, att inhemta hwad hon i denna wäg kunde lära, hwilket ej war o- betydligt.
+
+Nu har jag fört hjelten i denna historia (sådan han ärligt är beskrifwen) till den dag då han blifwit millionär. I och för denna wördnadsbjudande titel blef han ock genast gift med en ung, wacker och älskwärd, men fattig fröken – ty kär lärer han, genom Mamsell Åbergs underwisning, ha lärt att kunna bli, hwilket han derföre swårligen kunde undgå i den sanna qwinliga skönheten, då den till honom utböds. Huruwida hon med Afroditelden i ögat, ej warit mindre kär i denne, enligt Medicinal-Lagfarenheten, bestämdt oälskwärde John Hall, än i hans rikedomar, är ringa twifwel underkastadt, helst laglig skiljsmäßa, således äfwen i säng och säte, snart följde. – Förtänke henne ej någon derföre, att hon ej fann sig wäl wid John Halls säng och säte!
+
+Giftermålet bröts dock naturligtwis ej genast. – John Hall skulle således, såsom gift med en förtjusande skönhet, oberoende herre wid sina många bruk och på sitt kontor, wid 30 års ålder, som det synes, fått all den lycka en man kan önska på jorden – men han war, som lätt synes, swagsint, och hans galenskap, ehuru ödmjuk han syntes wara, härledde sig ifrån högfärd öfwer rikedomar. Denna galenskap beröfwade honom hwarje gnista af glädje i lifwet; hans wårdslöshet i affärer och enwishet tilltogo naturligtwis med denna manie.
+
+Just denna, – så swag är dock mängden blott för en uslings skryt och anseende i och för rikedomar – upphöjde honom så, att, då Hall, för att nämna ett bewis bland hundrade, wid en bjudning i större skala, ett par timmar lät wänta på sig till dineen, wågade wärden ej be sina gäster sätta sig till bords; twertom afwaktade han, och hela sällskapet uppreste sig lika som för ett majestät, då den smutsiga figuren ändtligen inträdde.
+
+Snart insågo likwäl alla, som omgåfwo John Hall, eller med honom hade några närmare relationer, att en sådan man ej länge skulle kunna sköta sitt goda; ty, då han, (ej lik gamla Herrn som, med beräkning, i Christinehamns marknad uppoffrade några tusende Riksdaler derföre, att hans skål wid bordet dracks framför den närwarande Excellensens) – på kamfiokortlappar, utan anteckning, utaßignerade ännu större summor, anseende sig alldrig kunna bli fattig, (den enda faderliga lärdom han egentligen synes hafwa lagt på hjertat,) kunde hans millioner ej länge förslå, helst millioner Riksdaler Specie rulla i följd af tyngds- eller kanske rättare attraktionslagarne, lätt nedåt då man skjuter på.
+
+Hwarannan af kontorets betjente, några så kallade wänner och wäns wänner oberäknade, ansågo derföre bäst wara, att i tid taga något för sig. Några andra redlige män erbödo då Hall, att sköta hans handel, eller bödo honom högst betydliga summor för att blott få begagna hans namn och kontorets firma – men förgäfwes. ”Nej! jag ber ödmjukast, jag ber ödmjukast” – war alltid hans swar.
+
+Man har trott, och det skadar ej, att John Hall, såsom menniskowän, wisat wackra efterdömen. – Kanske är det så. Kanske war det ej blott skryt och fåfänga, eller för att prisas och nå högre grader i den werkligen wälgörande Brödralogen, som han, till ex., i sin wälmagt, lät uppbygga skjul till skygd för de genom den stora wådelden brandskadade i Götheborg m. m. Men tywärr! ej utan anledning är, att blott skryt, högfärd och fäfänga lågo till grund för deßa, efter utseendet wackra och ädla gerningar, enär kanske ej en enda af de många, i hans nöd hjelpsamme menniskor, oftast sjelfwe i knappa omständigheter (bland andra källarmästaren Lindroth) hwilka försträckt honom mat, kläder och penningar, erhöllo någon betalning, icke ens tacksägelse, då han ånyo mer än en gång, dertill ägde utwägar. Tacksamhet, icke ens minne af högres eller ringares wälgerningar, torde wara möjligt att hos John Hall hafwa funnit. – Skuldsedlar, dem han alldrig ämnade betala, utgaf han deremot med frikostig hand till hwilken, så kallad, Jurist, som skref twå eller tre owettiga ark i och för hans proceß.
+
+Mina färgor (om jag NB. ej redan är för gammal att kallas målare,) börja bli allt mera och mera mörka. – Minnet af regeln: Tala ej illa om den döda, borde lifwas hos mig, som närmas grafwen, så wida jag trodde att detta ordspråk förtjente läggas på minnet. Död eller lefwande man, så synes mig, må lika wäl dömas rättwist. – Hwad Hall beträffar, har jag yttrat min öfwertygelse, och, om jag talat sanning, kanske bewist, att han war swagsint, och för den wansinnige har den tänkande blott medömkan.
+
+Men åter till Halls lefnad.– Då han på detta sätt danad och riktad, sjelf orättelig (eller om jag får nyttja en lärd mans öfwersättning af ordet incorrigible: (oafbaselig) ställt sina affärer i högsta oordning samt kommit, dock ohörd, i konkurstillstånd, ömmade många redlige landsmän för honom såsom en wansinnig plundrad – kanske war han ock, på wißt sätt plundrad.
+
+En John Halls ungdoms bekanta, utgifware af en bland Stockholms tidningar, ansåg ej saken annorlunda; han begärde i sitt blad en subskription till hjelp för den bysatte John Hall, på det han måtte kunna uppehålla en, efter utseendet rättwis, proceß emot Syßlomännen i Halliska så kallade konkursen; och den alltid wälgörande Swenska Nationen insände till detta ändamål omkring twåtusende Riksdaler B:ko, dem insamlaren till den olycklige John Hall, mer än till fullo, öfwerlemnade. En, kanske blott af Hall i lifstiden och författaren till denna lilla uppsatts, till namnet känd wälgörare, bidrog hufwudsakligast till hans utlösande från gäldstugan, dit han blifwit satt för bristande tryckningskostnad i och för den Extra RådhusRättens dom, som tilldömde honom ej mindre än åtta hundra tusende (800,000) R:dr Banko kontant, samt Sågar wid Edet och flere egendomar. – Denne ädles namn, som genast med en större summa skyndade att bidraga till Halls frilösande, behöfwer och får ej nämnas. – Den, som lät bysätta honom, war Herr Kammereraren B–ik likwäl som ombud för en – – naturligtwis Boktryckare.
+
+Då detta är berättadt, torde, såsom närslägtadt, få nämnas, att en ledamot i den Jury, som i Götheborg korrt förut dömde John Hall till ärans förlust, derföre att han beskyllt Syßlomännen i Hallska Maßan för bedrägligt uppförande, twert emot sin ed och tryckfrihets-författningen, genast tillkännagaf huru många röster warit fällande. – Jag har glömt hans namn och will, såsom likgiltigt, ej efterse det i Hallska tryckta rättegångshandlingarne.
+
+Bland de mänga deviser Halls hjelpsamma landsmän bifogade sine gåfwor,woro flera eftertänkliga nog. – Bland deßa må blott några få, antingen såsom bewis på from wälmening eller liten smädelust, anföras, till er.:
+
+
+
+”De män i gyllne nästen,
+
+”Som hittills ärft din far;
+
+”Dig säkert lemna resten,
+
+”Då ingenting är qwar.”
+
+
+
+”På det John Hall skulle blifwa bysatt, ”fordrades en Kommißionär, som warit en”gagerad wid fattigwården etc.”
+
+”Men Herr Bruks-Patron Hall: Skall ”endast det ärfda guldet utgöra wårt an”seende etc.”
+
+”Från Jericho, af en som for samma ”wägen och föll i – etc.”
+
+”Anseende, blott för sin rikedom, kan den ”tjuf erhålla, som försigtigt stjäl en million ”R:dr; kanske han kan på köpet bli både det ”ena och det andra; war derföre, bäste Herr ”Hall! klok nog att, om Herrn winner sin ”sak, anse sig stor för sitt guld.”
+
+
+
+”Om jag finge tag i den lede björn,
+
+”Som satt Hall på Gillboaberg,
+
+”Han skulle, i mitt kammarhörn,
+
+”Förbyta hudens färg.”
+
+”O Mammon! stöd mig wid din Staf,
+
+”Och om han nånsin brytes af,
+
+”Låt mig utmed en Brådjup wik,
+
+”I luften swäfwa få såsom lik.”
+
+
+
+”Jag ger hellre en skärf till frukost åt ”Herr Hall, än jag kastar den i Bråwiken ”m. fl.”
+
+Af de på detta sätt insamlade medlen anwände dock Hall intet till det åsyftade ändamålet; ännu mindre att betala fattiga fordringsägare, minst skoflickare. – Till hwad han anwände dem är swårt att uträkna, då han, under och efter denna period, fortfor att, lik den smutsigaste tiggare, stryka omkring på Stockholms gator.
+
+Halls rättegångs- och böneskrifter, af hans egen hand renskrifna, utgjorde snart sagdt hästlaß. – Hans egna koncepter woro dock ej särdeles wårdade, hwarå, såsom prof, må anföras en biljet till den af hans bekanta i Stockholm, som först underrättade Hall, att han wunnit proceßen wid Extra Rådhus-Rätten. Den lyder ordagrant på följande sätt:
+
+”Min Käraste Broder ursäkta jag ej ”har annat paper för at betyga min Bro”der mit uprikta delltagande för Des Go”da och betydande Nyhet af den Lyckliga ”utgång Min Sach fådt det kan ej wara ”annat då denna Lyckliga tidning af Min ”första Wän Min Broder är den första ”som uplifwat mig hermed Ödmje tje
+
+”J Hall.”
+
+Ändtligen nalkades den tid, då Halls märkwärdiga proceß i Högsta Rätten skulle afgöras. – Genom den kunde han ej förlora, ty han ägde intet, men wäl återwinna åtminstone en half million R:dr Banko. – Men, just då tillställdes i Götheborg en sammankomst, eller rättare, frukost, af Halls hufwudsakligaste motpart. – Halls fullmägtig kallades, böds eller påräknades derwid, och Hall personligen fick äfwen wara närwarande. På denna märkwärdiga sammankomst uppskrämdes den eländige stackaren så för ett förmodadt ogynnsamt beslut i Högsta Domstolen, att han ingick i en förlikning, hwarigenom han, till siffran, skulle bekomma 100,000 R:dr B:ko; NB. på sådant sätt, att han aldrig skulle få emottaga något af summan, ty dermed skulle betalas: Halls fullmägtig, som tillstyrkt föreningen, 50,000 R:d; till en annan person, pretenderad kompagnon (likwäl ej i Halls skulder) 25,000 R:dr och till Creti och Pleti, som skrifwit och tagit skuldsedlar, cirka 30,000 R:d, då han dock skulle få tillträda Gunnebo, en gård, kanske wärd 6 à 8000 R:dr. Med ett ord, han slöt en förening med en bepröfwad wäns råd, så att han ej endast war pank, utan i samma ögonblick bysättnings-mäßig, hwarföre han ock genast nödgades hålla sig undan för kreditorers kraf. Men ej nog härmed, han förbant sig äfwen, och lät offentligen i Tidningarne förklara, att alla de som han i sjutton år påstått hafwa spolierat honom, woro wördnadswärde män hwilka i allt handlat ädelt, hwaremot han beskyllde hela den goda Swenska allmänheten, hwilken ömmat för hans lidande, och gifwit de rika almosorna, äfwensom insamlaren af desamma inclusive, för falska rådgifware.
+
+Denna gemena skrift, likwäl ej uppsatt af honom sjelf – ty att han dertill ej ägde förmåga, har jag genom den nyß anförda egenhändiga biljetten welat styrka – utan af den åberopade bepröfwade wännen och fullmägtigen sjelf, wäckte naturligtwis alla deltagandes förvåning. – Märkwärdigt, ehuru en småsak, wid denna föreningsfrukost war, att John Hall, hwilken, som sagdt är, fick wara närwarande derwid, ej bekom något att förtära. – En Halls äldre bekanta, som, wid hans berättelse om förlikningen, ansåg den wara, i ordets rätta bemärkelse, lumpen, yttrade till honom: Du fick således platt inte, om ej ett glas af B–s goda portwin?
+
+Nej, swarade Hall, det bods mig intet, hwarken af maten eller winet.
+
+Efter denna eländiga förlikning, John Hall, hans fullmägtig, goda män och motparter, samt snart sagdt alla förmyndarekamrar i Swea och Götha riken (som ej tagit en wansinnig i beskydd) möjligtwis till långwarig wanära, sönk han allt djupare i uselhet. Sjuklig och höljd af trasor – men lika enwis att wilja proceßa sig till stora rikedomar, gick han ännu i åratal som ett widunder på Stockholms gator, ett föremål wäl för medömkan, men tillika för föraktet öfwer ett blott på ärfda penningar grundadt anspråk.
+
+Sent omsider dog den olycklige i yttersta elände i Stockholm Jultiden 1830. En af Hufwudstadens tidningar uppger, att han aflidit i en spisel längst bort å någondera af Malmarna. Författaren till denna ofullständiga, i hast skrifna lefnadsmålning, som ej fått tillfälle att bestämdt underrätta sig härom, hoppas dock, att denna uppgift ej fullkomligt matte äga grund, då ännu i samma stad bemedlade anförwanter funnos, hwilka säkert före dödstimman fått underrättelse om Halls annalkande befrielse från sitt olyckliga lif.
+
+Sic transit gloria mundi.
+
+__________
+
+
+
+
+

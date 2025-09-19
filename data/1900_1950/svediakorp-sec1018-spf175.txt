@@ -1,0 +1,418 @@
+# ID: svediakorp-sec1018
+# author: Sven Mattsson
+# pseudonym: 
+# translator: 
+# title: Det nya århundradet
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-11-22
+# sourceDescription: Retrieved from Språkbanken's collection 'Svensk prosafiktion' (Swedish prose fiction). The order of the sentences is scrambled, due to copyright issues.
+# genre: prose
+# subgenre: fiction
+# location: 
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1900
+# editor: 
+# publisher: 
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Språkbanken (https://spraakbanken.gu.se/)
+# retrieveFormat: XML
+# annotation: tokens, lemma, POS, morphology, syntax, named entities
+# annotationMethod: automatic
+# words: 7,154
+# sentences: 375
+# sentenceOrder: scrambled
+# URL: https://spraakbanken.gu.se/swe/resurs/spf
+# cite: 
+# availability: CC-BY attribution (https://creativecommons.org/licenses/by/4.0/)
+
+
+Den yngsta tycktes vara omkring tjugo år och dragen voro bildsköna.
+Vi lemnade folkskolan med vackra tankar om folkbildningen i vårt nya århundrade.
+Afskedet var outsägligt ömt och skönt.
+Under ett samtal, hvartill han lyssnade, hade nemligen båda hennes förtrogna föreslaget henne att i en blomma, som de ville räcka honom såsom skänk, insticka en vers som innehölle en kärleksförklaring.
+„Hvad jag är lycklig “, sade godsegaren, „genom uppdelningen af godsets jordegendomar i mindre lotter, hvilka nu bebos af så många lyckliga familjer.
+Klosterklockorna och vespersången hade nyss tystnat och abedissan och klostersystrarna kommo ut i klosterträdgården.
+Genom luckring af åkerfältet förra året har jag i år ett vackert råg- och hvetefält. “ Han visade härvid två råg- och hvetestånd, tre alnar långa, med präktiga ax.
+Arbetstiden är måttligt tilltagen, ty det arbete som utföres med helsa och ett förnöjdt sinne, det blir alltid vackrast.
+Eder religionsstiftare “, yttrade prinsen derefter, „föddes ju i Nasareth i judiska landet. “ „Ja, “ svarade prinsessan, „och den natten lyste en stor, klar stjerna på himlen.
+’ Hvarthän går din väg, gamle man? ’ frågade konungasonen ’ Min väg går mot kyrkogården, ’ svarade gubben.
+Det kallas sexualsystemet derför att han tagit befruktningsorganen till indelningsgrund.
+Eder gudstjenst är mycket vacker.
+Småleende och tvekande om hon borde våga det, dikterade hon dock versen, hvarpå han, dittills gömd bakom träden, plötsligt framträdde med ett svar i samma versart.
+Då kom ett pilgrimståg på väg mot Rom för att öfvervara en stor kyrklig högtid.
+Lundby &amp; Lundgrens Boktryckeri, 1900.
+Följ mig och jag skall visa dig hur kärlekens eviga, sköna lag börjar tillämpas i lif och gerning. “
+Vi ville först skåda någon af arbetets stora härdar, der fliten och arbetet frambringar så många nya varor och värden, hvilka i väsentlig mån bidraga till kulturutvecklingen.
+Tro, hopp och kärlek äro de klara stjernor, hvilka lysa Eder fram genom lifvet.
+Då hon en tid förgäfves väntat, öfverger hon sin fristad på den under tiden hemkomne eremitens befallning, för att uppsöka sin kunglige make.
+Vi kommo till ett vackert herregods.
+Kring majstången linda vi midsommarkrans Och samlas till lekar, vi samlas till dans Och lyssna med klappande hjertan i brand Till kärlekens sagor ibland.
+Dramat var klassiskt enkelt och romantiskt rikt.
+Två kulturer och två verldsåskådningar förenas här i dag i oförgänglig skönhet i vår kyrka.
+Hon mottog honom gästfritt, men i hennes ställe, då hon af blygsamhet merendels tiger, underhålla två hennes leksystrar samtalet med honom och upptäcka derunder mot hans vilja hvem han är.
+I choret samlas bröllopsgästerna.
+Då hennes omgifning tilltalade henne fingo vi höra att hon var en prinsessa.
+„I det gamla sagolandet Indien bodde en skön flicka hos en eremit i en helig lund.
+Vi kommo derefter till en stad med breda boulevarder och regelbundna, palatslika byggnader.
+Då kommo vi till en skog, der midsommarfest firades, unga flickor voro sysselsatta med att binda fagra blomster och grönt kring majstången, dervid de sjöngo följande sång:
+Han finner sig oemotståndligt dragen till henne, särdeles genom hennes rena oskuld och hennes ömma, hulda förtrolighet med blommor, örter och älsklingsdjur.
+Vid byggnadens hufvudingång trädde man in mellan några vackra pelare, hvilka tycktes angifva att man var i folkbildningens förgård.
+Tre vise män från Österlandet, som sågo den klara stjernan, följde dess sken, och då de kommo till Betlehem och sågo modren och det nyfödda barnet, som var lagdt i en krubba, offrade de guld, rökelse och myrrha.
+Klockorna från Nâtre Dame förkunnade den utomordentligt vackra högtidligheten.
+Bruden och brudgummen lofvade hvarandra trogen kärlek i glädje och sorg.
+Barnet log i drömmen mot englarna.
+Efter vigselakten lyckönskades brudparet i choret, och en äldre vördnadsbjudande man yttrade då: „Det är ett vackert bruk i våra dagar att alla brudpar vigas i kyrkan.
+„Jag kommer med nöje “, svarade prinsessan, „och det skall blifva angenämt få höra Edra tankar om vår religion och vår gudstjenst. “
+Prinsen sade: „I morgon vill jag gå i Peterskyrkan för att se och höra Eder gudstjenst.
+Det var en indisk prins med sitt följe som kom från England, der han uppvaktat konungen och på återvägen ville skåda konstverken och ruinerna af Romarstadens forna storhet.
+År 1735 uppställde den store svenske vetenskapsmannen Carl von Linné det förnämsta kända konstgjorda system.
+Äktenskapets band knytas säkrast
+framför altaret, och äktenskapets lycka beredes bäst genom kyrkans välsignelser. “
+Verldens förnämsta universitet hedrade konungen med att kalla honom till hedersdoktor och från alla länder och folk fick han bevis på vördnad och sympati.
+Min sköna prinsessa, blif min gemål och min brud, och jag vill då att vi skola vigas här i Peterskyrkan i Rom. “
+Den unge läraren i konstslöjd visade flere af elevernas arbeten, teckningar och vackra landskapsvyer, reliefer och små byster af berömda män, som varit mensklighetens välgörare.
+De djur som sakna egentliga organ sakna äfven nerver.
+Några herdar, som vaktade sin hjord i nejden, hörde englaröster som sade: ’ Ära vare Gud i höjden, frid på jorden och menniskorna en god vilja ’, och dervid sågo de Herrans klarhet.
+Röster omkring mig hördes säga att jag var vacker.
+Det
+Han är frälsaren och förlossaren som skall ledsaga oss in i Guds herrlighet. “
+Med ungdomlig hänförelse uppträda de i skolorna och folkförsamlingarna, och folket strör blomster på deras väg och gifver dem kärlek till vägkost.
+Vi vandrade upp till Capitolium, der så många berömda skalder och skaldinnor blifvit lagerkrönte.
+Då irrade jag med mitt sargade hjerta omkring i flera länder, men verldslifvet derute hade för mig ingen ro.
+Cellen eger förmåga att nära sig, upptaga vissa ämnen och utsöndra andra samt att fortplanta sig genom att alstra nya celler.
+Då barnet vaknade och slog upp de klara blå ögonen
+började modren sjunga en vacker folkvisa.
+Erkebiskopen af Toledo trädde fram för altaret och läste messan.
+Kyrkklockorna ringde hvarje morgon till bön innan dagsarbetet började.
+Längre fram på vägen mötte han en blek qvinna, tärd af sorg och bedröfvelse och höljd i sorgedok.
+Vi böjde knä i helgedomen och hade en kort bönestund.
+Han föres först till sin son, hvilken han igenkänner på de medfödda herrskartecknen, och derefter till sin maka, som är klädd i djup sorgdrägt.
+Derefter framträdde påfven framför altaret och förrättade vigselakten med följande ord:
+Af vördnad hade han bortlagt alla kungliga prydnader, och den sköna flickan betraktade honom blott som resande.
+„Folkskolan har den stora uppgiften att lära folkets barn religionens och upplysningens evangelium, och att bilda dem till nyttiga medborgare och till goda menniskor. “
+Det herrliga templet, den kyrkliga prakten, den utomordentligt sköna sången, den vackra messan, allt gör ett obeskrifligt intryck, och man tycker sig vara omsväfvad af himmelsk skönhet och frid.
+Då eremiten var borta på pilgrimsfärd kom landets konung på jagt till den heliga lunden.
+Derefter ledsagade läraren oss genom en korridor och vi trädde in genom två dubbeldörrar i en flygelbyggnad, der vi mottogos af en ung lärare i konstslöjd och två unga biträdande lärarinnor som undervisade i husslöjd, sång och musik.
+Hand i hand och par om par sprungo de lekande omkring i skogen.
+„Alla djur bestå af celler, men dessa äro vanligen så små, att de ej kunna skådas utan genom förstoringsglas.
+Blir ryttaren sårad eller sjuk lutar det ädla djuret sörjande sitt hufvud intill honom.
+Då vi gingo tillbaka satte vi oss på terassen nedanför för att hvila.
+Diktaren hade i hufvuddrag tagit Shakespeare till förebild, då han låter dramat vara ett poetiskt återsken af historien och utan öfverdrifter framställer menniskorna sådana de äro, och visar dervid liksom i en spegel menniskornas dygder och laster.
+Jag tyckte att vi derpå vandrade ut i en klar, herrlig vårdag.
+Församlingens hvitlockige lärare trädde fram för altaret och förrättade vigselakten.
+Varen flitige lärjungar.
+Bedjen för alla barn och för barnen ute i den villande verlden, bedjen för menniskorna, att de må vandra dygdens vägar och göra goda gerningar.
+Blomstertåg skrida fram mot Peterskyrkan.
+Här hvila många af Frankrikes yppersta och ädlaste män och qvinnor, hvilka vunnit så lysande segrar för nya idéer, för ljuset, sanningen och idealerna.
+Moderskärleken hördes så mild och varm i sångens skära poesi.
+I store män, som kämpen för ljuset och sanningen i mensklighetens tjenst.
+Låten Edra tankar alltid vara rena, goda och vackra, då skola Edra barndomsdagar blifva lifvets blomstergårdar.
+Jag följde det nya århundradets skyddsengel och vi kommo till ett vackert landtligt hem, der våren stod i sin skönaste fägring.
+„Ädle prins “, svarade prinsessan med sin ljufva stämma, „Eder manligt sköna gestalt och Edra vackra tankar och ord hafva talat varmt till mitt hjerta och mina känslor, min kärlek tillhör Eder.
+Då planeten till en viss grad blifvit afkyld, är den mogen för organiskt lif, som florerar allt yppigare under lånadt ljus från modersolen. “
+Till Gud vi sätta all vår lit Och genom arbete och flit Vi vinna helsa, kläder, föda Och riklig lön för all vår möda.
+Först hos de djur som hafva tvåsidigt ordnade organ finnes jemte nerver äfven hjerna.
+I den ena flygeln hade man anordnat ett ångkök med stora och vackra matsalar, der stora folkskaror dagligen intogo sina måltider.
+Den andra lärarinnan yttrade då: „De store skaldernas herrliga dikter tolkas skönast i sång.
+Hans hår var silfverhvitt och han var böjd af åren.
+Det var en klockren qvinnoröst som sjöng:
+Hon är skapelsens mästerstycke och kronan på skaparens verk.
+Bedjen Gud att han beskyddar och välsignar Eder.
+På morgonen, då stadslifvet åter böljade fram i oroliga vågor, sade engeln: „Följ mig och jag skall visa dig huru menniskor, som lemnat det bullrande verldslifvet, finna frid. “
+Men konungen förgäter henne och försjunker dervid i djupt svårmod utan att veta hvarför, han
+börjar förmoda att han saknar någon fröjd, som han njutit i ett lif före detta, regeringsbefattningen tynger på honom och hans glänsande omgifning är honom en börda.
+Derefter besökte vi folkuniversitetet.
+Herrliga växter, rosor och myrten, blå och hvita blomster smycka den vackra kyrkan.
+Lektionstimman för sång och musik var nu inne, och en skara ynglingar och flickor trädde in i sång- och musiklokalen.
+En vald sångkör sjunger en obeskrifligt vacker bröllopskantat.
+Det var rent och friskt ungdomslif och vacker ungdomsglädje.
+Pilgrimernas anletsdrag afspeglade deras inre glädje och frid, och de sjöngo vackra andliga sånger.
+Vid hans sida satt en medelålders qvinna med fina älskliga drag.
+På lärarens tillsägelse uppträdde en gosse i första klassen och framsade följande bön: „Allgode Gud, vi tacke dig för din oändliga nåd och barmhertighet, för din rika kärlek och din oändliga godhet.
+Folken i Österlandet och Vesterlandet blicka upp till Eder, visen dem genom Edra tankar, ord och gerningar hem till Guds herrlighet.
+Rösten inom mig predikar kärlekens sköna evangelium, och om man lyssnar till den rösten och gör goda gerningar, då gör man Guds vilja på jorden. “
+För att åstadkomma ett naturligt system, måste man vid ordnandet taga hänsyn till växtens alla delar, inre såväl som yttre.
+Då kom en ung riddare från en af de gamla riddareborgarne vid Rhenstranden.
+Dagen derefter gingo vi till lifvets och ungdomens blomstergård, till universitetet.
+Resultatet af vårt arbete är lyckosamt och arbetarna vinna derigenom pension på ålderdomen, sjuk- och begrafningshjelp och ljusa, sunda bostäder med små, vackra trädgårdar. “
+Han hade hemtat visdom ur lifvet och böckerna, var lärd och skald, blef lagerkransad, höll glänsande tal, diktade herrliga sånger och beskyddade vetenskapen och
+konsten.
+Då vi kommo till Paris sågo vi bland den böljande menniskomassan många som vandrade framåt med vackra blomster i händerna.
+Vi älska Eder och skola här i dag smycka Eder med lagerkransar. “
+Vi gingo derefter genom en allé af dunkelgröna almar fram till kyrkan, som var byggd i ren och vacker stil.
+Dramats konstform och innehåll åstadkommo en utomordentlig verkan under de vexlande scenerna, och efter sista aktens slut föll ett blomsterregn öfver skådespelarne och scenen.
+Barnet bär tecken på händer och fötter som visa att det var konungens son.
+Detta vittnar om de ädlare djurens känsla och förstånd. “
+Vi trädde in, och då vi sågo en ung vacker flicka sitta i väfven, sade godsegaren: „Hvad du sjunger vackert, älskliga flicka “.
+Hell dig du nya tid med dina vackra idéer, med din sköna lifsoch verldsåskådning!
+Då man betraktar växterna och blomstren, måste man beundra de herrliga växterna och blomstrens rika färgprakt.
+På båda sidor om dörren vid ingången voro blomsterslingor med nyss utslagna blomkalkar.
+’ Ve mig ’, sade konungasonen, ’ att jag ej förmår stilla deras gråt ’.
+Vår sol är en sådan stjerna.
+I en stor präktig sal med vackra dekorationer hölls en längre tid af året hvarje qväll föreläsningar af landets yppersta vetenskapsmän och lärare, hvilka i ett vackert och populärt språk skildrade bildningens olika vägar, på hvilka menskligheten skrider fram mot sitt ädla, höga mål.
+Då vi kommo till Rom lyste aftonsolens gyllene strålar på tempeltinnar och kupoler.
+Trallela, trallela, trallela, trallela.
+Hon förtviflar, men en af konungens hofprester hyser medlidande med den olyckliga och tager henne hem i sin boning, der hon blir förlöst med en son.
+Då vi trädde in i parlamentet hade debatten rörande det stundande presidentvalet nyss börjat.
+Vid vårt inträde sågo vi en mycket skön qvinna försänkt i beundran framför Rafaels herrliga stanser.
+Vi kommo derefter till en vacker nejd, der en flock gossar och flickor från folkskolan voro samlade.
+De goda tankarna äro som blomster.
+Menniskan består af kropp, själ och ande.
+Vi gingo dit och vid orgeltoner trädde vi in i kyrkan, som var smyckad med lefvande växter, blommor och grönt.
+Det var natt, och fullmånen lyste klar från Italiens högblå himmel.
+Vår religion är kärlekens evangelium, som lär Eder att älska Gud öfverallt i verlden och att älska Edra medmenniskor.
+„I evighetens morgon, då Gud sade: ’ varde ljus ’!
+På lärarens vink uppträdde derpå en ljuslockig gosse i andra klassen och talade om verldarnes skapelse.
+På hemvägen yttrade godsegaren: „Hvad man känner sig lycklig då man ser andra menniskors lycka.
+Men diktaren hade äfven lånat något af antikens stora konst, deri Sofokles framställer menniskorna sådana de böra vara.
+Ryktet talade nu öfverallt om det stundande bröllopet i Rom.
+1 detta nybyggda minnestempel voro blott några få katafalkar uppstälda, men de långa raderna af konstnärligt arbetade nischer och platser visade, att man väntade få hedra många berömda mäns minne genom att efter döden gifva dem plats i deras tempelbyggnad.
+Alla maskinerna voro i rörelse, och vid arbetshärdarne stodo arbetare i rena, snygga arbetskläder.
+Vi följde dem och kommo till kyrkogården Père de Lachaise, der blomster och kransar lades ned vid minnesvårdar och på grafvar.
+En yngre parlamentsledamot begärde derpå ordet och sade: „I våra dagars samhälle är den ypperst och värdigast, som bär fram de ädlaste tankarna i de skönaste orden och gör de vackraste gerningarne. “
+I salens midt var en talarestol, smyckad med de allra skönaste rosor.
+Det betyder föga om statschefen kallas konung eller president blott landet blomstrar och folket är lyckligt. “
+Kroppen är det materiela omhöljet för anden.
+Barnens moder trädde ut genom dörren och helsade med några vänliga ord, en varm blick och ett vackert småleende.
+’ Jag är gammal och trött och behöfver ro.
+Jag drog ut med legionerna och Roms örnar, vann lysande segrar, eröfrade verlden och kom tillbaka som triumfator, men mitt verldsvälde grusades, ty det var byggdt på eröfring och blodsdåd.
+Århundradet
+Folkskolans barn skola blicka uppåt mot skyn, mot idealerna och älska Gud öfverallt och älska sin nästa.
+Främlingar, som blifvit presenterade i Vatikanen, ledsagades af påfliga kammarherrar till deras platser främst i kyrkan och resande och pilgrimer fyllde tempelhallarna och pelargångarna.
+Vid utgången hördes från orgeln en bröllopsmarsch, som utfördes af den unge lofvande kompositören.
+Trallela, trallela, trallela, trallela.
+Främlingarna beundrade den kyrkliga prakten och den utomordentligt sköna kyrkosången såsom något öfverjordiskt skönt.
+Fredstankarna breda ut sig bland alla folk och i alla länder och folkens framtid bygges på fredens välsignelse, som är folkets lycka.
+Hos dem äro cellerna ombildade och förenade till väfnader.
+I den praktfullt dekorerade salens fond var ett strålande kors och framför korset ett bord öfverhöljdt med blå sammet och på bordet friska lagerkransar.
+Då vill hon upplyfta sin hand och visa honom ringen, men märker med förskräckelse att den icke längre sitter der.
+En drömsyn
+Vi färdades derefter fram genom ett vackert landskap med hvita kyrkor och trädomskuggade landtgårdar.
+Då tolfslaget hade förklingat hördes tempelklockornas mäktiga malmklang förkunna det nya seklets morgon.
+Den var byggd i ren grekisk stil med präktiga pelargångar.
+strålade ljuset omkring i de oändliga rymderna, och vid skaparens allmakts- och vishetsord tändes solarna, fixstjernorna och stjerneljusen och bildade denna evighetens timliga kedja, hvars lag är harmoni, skönhet och enighet, hvars evangelium är ljus och hvars ande är Gud.
+Här i klostret på bönepallen framför korset andas jag himmelsk frid.
+Tankfull lade jag mig till hvila och i den drömfyllda morgonstunden tyckte jag att en ljus gestalt, det nya århundradets genius, trädde in i mitt rum och sade: „Kom och följ mig, så skall jag visa dig det menskliga lifvets utvecklingsgång under det nya seklet. “
+Jag var endast aderton år och stod i lifvets blomstervår.
+Resande främlingar och pilgrimer från alla folk och länder kommo i stora skaror till det
+herrliga templet.
+Hell Eder, I mensklighetens välgörare!
+Kyrkklockorna ringde.
+S. MATTSSON
+De sofva här under sköna marmorvårdar,
+höljda af fagra blomster, och deras namn lysa i folkets tideböcker med oförgänglig glans.
+På den andra flygeln var ett sång- och musikinstitut, der framstående och begåfvade lärare och lärarinnor meddelade undervisning i sångens och musikens ädla konst.
+Hon bröt en qvist af akasieträdet och sade: „Här finner det sargade hjertat frid, här inom klostrets helgade område andas man ren himmelsk luft. “
+Nu vände läraren sig till oss och sade:
+Der fingo vi bröd, vin och kärleksfulla vishetsord.
+Jag lägger nu min kungliga drägt och vandrar bort som eremit till skogen eller öknen, der jag genom bön och fasta kan rena min själ för lärarekallet ’ Då han kom tillbaka från öknen predikade han sin nya religions sköna lära.
+Den stora lysande stjernan frustade till och gaf ur sin silfrade gördel ett barn, en planet åt verldsrymdens och evighetens sköte.
+Det går så lätt vid munter sång Att här arbeta dagen lång.
+Dessa slägten kunna sedan ordnas efter olika indelningsgrunder och med olika ändamål till högre grupper.
+Dygden och goda gerningar gifva lycka och välsignelse.
+Afser man med ordnandet endast det, att släkten fördelas så att man lätthet kan uppsöka ett slägtes namn och arter, uppstår ett konstgjordt system; vill man deremot ordna växterna efter deras naturliga slägtskap, uppstår ett naturligt system.
+Den klingade så klar och ljuf, den klingade vemodig och skön.
+I skolan brukade godsets befolkning ibland samlas för att höra något vackert föredrag af universitetslärare och i läsrummet studera de yppersta författarnes skrifter.
+Han förmår ej aflägsna sig från denna lockande ort.
+Parlamentsbyggnaden var utomordentligt vacker.
+Jag ropar deras namn, men får ej svar, de komma aldrig åter. ’ ’ Ve mig ’, sade konungasonen, ’ att jag ej kan gifva qvinnan dem hon älskar åter. ’ Längre fram på vägen mötte han en gubbe, stödd på krycka.
+Lär oss i dag att tänka det sköna och göra det goda.
+Qvinnan svarade: ’ Jag är moder och enka, mina barn äro döda och för ej längesedan följde jag min make till grafven.
+För att åstadkomma ett konstgjordt system, behöfver man endast ordna växterna efter likhet i ett eller några få hänseenden.
+Då prinsen efter gudsfjenstens slut åter träffade prinsessan på terrassen yttrade han: „Den moderna civilisationens blomning och kristendomens kyrkliga skönhet utgöra kronan på alla tiders kulturarbete.
+Moderskärleken och plikten bjuda mig att först lägga bönens ord på edra läppar, jag vill lära eder att bedja.
+Med outsäglig kärlek betraktade modren det älskliga barnet vid sin barm.
+Vi vandrade framåt i ett solbelyst landskap och kommo till ett kloster, som låg i en herrlig grönska.
+Vid dess anblick påminner han sig sin kärlek och sin maka med bitter saknad.
+Med godsegaren och hans hustru fortsatte vi derefter vandringen förbi flera små, täcka boningar, men stannade då vi fingo höra vacker sång inifrån ett hem, der de i ek målade dörrarne stodo öppna.
+Kommen alltid ihåg bönens ord.
+Kroppen och själen äro de instrument, hvilka anden begagnar under sitt arbete för rening och förädling.
+Vi trädde in i ett rum som var dekoreradt i hvitt och guld, och i taket syntes färgsköna arabesker.
+Det var en storartad byggnad med vacker fasad.
+Måtte Edra barnahjertan få lifvets skönaste, ädlaste prägel! “
+På en blomsterterass stodo vackra grupper af vårens fagraste blommor och doftade kring den täcka boningen.
+af
+Jag skådar nu de frambrytande strålarne af detta århundrades nya och sköna lifs- och verldsåskådning, ljusets och sanningens evangelium.
+Men hans skönaste verk var dock landets uppblomstring och folkets lycka under hans lugna regering och visa ledning.
+Hennes afsked från sin barndom, sin första ungdoms skådeplats, från sin fosterfader och sina leksystrar är outsägligt skönt.
+„De äro lefvande varelser som hafva kropp, själ och ande liksom jag.
+Kärleken till Gud och medmenniskor bär fram vackra handlingar i lifvet och kärleksfulla tankar och ord i tal och skrift.
+Från hans hatt vajade en hvit fjäderbuske, och riddarvapnet lyste i konstrikt silkebroderi från hans jägardrägt.
+Hvarje planet kretsar troget kring sin modersol och belyses af dennas bländande ljus och dricker eld och lif ur hennes sjudande modersbarm.
+Då råkar han få höra ett samtal af den högsta konstlöshet, oskuld och ljufhet, hvilket den sköna flickan håller med de båda väninnorna, han hör att hon med välbehag och böjelse talar om honom.
+Portarna vid ingången till kyrkogården voro af konstsmide, och vid inträdet i kyrkan mötte blicken en präktig altartafla, Christus Consolator.
+Himmelska makter åskåda hans bekymmer och förbarma sig öfver honom.
+Då skall det uppväxande slägtet komma att trycka sin prägel på århundradet genom intelligens, sedlighet och vackra handlingar och under århundradets lopp komma då de skönaste bladen att skrifvas i mensklighetens historia. “
+Morgonsolens gyllne strålar lyste klara på Peterskyrkans kupol, hvälfd af Michel Angelo.
+Derefter började flickor i snöhvita linneärmar och ynglingar som voro eklöfskransade, utföra vackra folklekar.
+Inom byggnaden var elektrisk belysning och badinrättning.
+„Min sköna prinsessa, jag älskar Eder!
+I det förra seklets aftonstund samlades de kristna folken i ljusuppfylda tempel för att bedja.
+Grånade vetenskapsmän och lärde vandrade bland ynglingaflockarne upp till universitetsbyggnaden.
+Min ande vill nu åter kläda sig i materielt omhölje för att lefva kärlekens lif i det strålande korsets renhet och klarhet och vinna evig frid. “
+Kort derefter hittade en fiskare i en fisk den dyrbara ringen, som blef framburen för konungen.
+Det kommer till en förklaring mellan konungen och den unga flickan.
+Vi besökte dagen derpå det nybyggda minnestemplet.
+Då vi vandrade derifrån sade engelen: „Den vackre ynglingen på den gröna blomstersmyckade kullen kommer att i sin ungdoms och mannaålders dagar blifva det nya århundradets yppersta vältalare. “
+Själen är sinnesförnimmelsernas verksamhet.
+Men res först till Edert hemland, Indien, och omtala för Edra fränder och vänner Edert fattade beslut, och om de samtycka dertill och följa med Eder åter hit, då skall jag möta Eder här som brud. “
+Blir jordelifvet för kort för detta arbete, kläder anden sig i ett nytt materielt omhölje och arbetar åter med blicken fäst på korset, tills han vinner renhet och klarhet för att kunna komma till Guds herrlighet bland de lofsjungande englaskarorna.
+Vi gingo derföre till ett större industrielt etablissement, der chefen på ett särdeles artigt och förekommande sätt mottog oss och ledsagade oss derefter omkring i etablissementets olika afdelningar.
+Låt de bildningsfrö, som läggas ned i våra barnahjertan, spira upp lefvande och sköna och bära rika frukter i kärlek och välsignelse. “
+Mot kyrkan färdades ett brudfölje.
+Malmö,
+Vi färdades åter dit och togo vägen öfver Alperna, der vi dröjde något i S:t Bernhards kloster.
+Längs husraderna var blomsterparterr och på torgen präktiga vattenfontäner och deromkring blomsterpartier med marmorbyster.
+Då I nu gån från hemmet till skolan följer föräldrakärleken Eder.
+Vi kläda vår majstång med blommor och grönt Och lifvet är glädje och hoppet är skönt I ungdomens lyckliga år, I lifvets och kärlekens vår.
+Edra blickar äro klara och milda som vårsolens strålar.
+Deras lif blir nu ett paradis med välsignelser och glada förutsägelser för de båda makarna, deras son och deras folk. “
+På en terass med fagra blomster satt godsegaren och blickade ut öfver nejden.
+Här och der i verldsrymden var en sol.
+Låt oss besöka några af dessa lyckliga familjehem! “
+Då vi trädde in i teatern utförde orkestern Wagnermusik.
+Adelaide plockade några blad från akasieqvisten och sade: „Jag bodde i mina fäders slott i det soliga Provence.
+Längre bort var biblioteket med flera tusen band och utmärkta planschverk och tidskrifter.
+Mäktiga orgeltoner började höras i templet och kyrkokörens och chorgossarnes sång hördes som en jublande englachör.
+„Jag anser alla dessa arbetare och deras familjer som bröder och systrar “, yttrade chefen.
+Dubbeldörrarna till ett angränsande rum slogos upp och vi sågo en obeskrifligt vacker syn.
+Derefter fullbordades äktenskapet utan många ceremonier, enligt det enklaste af de i Indien brukliga åtta bröllopssätten, hvilket består endast i brudparets ömsesidiga öfverenskommelse, hvilken de, under det de byta halsband eller blomsterkransar med hvarandra, yttra på följande sätt: Hon: „jag har blifvit din hustru. “ Han: „det är sant. “ Och denna ceremoni behöfver, om man så önskar, inga vittnen.
+Vi gingo derefter genom en blomstersmyckad vacker dal, vid silfverbäckens milda sus och sågo borta vid synranden en hvitmenad kyrka på en kulle, omhägnad af lummiga lindar.
+Låten Edra hjertan alltid klappa varmt för allt ädelt och skönt i lifvet.
+Tankarna och orden tala derigenom varmare till hjärtat och känslan. “ Vid ackompanjemang af piano sjöng ungdomen derefter några älskliga sånger, hvilka klingade varmt och skönt, och de sista tonerna hördes i ett sakta bortdöende pianissimo.
+Gud välsigne Eder! “
+Derefter uppträdde en ung student med mycket intelligenta, nobla drag och plastisk hållning i talarestolen och höll med klar och vacker stämma följande tal:
+Naturliga system ha blifvit uppställda af den svenske professorn Elias Fries och fransmannen Jussieu, men intet naturligt system har lyckats göra sig så allmänt gällande som Linnés konstgjorda sexualsystem.
+„I Herrans namn viger jag Eder, Österlandets son och Vesterlandets dotter, brudgum och brud, till ett äkta par.
+Då vi hade betraktat konstsamlingarne i Vatikanen och kommo ut i staden körde ett fyrspann upp mot vatikanen.
+Utanför mitt fönster sjöng man berusande kärlekssånger vid mandolin och guitarr, och jag drömde rosendrömmar om kärlekslycka och sällhet.
+Detta system följes ännu i de flesta länder på jorden.
+Uppe i choret samlades kardinaler och biskopar i full ornat.
+Liksom hela menniskoslägtet utgör en stor familj, der alla folkslag och
+menniskoracer böra älska och hjelpa hvarandra för att derigenom bidraga till menskhghetens lycka, så anser jag oss här i smått för att vara en familj med gemensamma intressen.
+Prinsessan sade: „Religionsstiftaren af Eder religion var ju en konungason. “ “ Ja “, svarade prinsen, „Budda var en vacker konungason, och då han en dag åkte från sin faders slott mötte han på vägen ett liktåg med en ynglings bår, höljd med tårdränkta blomster och de sörjande följde efter i gråt.
+Jag trodde på hans riddarära och på hans trohetseder och gaf honom kärlekslöften i trohetsord.
+Den hade halkat af hennes finger då hon nyss förut ur en helig brunn med vatten begjutit sitt hufvud.
+Gå vi ut en qväll och skåda de klart lysande stjernorna, eller vi gå ut en sommardag och skåda de fagra blomstren på marken, eller vi höra den herrliga fågelsången i skogen, eller vi betrakta begåfvade menniskors snillealster och konstverk, försjunka vi beundran och böja oss ödmjukt inför Gud, som i sin vishet och godhet skapat, ordnat och leder allt. “
+Den konungen var en vacker förebild för en statschef, han var en värdig representant för sitt land och sitt folk.
+Klöfvern, som nu blommar så rikt, lofvar god skörd, ty jag skaffade det bästa utsäde.
+„Något ovanligt rör sig i ditt inre; tala om för mig hvad som nu smärtsamt berör din själs strängaspel. “
+Den ena lärarinnan visade derefter några prof af husslöjd, vackra broderier och spetsar, täcken, bländhvita duktyger och väfnader i vackra mönster och färger.
+Välsignad vare du, upplysningens, kärlekens och fredens århundrade!
+Hon smekte kärleksfullt de ljuslockiga barnen och sade: “ Älskade barn!
+Klart och vackert flödar ljuset in hos folkets breda lager genom tidningar och böcker och plånar ut stånds- och klasskilnader genom vetande, sedlighet och intelligens.
+På en marmorbänk i skuggan af några blommande akasior satte två af klostersystrarna sig och började samtala.
+Den unge läraren yttrade dervid: „Konsten är den klara spegel hvari menniskorna skåda idealerna, och de barn som hafva konstanlag böra tidigt utveckla denna herrliga gåfva. “
+Herrliga gestalter, följda af en ljus strimma, vandra framför folken som vägledare och peka uppåt mot himlens klara stjernor och framåt mot mensklighetens höga mål.
+De äro sändebud från Gud och kallas profeter, siare och skalder.
+Derefter gingo vi till den närbelägna skolan, som hade två rymliga lärosalar, ett rikhaltigt bibliotek samt läs- och skrifrum.
+Men han blef anklagad, dömd till döden och dog på korset, men steg upp ur grafven i förklarad gestalt.
+Då tempelklockorna tystnade och körernas sekelsånger förklingat skingrades menniskoskarorna och man återvände till sina hem.
+Af hjertat utgår lifvet.
+Vi kommo till en vacker villa omgifven af en blomstergård.
+Flickan
+svarade: «Jag är ung och lycklig; här är så skönt och godt att vara, ty utanför fönstren blomma nu syrenerna och fåglarna qvittra så muntert derute på trädens grenar. “
+Hon bad få visa sina blommor och sin köksträdgård.
+Det högsta goda är Gud.
+Jag färdades då hit till detta kloster.
+„Det underbaraste i hela kedjan af skapade varelser är menniskan.
+Då vi lemnade den vackra villan sade engelen: „Det älskliga vackra barnet vi sågo derinne vid sin moders barm kommer att i sin lefnads vår och sommar blifva det nya århundradets störste skald. “
+Festligheten började med en kantat, som sjöngs af en Pariserkör.
+Då vi kommo fram till staden ilade menniskor med snabba steg i olika riktningar för att sköta dagens många göromål.
+Derefter uppträdde en blond flicka i tredje klassen och yttrade med melodisk stämma: „Det organiska lifvet på vår jord utvecklades med växterna, som bestå af en stor mängd arter, hvilka af forskare och snillrika vetenskapsmän blifvit sammanförda till olika slägten.
+Lyssnen till lärarens ord och orden få lif i Eder själ.
+Han målar hennes bild och åsynen deraf förökar hans smärta.
+På aftonen gingo vi på teatern.
+„I hemmet lär modren barnet att bedja och i hemmet beredes barnahjertat för undervisningen i skolan.
+Man tryckte hvarandras händer och helsade det nya seklet med högstämda sånger och kantater.
+„Du ser något blek ut i dag, Adelaide “, sade den andra klostersystern.
+Efter messan sjöngs den gripande sköna pilgrimskören, och silfverbasunerna föllo in med sina rena och skära toner.
+Skådespelet började.
+Då majstången var blomstersmyckad restes den vid hurrarop och jubel.
+Nya
+De allra flesta djur äro sammansatta af en ofantlig mängd celler.
+Då de lagerkransade männen lemnade Paris följde dem en flock unga studenter, som drogo ut på skilda håll i verlden för att förkunna århundradets nya och sköna lifs- och verldsåskådning, ljusets och sanningens evangelium, lefvande kärlek i gerningar och tro.
+„Vi begifva oss nu till det sköna Frankrike “, sade derpå engelen „universitetet i Paris skall fira en högtidsfest. “ Färden genom Frankrike var mycket vacker, der lågo slott och vingårdar, kyrkor och kloster inbäddade i yppig grönska, och solen lyste klar och mild öfver det sköna landskapet.
+Jag anser mig endast som Guds förvaltare på jorden.
+De tala profetiska, vackra ord om kommande tider, de sjunga herrliga sånger och förkunna Guds ord och evangelium.
+Då syntes en skugga skrida sakta förbi oss och engelen frågade: „Är du en lefvande varelse, eller är du en skugga från Romarrikets storhetstid? “ Då hördes en röst svara: „Jag är Julius Cæsars skugga och vandrar här omkring i natten.
+Älsken Gud, ty han älskar Eder.
+Under Indiens sol har jag icke skådat någon qvinna så vacker och ljuf, så skön och ljuf som vårens fagraste blomma.
+På en blomsterterass framför Vatikanen kom prinsen i ett lifligt samtal med den sköna prinsessan, som han råkat i Englands konungaborg.
+Lärkan sjöng i skyn och de daggstänkta blomstren öppnade sina kalkar vid vårsolens vänliga strålar.
+Blommornos blad voro rena och skära, ty blommorna hade nyss blifvit vattnade och öfversköljda med friskt vatten.
+På en grön kulle, smyckad med vårens fagraste blomster, stod en ljuslockig, blåögd yngling och höll för skolungdomen följande tal:
+Han kom med sin riddarhyllning och bad om kärlek.
+Vid sång och orgelspel sändes brinnande böner till Gud för lycka och välsignelse.
+En parlamentsledamot på en af de främsta platserna, som hade begärt ordet, reste sig och yttrade: „Vid val af ny statschef bör ej någon hänsyn tagas till börd eller förmögenhet, utan den ädlaste och visaste bör vara styresman och ett föredöme i högsinthet och dygd. “
+Konungen nödgades nu begifva sig till sin hufvudstad, men gaf henne dervid en dyrbar ring och lofvade att inom tre dagar hemföra henne till hufvudstaden som sin maka.
+Tellus, vår jord, är en sådan planet.
+Derpå framträdde en gosse och yttrade om djuren:
+Vid ingången innanför trädgårdsgrinden stodo två rosenbuskar med rosor i knoppning.
+Den höres som englaröster, hvilka förkunna lycka och sällhet.
+Hvilken vacker morgon!
+Vi följde barnen till en folkskola och trädde in i en rymlig sal #, som var dekorerad med blommor och grönt.
+De talade om kulturens välsignelser, om konst, vetenskap och religionerna.
+Låt mig åter få träffa Eder, min sköna prinsessa, här på terassen efter gudstjenstens slut. “
+Prinsen och prinsessan lemnade nu hvarandra för någon tid.
+Han red en arabisk gångare och var ståtlig att skåda.
+Men några månader derefter bröt han sitt trohetslöfte och förde en annan med höga riddaranor och kungligt blod i ådrorna juvelsmyckad som brud till altaret.
+„Historien ställer framför oss i dag sin klara spegel, och vi skåda der i stora drag den menskliga utvecklingens gång.
+Inne i förmaket satt en medelålders qvinna på en soffa, omgifven af en grupp mycket älskliga barn.
+Jesus Christus predikade för folket sin sköna lära om kärlek och barmhertighet.
+Barnet växte upp i nåd och visdom för Gud och menniskor.
+Vi följde pilgrimståget, men då vi kommo till den eviga staden, gingo vi upp i Vatikanen för att betrakta konstverken.
+Jag älskar arbetarne och de älska mig, deras glädje är min glädje och deras sorg är äfven min sorg.
+Kring allvarstankarna lindade hoppet sina skönaste rosor.
+Deras helsa får ej förstöras, deras nerver ej öfveransträngas.
+Abelards och Heloises graf i den sköna minnesvården hade ungdomen höljt med sköna rosor och myrten.
+Ledsagad af tvenne bramaner och en from qvinna kommer hon till konungen, men ehuru han beundrar hennes underbara fägring, anser han henne dock för en annans hustru.
+Hvarje folk och land har i vårt århundrade byggt ett minnestempel, som skall förvara stoftet af deras berömde män, statsmän, konstnärer, vetenskapsmän och snillen.
+Då konungasonen kom åter till sin faders slott sade han: ’ Jag älskar menniskorna och vill torka bort tårarne hos dem som gråta.
+Två barn, en gosse och en flicka, lekte på den blomsterströdda sanden utanför verandan.
+Då man ser blommorna med daggbestänkta kalkar och blad, tycker man att de i sin blomsterskrud prisa skaparens vishet o#eh godhet. “
+Nu vandrade århundradets frejdade män, mensklighetens välgörare, upp mot det strålande korset och Frankrikes president smyckade dem i mensklighetens namn med friska lagerkransar.
+Engelen sade: „Menniskorna börja rena sederna genom religionen och kyrkan.
+Vi skåda honom nu med trons ögon som en ljus gestalt med gloria kring hjessan och omgifven af ljuslockiga englar.
+På väggarna syntes porträtt af berömda män och qvinnor, hvilka genom snille eller dygd gagnat menskligheten.
+Läsen skaldernas ord i blomsterspråk och vältalarnes klara tankar, ty dikten värmer hjertat och talet klarnar förståndet.
+I choret var brudföljet samladt och framför altarrunden var brudpallen, som var öfverklädd med blått tyg och hvitt silkebroderi.
+Jag följde engelen och vi vandrade genom nejder klädda i sommarskrud.
+Då en arab har sadlat sin ädle gångare bär denne honom genom öknen och varnar om någon fara nalkas.
+Men jag kan ej finna någon skön religions trösteord som öppnar paradisets portar för mig. ’ ’ Ve mig, ’ sade konungasonen, ’ att jag ej kan gifva dig så sköna trösteord du önskar. ’
+På ett bord lågo planscher och illustrerade diktverk af stora skalder.
+Konungasonen
+stannade och frågade hvem hon var.
+Teatersalongen var dekorerad i hvitt och guld, och stolraderna voro af vacker marmor.
+Om man för en brefdufva hundratals mil bort till aflägsna länder och binder ett bref under vingen och släpper henne lös, hittar hon ändå vägen öfver länder och haf och bär de angenäma budskapen till den älskade hembygden.
+Därefter begärdes ordet af en parlamentsledamot med nobla, intelligenta drag, och yttrade med klar och klangfull stämma: „I nordanland regerade en vis och god konung.
+Genom trädgårdsgrinden kom nu mannen i arbetsdrägt, helsade vördnadsfullt och sade: „Det gläder mig att i dag få visa herrskapet dessa vackra klöfverblommor.
+Då vi lemnade den ädla och varmhjertade godsegarefamiljen gingo vi mot en stad, hvars tornspiror glänste i luftens blånande fjerran.
+Derefter samlades ungdomen under några lummiga ekar, der en yngling med vackra intelligenta drag berättade följande:
+Konungens moder, drottningen, kallar honom till en fest, men han uppoffrar sin pligt för sin kärlek och skickar sin gunstling såsom sin företrädare och fortsätter det angenäma äfventyret.
+Omedelbart efter debattens slut företogs valet, som helsades med förtjusning och jubel af det utanför parlamentsbyggnaden församlade folket.
+I köksträdgården voro yppiga köksväxter, hvilka skulle blifva till nytta inom hushållet.
+En skön qvinna satt lutad öfver sitt sofvande barn, som var höljdt i bländhvitt linne och spetsar.
+Detta stora gods har jag ej fått för att bruka ^ endast för egna personliga fördelar, utan för att med dessa jordiska egodelar bereda både min egen och andra menniskors lycka.
+Vi vandrade derpå genom en lummig allé af almar och kommo först till en liten täck boning med hvitmålade fönsterbågar och veranda.
+Jag vill trösta dem som äro bedröfvade, och jag vill stifta en skön religion, som öppnar paradisets portar för menskorna i döden.
+Det är den indiske prinsens och den vesterländska prinsessans bröllopsdag.
+Prinsen i enkel indisk brudgumsdrägt, prinsessan i hvit bruddrägt, smyckad med några skära rosor.
+Derefter uppträdde en gosse med ljusa lockar och klara blå ögon i fjerde klassen och yttrade följande:
+Edert hjerta är rent som guld.
+Läsen i naturens underbara bok om skaparens vishet och godhet.

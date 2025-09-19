@@ -1,0 +1,885 @@
+# ID: svediakorp-sec1102
+# author: 
+# pseudonym: 
+# translator: 
+# title: Svantepojken
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-11-22
+# sourceDescription: Retrieved from Språkbanken's collection 'Svensk prosafiktion' (Swedish prose fiction). The order of the sentences is scrambled, due to copyright issues.
+# genre: prose
+# subgenre: fiction
+# location: 
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1860
+# editor: 
+# publisher: 
+# digitisationMethod: 
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Språkbanken (https://spraakbanken.gu.se/)
+# retrieveFormat: XML
+# annotation: tokens, lemma, POS, morphology, syntax, named entities
+# annotationMethod: automatic
+# words: 15,131
+# sentences: 842
+# sentenceOrder: scrambled
+# URL: https://spraakbanken.gu.se/swe/resurs/spf
+# cite: 
+# availability: CC-BY attribution (https://creativecommons.org/licenses/by/4.0/)
+
+
+– Hur är det med dig, Svante?
+De sågo snedt på mina trasor.
+Såg man noga efter, så kunde man se, huru än den ena, än den andra, som af dörrvaktaren blifvit hviskade i örat, försvunno bakom en grön gardin, och för hvar och en, nickade professorn så fryntligt och vänligt, som om han riktigt gjort en god gerning.
+Gästgifverskan tog en högst rolig min på sig, men som dock var ganska begriplig för Starken.
+Der var begrafning om dagen, det ringde i klockorna i Riddarholmstornet och en lång procession af förnäma herrar gick gatan fram.
+Efter en kort stund kom rektorn åter, förande Svante vid handen, och – det dröjde ej länge, förr än Greta Wargelins hjerta tinade, och följden deraf blef en varm soppa för Svante, och dertill efter ett par dagar ett par varma byxor, och dito en varm tröja.
+Sjelfva vagnen hade, när de satte öfver diket, till hälften stjelpt öfver en större sten, så att största delen af åkerredskapen affallit och nu låg i en oredig hög vid sidan af en skyl.
+Och aldrig var Svante så glad, som när han fick höra de der två orden.
+– Är det ditt fulla allvar, att du vill följa mig till sjöss?
+Det såg nästan ut som om han glömt något.
+Hon ville nämligen blifva, och hon uppgaf aldrig hoppet att blifva rektorskan Strand.
+– När jag gick uppför trappan, så mötte jag några af betjenterna, granna som prinsar med sorgflor om armarna.
+Det der tänkte nu inte Svante på, och det kunde också komma på ett ut, för den tanken hade i alla fall icke hjelpt honom.
+När gubben bars till kyrkogården och Svante första qvällen satt gråtande vid hans graf, kände han något vidröra sin hand.
+Öfver gossens ansigte drog sig ett töcken af felslagna förhoppningar.
+Hans ögon voro rödgråtna, men hans kind var blek.
+Men det var ej mera min unga löjtnant Det var en blek och styf herre, som fnyste, när han såg uppståndelsen i likrummet.
+– Du talar som en hel karl, min gosse.
+Emellertid kom bordet med gröna duken fram och den oroliga samlingen blef mera stillsam, lägrad omkring detsamma.
+Farväl med dig, Svante. ”
+– Jag har redan talat med spektorn – besvarade Starken gummans frågetecken – Han ger 20 riksdaler för Passe.
+–
+–
+Den gamle rektorn stod länge och betraktade gossen.
+– Nå du min dråpliga Skapare – en liten vän!
+Efter den stunden var gubben Strand oupplösligt fästad vid Svante.
+Greta Wargelin både hörde på tonen och såg på minen, att uttrycket: ” jag har en liten vän ” alldeles icke innebar något, som hon kunde tyda till fördel för vissa ömma och blygsamma förhoppningar å hennes sida.
+Gubben hade varit hemma hos sonen, det var sant allt hvad Svante berättat, och gubben gick med tunga steg efter sonens lik till kyrkan den påföljande söndagsmorgonen.
+– Vi äro ense om saken – Mor får sina tjugu för hunden, och jag sköter fåren utan hund – Det blir en ren vinst för henne det, gästgifverska.
+– I annat fall vänder jag mig till grefven, er far.
+” Jag vet respekten nådi löjtnant ”, sade jag, och klöf den enas hufvud.
+En afton – det var en lördag – just som det ringde heligsmål i Kringa kyrka, gick gubben fram utefter landsvägen och dref sin hjord framför sig, stadd på hemvägen.
+– Haf Gud för ögonen och tänk på ändan, så gör du aldrig illa, och bed godt för dem som gjort dig ondt, för det har varit farfars tyngsta
+synd, att han tänkt ondt om salig grefvens son, – deruti skall du blifva bättre än farfar.
+– Svante – sade moster Greta, när de skiljdes om qvällen – Svante, på den der byken har du ingen trasa, säg Svante!
+Och Svantepojken fick nu bo och äta hos lektor Strand, som för hvarje dag vann gossen allt kärare.
+När hållkarlen, som dessutom fått något för mycket till bästa, fick se förödelsen, bleknade han af vrede och ännu mer, när han fick se, hvar Svante stod likblek vid grinden straxt invid den urstjelpta åkerredskapen och den kullfallna skylen.
+Numera var han dock så matt och svag, att han med möda kunde röra sig.
+– Å ingenting!
+I detsamma öppnades dörren, och rektor Emanuel Strand syntes på dörrtröskeln.
+Men var bloden viken från ynglingens kind, så försvann den nu blixtsnabbt från den åldrige lärarens.
+Men Svante – han var nu fyllda 7 år – skötte gubbens sysla så bra, att ingen, icke ens gästgifverskan, anmärkte något i afseende på denna gossens tjenstgöring.
+Som jag har hört, är han här på marknaden med sin gamla Bläckus, hans häst, som han är så rädd om som sitt öga.
+– Omöjligt min bäste grefve, omöjligt.
+Så der hade den gamle mannen varit stående några minuter, utan att märka att han på det nogaste granskades från topp till tå af en liten pojkvasker med trasig rock och rödfrusna händer, men med ett öppet och ärligt ansigte, hvars naturliga friskhet förhöjdes af vintern.
+– Än du då, Stingström?
+Du var i godt sällskap då.
+Men vi böra ej trötta läsaren med att följa Svante steg för steg.
+Starken hade varit soldat, han hade till och med klädt skott för sitt land och sin kung, men så kom en kula och tog af honom ena benet, och så var hans lycka slut.
+Gossen, som stadnat något på sidan om de båda herrarna och liksom ej rätt vetat, om han skulle försvinna eller hålla ut på sin plats, gick nu fram och såg de båda herrarna stint i ögonen.
+– Du har rätt, Svante – började efter en stund Henrik – du har rätt.
+Ty han stod på trappan vid ingången och de, som köpte, der nedanför, så han kunde mycket väl uträtta, hvad som var honom befaldt, utan att på något sätt väcka uppseende.
+Professorn hade nämligen lärt honom, att alltid upprepa sista orden af en tillsägelse, för att i korthet låta förstå, att han rätt uppfattat densamma.
+Det var Henrik Ströberg.
+Det var nästan, som om en tår hade fuktat hans öga, och det stäfjade Henriks yra glädje.
+Nu vet man, hvad sådant der kan göra för ett intryck på det unga, lifliga sinnet, och skolgossarne i rektor Emanuel Strands skola voro menniskobarn de också.
+– Hm – hvad jag menar, – begriper inte mamsell, att jag att jag menar, för granater, vet jag – ett par byxor.
+– Jag vill tänka på det der, Svante – vi skola talas vid mera i morgon, kom in till mig då.
+Det sker för att hon skall förädlas, säger trädgårdsmästaren.
+Du miste tjensten på kuppen.
+Rektor Strand gick nu utför trappan.
+Derutaf låter det lätt förklara sig, hurusom hon understundom såg, som man säger, spöken midt på ljusa dagen.
+Han var ju frisk och rask i söndags.
+Svante tyckte att detta var någonting alldeles förträffligt, för nu fick farfar den bästa grafvården i hela linien.
+– Länsman!
+Vi stodo vid en stig i skogen, der Sandels hade ställt oss, min löjtnant med tio man, och bland dem jag.
+Bänken, der gossarna sutto, stod nämligen tätt utmed löfsalen, så att, om någon var derinne, kunde han eller hon höra hvarje ord af hvad de båda ynglingarne yttrade.
+Det var riktigt högtidligt, och gubben sjelf hade en så ovanligt högtidlig min på sig, att Svante ovilkorligt knäppte ihop sina händer och och förblef tyst innanför dörren.
+– Och hur gick det med unga grefven?
+Detsamma som gör, att blomman, den fria, Guds blomma, som menniskorna kalla – den vilda, för ett par dagar krymper ihop och slokar ned bladen, när hon flyttas in från sin gamla välkända plats i skogen i ett trångt rum.
+Och du pojke, följer med mig till stadsfiskalen.
+Och nu vet jag, hur jag skall göra!
+Säg, hvem af er båda har den största rättigheten?
+” Jag kom till palatset, – du skall tro det var ett ståtligt hus, med pelare, höga som gästgifverskans skorsten, fast de voro af ett enda stycke och blanka som speglar.
+– Mamsell Gretas känslor började svalla, – Gossen, hvilken gosse – Nej nu blir det mig evinnerligen för tungt att vara i detta hus, och Stranden – hvem kunde tänka om Stranden –
+Derpå vinkade han åt gossen, och så gingo de tillsammans hemåt Kringa.
+– Men – frågade han – hur kommer du att tänka derpå?
+– Skulle grefven vilja, så skall jag med nöje lemna min ringa tjenst vid sakens uppgörande.
+Denna dag var det postdag, och tidningarna måtte hafva innehållit något, som gjort ett högst ogement intryck på den värde professorn, och han fick en min på sig, som om han velat säga: det blir hvad vi få se, det.
+Farfar var den der gamla Starken, han som kunde så många historier, som herrarna väl ha hört talas om, och far var torpare hos grefven.
+– Å nej – det tjenar till intet, Henrik.
+– Far din?
+– Till Stockholm, din skälm.
+– fortfor den glada herrn att fråga.
+De flesta suto omkring små bord och spelade kort, men när professorn kom, reste sig alla upp och vände sig mot honom.
+– Och hvad heter du?
+Tårarna stodo moster i ögonen.
+Det gjorde han dock, när han kom från farfars graf.
+” Men det gör detsamma ” – fortsatte gubben efter en stunds tystnad, hvarunder han hållit händerna hårdt sammanknäppta – ” det gör detsamma, nu är det som det är.
+Det blef mörkt och månan gick upp och stjerna efter stjerna började tändas på himlen, och det var så stilla och högtidligt på kyrkogården, som om en engel gått fram der mellan gångarne och mönstrat de döda, så väl dem som lågo i de präktiga grafvarna, som dem hvilka lågo i linien.
+4.
+Det fick jag, för jag ville tala vid min löjtnant.
+Det syntes, att det kostade på den gamle krigaren, att genomgå detta minne, men han lade band på sig.
+Gärdet stod fullsatt med sädesskylar, den ena vid den andra, och en af dem stod helt nära landsvägen inemot grinden.
+Om inte annat, kan jag väl hjelpa till med litet af hvarje, som farfar gjorde.
+– Ser du, jag kommer troligen att sluta skolan.
+– Jag vill försöka.
+Enhvar som gått i skola vet, hvilken tjusning det ligger i sådana upptåg, och att faran, fruktan för straff, snarare ökar än minskar denna tjusning.
+Men plötsligt tycktes äfven han hafva fattat sitt beslut.
+Det vill säga, att när dödgräfvaren hunnit gräfva graf vid graf och lik sänkts ned vid lik, så skulle han åter en gång gräfva på det stället, der Starken låg.
+– Ja du Svante – jag är mamsell Greta Wargelin, för det skall Gud veta, – men härefter gosse, så är jag moster Greta, och dermed punctamentum.
+Följande morgon, sedan bönen var gjord, kom rektorn åtföljd af magister Kraak högtidlig och hög in i den ifrågavarande klassen.
+Ynglingen, som skälfvande stod inför den stränge domaren var – Svante Stark.
+En vacker afton i solgången, då allt är lugnt och stilla, och hela naturen tyckes liksom reda sig till ro, – en sådan afton var det en upplyftande anblick att se den hvita jungfrun med korset mellan almarnas och lindarnas gröna kronor.
+Han magrade och blef sig ej mera lik.
+En fanns dock mera blek och mera förbi än den, som bekännt sig vara den brottslige.
+NORRKÖPING.
+Dessutom var frestelsen här för stark.
+BERÄTTELSE UR VERKLIGA LIFVET
+Den förknappning i.dagtraktamentet, som gubben bestod sig, för att Svante icke skulle ” komma i stället för hunden, ” tog dock skarpt på gubbens helsa.
+– Det har gått bra, skall jag säga dig.
+Men det var på samma gång en bland de vackraste, och de gamla grefvarne på Kringatorp hade tid efter annan kostat stora summor på hennes förskönande både med målningar och bildhuggerier.
+Emellertid led det fram emot hösten, och nätterna började blifva allt längre, så nu i rappet skulle ej Svante behöfvas på Kringa, det vill säga, gästgifverskan började finna, att han ej skötte sin tjenst väl.
+Så blef det tyst en stund.
+– Ja si det säger jag dig Maja Stina, att Strand, så beskedlig han är, så är han en evinnerligt godtrogen slarfver, och vore jag inte, som jag är, med öfver allt, så finge vi väl se, hvar det toge land det ena med det andra.
+En enda lampa brann i rummet vid en af taflorna.
+Han var i ett upprördt tillstånd gossen, derför såg han väl något helt annat, än hvad han
+skulle se, men han stadnade liksom fastbunden vid taflan, som han sett väl hundrade gånger förut.
+Då hörde han tunga steg uppför vindstrappan, för hans rum låg uppå vinden, och han hade haft ett eget rum, sedan han kom i fjerde klassen.
+Starken hostade till, och hans gamla kind rodnade i månskenet.
+Löfsalen.
+Men detta var blott utsidan eller den ena sidan af det underliga, som för tillfället gömdes i detta så lifligt besökta hus.
+Midt öfver katedern hade nu Henrik Ströberg fästat en ögla, gjord af en bastant knappnål.
+Och bilderna fingo lif, de rörde sig från taflan, och farfarsgubben, han som var så stark att han kunnat knäcka de båda knektarne i ett tag, gick som ett lam emellan dem.
+” Men så blef det med ens lifligt omkring mig, jag hörde flera röster, och i ett andetag hade ett par af de der granna hejduckarna fattat mig i armarna, och ryckt mig upp från den der svartklädda ställningen, der salig grefven stått lik. ” –
+– Nå du min evige, – nu är då Stranden rent af förkommen, – har jag väl kunnat tänka mig något sådant!
+– Men ser du, sedan den dagen har jag burit agg i mitt hjerta till, grefven på Kringatorp, och jag har mången gång förbannat den stig, hans fötter trampa.
+–
+Finner jag det af nöden, så skall jag också veta att hitta vägen till stadsfiskalen.
+– Det var vid den här tiden – sade han – klockan kunde väl vara 8 på qvällen.
+Svante såg undrande på talaren, han visste just ej, hvad han skulle svara till förslaget.
+Der föll han ned.
+Skogen hade tagit eld och stormen blåste på, så det var som att slåss på ljusa dagen, fast det var hett som i brinnande helvetet.
+Ty det kallade i dagligt tal innehafvaren af det stora godset alltid ” Kringatorparn ”.
+Leendet blef nästan märkbart på den gamle krigarens anlete.
+Det var ett roligt sätt att slåss, menade jag, men löjtnanten kastade sig med ett kraftigt tag öfver
+den konstmakaren, och säkert hade han fått sin skäppa full, om inte Ryssen drog fram en pistol, jag såg den riktad mot min löjtnants hufvud.
+– Och far din?
+” Det var Kringatorparns goda engel ” – sade folket.
+Ingen fanns på vagnen.
+Och Svante gick fram till rektorn.
+Hvems pengar är det egentligen, som ni lånat mig, hvems –?
+Sanningen skulle kunna nej, låt det vara som det är.
+Endast en fuktig glans i ögonen, som då och då ökades till en klar perla, hvilken sakta smög sig utför den bleka, insjunkna kinden och gömde sig i skägget, utvisade att det fanns lif hos den gamle.
+Föreningens Boktryckeri.
+Svante hade den dagen varit åt samma håll med fåren och gick nu på aftonen landsvägen fram, sjungande på en gammal visa.
+–
+– Känner du länsman?
+– Jo, jag kommer från Kringa – svarade Svante.
+Det klack till i mig; nu, menade jag, är det öfver,
+för nu får jag framföra mitt ärende.
+– frågade Svante.
+– Ha ha ha – skrattade rektorns glada vän – nu får bror ansökningar direkte från gatan.
+Den gamle soldaten kunde nu ej köpa sig någon sådan plats.
+Någon anspelning derpå ville han dock aldrig höra, var den ock aldrig så aflägsen.
+– Far är död – snyftade gossen.
+Veteranens Saga.
+– Han sörjer öfver det fel han tror mig hafva begått, mera än du kan tro, Henrik.
+– Om grefven skulle vilja nedlåta sig, – jag har en vän i viken, ej långt härifrån, också en gammal bekant från salig grefvens dagar, Constantin Plom
+– Hur hänger det ihop, gosse.
+– När jag skiljes härifrån, och ifrån min välgörare, rektor Strand, så måste jag
+Redan dagen derpå finna vi honom vandrande vägen fram, men i riktning bort från gästgifvaregården.
+Det var en rik gumma, men man sade att hon icke hade något hjerta.
+Qvällen dagen derpå, var glädjen något mindre, och då mamsell Greta frågade om orsaken, fick hon den upplysningen:
+– Hm hm, – började rektorn – hm, mamsell – jag har en liten vän
+Hans hjerta sved, ” men ” – sade han – ” bättre det, än att jag skall få skam till tack på min döda mull. ” Och så straffade han.
+Svante teg en lång stund.
+– röt gubben till, så det ljudade långt efteråt i skogen, och gossen hoppade till, ty så förfärligt ond såg farfarsgubben ut.
+Men solen lyste på bänken, der de haft sitt samtal, och några af hennes strålar hittade äfven vägen in uti löfsalen der bakom bänken.
+– frågade Svante, som nu skyndade fram till gubben, förgätande vid berättelsen det första intryckets högtidlighet.
+– Ja riktigt en förbannadt treflig liten hydda – småskrattade en trind och fet landtpatron, som tycktes vara en slags halfherre – men ro fram med positivet nu, – undrar just, om jag har någon tur i qväll –
+Sedan stöten var gifven och hållkarlen väl låg i diket, stod baggen helt stilla och såg ned i diket, liksom han ej kunnat begripa hvad det var för sprattlande rörelser, han såg dernere.
+” Det var den gode Gudens, den store vingårdsmästarens välsignelse ” – plägade Emanuel Strand säga, då någon väckte tal på den goda anda, som rådde i skolan.
+” Men Starken bedrog sig.
+Ingen, ingen fanns i hela vida verlden, som ville säga honom ett vänligt ord eller öppna for honom sin varma kammare.
+– Jag är från Kringa.
+Emellertid ville lyckan eller olyckan, att Kraaken väl märkte på de besynnerliga ljuden från bänkraderna, att något var på färde, men alldeles icke märkte något öfver hufvud taget.
+Du minnes väl marknaden?
+Det var ingen forbonde, men det var icke heller någon herreman.
+– Säg mig då en utväg, menniska
+– Mina värda herrar – läspade värden med den lenaste ton – herrarne torde observera nödvändigheten af att vara diskretta.
+Och ryssen kom, det var väl hundrade man, och der blef lif och der blef strid i natten, och mången bra karl fick bita i gräset.
+Kraaken reste sig i hela sin magerhet och var likblek i ansigtet.
+Han låg der äfven Söndagen derpå, men då var han död.
+” Så tänkte jag, ser du, och när högtidligheten var slut och klockorna upphört att, ringa, så gick jag till löjtnanten, – löjtnanten, säger jag, – han hade stigit i graderna sedan vi sist råkades, han var öfverste nu, unga grefven.
+– Och den unge mannen tog ett djupt andetag, som om han nu fått en lycklig idée.
+Vi inskränka oss att säga, att han allt fortfarande bibehöll lärares och kamraters aktning och vänskap, och för hvarje tilländalupen termin tog rektor Strand, när de kommo hem från den högtidliga afslutningen, der mer än en gång Svante Starks namn blifvit nämndt i första rummet, sin skyddsling i hand och såg på honom
+med den der skarpa och genomträngande blicken och sade: ” tack Svante! ”
+Emanuel Strand räckte fram sin hand och fattade Svantes.
+– Hör nu – sade han och afbröt en påbegynt fråga – hvad grinar han åt Trundman?
+Hans kind var hvitare än de andras och hans läppar kunde knappt framföra ordet: ” jag ”.
+Det der var ett af den gamles många minnen.
+På eftermiddagen den söndagen klef gubben in till gästgifvarmor.
+I skolan hade kommit en ny magister, en i botten god och beskedlig karl, men dock i sitt förhållande till andra snarsticken och småaktig, samt helt och hållet obekant med den anda, som var rådande i denna skola.
+De båda gossarna gingo ned åt trädgården, ty der låg en sådan vid rektorsgården.
+Och månen log så skönt mellan träden, och alla små stjernor brunno så klart, och den hvita jungfrun på kyrkotaket stod som en förklaringens engel, en stadfästelsens engel på de sköna orden: förr än du ropar, vill jag svara.
+– Hm jo, jag ville just som fråga, hur jag skulle bete mig, för att
+Emanuel Strand var sträng, och obeveklig i att utföra en rättvis dom.
+” – Hvad är det?
+– Gossen!
+Löjtnanten slogs som en hel karl, men jag stod vid hans sida.
+Det var således egentligen ingenting annat än ett spelhus, det der underliga tinget, som man fick tillträde till för 6 skilling.
+Det var unge grefven på Kringatorp, han som skrattade, när hästarna skenade och Svantes far, som räddat honom från den ögonskenligaste lifsfara, låg död för hans fötter, – han som skrattat och bedt det tillskyndande folket skaffa undan liket.
+Gubben Stark låg på Kringa kyrkogård i linien, som det heter.
+– Om du kunde följa mig, Passe, ville du?
+Sedan den dagen stodo de båda hästarna länge obegagnade, tills slutligen det beslut fattades, att någon af drängarna skulle köra dem, om de sålunda möjligen kunde tämjas från sin vildhet.
+Ser du, karl – fortsatte han, och vände sig mot mig – jag kan inte komma ihåg allt som hände det minnesvärda år, på hvilket du syftar, och med skälmar vill jag ej hafva något att skaffa. ” –
+Ty ingen, som färdades vägen fram och behöfde rasta, ville välja något annat ställe än Kringa, der man kunde fä höra gamla Starkens historier.
+Bollmans svar måtte ha slagit hufvudet på spiken.
+– När far du, Henrik?
+– Jag heter Svante – svarade han på herrns fråga.
+Hans hufvud låg lutadt mot båda händerna, och fötterna fördes medvetslöst fram och tillbaka, så att der blefvo tvenne djupa fåror efter dem i sanden.
+Han fettade hastigt sitt beslut och gjorde det förra.
+Den glade vännen såg att han drog på mun, och började draga sig till minnes, om ej han hade sett det der ansigtet förut
+Till julen äro vi i Stockholm.
+Det gick i sakta mak och egaren till åkdonet gick bredvid.
+– frågade Svante, i stället att svara på Henriks fråga.
+Svante frågade, som om han också fått en helt ny riktning för sin tankegång.
+Henrik Ströberg for ut han, och var borta i fyra år.
+Unga Grefvens hästar.
+– Nå, men så se dig om kom hit gosse, hvad heter du?
+Talaren var en ung man med martialisk hållning och mycken hurtighet i hela sitt väsende.
+Detta var händelsen med Svante denna afton.
+Men gossens blick var så öppen, hans ögon besvarade så barnafromt den gamle mannens spejareblick, och ännu stodo hans ögon fulla af tårar.
+Men det gick bra någon tid.
+Och om dagarna, medan de höllos i skogen, tog gubben upp sin gamla nötta psalmbok, satte brillorna på sin näsa och lärde gossen läsa, så godt som han förstod.
+Han såg sig om.
+– Signalen.
+3.
+Dertill var han olyckligtvis behäftad med den egenskapen att, om icke vara, åtminstone se ut som en ” förläst magister ”, samt yttermera alldeles förtvifladt närsynt och för öfrigt tafatt på alla vis.
+När gossen hade sagt detta, stod den gamle länge tyst, utan att säga ett ord.
+–
+– var det enda ordet han kunde säga, och i detta du låg mera, än i romarens: etiam tu, Brute!
+Han köper sig för reda penningar en plats på kyrkogården, der hans ben få ligga orörda och multna i fred, ty derpå har han fått bref, skrifvet af andra, hvilkas ben förmultna ej långt ifrån hans.
+– Jag går till sjöss!
+– Aha – nu har jag dig – utropade i detsamma den glade vännen.
+Det var ett underligt minspel i hans ansigte, och han mumlade några otydliga ord, men så, när en stund var gången, fortsatte han sin väg igen, lika lugn och tvär som vanligt.
+Rösterna som ropat voro inga andra, än professorns gäster derofvanpå, som blefvo något högljudda, vare sig nu, att någon vann för mycket, eller att någon förlorade för litet
+En tanke föddes blixtsnabbt i hans själ.
+–
+Men farfar hade en alldeles egen förmåga, som Svante icke egde, den att kunna berätta om framfarna händelser, och den der egenskapen hos gamla Starken gjorde gästgifverskan en ganska vacker vinst om året.
+– Ja, ja, jag kan väl begripa, hvad det är.
+Och de båda männen gingo, och Svante, som hört hela samtalet, stängde stallsdörren och skyndade en ginväg till sin herre, professorn, som med mycken otålighet väntade honom.
+Vet du, hvad det är för något?
+Den aftonen grät Svante lika bittert som han grät en gång på farfars graf, och den natten –
+sof han ej.
+Härmed var emellertid ej saken slut.
+– för på det viset måste jag börja.
+Och genast låg det der sorgbundna draget utbredt öfver hans anlete.
+Gossen är utfrusen och utsvulten, han behöfver både det ena och det andra, och han skall hafva det, hör mamsell, han skall hafva det.
+– Och huru?
+– Jag kan ej njuta af er godhet längre, herr rektor – jag måste sluta skolan.
+– Vill du tala vid mig – frågade nu rektor Strand, liksom vaknande ur en dvala – hvad vill du mig då?
+1860.
+– Herr rektor – upprepade gossen – ni är
+vred på mig, och ni har rätt dertill.
+Så skulle de en dag – det vår i slutet af skördetiden, gubben Stark låg redan på kyrkogården och fåren skulle snart upphöra att gå vall –
+draga hem från en af utgårdarna ett lass med åkerredskap, som behöfde lagas, och det skulle ske vid hemsmedjan på Kringatorp.
+Nu bodde Svante hos farfadern, följde honom i skogen och åt af hans bröd och drack af hans
+mjölk, men mera kostade det icke gästgifvarmor, än om Starken varit ensam.
+Svante fick efter farfadrens död vara qvar på Kringa och gå i vall med fåren, så länge – hade gästgifverskan sagt – som han skötte tjensten väl och till hennes belåtenhet Hvar man visste väl, och Svante nog också, hvad dessa ord betydde, att nämligen, när vintern kom och fåren ej längre kunde vara ute, något vallhjon ej mera behöfdes; men det blir väl någon råd då, tänkte Svante.
+När jag kom tillbaka – det var flera år efteråt – kände ingen Starken.
+Nu log ej Starken mera.
+– Du skall icke lida någon nöd hos mig, du skall få mat och kläder, men du skall vara påpasslig
+och lydig.
+Och han blef lärarnes älskling, och på samma gång kamraternas, två saker, som sällan pläga följas åt, och minst i sådana skolor, der fördomar eller bristande kärlek och kännedom, menniskokännedom, skilja lärare och lärjungar.
+Vi måste derföre börja uti det grefliga stallet på Kringatorp.
+– Det kan ju vara detsamma, Henrik – tillade Svante leende.
+” Det var mycket spring i trapporna – eljest hade jag väl ej kommit så långt jag kom – men nu märkte mig ingen, förr än jag stod i ett stort och högt rum, som var svartklädt och upplyst af flera hundrade vaxljus.
+Svantes relegation skulle ovilkorligen följt på hans bekännelse, om ej alla hans kamrater och alla hans lärare förenade bedt för honom.
+Och hon blir vanligen bättre,
+skönare och – om vi så få säga – fullkomligare, om – märk väl – om hon icke dör.
+Svante lemnade sin post och gick in i det stora rummet, der panoraman var uppställd.
+Men dig gjorde han likväl mesta skadan, gosse.
+–
+Bläckus stod i en gård vid andra sidan om marknadsplatsen, således icke i samma lägenhet, der man fick se förunderliga ting för 6 skilling.
+– Hm – hostade Starken till och rätade upp hufvudet – pojken kan göra nytta för sig.
+En dag gick Svante inför gubben.
+– Och nu – så slutade han – stige den fram, – som är upphofsman till denna händelse.
+– Fort, fort hvad ämnar du föreslå mig?
+–
+Gubben vände sagta sitt ansigte mot gossen, såg länge på honom, och lade sin hand på hans hufvud.
+Och Svante sprang vägen fram – men han sprang ej till länsmannen.
+Mamsell Greta såg högst besynnerlig ut.
+Några dagar efter nyss beskrifna tilldragelse i Klaramo ringde det åter till helgsmål i Kringa kyrka.
+Och så bad han
+en bön till Gud, som är alla värnlösas beskyddare, och så fortsatte han sin väg.
+Men så inträffade olyckan med unga grefven och torparens död.
+Jag är ung och stark, hon är gammal och svag.
+Han sökte Svante Stark.
+– Om – fortfor han – Henrik, om vi skulle följas åt?
+– Må gå då – slutade gästgifverskan sin tysta öfverläggning – pojken hans skall få komma i stället för hunden, men om han ej sköter sig och är på sin post jaja, vi hittas väl, tänk på det Starken.
+–
+Men dock kunde han ej annat än känna afsky för den unge, hjertlöse man, i hvilken han igenkänt den unge grefven.
+– Nå väl – frågade han.
+N:o 1.
+– Han är ej hemma, Henrik, och Gud vet ändå, om jag tillåter det der.
+Han har ätit sitt bröd i sin anletes svett, det har han, och en som klädt skott för sitt land och sin kung behöfver ej tigga, – hör du det Svantepojke!
+– Men, kära Strömstedt, det är ju rent af omöjligheter han begär – och jag ger mig fan på, att alltsammans är bara satans konster.
+Det lät nästan, som om det vore
+Svante begagnade sig emellertid af den oförmodade hjelpen, öppnade grinden och satte af i starkaste fart hemåt Kringa, följd i gladt traf af hela fårahjorden.
+Men rektor Emanuel Strand var mästare, i ordets fulla mening, mästare i den trädgård, der han var satt att verka.
+– Ja så – och hvart skall profossen nu taga vägen?
+Och allt godt, allt sant och rent och ädelt växte herrligt omkring honom.
+– Sanningen, – upprepade långsamt Henrik Ströberg.
+– Det förmodar jag, mamsell Greta, det förmodar jag – Hon har ett godt hjerta, mamsell
+Wargelin, det vet jag, och nu kan hon göra en god gerning
+Professorn hade riktigt heder af sin konst att få folk att lyda.
+– God-dagen mor – sade Starken i det han läste igen dörren efter sig.
+Nu på din post.
+– Men, det der må du tro, har jag nog tänkt på förut, men alltid så har tanken på mamma satt lås för munnen på mig.
+Men så kom han att se på Svante, och med ens voro hans tankar på det ämne, hvarom de började sitt samtal.
+Men jag tyckte det var väl mycket, så jag klef fram.
+Gubbens blick var ljus och solblank, som himlen en juliafton, när åskan rensat rymden och det regnat ut.
+Jag kunde förstå, att det var der, som salig grefven stått lik.
+Så ofta, såsom nu var fallet, gubben gick den vägen fram, stadnade han
+alltid en stund framför stenen och såg utåt herregårdsvägen.
+Men det skall väl alltid vara bättre, än att svälta.
+– Medan du tänker på det der, Svante, skall jag handla.
+Kom, följ mig, vi gå genast upp till honom!
+– frågade han.
+Hvart skulle han vända sig, eller hur skulle han få en bit bröd när han blef hugrig, det visste han ej, men alltid så tänkte han på farfadrens sista ord: hvad du gör, så haf Gud för ögonen och tänk på ändan, så gör du aldrig illa.
+Begriper du slikt?
+– Tack Svante – sade den gamle vingårdsmästaren, och hans stämma var rörd – du är en bra pojke, Svante.
+Drängen, som kört, hade hoppat af långt förut.
+– Pojke!
+– Farfar, farfar – ropade en liten gosse, och sprang, så mycket han förmådde, utåt landsvägen.
+– Di såg på mig, alla skolgossarna.
+Underligt nog stodo ett par kärfvar upprätta, liksom för att visa, huru säkert de varit hopkopplade med de kullfellna, och huru omöjligt deras rikedom kunnat skadas, om icke Tankegången var ganska snabb hos .hållkarlen, och ehuru han ganska riktigt började med: ” om icke de satans hästarna hade skenat ”, slutade han icke förty med: ” om icke den satans pojken hade stängt grinden ”, och han gaf till en svordom öfver den ” elemenskade odågan pojken. ”
+Något som, hur underligt det låter, i sin mån bidrog att öka hållkarlens vrede.
+–
+– yttrade fryntligt en af rektorns bekanta, söm han mötte, sedan han gått öfver torget.
+Och så blef det qväll.
+Magister Kraak stod fortfarande i katedern med sin vidunderliga mössa på hufvudet och bugade sig med sitt vanliga flin för den ärevördige rektorn.
+Fåren spridde sig öfver gärdet, men Svante stod stilla ett stycke på sidan om grinden.
+–
+En händelse inträffade också just vid den tiden, som förträffligt kom den godsgiriga qvinnan till hjelp.
+– Och hvad skulle nu det göra, kära Svante.
+– Och hvarifrån?
+– Bollman okunnig, hu-hum, hvaruti var han okunnig, Stingström, huhum?
+Och menniskorna strömmade in, för att få se de förunderliga tingen, och menniskor, som sett dem, strömmade ut, som det tycktes, högst tillfredsställda.
+Det var det kloka djurets svar på gossens fråga.
+När jag kom in, fanns ingen i rummet, – jag gick fram till thronhimmeln midt i rummet der likkistan nyss stått, och jag .vet ej hur det kom sig, men jag såg så lifslefvande för mig salig grefven, hur god och
+vänlig han var medan han lefde, och – jaja, Svantepojke, vi voro årsbarn han och jag, och vi kände hvarandra, så långt som vi mindes tillbaka.
+Det var som om hunden förstått gossens ord.
+Farväl min bror!
+Då var det någon, som slog honom på skuldran.
+Fåren hade efter sin första förskräckelse, sedan de ekenande hästarna försvunnit ur deras åsyn, åter samlat sig omkring sin välkända följesven, der de stodo och sågo alldeles fasligt enfaldiga och frågande ut.
+Han hade just slutat sin förrättning i stallet, och Bläckus gaf med en lätt gnäggning sin belåtenhet tillkänna, då han hörde stoj utanför liksom af två personer, som gingo mycket häftigt.
+kunnat uttala sin mästares tanke, då hon danades ur stenblocket.
+Svante såg.
+Och en af drängarna körde dem; de fingo draga tunga lass, och de adla djuren pustade under de tunga arbetsselarna.
+Men han var vand
+att stå i linien och se döden i ögonen medan han lefde, så det gjorde honom troligen detsamma om han låg i linien efter döden.
+– Stockholm ja, der bor kungen, och det var der som
+Då gaf jag karlen ett ärligt slag öfver näfven – i detsamma brann skottet af, och kulan bet mig i benet
+Visar du håg och lust för yrket, så bli vi goda vänner, och du blir också professor med tiden.
+Den gamle mannen tänkte naturligtvis icke alls på, att han var föremål för någon bespejning, men den lille gynnaren, som så noga observerade alla hans rörelser, syntes på allt sätt bemöda sig om att i sin ordning väcka den gamles uppmärksamhet, ehuru han på samma gång tycktes vara villrådig om sättet att vinna sitt syfte och icke heller hafva nog mod att sätta i verket det, som han helt visst funderat ut såsom det bästa, det nämligen att tilltala mannen.
+– frågade han –.
+– Ja si, – fortsatte Svante, som trodde att herrns yttrande hade afseende på farfadren – han sade många gånger åt mig, när vi satt i skogen och det gick bra för mig i psalmboken, för farfar lärde mig läsa, ja, sa han, om du kunde komma i skola, Svantepojke, sa han, för han kallade mig så, – om du kunde komma i skola, så tror jag allt att det skulle bli karl af dig Nu är farfar död, han dog i somrase, och nu kom jag att fundera efter
+hvad farfar plägade säga, och så gick jag till presten
+– Och hvarför, – svarade Svante – du har råkat komma i klämman, och det kan ej skada, jag sade dig det förut.
+Svante kom in hufvudstupa.
+Han stannade framför hällen, der hunden höll sin trogna vakt.
+Trädet, mot hvars stam farfarshällen lutade, rörde sig sagta och ett regn af blad nedföll omkring hällen och hunden, som frågande blickade upp mot trädet.
+– Jag hade inte den förmån – slutade professorn samtalet – men sätt dig nu upp på min vagn.
+Så länge gossen blef qvar, satt hunden vid hans sida, och när gossen gick, låg han qvar ännu, liksom han velat vakta grafven.
+– Ja gjorde jag så, genmälte Svante.
+–
+Men han reste sig i hela sin längd och näsan stack rakt mot taket, i det han sade:
+Men så går det understundom.
+En afton, när Svante kommit hem med fåren och sedan han stängt in dem, skyndade han, så fort han kunde, upp till gubben, hvilken han om morgonen lemnat serdeles klen, som han tyckte.
+Han var för upprörd.
+Sitt qvar här, jag skall snart vara tillbaka hos dig.
+Men då blef det än värre.
+Jag kom till Stockholm.
+Vill alldeles icke ha något mera häng vid knutarna, han är ju inte god att köra en skjuts ännu en gång Har nog med de andra.
+– Jo, unga grefven var ute och åkte –
+Det var en jungfru som stödde sig vid ett kors och hade en stjerna öfver hufvudet.
+Men han sade ej ett ord den qvällen.
+– Ja så, jag vet
+– Hvad vill du, så dags på dagen – tillade han, sedan gossen hunnit fram till hans sida.
+Hände det någon gång, var han butter och ordkarg mer än vanligt och satte hufvudet i vädret, alldeles som när han skyldrade gevär den der dagen vid Jutas, då general
+Döbeln kom och frågte sina tappra gossar, om de voro färdiga att gå emot ryssen än en gång.
+I detsamma ropade han på Svante.
+– Till mamma!
+Svante lutade åter sitt hufvud i sina händer, och Henrik gick fram och åter framför bänken, alldeles fördjupad i tanken på hvad de sist språkat om.
+GAMLA TRALLN.
+– Nå väl, Svante – frågade gubben, då gossen afbröts af sitt bemödande att qväfva gråten, som stod honom i halsen – nå väl, Svante, hvad vill du göra?
+Helt visst var det en bön, som flydde från den gamles hjerta, och som lemnade det märket efter sig.
+Svante kunde nätt och jemt läsa innantill, någon annan bok än farfars gamla bibel och psalmboken hade han ej sett, och utom farfaderns berättelser kände han föga af verlden.
+Hade han på något sätt kunnat hjelpa sin nästa, då vankades alltid en historia eller par om qvällen.
+Detta reflekterande bestod i att smutta på ett litet glas, hvilket allt emellanåt påfylldes, och derunder studerade professorn, om det var postdag, och han hade fått tidningar, dessa; i annat fall nöjde han sig med, att sitta och se småleende ut.
+– Om du ser något det minsta, som ser misstänkt ut, så gif signalen.
+– Tag reda på honom du, Strömstedt.
+Han stod med käppen i ena handen, utsträckt framför sig, medan den andra mycket omsorgsfullt höll en stor bok mot bröstet
+– Svante – sade Henrik, och äfven han var rörd – jag skall tala vid rektor Strand.
+Jag anser
+det vara lämpligast att tills vidare låta saken stå der den står.
+Svantepojken – utropade gubben, och såg förvånad och orolig på den ankommande sonsonen.
+Då skördetiden tillstundade det följande året, var Starken så klen, att han ej kunde lemna sitt rum.
+Ju bättre vi lära känna hvarandra, dess bättre blir dina vilkor.
+Det hade varit alldeles mörkt i rummet, – ty ljus bestås sällan i den fattiges koja, om ej, såsom här nu var fallet, Gud sjelf drager försorg om upplysningen.
+– Riktigt pys, der bor kungen och dit skall jag, för att visa min skicklighet, men dit komma vi icke förr än mot julen.
+– frågade han, när han fick ögonen på Svante.
+Då steg en lång och välväxt yngling fram.
+Och så slutade den terminen, och så följdes Emanuel Strand och Svante hem.
+Ögonblickligen blef det tyst i rummet, och den gamle mannens ögon öfversågo mönstrande hela rummet.
+Den vanliga tiden för Svantes besök hos Bläckus var, då representationerna af panoramat voro slut, innan professorn begaf sig upp i öfre våningen.
+Nu var han på Kringa gästgifvaregård en slags uppsyningsman öfver – fåren.
+– Fram och bak – svarade Svante.
+– Gör som du vill, du har alltid haft ditt eget hufvud, min bror.
+– Det var numro två – var det enda han derefter yttrade.
+– Godt.
+Men det var visst någon liten fogel, som hoppade omkring i löfsalen bakom dem, och som åstadkom det prasslande ljudet i löfverket, som lät som en hviskning.
+Bläckus var professorns häst, och han var särdeles rädd om kreaturet, som hade alla möjliga förträffliga egenskaper.
+– Hvem är upphofsmannen – upprepade rektorn långsamt frågan.
+Den var tillfälligtvis framhängd på väggen och föreställde Frälsaren, då han af krigsknektarne föres inför Pilatus.
+– Är det ert sista ord?
+– Svante – sade Henrik, när de kommit i en af de undangömdaste löfsalarna i trädgårdens bortersta hörn – Svante, jag är olycklig
+Det var en gammal grafsten, och på andra sidan var en riddare uthuggen, som låg der med händerna hopknäppta öfver bröstet och öppen hjelm på hufvudet.
+Som man lätt kan finna, blef efter nyss beskrifna händelse, Svantes vistande på Kringa icke långvarigt.
+– Säg ut, pojkunge, hvad har händt hemmavid.
+Det var en stor folkmassa samlad på Klaramo.
+Professorn.
+– I höst!
+Det var Henrik Ströberg.
+Men hvad skulle han nu göra?
+En af gossarne – han hette Henrik Ströberg – en galant och duktig pojke, fast utan hufvud för boken, hade funderat ut ett i hans och äfven i de öfriga gossarnas i klassen tycke alldeles förträffligt puts.
+bättre, mycket bättre än mången bland menniskorna.
+Om jag inte så många gånger hade varnat Stranden
+Hm, de kunde ej veta, de, att det var de ryska kulorna, som vållade min uselhet.
+Jag har först nu fått tillfälle att egna mig åt mina nöjen och åt de gäster, som i afton hedra min ringa hydda.
+– Hå kors, – det vet jag just inte – blef gossens svar.
+– Hvarifrån är du och hvad vill du väl den här gamla herrn?
+Han var något glad om qvällen dagen före den, då skolan öppnades, och mamsell Greta var rikligt illa ute för alla frågor, som hon fick att besvara.
+Det gick som en stormil öfver fältet, och utefter detsamma i hela dess längd utmärkte kullfallna och söndertrampade skylar deras väg.
+– Löjtnanten, gosse – löjtnanten blef räddad han, och fick en stjerna på bröstet.
+Han var ung, löjtnanten, bara pojken på den tiden, – nu är han men det är detsamma, jag höll af honom, för det hade jag lofvat fadren, salig grefven, som då var öfverste för vårt regemente, när vi drogo ut.
+Ty den var honom lika kär för det, och helgdagsaftonen, då han fick riktigt tänka öfver hvarje ord, likaså.
+Denne hoppade nu ur kärran och rusade fram mot Svante med piskan i högsta hugg.
+De båda hästarna, af utmärkt race och utmärkt skönhet, voro sin egares stolthet och stallets förnämsta prydnad, och enhvar som inträdde under den smakfulla byggnadens hvalf, der hästarna stodo i en lång rad, måste ofrivilligt låta blicken stadna på de sköna djuren.
+Till nästa jul, så fån J höra, Gamla Tralln ännu en gång!
+Det var en stark och duktig gosse, med ljusgult hår och blåa ögon, och farfadrens ögonsten.
+– Far högg tag i hästarna, och de släpade honom under sig Men han släppte ändå icke tag, utan höll fast, så att han fick dem att, stadna, och när de andra kommo till, så var far död.
+Han blef då ej litet förvånad, ätt se gubben sitta upprätt i sängen, men så stel och styf, som om
+han varit huggen i sten.
+I häftigheten kom han ej att tänka på sin ovanliga hufvudprydnad.
+– frågade hon ganska snäsigt.
+Blott en hund gick med slokande svans mellan grafvarne och de höga träden.
+Isynnerhet utmärkte sig södra ingången genom en vacker staty af hvit marmor.
+–
+” Den som spilt sitt blod för kung och land ” – plägade han säga – ” han kan dö, men han tigger ej för hvar mans dörr. ” Och så satt han och såg sorgset framför sig, och allt blekare blef den knotiga kinden, allt glesare det korta håret.
+– Hvems pengar, hm, min bästa grefve – hvems pengar, det var en underlig fråga – men det är en sak för sig, och nu måste jag hafva dem, i annat fall –
+Äfven denna qväll låg Passe på sin post vid hällen, der Svantepojken hade inhuggit de underliga strecken, som skulle betyda: farfar Stark.
+Det var en stor och stark bagge, som i grefvens tid applicerat denna stöt och räddat sin vän.
+Men den gången tog ej gubben gossen i hand, den gången sade han ej: tack Svante.
+Henriks begäran om hjelp, och Svantes halfva löfte inneburo sålunda något ganska mycket.
+– frågade Svante och såg upp.
+Men kära gosse, hur kommer du att tänka på slikt, hvarifrån är du?
+af
+– Se så, se så, mamsell Greta – nu år det inte fråga om något sådant.
+– Hör på, du pyssling – fortfor mannen – du ser mig ut att vara en rasker pojke, och en sådan behöfver jag.
+– Hm – svarade Starken – Det är Guds välsignelse i fårstallet – de äro snart flera, än att jag kan berga mig med Passe.
+Och han är gammal, rektor Strand, jag kan ej veta, om jag någonsin träffar honom mera, när jag skiljts ifrån honom.
+–
+Herre Gud, – om jag kunde Det der blir i alla fall min eviga skam Men mamma är ju så klen, – om jag sade till henne: Mamma jag måste sluta skolan, för; jag har begått ett fel, –
+så doge hon på eviga fläcken.
+Det var kallt och bistert, riktigt en äkta nordisk vinter med stjernor och med bjellerklang.
+Alla kinder voro bleka, alla ögon sågo mot golfvet.
+Här börjar det bära utför, och då åka vi litet fortare.
+– Att tänka derpå?
+Hvarföre han egentligen kom att stå så der på trappen är svårt att säga.
+Detta svar måste vi något kommentera.
+Och ser du, Henrik, han får ej taga sorgen öfver mig med sig i grafven, det får han inte
+– frågade hon helt menlöst.
+– I ett par – jag vill inte så säga – inföll mamselln, och såg nu riktigt brydd ut.
+Der hölls granna tal, tårarna trillade i syna på mig, när jag hörde, huru öm han varit mot gemene man, och jag tänkte: nu är nöden slut för Starken, för löjtnanten skall väl likna fadren.
+Svante såg frågande på honom.
+Gossen började med ens se så bekymrad ut, att rektor Strand blef helt nyfiken och likaså hans goda bror.
+ETT JULHÄFTE.
+Tråden var vidare dragen
+längs med taklisten och gick der genom en annan likadan ögla ned till bänkraderna samt slutade med sin motsatta ända precist der, som Henrik Ströberg satt Kamraterna, som voro nära att kikna af skratt, visste nog att den andra ändan af tråden slutade i Henrik Ströbergs i fickan gömda hand.
+Om aftonen den dagen satt Svante på sitt rum.
+Denne grefve, om hvilken Svante hört så mycket talas, och hvars far Svantes farfar så djupt hade hatat, men som han på sin dödsbädd hade förlåtit.
+På nyåret, när den så kallade vårterminen böljade, började Svante gå i skolan.
+Men jag kan ej bära er vrede.
+Och aldrig glömmer jag, hvad du har gjort för mig.
+Han styrde af efter rektorn och det dröjde ej länge, förr än han hade hunnit honom.
+Och dermed höll gubben i året om i ur och skur.
+Och så gick Starken.
+Nu slås reveljen, och jag skall stå inför min gamla herre, och farfarsgubben vill se honom rakt i ögonen.
+Hvad som mest drog gubben den långa vägen, var en liten gosse, som hette Svante.
+–
+5.
+Men nu är det ej fråga om det.
+– Hvart går du, Henrik?
+Svante föll gumman om halsen och grät som ett barn, men han sade ej ett ord.
+Det var dock sällan detta inträffade.
+När det kom någon som tycktes vara upprymd och ej så noga räkna styfrarna, såg man gossen oförmärkt hviska några ord i hans öra.
+– Sanningen – var det som om ett svagt echo hade upprepat bakom de båda ynglingarna.
+Sorgerna och bekymren, som ingen såg eller som ingen vårdade sig om att se, – gjorde resten.
+– Ja, och det skenade för honom, och far sprang fram, för det bar af åt sidan om vägen, farfar vet der branten är neråt sjön, så att det hade bestämdt burit bums utför och det hade varit slut med både hästarna och unga grefven –
+Och mamsell Wargelin blef snart lika varm om hjertat för allt hvad som rörde Svante, som någonsin rektorn sjelf.
+När morgonen kom, var gubben Stark död.
+Ifrån landsvägen ledde en biväg inåt skogen, och der stod en präktigt huggen marmorsten, som med gyllne inskrift visade vägen till Kringatorps herrgård.
+Emellertid var Starkens ställning i lifvet ganska svår och föga bättre än ett nådehjons.
+Så gingo de båda ynglingarne gången fram, och snart hördes trädgårdsgrinden tillslutas efter dem.
+Han hade sett farfarsgubben, och farfarsgubben hade varnat sin Svantepojke, det var nu säkert.
+– Säg ut, Henrik.
+–
+– Unga grefven, sade du?
+Jag kan ej hjelpa det, men, som jag sagt, jag måste hafva mina penningar.
+Han hade just hunnit till en grind, som tillhörde gästgifverskan, och som stängde ett af hennes gärden från de grefliga egorna.
+Ogräset trifdes der ej gerna.
+– Mina herrar, jag ber er ursäkta – började professorn, i det han vänligt bugade sig åt alla sidor – men alla vilja hafva sin rätt.
+Det var lampan, som slocknade, ingenting annat; och dess sista flämtningar hade framkallat rörelserna af figurerna på taflan.
+– Hvad är du för en trafvarlapp?
+Och nu såg han på Svantepojken, och Svante tyckte precist att han hörde honom säga: bed godt för dem som göra dig ondt, och så gick han, och ” folket skrek: korsfäst, korsfäst!
+upp.
+Och rektorn gick förut, och gossen gick efter, trogen som den gamle mannens skugga.
+Till Svantes göromål såsom professorns medhjelpare eller lärling hörde äfven att se om Bläckus.
+Och hans sorg är mig tyngre än allt annat, som kan hända mig i verlden.
+Vi kunna lätt förstå, hvad det skulle vara, som tryckte så det unga sinnet.
+Och för att visa, att det var ferfar som låg der och ingen annan, högg Svante in så godt han kunde några besynnerliga streck, som skulle betyda: Farfar Stark.
+Det var efter afslutningen af en vårtermin, som rektorn icke tog Svante i hand, när de kommo hem från skolan, och som Svante icke från den gamle, käre lärarens mun fick höra de der orden, som för honom voro den skönaste musik, det var orden: tack Svante.
+I den gamle Strands anlete vexlade uttryck af sorg och förakt.
+Kraaken började på vanligt sätt sin lektion, och fortsatte med det största lugn i verlden, att på det mest inbitet förargliga sätt pina gossarna.
+– Från Stockholm!
+– Och farfar?
+– Hvad gjorde du vid Klaramo, min junker?
+Till nästa jul så fån J höra Gamla Tralln ännu en gång!
+Det visste hvarje skolgosse.
+Strömstedt var honom äfven till namnet bekant Det var han som förhört hans farfar i det grefliga palatset i Stockholm och dragit försorg om hans häktande, och Constantin Plom, professorn, hans husbonde, var äfven en ibland dem, som den dagen hånat och slagit hans gamle farfar.
+Men så kom der en terminsafslutning, det var den näst sista före Svantes afgång till gymnasium, då Svantes namn icke nämndes främst, icke bland de främsta, – ja det nämndes icke ens alls.
+Han tänkte på mycket, der han gick sorgbunden sin stig.
+” Nu såg löjtnanten på mig, men jag kunde ej märka någon rörelse i hans ansigte.
+– Hvad är han för något, med förlof?
+Det var skolans rektor Emanuel Strand.
+Han hade visst funnit hvad han sökte i sina tankar, ty han styrde af med förtviflad fart tvärt öfver den fria skoltomten åt gatan till.
+Det hände visserligen ej alltid att gubben
+var i ” den lunan ”, att han ville berätta; men blotta vetskapen om att detta kunde inträffa, innebar en tillräcklig dragningskraft att locka kunder till gästgifverskans disk.
+Skylten, som var en transparent, lyste vida öfver marknadsplatsen, och alltjemt strömmade folk till, för att få se de underliga tingen.
+Neg, jag vill tala vid rektorn först.
+Skolan.
+– Sanningen, Henrik, har den största!
+Han såg glad och förnöjd ut, och småsjöng på en visstump, medan han då och då manade på hästen.
+SVANTEPOJKEN.
+Det var som om han beslutat att bikta för sonsonen.
+– frågade med det
+största lugn och den mjukaste undfallenhet den lille, hvilken vi hörde nämnas Strömstedt.
+När han dog, vet ingen; dagen derpå, när kyrkfolket kom till kyrkan, låg Passe, som han brukade, på Starkens graf.
+Huru gammal är du?
+– Harpa, ha, ha, ha – förstås, förstås – men nu talar jag ej om brors husliga hjelpreda, mamsell Wargelin, – jag bär alltid en viss respekt för könet, som bror vet, sedan unga åren.
+Den gamle satt tyst med hopknäppta händer och tycktes icke hafva märkt att dörren öppnats eller att sonsonen stod derinom.
+Det var en vacker gubbe, något kantig, isynnerhet i sitt sätt att vara, men det första intrycket af hans person var godt, riktigt kärngodt.
+Professorns handtverk var brottsligt Det kunde Svante förstå, om icke af annat åtminstone af den hemlighet
+, hvari det insveptes och af den fruktan för offentliga myndigheter, som professorn visade, hvarhelst han drog fram.
+Gubben förde båda händerna för ögonen, och var åter tyst en lång stund.
+– Men medgif, att det var riktigt roligt.
+Nu hade rektorn slutat sin tysta forskning.
+Det nalkades julen, det året som hade varit så ödesdigert för vår hjelte.
+Och så skiljdes de båda männen åt, och Svante följde rektorn hem.
+– Jo, jag är professor.
+Det är det värsta jag också har att bära på, Svante.
+Men just gom hållkarlen hade fattat tag i gossen, och just som hvinandet hördes af det första piskrappet, fick den uppretade mannen en sådan stöt bakifrån, att han tumlade hufvudstupa ifrån landsvägen ned i diket.
+Lifvet var emellertid ganska ensamt för Svante efter farfadrens död.
+Bollman dröjde, och stoppade halfva näsduken i mun.
+Hans kost såsom sådan var klen, men – han tiggde ej sitt bröd, och dermed var han nöjd.
+Emellertid gick tiden, och Svante blef snart varm i kläderna, som man säger.
+– Han var ute och åkte?
+Han sade några hjertliga och förmanande ord till gossarna.
+Mina äro för stora, behöfva förminskas, – vill mamsell eller vill mamsell inte?
+– Om jag skulle om jag skulle.
+Och när han sett på mig en stund, vände han sig åter till den der hejducken. ”
+Medan Svante var der, hade professorn alltid mycket att bestyra i grannskapet af ingången, men så snart Svante kom tillbaka, försvann genast professorn, och då stod Svante på post, såsom vi hörde professorn benämna det.
+– Hur mamsell vill, men gossen fryser.
+Det fanns väl, ty det måste finnas äfven det, men det hade liksom icke samma fart som det plägar.
+Jag är född på Kringatorp, jag, och när salig grefven blef knekt, så blef jag det också, och vi skildes aldrig åt, förr än den der dagen, då den ryska kulan tyckte, att jag hade ett ben förmycket.
+Men förunderliga ting och saker finnas mångenstädes, och ganska ofta kan man både få se
+och höra sådana utan att betala något alls för dem, åtminstone icke i klingande mynt.
+– Du går till sjöss, Henrik?
+6.
+Skulle hästarna hejdas af grinden, om han icke öppnade den, eller skulle han lemna fåren åt sitt öde och sjelf söka rädda sig bakom grinden och gärdesgården.
+Den rackarn, som var qvar, grinade åt mig som den onde sjelf, och kastade sig, innan jag visste ordet af, för löjtnantens fötter.
+Men Frälsaren, som stod der mellan krigsknektarne, hade alldeles farfarsgubbens drag, och knektarne på ömse sidor om honom voro Strömstedt och Constantin Plom.
+Rektorn satt fördjupad i en stor bok.
+Här förde gossen handen till ögonen.
+– Och Constantin Plom –?
+Gossen drog på munnen, medan rika tårar strömmade öfver Passe.
+Saken förhöll sig så.
+– Jo, si det är som så, att jag ville väl tala vid honom, men han har haft så mycket att tänka på, så att jag har ej haft något gehör.
+– Herr rektor – sade han.
+, När jag kommer tillbaka en gång då är du längesedan död, Passe Men tack skall du ha, för du hållit af farfar, och nu farväl med dig
+Der var marknad.
+– För att, hvad min gosse?
+– Hvad har du skaffat dig för en hjelp, bror
+Strand?
+Hans käraste stunder voro söndagsqvällarna på kyrkogården, och aldrig underlät han att der på farfars graf gå igenom hans sista berättelse från finska kriget.
+På eftermiddagen satt Svante i trädgården.
+När han hörde någon tilltala sig, sköt han upp glasögonen, förde pipan från munnen och såg åt sidan, hvarifrån ljudet af den talande träffat honom.
+Fåren skockade sig vid grinden, och Svante fattade i klinkan för att öppna, då han får höra ett häftigt körande utefter landsvägen bakom sig.
+Kyrkogården
+– Nå min eviga herre, ser du inte, att såsen
+–
+– frågade den unge mannen.
+– Grädda – invände en af sällskapet – visst fan äro vi ortens grädda, förb.
+Det var tyst i gossarnas ring.
+Om söndagsqvällarna brukade gubben göra en längre promenad till ett torp, som låg tre qvarts mil från Kringa, och der sonen bodde.
+Ynglingen kunde ej svara.
+Ty hon tog honom på orden, och för att hålla sitt ord, lade sig Starken mången qväll med tom mage.
+En sådan obeskriflig sorg låg det i hans stora kloka ögon, när han såg upp på den gråtande gossen, hvilken ännu dröjde, som om han ej haft hjerta att skilja sig från det trogna djuret.
+Det finns väl någon råd.
+Den gamle riddaren hade helt opåräknadt kommit i linien äfven han, ehuru han visst köpt sin grafplats ganska dyrt.
+Passe trifdes ej på herrgården, han hittade alltid till skogen, till Starken och Svantepojken, och när gubben ej mera kom dit, var det som om hunden hade sörjt.
+Han var rikare än millionären och lyckligare än en prins.
+Det var unga grefvens hästar – Svante kände grant igen dem.
+Men det var aldrig farfar.
+Då var det som om bilderna fått lif, som om jungfrun med blick och ord.
+– Och hvad sade han?
+Och gossen föll på knä vid hundens sida.
+Man kan lätt finna, hur många
+anledningar till förargelse dessa omständigheter skulle framkalla, och icke alltid voro de å magisterns sida ofrivilliga.
+– Ja fram med duken – skrålade hela samlingen.
+– Åh nog borde han känna hur sillen saltas in för att skickas land och rike ikring.
+Genom öglan löpte en tråd och i trådens ända var fästad en stor pappersstrut, förfärdigad af ett helt ark papper.
+– Farfar blef tagen af ryssarna och förd långt bort der hvarken ära eller redlighet fanns.
+– Må gå då – sade Svante – jag följer er, men bara på försök, för jag vet inte så noga, huru länge jag kan ha lust på att vara profossare.
+– Hjelp, min bror – bror har alltid ett roligt infall till hands – jag vet ej af någon annan hjelp än min gamla –
+Och dermed bör jag afsked göra, – längre var ej nu min sång!
+I den lärobok i svenska historien, som i skolan begagnades, stod omtaladt att en tid utskeppades mycket sill från Sverige.
+Och sedan skall jag fråga henne, om jag bör göra det, fastän jag sjelf kommer att sota derför, och då hon naturligtvis gör
+invändningar deremot, skall jag säga, att jag sjelf vållat dens olycka, som jag kan göra lycklig igen, och så skall jag bedja och bedja tusen gånger att hon ej skall bli ledsen, – och dessutom, ja det var egentligen det, jag nu kom för att tala med dig om
+– I annat fall?
+Den ifrågavarande aftonen hade han stått länge framför stenen, och hans tankar hade helt visst vandrat långa vägar, då han plötsligt väcktes af en bekant röst.
+Hans styrka var försvunnen, och hade han någon qvar, så var den gifven åt den gamle veteranen, som hvilade djupt under jorden.
+Gick så den följande veckan.
+– utropade gossen och stadnade framför taflan.
+Men i samma ögonblick inträdde också genom dörren rektor Strand.
+Då hördes lätta fjät utefter en af gångarna närma sig det ställe der hunden låg.
+Profossen kände väl honom?
+– Jo, han kom ifrån saken utan någon skada.
+Och dermed gick rektorn.
+Men då klef jag fram och räckte honom min hand. ”
+Magister Kraak – detta var hans namn – gick alltid direkte till katedern och såg aldrig att gossarna helsade.
+Den gamle krigsbussen var stolt, han ville ej tigga sitt bröd.
+Passe var en stor, präktig hund, en sådan, som begagnas vid stora fårhjordar.
+När han kom hem, var Svante Stark student, och läste på att blifva doktor.
+–
+– Ha ha ha – skrattade den främmande så det gaf echo i skogen – det var en präktig bagge.
+Naturligtvis kom ej någon tanke på att gå till sjöss vidare i fråga.
+– Nå väl, jag skall tänka på saken.
+Ja de vännerna, de vännerna!
+Ty han hade ej på många dagar velat förtära något.
+Just nu öppnades salsdörren, och rektor Strands ansigte visade sig i dörröppningen.
+De trodde, ser du Svantepojke, att farfar var en tiggare.
+Mången gång, när Svante hade somnat om qvällarna, kunde den gamle krigaren sitta och liksom njuta af att se på hans kinders friska rosor och lyssna till hans lugna, friska andedrägt.
+–
+Nu var han alldeles ensam i verlden, utan huld och skygd.
+– Hör på, han Starken – inföll gästgifverskan – jag skall säga honom, att det är aldrig värdt han tänker få hit sin trashank, pojken der.
+Ungefär midt för stallsdörren stadnade de och den ene, en kort och undersätsig person, sade med bestämdhet, ehuru med mycken ödmjukhet i tonen:
+Kringa kyrka var en gammal kyrka, helt visst en af de först bygda här i landet.
+– Hvad vill Starken?
+Men för hvarje gång Kraaken gjorde en dum eller löjlig tillrättavisning, kom åsnemössan nedsväfvande från höjden tätt öfver hans hufvud, och gossarne kunde med möda hålla sig från att utbryta i ett öfverljudt skratt.
+Gästgifvarmor såg förvånad upp.
+Och Svante ställde sig vid ingången, och snart började folket åter samlas.
+– Sedan ordet väl var utsagdt, var emellertid rektorn åter helt och hållet herre öfver sig.
+Vid ingången stod en liten gosse, som med en bekymrad min sålde biljetter för 6 skilling stycket till bondgubbarne och bondgummorna.
+Det var Passe, vallhunden, som gästgifverskan på Kringa sålt åt
+inspektorn på herrgården.
+På en sådan förbrytelse, som denna sista, skulle ovilkorligen för gerningsmannen följa relegation.
+– Hm, min gamle vän Constantin Plom finnes ej långt härifrån.
+” Träffar du någon gång tillsammans med grefven, Svantepojke, – och det kan väl hända det också, så säg honom – säg honom, att farfarsgubben bad Gud välsigna honom, och det gjorde han i sista stund, allt för de gamla minnens skuld och för salig grefvens skuld – hör du det, Svantepojken.
+Just som han slutat sin bön, kom en åkande samma väg.
+Vid strutens båda sidor voro fästade ett par stora åsneöron.
+– Ja posito, att jag gerna ville ha reda på hvad det är för en spoling, min kära bror haft i hack och häl efter sig genom hela staden
+Jag tror, att vi skola trifvas väl tillsammans.
+Kan du hjelpa mig, Svante?
+Då föllo hans ögon på taflan.
+– Och hvad skall det då blifva af dig, Svante?
+– Ah!
+Det har varit orätt af mig, jag har funderat noga om allt, och han kunde väl ha rätt grefven, och han kan vara mycket bättre, än han då syntes, och mycket bättre än farfarsgubben sjelf ”
+Men vänskapsbandet mellan de båda ynglingarne var lika starkt, och en hvar af dem skulle hafva för den andra velat göra, hvad Svante redan en gång gjort för Henrik.
+” Löjtnanten, han nådig grefven, menar jag, hvarken hörde eller såg mig, han tycktes bara vänta på svar af hejducken.
+Sutligen lade han sina händer på den gråtande gossens hufvud och sade:
+Svantepojken ville gerna vara i ditt ställe och få dö som du hos farfarsgubben.
+Svante teg en stund, men så sade han:
+–
+Och så slöt gubben ynglingen i sina armar.
+Något sådant behöfver ej den rike befara.
+I samma ögonblick Kraaken reste sig upp, var
+nämligen åsnemössan stadd på nedresa, och denna gång märkte Kraaken oråd.
+– Ingen lamentatio, mamsell – här är fråga om ett par –, rätt och slätt ett par byxor.
+– Tjugu riksdaler för Passe – eftersade gästgifverskan långsamt.
+Många, många gångor hade han vid sista krökningen af vägen, hvarifrån han kunde se den lilla gluggen der farfar och han bott tillsammans, och der farfar somnade in i sin sista sömn, och det hade kostat honom riktig ansträngning att slita sig från stället och fortsätta sin väg.
+Svante ansåg sig förlorad, men visste på förhand att böner icke hjelpte, och han hade dröjt för länge, för att komma undan med fötterna.
+– Så måste du?
+Det klack till i Svante, när han hörde stegen.
+En sak blott, Henrik
+– Sluta skolan?
+– Kom i håg, hvad farfar lagt dig på hjertat, Svante!
+Så kommo der tre emot oss båda, medan jag mejade undan en tätt vid sidan om mig; löjtnanten redde sig bra, en sköt han med venstra handen, medan han värjde sig med den högra mot de andra.
+Det låg en viss skärpa i hans blick och vid den glade vännens tal om Klaramo marknad – en ort, bekant såsom samlingsplats för allt dåligt och uselt – drogo sig hans buskiga ögonbryn hårdt tillsammans.
+– Nej det var baggen.
+Så förblef gubben länge sittande, och månan lyste så mildt och vänligt in genom fönstret, och Svante stod så stilla och vågade knappt med handen torka bort tårarna, som stora och klara tillrade utför hans ansigte.
+– Posito spoling tillät mig säga, att brors skämt är mig något obegripligt.
+– Jaså, hör på du, din lilla rackare, det var du, som stångade hållkarlen i går?
+Jag håller alltid hvad jag lofvar.
+Denna händelse härrörde från ” unga grefvens hästar ”, samma hästar, som kostat Svantes far lifvet, och som äfven på ett afgörande sätt skulle komma att ingripa uti Svantes eget lif.
+Du får sedan göra som du vill, innan du far härifrån.
+Hör du det, Svantepojke!
+Han egde en rikedom af sådana, men talte sällan eller aldrig om dem, utom när han var vid riktigt godt lynne.
+Numera visste ingen, hvem den riddaren var, och förmodligen hade derföre stenen fått ge vika för nödvändigheten, när platsen behöfdes till graf.
+Och så blef det kolmörkt omkring Svante.
+När sedan frampå qvällen panoraman tillslöts och alla åskådarne voro gångna, försvann äfven professorn bakom den gröna gardinen, och skyndade trapporna uppför till det lilla vindsrummet, der en hel samling af män var före honom och som det tycktes ifrigt väntade på honom.
+– Jo, jag ville gå i skolan
+– Hu-hum, Trundman är dum.
+Nu ville det sig ej bättre, än att hållkarlen sjelf den dagen måst skjutsa, och han kom just nu åkande fram på sin kärra, hafvande vid sin sida herregårdsdrängen, som han träffat en fjerdingsväg längre bort.
+Vid sidan af den plats på kyrkogården, der gubben fått sin hviloplats, var en stor stenhäll upprest.
+– Åh – svarade den tillfrågade, som var känd för att vara temligen grofkornig och framfusig – vi kunde inte hegripa, hur Bollman kunde vara så okunnig.
+” – Nådi löjtnant, med förlof ”, – sade jag, och föll en af hejduckarna i talet – ” löjtnanten känner väl igen mig? ”
+Det skulle föreställa tron, kärleken och hoppet Tron var den jungfruliga bilden sjelf, korset var kärlekens, den allförbarmande kärlekens bild, och stjernan öfver jungfruns hufvud var hoppets stjerna.
+Det beror på trädgårdsmästaren.
+Till dess skola vi draga omkring på marknaderna, för der är mycket för oss att göra.
+Rektorn såg också en dragning på munnen, under den frusna handen, men han såg tillika, när handen togs bort, att gossens ögon stodo fulla af tårar.
+– Min bror – sade han till den andra herrn – gossen här vill jag höra närmare.
+– Skurk – röt ynglingen.
+–
+Jag följde med, jag, fast ingen kände mig, huru nära jag hade stått den döde och hans son.
+Men knappt hade gubben utsagt ordet, så blef
+han med ens tyst, ehuru en dödlig blekhet betäckte hans kind.
+Nu voro de skenande hästarna midt för grinden.
+Om några år, när du kommit tillbaka från din första resa, kan du tala vid henne.
+–
+– frågade gossen.
+– Allt hvad jag säger dig, och äfven tänka och tala allt hvad jag säger dig, ingenting annat.
+Och denna afton var det det klaraste månsken, och sängen, der gubben satt, stod just vid fönstret, så att ljusfloden omljöt honom helt och hållet.
+– Det hade kommit bort en silfversked, ser du, och jag måste vara tjufven, och jag blef straffad
+som – Svantepojke, farfar har stått tjufsrätt.
+– På din ranson – fortsatte gumman liksom öfverläggande med sig sjelf.
+Han började, i stället att besvara denna artighet, lektionen med att blåsa dammet af stol och kateder, och först sedan detta var gjordt, mycket varligen nedsätta sig på stolen samt lika varsamt nedlägga sin medhafda prydligt inbundna och ytterst väl konditionerade bok framför sig samt derpå omedelbart liksom borra in näsan i fördjupningen af bokens rygg.
+Så snart det blef fråga härom, började alltid magister Kraak en med största noggrannhet utförd beskrifning öfver sillens preparering genom insaltning i tunnor, och han blef alldeles utom sig, om någon ej råkade hafva reda på denna preparering.
+– Hm!
+– Constantin Plom skulle möjligen mot någon säkerhet kunna försträcka
+2.
+Det går snart öfver.
+” – Hvad vill karlen, Strömstedt?
+Mamsell Greta hade i botten ett godt hjerta.
+Fjerde gången detta hände, kom mamsell Greta till Svante och bjöd honom en kopp kaffe i sitt eget rum.
+Men i samma ögonblick
+, utan någon förklarlig orsak, vände de tvärt öfver landsvägsdiket och in på gärdet.
+Det var en mörk qväll och det blåste, som om alla väder varit ute.
+– Åt – han afbröts genom en naturligtvis af fysiska orsaker framkallad häftig hosta, men
+lyckades dock temligen tydligt uttala ordet – ingenting.
+– Topp, Svante, du sade det Herre Gud, hvad du är för en präktig pojke, och hvilka dråpliga sjömän vi skola blifva!
+Det gick nämligen på baksidan af husets inre vägg en trappa upp på vinden, och hur det var, så låg väl der hela hemligheten af så väl de förunderliga tingen, som af professorns konst.
+Det var något ovant för deras fina och smidiga halsar.
+– Och hvad skulle jag göra?
+Svante såg frågande på honom, men sorgen låg djup i hans öga.
+–
+Och mamsell Greta slog ihop händerna, och vi lemna det osagdt, om hon icke rodnade.
+– Du!
+– Kom hit Bollman – framhviskade han med af vrede dämpad röst.
+Det vill säga, han var på gamla dagar vallhjon.
+Denne hade dock mycket brådtom, i anseende till de väntande herrarna i öfre våningen, och hann derföre ej närmare taga reda på orsakerna till dröjsmålet, utan nöjde sig med att vänligen nypa Svante i örat, så att gossen var nära att digna af smärta, ehuru ej ett
+ljud undslapp hans mund.
+Mamsell Greta gick in i salen.
+– Jag fyllde tio år i somrase, straxt innan
+farfarsgubben dog.
+Hunden reste sig upp, viftade med svansen och flyttade sig ett par steg närmare grafven.
+Det var salig grefven, löjtnantens far, som begrofs.
+Slutligen blefvo krystningarna och bemödandena att återhålla skrattlystnaden så tydliga, att Kraaken icke kunde undgå att fästa sig dervid.
+– Han skrattade åt alltihop, och när han fick se fars blodiga lik, så sade han: ” för undan liket! ” – och så skrattade han igen.
+Tack, Passe, du är en bra hund.
+– Jo, jag skall säga till mamma så här: jag kan göra en menniska lycklig!
+Men ännu låg hunden qvar och såg upp mot hällen der streckarna voro inristade.
+– Min bror – vände han sig till rektorn – min bror torde härvidlag göra bäst, att taga sig tillvara.
+1.
+– Hjelpa dig, hur menar du?
+” Allt det der och mycket annat rann mig i sinnet, när jag stod vid min salig herres likbår, och jag kunde ej hjelpa det, Svantepojke, men jag föll på knä vid båren, – och jag grät, ja pojke, jag grät som ett barn. ” –
+När ringaren hade slutat sitt göromål, gick han ned ur tornet och stängde torndörren samt lemnade kyrkogården, der intet fjät mera hördes.
+– Svante.
+– Svante, kom hit Svante – sade rektorn och tog ett steg fram i rummet.
+– Är det du, Passe – sade han, och strök hundens hufvud – du är trogen, du.
+Så gick han med dröjande steg derifrån.
+Vi få väl se, om vi träffa dem någon gång mera i lifvet, som jag hoppas.
+Och Svante fattade mössan och stod färdig att åter lemna rummet.
+Men allt det der tänkte ej Svante på.
+Besöket var icke välkommet, det syntes tydligt.
+Något om de båda herrarna nämnde icke Svante, Hans stackars hjerna var full af tankar, som korsade hvarandra.
+Nu var hällen, som vi nämnde, upprest mot en trädstam, så att afvigsidan var vänd utåt och midt för gubben Starks graf.
+Egentligen var det ingenting annat, än en vanlig så kallad panorama.
+–
+– frågade Henrik.
+–
+– Tackar mamsell – sade Svante.
+Det vore slut med Constantin Plom då, och professorn med Ja, jag vill angifva honom och visa länsman vägen
+Att den var gubbens bästa berättelse, och en som ingen utom Svantepojken fått höra, det visste han ej, och det gjorde heller ingenting.
+Der inne satt en gubbe med sammanknäppta händer, och på hans fårade kinder banade sig tvenne stora tårar en lätt försvunnen väg.
+– Jag vet, jag vet, – posito, att att
+– Hvad?
+– Du vet hur klen min mor är, hon är knapt frisk ännu efter sin långa sjukdom, – förstår du inte, att om hon finge höra detta, skulle Svante, kan du hjelpa mig?
+– Hm – kan mamsell trockla ihop ett par – jag menar, jag menar – hm kan, mamsell, hvaba?
+mig sålde jag icke och vann 50 procent på bränvinet i somrase.
+På eftermiddagen hade professorn, som vanligt sedan han ätit middag, slagit sig ned vid ett
+bord, för att reflektera öfver verldens gång, som han sade.
+Men så började gubben tala, och orden, som i början uttalades sagta, nästan hviskande, blefvo
+småningom tydliga, och hans stämma blef klar och stark, som den fordom var i hans krafts dagar.
+Det var en liten gosse, som gick stigen fram.
+Det var Passe, som, sakta viftande med svansen, slickade honom på handen.
+Just som nu mamsell Greta, för hon hette Greta Wargelin, höll som bäst på med sitt evinnerliga ” evinnerlig ”, öppnades dörren, som från salen ledde till köket.
+Om aftonen kom Henrik Ströberg till rektorsgården.
+Ser du, Svante, jag har funderat på det der, och jag kan ej förklara för mig hvem som har större rättighet på mig, du eller mamma.
+– Hvad behagas?
+Och Henrik flög upp, nästan tokig af glädje öfver Svantes förslag.
+Ett hejdlöst skratt utbröt.
+– Ja!
+En svag vind for sagta genom trädens gulnade kronor.
+En dag i början af sjelfva julmånaden stod en morgon på trappan, som ledde upp till skolhuset i den närmast till Kringa belägna staden, en äldre man, hvars gråa polisonger af frostperlorna riktigt försilfrades.
+Han knäpte samman sina händer och bad till Gud om hjelp och nåd.
+Men Svante förblef stilla på bänken.
+” – Löjtnant – sade jag – har ni glömt Starken, har ni glömt skogen vid Pardala? ”
+Hunden kunde ej glömma sin gamla herre Starken, och dalbohunden – så kallas den race, till hvilken Passe hörde – är bekant ej blott för sin styrka utan lika mycket för sin trohet och sitt ovanliga förstånd.
+– Ack, kära farfar, det står illa till hemmavid – och så började Svante gråta.
+–
+– Ja, nu är det som det är, Passe – sade gossen, när han rest sig upp från grafven – nu går jag min väg, och Gud hjelper mig nog, för det sade farfarsgubben, att Herren hjelper dem, som honom frukta.
+– Och pojken tager jag på min ranson – tillade gubben leende, medan det drog sig liksom till ett leende på hans torra läppar.
+Den stegrades dock till sin högsta höjd, när ett par af de fyrfota frågetecknen hade den oförskämdheten att rycka an mot den kullfallna sädesskylen och låta sig de fulla axen väl smaka, bligande allt derunder med det oförklarligaste lugn på den högt uppsatte och rytande hållkarlen.
+Hon uttryckte dermed sin förvåning, så väl öfver Starkens invänning, som öfver denna invännings innehåll.
+– Nå, min gosse, i dag skall du hafva ögon både fram och bak.
+Der talade rektorn länge i enrum med gossen, och mamsell Wargelin var mera snäsig än vanligt i köket Pigan påstod, att hon hade träffat mamsell vid nyckelhålet, och en del af mössans tyllspets, som qvarhängde vid nyckeln, tycktes äfven tala for sanningsenligheten af pigans utsago, men mamsell Wargelin påstod att Lena var då en evinnerlig menniska, och det var det värsta, hon kunde säga.
+Största trängseln var omkring en stor skylt, på hvilken stod att läsa: Här visas förunderliga ting.
+Sin egen son skulle han ej hållit kärare.
+” Jag tyckte dock, att det der var något närgånget, så jag vräkte undan dem, och såg på dem, som om jag sett ett par närgångna hundar.
+– Kors Starken, vet jag – tillade han, när professorn skakade på hufvudet.
+– Än löjtnanten då?
+Hon lät ibland förvilla sig.
+– Begriper du inte, att – ynglingen var nära att falla tårar, så upprörd var han – begriper du inte, att nu blir det undersökning, förseelsen är svår och straffet blir derefter, och – begriper du inte, att att
+Tvenne hästar kommo i det vildaste sken landsvägen utför och nalkades blixtsnabbt grinden och fåren.
+Gud välsigne dig, barn!
+” I detsamma kom min löjtnant, unga grefven.
+Flera kommo vid bullret in i rummet, och man skrek om tjufvar och röfvare, och så kom der vakt ifrån polisen, och så ”

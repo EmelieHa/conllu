@@ -1,0 +1,1355 @@
+# ID: svediakorp-sec339
+# author: Ola Hansson
+# pseudonym: 
+# translator: 
+# title: Literära silhouetter. I. A.U. Bååth - Henrik Pontoppidan - Adda Ravnkilde - Albert Gellerstedt - Gustav Esmann - »Ernst Ahlgren» - Gustaf af Geijerstam - Pietari Päivärinta
+# subtitle: 
+# originalTitle: 
+# manuscriptDate: 
+# originDate: 
+# retrieveDate: 2019-06-14
+# sourceDescription: 
+# genre: prose
+# subgenre: 
+# location: Stockholm
+# language: sv
+# languageVariety: 
+# codeswitching: 
+# originalLanguage: 
+# manuscript: 
+# manuscriptChapter: 
+# manuscriptPages: 
+# printer: 
+# printedVolume: 
+# printedIssue: 
+# printedPages: 
+# printedDate: 1885
+# editor: 
+# publisher: Z. Hæggströms förlagsexpedition
+# digitisationMethod: OCR with manual post-correction.
+# transcriptionPrinciples: 
+# transcriber: 
+# retrievedFrom: Litteraturbanken (https://litteraturbanken.se/)
+# retrieveFormat: ePub
+# annotation: tokens
+# annotationMethod: automatic
+# words: 28,972
+# sentences: 1,262
+# sentenceOrder: original
+# URL: https://litteraturbanken.se/txt/epub/HanssonO_LiteraraSilhouetter.epub
+# cite: 
+# availability: CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+
+
+
+
+
+
+
+Jag har i dessa kritiska studier mindre fästat mig vid de åsigter, som framställas i ett arbete, än vid den personlighet, som står bakom dem och uppbär dem. Hufvudintresset hvilar på den senare, och jag har egnat uppmärksamhet åt de förra, endast så framt de bidragit till att förklara denna. Jag har icke velat dryfta sociala eller religiösa spörsmål, utan i främsta rummet klippa en silhouett eller måla ett porträtt. Det har varit min sträfvan att gripa det centrala i en författareindividualitet och det karaktäristiska i en diktning. Jag har sökt teckna konstnären genom att gå tillbaka till menniskan. Dessa små studier äro skrifna ut från den synpunkten, att en kritikers första uppgift är att förklara en mensklig karaktär.
+
+* * *
+
+
+
+
+
+A. U. BÅÅTH.
+
+
+
+
+I.
+
+A. U. Bååth är en modern diktarenatur, såväl i valet af ämnena som i behandlingssättet.
+
+Viktor Rydberg är bildhuggare. Af språkets marmor uthugger han statyer, formsköna som antikens och med dess ädla måtta. Eller han är en musiker i ord. Hans dikters rytm böljar och suckar som det stora hafvets tunga dyningar eller porlar lent melodiskt som en skogsbäck eller susar doft som senhöststormen i fur och gran eller ringer som kyrkklockor. Men hans stil är ofta abstrakt, reflekterande, svarande mot det spekulativa innehållet och de djupsinniga resonnemangerna.
+
+Och Snoilsky? Små mästerverk till statuetter hafva sprungit fram ur stenen »under mejselns kamp med språkets urgranit», hans strängar hafva »lånat sig till välljud», sköna och smekande som ingen annans, och med sällsynt konst har han fäst bilder på duken. Men sonetternas Snoilsky är icke mera sig sjelf lik. Hans blick har vidgats och blifvit djupare, men det nya innehållet har sprängt den konstnärliga formen. Han har redan blifvit ett godt stycke af en deklamatör och moralpredikant; hans stil har urvattnats samt blifvit bredt resonnerande och färglös.
+
+Bååth är målare. Han kan måla ett landskap, teckna en situation, icke blott med de yttre föremålen, utan äfven med den egendomliga stämning, som hvilar öfver dem. Då är han mest sig sjelf, och då är han också störst som skald. Hans språk är målande, starkt konkret, mättadt, fylligt. Det är det pittoreska i motivet, som är den egentliga drifkraften i Bååths diktning. Det är samma förhållande med Bååth i hans sociala dikter som med Snoilsky i »Svenska bilder»: Bååth är lika litet en social skald som Snoilsky en patriotisk. Båda äro estetiskt anlagda naturer. Det estetiska välbehaget öfver det måleriska i motivet föregår den sociala harmen och den fosterländska entusiasmen.
+
+Man kan ofta finna vägen till något centralt hos en författare genom att se till, hvilka ord han älskar att använda samt hvilka sidor af lifvet och naturen han helst skildrar. Genom att undersöka hans ordförråd och genom att aktgifva på de stämningar, i hvilka han företrädesvis dröjer, kan man nå in till det innersta af hans personlighet.
+
+Det är det som smeker och gör sinnet godt, det skära i färg, det lena och fina i form, det mjuka och späda, det tysta och dämpade som är den Bååthska diktningens doft och dager.
+
+Det vackra och älskligt blida i ett menniskoanlete eller i ett natursceneri.
+
+En ung flicka skildras i diktcykeln »Fragment ur ett lif». »Rodnande kinders rundning, linjefin och len», »skälmska kinder», »vacker nacke», »de älskligt blida dragen», »fina drag» med »ljusning len», »växten smidig», – allt tillsamman danar »hennes fina bild», »den skära skepnaden», »gestalten, spänstiga, fina».
+
+Sammalunda vid naturskildringarna och stämningsdikterna. Bååth skildrar den veka, hviskande stillheten en ljum sommarkväll på slätten, då hafvet brusar dämpadt i fjerran; vinterdagens underbara, kyliga stillhet och klara, klangfulla frostluft; den svala ron i skogen vid middagstiden en brännhet julidag, då det är så tyst som om skogen skyggt hölle det fina nät, som de späda kvistarne spinna af ljus och skugga, fram »emot hvar tungtrådd, trampande, prasslande menniskofot»; en stilla familjinteriör, der ej ett ljud »spränger den spröda tystnad i tu»; en solnedgång vid Vänern, då jullen gungar ljudlöst och »det i vester glöder rosenrödt och glänser silfverhvitt ut ifrån fållar fina»; en månskenskväll på slätten:
+
+
+
+»Då byagatan i månsken glänser
+
+och skugga lagt sig i alla vrår,
+
+och alla väggar de skina hvita
+
+och byn så stilla och andlös står».
+
+
+
+Allt detta häntyder på det centrala i Bååths personlighet, det som bestämmer hans blick på naturen och menniskorna och påtrycker hans diktning dess egendomliga prägel, det grundväsentliga i hans naturel, som visserligen ofta kan undanskymmas och fördunklas af stundens påverkningar, af tillfälligheter och ögonblickets stämningar, men som ständigt suger näring, allt mer och mer utvecklas samt af lifvet sjelft förr eller senare bringas fram till sjelfmedveten klarhet.
+
+Det finnes emellertid ett annat element i Bååths diktning, som skulle tyckas i lika hög grad vara uttryck för något grunddrag i hans kynne, nemligen den förkärlek för det sunda, kraftiga, starka, hvilken framträder i hans något naiva beundran för Karl XII samt i hans lika naiva beundran för »folket» och hvilken i stilen stundom ledt honom till den deklamerande patos och den breda humorn. Det förefaller mig emellertid, som om detta element, åtminstone i någon mån, vore en reminiscens från författarens vidsträckta beläsenhet i fornnordisk literatur, och icke hade så djupa rötter i hans personlighet, att det kan hemta sin näring ur denna. Åtminstone är Bååth mera sann, gör intryck af större naturlighet, då denna fornnordiskt kärfva kraft, i känsla och ord, mjuknar öfver i en viss varm, trohjertad medkänsla.
+
+Ty genom hela Bååths diktning går en dämpad ton af sympati. Den ljuder än i dur och än i moll, än i tungt svårmod och än i lekande ironi, men dess klang hör man alltid. Det är en sympati, som omfattar allt, både »det lif som ler och det som tåras». Dock är det mest de små och obemärkta, samhällets styfbarn, som skalden skänker sin innerliga medkänsla: fyllbulten, som sofver i landsvägsdiket, den blinde spelmannen, den gamla studentuppasserskan, pigan i köket, som »är som vägens fula groda för en hvar att trampa på», ända ned till »den syndiga Magdalena». Bååth är en af dem, som veta och tro, att menniskokärleken är den moderna literaturens moral.
+
+________
+
+
+
+
+
+II.
+
+A. U. Bååths »Dikter» utkommo till julen 1879.
+
+Det fans mycket i denna diktsamling, som var nytt i Sverige. Der voro fosterlandssånger, hvilka icke hade det minsta gemensamt med de sånger under samma namn, som den svenska allmänheten varit van att läsa. Der fans intet braskande med dessa stora ord, under hvilka skalderna hycklat fosterlandskärlek – en fosterlandskärlek, som, däst af gamla minnen, sofver sin middagslur –, granna, men tomma såpbubblor. Dikterna manade till en lefvande, verksam fosterlandskärlek, som röjes i handling, i arbete för landets andliga och materiela förkofran. Der voro sånger till folkhögskolan, burna af en entusiasm, som var äkta och glödande, af en fast tro på, en ärlig öfvertygelse om det goda och välsignelsebringande i en institution, hvilken »skumögd visdom» kallade svärmeri, om ej något värre. Der var en sång till kvinnan, som i all sin enkelhet rymde mångdubbelt mera äkta poesi än alla de ordprålande, tanketomma frashymner, hvilka skalderna så länge uppstämt till kvinnans lof. Der fans en satir öfver det andefattiga, själlösa lifvet i den skånska universitetsstaden, som stälde studentlifvet i en mindre poetisk, men mera sann belysning än den gängse, en dräpande, bitande sann satir.
+
+Och så alla dessa små landskapsmålningar och stämningar. Naturen var icke uppfattad religiöst eller metafysiskt eller historiskt; den var skildrad som natur, såsom egande sin skönhet i sig sjelf; den var målad i ord. Personer och situationer, som ansetts bannlysta från diktens verld, voro framstälda med en innerlig sympati, men i all sin nakenhet. I stället för det gamla, slentrianmessigt vordna versspråket, hvilket genom den trägna användningen förslöats och stundom rent af mist sin ursprungliga betydelse och all förmåga att göra intryck eller framkalla en bild, en hel mängd nya ord, uttryck och former, som genom sin nyhet gåfvo dikterna relief. I stället för oration och deklamation målning.
+
+Allt detta var nytt, och detta nya mottogs med glädje af dem, som älskade den literatur, hvilken under det gångna decenniet framträdt i Danmark och Norge. Men liksom Bååths motståndare ensidigt betonade bristerna och lytena, lika ensidigt stälde hans vänner och beundrare förtjensterna i förgrunden. De förre sågo endast skugga, de senare endast ljus. Och så är det ju alltid, då något nytt framträder; jemte dem, som stå på alltför långt afstånd, finnas äfven de, som stå alltför nära.
+
+Diktsamlingen led emellertid af åtskilliga brister och oegentligheter, såväl i innehåll som form; dessutom hade, som naturligt i ett debutarbete, författaren ännu icke hunnit vinna klarhet öfver sig sjelf.
+
+Teckningarna af den skånska slättbons lif i forna tider äro förträffliga, sanna och målande. Sådana taflor som de, hvilka upprullas i »Gammal tid och ny» och »Hvilan», äro gripna ut ur det lefvande lifvet och återgifna med mästarhand. Men det har gått med Bååth som med Schandorph; de känna folket från i går, men de känna icke folket, som det är i dag. Allting förändras snabbt i våra dagar, de hafva icke följt med utvecklingen, utan tro, att folket lefver under samma förhållanden, oförändradt, som i deras egen barndom. I sammanhang härmed står deras naiva, allmänna beundran för den mystiska personifikation, som de kalla »folket», samt deras böjelse att betrakta detta från en ensidig humoristisk-nedlåtande synpunkt.
+
+En uppmaning som denna:
+
+
+
+»I hennes (modern – statens) allmänning låt också
+
+Ett korn, ett korn blott ur korgen falla.
+
+Och när du sticker ditt lass i stacken,
+
+För henne låt falla en kärfve i backen»,
+
+
+
+är fullkomligt oberättigad inför det enkla faktum, att skatterna här hemma äro så högt uppdrifna, som det under nuvarande förhållanden gerna är möjligt. Hvar och en, som känner den samtida skånske bondens religiösa åskådningssätt, vet, huru felaktiga och osanna dessa rader äro:
+
+
+
+»Vill, hvad ditt folk är värdt, du känna,
+
+Vill du det se i dess hjertegrund,
+
+Skåde du ut från kyrkobacke
+
+Midt i en solig middagsstund.
+
+Folket sin sabbatshvila håller.»
+
+
+
+»Far» står icke längre vid gafveln efter gudstjensten och »skiner i söndagsväst», och jag kan försäkra författaren att han icke skall få höra någon enda »bondson» sjunga visor vid skörden, om han också far genom den skånska slätten från den ena ändan till den andra.
+
+Värst är det med språket, hvilket med sina många och stora företräden har många och stora lyten. Bååth saknar helt och hållet musikaliskt öra, han har alls ingen föreställning om de särskilda bokstafsförbindelsernas egendomliga skönhet. Hufvudsaken för honom är, att hvarje versrad har det bestämda antalet betonade stafvelser. Han kan skrifva en i rytmiskt afseende så barock rad som denna:
+
+
+
+»Och det sken sol ut öfver den stilla trakt».
+
+
+
+Med rimmen är han, som lätt förklarligt, ej just så nogräknad, och han låter stundom en preposition eller ett tonlöst pronomen sluta en rad och bilda rim; t. ex.:
+
+
+
+»Svåra nöjd med idog dag,
+
+Satt i mörknad kammar jag.»
+
+
+
+En egendomlighet hos Bååth – men en sådan af ledsamt slag – är, att han ofta börjar med predikatet; dessutom förekommer en myckenhet germanismer af det slag, som Tegnér plantat i den svenska diktningens mark: »de långa lägrade led», »den fräjdade bondestam», o. s. v.
+
+________
+
+
+
+
+
+III.
+
+Två år derefter utkommo »Nya Dikter».
+
+Det fins en väsentlig olikhet mellan dessa båda diktsamlingar. Författaren har kommit till större sjelfkännedom, och deri ligger ett framsteg.
+
+Först och främst är hvarje spår försvunnet af den patetiskt oratoriska poesi, som sporadiskt framträdt i »Dikter», t. ex. i »Island» och »I Dalarne» samt – i sin bästa form – i »Nyårshelsning till svenska folkhögskolan». Blott en enda patriotisk sång förekommer, en versifierad bearbetning af en skånsk folksägen om Karl XII, – en dikt, som betänkligt tangerar det platta. Af sociala dikter finnas endast några få, och vid dessa visar det sig ännu tydligare än i den första samlingen, att det är motivet, som lockat målaren. För öfrigt naturskildringar, situationer och stämningar.
+
+Det fins emellertid en brist, hvartill Bååth i dessa dikter af och till gör sig skyldig. Han vet, hvilken stor rol de skenbart obetydligaste och mest triviala detaljer spela. Han har en skarp blick för vigten af att få dessa småsaker in i en dikt, som skall måla ett natursceneri eller skildra en stämning. Men det ligger nära till hands att hopa allt för många detaljer och att endast hopa detaljer, och Bååth undgår ej alltid denna fara. Men en blott föremålsförteckning är icke någon landskapsmålning; det finnes i ett landskap mera än hvad ögat ser och hvad örat hör. Den doft, som hvilar öfver ett natursceneri, skall strömma mot oss ur dikten som dess grundstämning.
+
+Derför är en sådan dikt som »Vinterstämning» (i »Dikter») ett mästerstycke.
+
+
+
+
+
+»Så tyst kan det vara i julens tid,
+
+Då snön ligger mjuk öfver frusen mark
+
+Och skiner på alla taken i byn,
+
+På kyrkotorn och på prestgårdspark.
+
+
+
+
+
+Men när det lackar hän emot kväll
+
+Och rutan en stund i strålar stått
+
+Och hälgmålsringningen stannat af
+
+Och ringaren ned ifrån tornet gått,
+
+
+
+
+
+Då spörjes det lif. Kring kyrkotorn
+
+Det flaxar och kraxar ett snacksällt lag;
+
+Nog har man lof att ha glad sin kväll,
+
+När rätt man haft sig en arbetsdag.
+
+
+
+
+
+Från arla i morse, då snön låg röd,
+
+Man sträfvat för kallaste husmanskost.
+
+Man snattat kring hus och gräft i snö
+
+Kring mark och by i bitande frost.
+
+
+
+
+
+Från parken det svarar med samma fröjd,
+
+Där har man sitt samvete lugnt också.
+
+Det kraxar belåtet i kronorna rundt,
+
+Det knäcker i grenarne då och då.
+
+
+
+
+
+Så blir det igen så juletyst.
+
+Det väntas i kyrkglugg och prestgårdspark
+
+På vikande vinter, på vår med mask
+
+Längs rykande fåror i solig mark.»
+
+
+
+
+
+Men derföre är också en sådan dikt som »Efterhöststämning» förfelad. Endast ett uppradande af en mängd saker, som ställas vid sidan af hvarandra utan tillstymmelse till sammanhang. Luften bokstafligen fylles med foglar: sparfhökar, sparfvar, glador, vipor, markerna med harar, får, kor. Denna dikt är icke skrifven ut från ett bestämdt, i ett ögonblick funnet motiv. Man tänke sig denna målning öfverflyttad till duken: hvar skulle målaren få plats till de många djuren?
+
+Och så har Bååth blifvit erotisk skald.
+
+I »Fynd» skildras en djup, äkta, gedigen kärlek, som i sitt glada, innerliga allvar stärker och förädlar, en kärlek, på hvilken ett lif kan byggas. Den kärlek åter, som med »Ett trollslag» lockar nejden med skog och sjö fram ur den våta, tjocka dimman, är af annan art. Det är den flygtiga ungdomskärleken, väckt af sekunden, byggd på stämningens lösa sand, svärmeriet, »förälskelsen». Och det är motsatsen mellan dessa båda känslor, förblandningen af förälskelse och kärlek, som skildras i diktcykeln »Fragment af ett lif».
+
+Modern förstår denna motsats.
+
+
+
+
+
+»Så talte han vidt och vackert
+
+Om ögon med underligt sken,
+
+Om rodnande kinders rundning,
+
+Linjefin och len,
+
+
+
+
+
+Om hår, som slöt sig åt tinning
+
+I svart och lockande glans
+
+Och knöt sig om vacker nacke
+
+I ringlande flätors krans.
+
+
+
+
+
+Han talte om växten smidig,
+
+Om sprittande sjutton år,
+
+Om eldigt, tjusande väsen
+
+I majfrisk, leende vår.
+
+
+
+
+
+Hon lyddes stilla och log så smått
+
+Och skakade sakta på hufvudet blott.
+
+
+
+
+
+Han sade, att hvad han varmast
+
+I skiftande lifvet känt,
+
+Som vaggat sig fram i rytmer
+
+Och kylts, då det kom på pränt,
+
+
+
+
+
+Det hade åt svarta ögon
+
+Gett dubbel värme och glans
+
+Och födt än fagrare skimmer
+
+Bak skuggande ögonfrans.
+
+
+
+
+
+Han sade, att samma ögon,
+
+Som sågo så innerligt,
+
+De gett honom nya tankar
+
+Till hans framtids lefvande dikt.
+
+
+
+
+
+Då var som all oro vika fått.
+
+Hon tryckte hans hand och log så godt.»
+
+
+
+
+
+Men sonen hade misstagit sig. Mot sin vetskap ljuger han för sin mor, då han säger, att »samma ögon» o. s. v. Detta var något drömdt. Hans kritik vaknade först senare. Ännu rådde stämningen som fördunklade den nyktra eftertanken. Men så kom den tid, då
+
+
+
+»Hvad förr honom smekt till drömmar,
+
+Nu gaf honom ingen ro»,
+
+
+
+då äfven han af lifvet sjelft lärde sig inse sitt stora misstag.
+
+»Fragment af ett lif» är en af lifvets många hvardagshistorier, en tragedi mellan moder och son samt dennes älskade. Framställningen af förhållandet mellan dessa tre är fin och sann samt rik på psykologiska smådrag.
+
+Och allt det innerliga, varma, blida, veka i Bååths naturel har genomträngt dessa dikter, i hvilka det tunga svårmodet, den heta febervåndan, den gnagande ångern, klaga och vrida sig och le och gråta; – dessa blad »Ur portföljen» med deras enkla ord och djupa känsla.
+
+
+V.
+
+
+
+
+
+»När vid nattetid det sakta
+
+I din hjärnes fibrer bränner
+
+Och för synder, färska, forna,
+
+Helt som sjunken du dig känner,
+
+
+
+
+
+Haf dock mod, ty får en gång du
+
+Fästa bo i kvinnotanke
+
+Och du känner, att du står der
+
+Som den stolte, starke, ranke,
+
+
+
+
+
+Står i sol för klara blickar,
+
+Därur vårens värme strömmar,
+
+Vet i kolsvart natt dig vaggad
+
+Däjligt fram i jungfrudrömmar,
+
+
+
+
+
+Då blir anden liksom lögad,
+
+Tvagen stark till nya strider,
+
+Och förgråtna varda alla
+
+Kval i leda, gångna tider.
+
+
+
+
+
+Men en gång, när samma blickar
+
+Kallt och glanslöst mot dig falla,
+
+Först då vrid dig, du har fallit,
+
+Det är djupast fall af alla.
+
+
+
+
+
+____
+
+
+
+
+
+XI.
+
+
+
+
+
+Och hade jag kvar en gnista
+
+Af utsläckt barnatro
+
+Då skulle jag be Guds änglar
+
+Dig unga vyssa i ro.
+
+
+
+
+
+Hvar gång under värmande täcket
+
+Du fryser och gråta vill
+
+Vid tanken, att just den samme,
+
+För lifvet du hörer till,
+
+
+
+
+
+Hvar gång i den djupa natten
+
+Du känner i barm ett sting
+
+Vid tanken, att just den kärlek,
+
+Du lofvat, är ingenting.
+
+
+
+
+
+Nu kan jag ej be till himlen –
+
+Men jag vet, att sparfvar små,
+
+Hur än de om vintern frysa,
+
+Om våren bygga ändå.»
+
+
+
+
+
+________
+
+
+
+
+
+IV.
+
+»Vid Allfarväg» är det gedignaste, som Bååth skrifvit. Han har i denna diktsamling ännu mera än i de föregående hållit sig inom de gränser, som hans kynne utstakat för hans diktning; han har koncentrerat all sin diktande kraft på de områden, som naturenligt äro hans, och på denna sjelfmedvetna begränsning har han vunnit.
+
+Man kan med rätta särskilja tvenne grupper i denna diktsamling liksom i de föregående: den målande och den icke-målande. I den förra – den ojemförligt talrikare – är Bååth utan vank och lyte, i den senare icke, men i dem båda betecknar »Vid Allfarväg» höjdpunkten af hans diktning.
+
+All patriotisk poesi är ändtligen försvunnen, och af akademiska festversar finnes lyckligtvis endast ett exemplar. Den patetiska deklamationspoesien framträder visserligen, men endast momentvis. Skalden tyckes ha kommit till medvetande om, att han icke är mäktig, icke kan bära uppe den patos, som är ett omedelbart utflöde ur en väldig andes inre och runnit in i diktens form och stelnat i denna likt smälta metallmassor; han har i stället, såsom i »Ståt», fogat målning vid målning. Och när han någon gång glömt arten af sin begåfning, när hans patos är abstrakt orerande, såsom i »Farväl till utvandraren», då slinter han, och en vacker och varm tanke fuskas bort och kallnar i hans släpiga resonnemang. Han kan icke hålla ton, han sänker den, så att den kommer att ljuda falskt. Han har mattats under diktens formande; entusiasmen flämtar som en tynande låge.
+
+Äfven de berättande, halfepiska dikterna äro färre till antalet. Versen har i våra dagar förlorat sin rol att berätta; dess uppgift har i betydlig mån inskränkts. Berättelsen har öfverflyttats till prosan, till novellen och romanen; lyriken har att binda ögonblicket, dess stämning och dess sceneri, det yttre och det inre nuet. Derför är en sådan dikt som »Fisklägets krögare», i hvilken berättelsen koncentrerats kring ett enda moment, rent konstnärligt taget vida öfverlägsen »Jon Fant» och »Knut Laveson». Sammalunda »På iltåg», i hvilken berättelsen skickligt är länkad till målningen af en banvaktstuga och naturligt framsprungen ur ögonblickets stämning.
+
+»Brist» är den vackraste icke-målande dikt, som Bååth skrifvit. Hjertevärmen har genompyrt hvartenda ord af denna ärliga bekännelse, formen sluter sig smidigt kring denna tanke, i hvilken en menniska gifver sig helt. I denna dikt har Bååths diktareande sprängt sina egna länkar.
+
+Men Bååth är framför allt målare, hans dikter äro dukar. I ramen af en målning gifver han oss ett stämningsfullt natursceneri, en situation ur familjelifvet, en social interiör, en psykologisk analys. Ju större omsorg han egnar åt föremålen, dess bättre lyckas han; och han lyckas bäst, när han lägger allt in i dessa föremål, håller sig till dem, icke lemnar dem ur sigte.
+
+Bååth är, som nämdt, omusikalisk i högsta tänkbara grad. När han, såsom i »Kvällsstämning», vill använda ett musikaliskt motiv, misslyckas han och dikten glider öfver i en målning. Derför kan han icke alltid lämpa versslaget efter ämnet, utan använder ideligen, utan åtskilnad, samma versslag; derför skall han aldrig kunna uttrycka dessa fina känsloströmningar, hvilkas skära, spröda, andetysta musik finner återljud endast på rytmens allra finaste strängar. Men Bååth har förmågan att nyanseradt uppfatta stämningen öfver ett natursceneri och en situation ur lifvet, och genom enskilda ord kan han gripa en sådan stämning samt göra den märkbar för läsaren.
+
+Interiörerna äro af mycket skiljaktigt innehåll. Ofta äro de utspunna öfver motsatser: mellan båla ord och tyst arbete, såsom i »Hamnlif»; mellan lifsglädjen och lefnadströttheten, det sunda, glada naturlifvet och det tärda, märglösa studielifvet, det goda humöret och en lärdom, som kommer själ och kropp att skrumpna, såsom i »Sonen är student»; mellan en stor stads jägtande, feberaktiga lif och ett värnlöst stackars menniskolif, hvilket med våld oundvikligt skall ryckas in deri att krossas mellan de snurrande hjulen, som i »Utanför Café National»; mellan lifvet på lek och lifvet på allvar, som i »Välgörenhetsbazar»; mellan det skratt, som klingar ur hjertat och ett friskt lynne, och det skratt, som är kallt och fröjdetomt, såsom i »Glädje»; mellan fabriksarbetarne, som återvända till sina sysslor från sin middag, samt deras herrskap, som är ute på »Middagspromenad». »Före bröllopet» är en fin, skarp stämningsanalys; »En pingstdagsmorgon» är äfven af psykologiskt intresse, men något för långdraget resonnerande. På mig personligen har intet i Bååths hela produktion gjort så starkt intryck som »Barnsöl», icke derför att denna dikt är typisk för Bååths skaldskap och sålunda skulle utgöra dess blomma, utan derför att den ligger närmast mig sjelf, så som jag sjelf ser och känner, och sålunda kunnat tränga djupast in.
+
+Bååths diktningsområde har bestämda, något snäfva gränser, men inom detta område är han mästare. Han skrifver om de små och förtryckta och fallna, om det tysta slitet och lifvets blida makter, hemmets ro och lycka, barnaoskuldens upptinande inverkan och kvinnosinnets stilla välde. Kvinnan är för honom lifvets salt.
+
+* * *
+
+
+
+
+
+HENRIK PONTOPPIDAN.
+
+
+
+
+I.
+
+På ett ställe i sin långa berättelse »Kirkeskuden» gycklar Pontoppidan med den gamla skefva idylluppfattningen af folklifvet. Ensamt, långt ute på en öde landtunga, låg en liten bräcklig fiskarhydda med klenade väggar och lappadt tångtak. Stadens damer, som gjorde utflykter på landet, drömde så vackert om detta lilla stycke fattigdom, och stadens poet skref en hel diktsamling, i hvilken han »sammansmälte de diamantklara ögonen, den svanhvita marmorbarmen, Söbymossens lyktgubbar, hafvets dryader, luftens andar och Roeskilde domkyrka till tjugusju ’stämningar’ i guldsnitt, som vid jultiden förelades publiken och från den tiden icke saknades i någon af de unga damernas syskrin».
+
+I »En Fiskerrede» är en annan typ af folklifsskildrare föremål för Pontoppidans satir, en ung författare, som för sommaren lagt sig ute vid ett fiskläge för att »studera folklifvet» och nu snokar omkring med blyertspennan i munnen och anteckningsboken i handen, sökande efter »motiv», som han sedan, efter återkomsten till staden, kan koka en novell på.
+
+Hvad dessa båda, lyrikern i »Kirkeskuden» och novellisten i »En Fiskerrede» hafva gemensamt trots all olikhet – ty jag tror, att man mycket väl skulle kunna kalla den förre »idealist» och den senare »realist» – och hvad Pontoppidan vill komma åt, är synpunkten, ur hvilken de betrakta folket. Synpunkten är hos dem båda rent estetisk, »folket» är för dem båda ett intressant fenomen, något som läskar deras estetiska gom, och erbjuder ypperliga motiv till deras diktning, ingenting annat. De äro lika ensidiga i sin åskådning af menigmans lif, den enes uppfattning af detta är lika felaktig som den andres.
+
+Det fins ett samband mellan dessa ensidigheter, den ena har framkallat den andra, slagit öfver i den andra. De gamle folklifsskildrarne höllo sig till det idylliska i naturen och lifvet ute på landsbygden, de nyare deremot hålla sig till det komiskt-naiva, det oslipadt grofkorniga. De förre sträfvade efter att röra sina läsare med en falsk sentimentalitet, de senare – åtminstone många af dem – söka roa dem och få dem att skratta. Det har funnits författare, som trott sig gifva en sann och uttömmande skildring af landtbefolkningens lif genom att skildra den englarena, bleka, blodfattiga, onaturliga dygden, och det fins författare, som tro sig göra det samma genom att späcka sina böcker med tvärheter och grofheter (som då kallas »saftig humor» och »bred målning»). Men det är lika origtigt att inmänga allt med en stank af gödsel som att se allt i en romantisk månskensbelysning, ty det är lika ensidigt samt har sin orsak i otillräcklig kännedom eller falsk synpunkt.
+
+Och det är just det ovanliga och nya hos Henrik Pontoppidan, att han skildrar folket ur en rigtigare synpunkt. Personerna i hans böcker, dessa danska bönder, män och kvinnor, äro inga dockor, som beskedligt dansa efter diktarens dygdepipa, utan menniskor af kött och blod, med goda sidor och dåliga sidor, med menskliga känslor och jordiska lidelser, som lefva lifvet på sitt sätt, så som deras förhållanden forma det samma. Och han ser på dem som menniskor och som sina likar, ej som estetiskt intressanta, halfkomiska företeelser eller lägre stående organismer, hvilka han och läsaren i sällskap kunna omfatta med ett slags sympatetiskt löje, som visserligen är sympatetiskt men som dock alltid är ett löje. Han ser icke på dem med »skaldens» öga och icke heller, om jag så får uttrycka mig, ur prestgårdssynpunkt. Han känner dem tillräckligt grundligt för att förstå, att de i första rummet äro menniskor och först i det andra bönder, och icke tvärt om. Han bor sjelf ute midt ibland det folk, som han skildrar, han känner sig sjelf som en medlem af detta folk, ställer sig på samma nivå, ser med dess ögon, känner med dess sinnen. Han skildrar allmogen icke som en samhällsklass, utan som medmenniskor, och han tecknar dess lif, icke ensidigt, utan fullt, som lifvet allestädes är.
+
+Schandorph storler åt sina drängar och pigor. Bååth tecknar sina skånska interiörer med en min, i hvilken man skymtar det gemytligt-öfverlägsna löjet eller den estetiska förtjusningen. Pontoppidan skildrar sitt folk vid plog och nät, vid lie och räfsa, helg och hvardagslag, vid dess sysslor och dess nöjen, i samma ton, i hvilken en af detta folk sjelf skulle skildra det. Han berättar om den danske bonden ungefär i samma anda, i hvilken Pietari Päivärinta berättar för oss om sina finska ståndslikar och Gottfried Keller om landtbefolkningen i Schweitz. Derför skrifver han icke blott om folket, utan äfven för folket.
+
+________
+
+
+
+
+
+II.
+
+Henrik Pontoppidan skildrar en annan samhällsklass än den, han sjelf genom sin börd och uppfostran tillhör. Det ämne, han med synbar förkärlek behandlar, är också den djupa, breda klyfta i tänkesätt och känsloverld, som åtskiljer de s. k. bildade klasserna och folket. För egen del har han genom noggranna studier och sin varma sympati för folket lyckats slå en bro öfver denna klyfta; han känner de båda samhällsklasserna i grund och botten.
+
+Hvad han först kom underfund med, var naturligtvis, att hans ståndslikar i sjelfva verket så oändligt litet förstodo det folk, som lefde ute i byarne och fisklägena. Han har sett, huru litet de mest välvillige och folkvänlige, de som verkligen intresserade sig för folkets sak, kunde uträtta och hur deras arbete oftast intet spår lemnade efter sig utom missmod och trötthet hos dem sjelfva. Så har han sett närmare efter, hvar orsaken låg, och sina erfarenhetsrön har han framlagt i sin diktning.
+
+Stundom är det uteslutande bristen på ömsesidigt förstånd, så t. ex. med presten Østrup i »Kirkeskuden». Han vill folket väl, lyfta det, förädla det, göra det allt möjligt godt, men han har i sin verksamhet utgått från den falska förutsättningen, att mannen af folket tänkte som han, kände som han, han har icke haft en enda punkt gemensam med detta folk, i hvilken de kunde sammanträffa och från hvilken de kunde utgå i samarbete. Och hvad vinner han? Man tycker att han är en beskedlig menniska, visserligen en smula enfaldig och besynnerlig, men oförarglig. Hans dräng lurar honom, man lyssnar till hans tal med knäppta händer – ty han talar så vackert – man ler åt honom bakom hans rygg, och han predikar om söndagarne för tomma bänkar.
+
+Stundom, såsom i »En Kjærlighedshistorie» är den åsyftade förädlingen af folkets karaktär välment, men haltlös, teoretiskt vacker, men praktiskt värdelös, och sträfvandena studsa maktlösa tillbaka mot folkets sunda åskådning och lifserfarenhet. Pastor Rudes högstämda ord om kärleken, »den sanna och djupa kärleken», såsom äktenskapets grundval, ljuda som bjellerklang för menniskor, som resonnera som så: »vi gammaldags bönder, vi ha det nu så der på vårt vis; ty när den ene är karl och den andra flicka, och de eljes äro hyggliga och ordentliga och vilja vara goda mot hvarandra, så är det ju precis, hvad som skall till; och sen komma ju barnen, och så detta lif samman i arbete och sysslor; tro mig – lilla fru! – det är något annat än det här tramset, som de kallar kärlek!»
+
+Men de »bildade klassernas» ställning gent emot folket är skarpast belyst i »Sandinge Menighed». Denna berättelse är byggd kring detta ämne och är en flammande protest mot så väl de gamle grundtvigianernas som det unga radikala studentpartiets bondevurm. En ung husmansdotter ryckes af byns grundtvigianske prest – en typ, som är mycket nära beslägtad med Østrup – ur eländet i föräldrahemmet och sändes till Köbenhavn till en fru Gylling, hvilken vunnit ett namn som bondevän hela landet öfver. Hon omhuldas och bortklemas här på allt sätt som ett slags kuriosum, ett intressant djur, en knähund, »detta lilla stycke landtlig oskuld», hon är sin beskyddarinnas stolthet och visas för främmande, fruarna öfverhopa henne med skänker, de unga damerna, »som svärma ända till raseri för allt landtligt och naturligt», kalla henne sin allra bästa väninna – och sonen i huset, den entusiastiske bondevännen, vill förföra henne. Och när det så kommer till stycket, visar sig beskaffenheten af fru Gyllings bondevänskap i stark dager; hon tillbakavisar med förskräckelse tanken på ett äktenskap mellan sin son och bondedottern. Studenterna, Knut Gyllings kamrater, kasta sig med lif och lust in i den folkliga rörelsen – för att sjelfva bli bemärkta. Det är svårt för en svensk att fälla något omdöme, huruvida Pontoppidans framställning af det grundtvigianska partiet är rigtig. Men jag har grundad anledning att tro, att det kan uppvisa personer af annat skrot och korn och af vida bättre halt än fru Gylling och Friskolelærer Povelsen.
+
+Men det är förunderligt hvad Pontoppidan sett djupt i landtbefolkningens inre och yttre lif. Han har trängt ända in till det innersta, det centrala i allmogekynnet, och han har en skarp blick för de sociala förhållandena inom folket sjelft.
+
+Han har så lefvat sig in i folkets egendomliga tanke- och känslolif, att han förmår att se på de högre klasserna i samhället med dess ögon. Han förstår t. ex. hvad folk finner komiskt hos en person som Østrup, hvad det är hos denne, som framlockar humorn och skalken hos hans församlingsboar; han vet, att intet bereder dessa större nöje, än då de kunna lura en »ståndsperson» eller komma i tillfälle att ge honom »gliringar».
+
+Kyrkoherde Østrup är ute på promenad. Försjunken i tankar, har han icke märkt, att himmelen hastigt höljt sig i moln. Han ser, huru skördefolket kommer löpande ute från markerna för att hinna under tak, innan regnet börjar, och han kan beräkna, att han skall komma torr hem, om han följer exemplet. Men ett dylikt fyrsprång skulle naturligtvis vara oförenligt med hans presterliga värdighet, han slår rockkragen upp, gör sina steg långa samt påskyndar sin gång just så mycket, att det omöjligen kan kallas springande af drängarne, som redan stå inne i portar och stalldörrar och göra sig stormande lustiga öfver dem, som ännu icke hunnit rädda sig undan ovädret.
+
+»Men plötsligt afstannade munterheten, då ett långt, svart, drypande jernrör skred genom gatan med långa gravitetiska steg. Hans ansigte var blåhvitt, och der flöt en liten ström från hattbrättet liksom från en takränna. De smutsvåta benkläderna klibbade sig fast vid hans lår som glatta trikåer och ledsagade hans gång med en egendomligt plaskande musik.
+
+När han kom fram, döko flickorna in bakom porten och fnissade; men drängarne helsade på honom så retsamt artigt och smålogo:
+
+»Go’ afton, herr pastor! Det var då ett välsignadt regn efter den långa torkan!»
+
+Pastor Østrup har icke minsta aning om, att hans församlingsmedlemmar hålla honom och hans likar, om icke för narrar, så åtminstone för komisktenfaldiga varelser (ett alldeles analogt fall eger rum med Bazarov gent emot de ryske godsbönderna i Turgenjeffs »Fäder och söner»). Han drages vid näsan till höger och venster, än af den ene, än af den andre, af klockaren, af sin gårdsdräng, af »lange Ane», men han märker ingenting, utan tror alla om det bästa. Folket genomskådar honom och finner det hela ytterligt komiskt.
+
+I »En Bonde-Idyl» behandlar Pontoppidan de sociala missförhållandena inom landtbefolkningen, den ständigt vidgade klyftan mellan hemmansegarne och husmännen. Det är den gamla historien om rik mans son och fattig mans dotter, tillämpad på ett specielt område: storbondens son förför husmannens dotter och ställer om att hon blir gift med en annan. Det är fråga om förhållandet mellan arbetsgifvare och arbetstagare, i den form, som denna fråga erhållit ute på landsbygden. Det är århundradets stora rörelse, som fins äfven här ute, fastän ännu slumrande och omedveten. Jordegareklassen har ständigt gått framåt och går alltjemt framåt i bildning och välmåga, men husmansståndet stampar på samma punkt nu som för tiotal år tillbaka, i förfäande slit, i tröstlöst enahanda, utan att göra annat i detta lifvet än arbeta och svälta och afla barn och utan att kunna bringa till klart medvetande för sig, att det har rätt till större kraf på lifvet. Men missnöjet ligger och växer till sig, och den tid är kanske icke långt aflägsen, då den kamp, som är samtidens mer än någon annan, men hittills varit inskränkt till städerna, sprider sig ut till bondbyarne.
+
+»De (åhusen, husmansrucklena) lågo der nere i en bedröflig, lergrå rad, omgifna af den stora, sumpiga mosse, hvari ån förlorade sig.
+
+Sjelfva gårdarne deremot – tio, tolf stycken – lågo högre upp, tryggt i skygd af de stora, plöjda backar, som sträckte sig upp mot skogen.
+
+I långa tider, längre än man kunde minnas tillbaka, hade de legat på detta sätt – undangömda i en idyllisk ensamhet, borta från allmän farväg, i djup, lycklig fred, i hvilken dagarne glidit öfver i hvarandra i lugn enformighet.
+
+Då och då i tidens lopp hade visserligen en gård blifvit utflyttad, en länga rest. Och allt efter som värdena stego och egorna förbättrades, uppbyggdes boningshusen med tegel och skiffertak och små kabinett, der döttrarna kunde spela piano. Men alltsamman hade skett så jemt och ett efter annat, att ingen märkte öfvergången, och likväl var det – när allt kom omkring – en helt annan by än den lilla fattiga och lidande, som tryckt sig samman öfver brunnarne på den tiden, då bonden sjelf gick och svettades i den halsstarriga jorden, medan dottern hukade sig efter på nakna, svullna fötter.
+
+Åhusen deremot hade icke förändrat sig. Deras värden hade icke stigit. De lågo der i samma lergrå, bedröfliga rad och stödde sig i sin skröplighet mot hvarandra med en holmejda här, en gafvelvägg der, som om de lutat hufvudena mot hvarandra för att grubbla öfver sitt öde.
+
+Rundt omkring dem låg denna fattigmannens eviga svärm af små, svampiga barn, som kläcktes ut inne i de stora, breda halmsängarne. Och medan uppe i gårdarne slägt efter slägt ständigt växt sig större och rankare, frodades här i hyddorna ett allt mindre och allt mera förkrympt yngel med långa armar och stora, tomma hufvud nere mellan oformliga skuldror – en lågväxt, märglös slägt, hvilken kull på kull, från vaggan till grafven, spriddes omkring för att lägga sina »värden» rundt ute i bondens marker och mossar, som de förbättrade.
+
+Det kunde nog emellanåt hända – i synnerhet mot vintern, när dimman tryckte sig ned öfver byn; när lemmarne värkte af den långa sommarens slit, medan bonden gassade sig inne i sina varma trefliga gårdar och mellan de välfylda ladorna – att en och annan, som våt och utsliten släpade sig hem i skymningen till sin nakna stuga, plötsligt stannade med handen öfver sitt stora, tomma hufvud, liksom för att fråga, hvart väl egentligen dessa deras värden togo vägen? Om de någonsin kommo igen? Och hvem som lyfte räntorna? ... Och der kunde komma liksom en tryckning inne i bröstet, något obestämdt något, som klappade och trängde på och ville fram.
+
+Men det kom icke fram, det kom aldrig fram. Det stod der en kort minut och dog så stilla bort i nytt släp – liksom ån, som sipprade ut i den stora, sumpiga mossen.»
+
+Så skildrar Pontoppidan ställningen på den danska landsbygden. Och hans skildring är tvifvelsutan sann. Jag kan åtminstone af egen erfarenhet intyga, att förhållandet är alldeles enahanda nere i Skåne.
+
+________
+
+
+
+
+
+III.
+
+Pontoppidan är i sin diktning alltid polemisk och tendentiös. Han lägger icke så mycket an på någon detaljerad psykologisk analys som på att belysa ett samhällslyte, hans noveller äro mera af social än af psykologisk natur. Han skildrar lifvet och menniskorna, icke derför att en sådan skildring i och för sig eger intresse, utan fastmera af den orsak, att han derigenom får tillfälle att framhålla en sak, som ligger honom om hjertat, säga något, som han tror att menniskorna ha godt af att höra, angripa ett socialt missförhållande eller en gängse irring. Det fins i hvar och en af hans noveller en genomgående grundtanke; denna är liksom en benstomme, vid hvilken han sedan fäst diktningens kött med dess blod och muskler, så att under hans händer till slut framspringer en lefvande organism, ett helgjutet konstverk.
+
+Ty Henrik Pontoppidan är framför allt konstnär, en fullblodskonstnär af naturen. Man ser det af den synbara säkerhet, med hvilken han formar sitt material, den lätthet, med hvilken han i detta inblåser diktens lefvande ande. Hvarje berättelse är ett konstverk, hvars ram icke spränges, trots att författaren inflätar uttänjda skildringar af kulturhistorisk art samt hvarjehanda episoder och resonnemanger. Pontoppidan hör fint, ser skarpt som konstnär. Han har den förmågan att kunna finna det ämne, som kommer berättelsens skilda element att sammanspringa till ett, en kristall, ett konstverk.
+
+Säkerheten och lättheten i formning är, som sagdt, det utmärkande draget i Henrik Pontoppidans författareindividualitet, det som först springer i ögonen. Dessa egenskaper framträda på mångahanda sätt i hans diktning, de röjas såväl i stilen som i novellernas byggnad.
+
+Pontoppidan brukar gerna inleda sina noveller med en lång allmän naturbeskrifning eller interiör, hvilken han förstår att mästerligt länka samman med sjelfva berättelsen. Dessa ouverturer äro kanske det mest originela och konstnärliga i hans författareskap. Begynnelsen till »En Fiskerrede» eller »Sandinge Menighed» visa, hvad han är mäktig i detta afseende. Bäst karaktäriserande hans sätt att gå till väga är dock »En Bonde-Idyl», i hvilken den inledande allmänna beskrifningen af senhösten på landsbygden omärkligt glider öfver i berättelsen:
+
+»— — — — — — — — — — — — —  — — — — — — — — — — — — — — —
+
+Men när minstpigan, som hela tiden sutit som i halfsömn och dåsat öfver tråden, plötsligt reser sig, sätter spinnrocken i vrån och går ut för att ställa om mjölkningen, lättar han (sonen i gården) efter en stund likaledes på sin kropp, sticker fötterna i trätofflorna, som stå under bänken, och följer efter henne.
+
+»Går du?» frågade modern; hon satt vid ugnen och skötte om elden.
+
+»Ja», svarade Olav kort, tog mössan från en spik på dörrposten och ranglade ut med en likgiltig hvissling.»
+
+o. s. v.
+
+Och så glider berättelsen vidare framåt, lätt och säkert. Författaren håller tyglarne hvarken allt för strama eller allt för slappa. Det fins komposition, men ingen onaturlig godtköpsintrig. Novellerna äro byggda ut från vissa bestämda hufvudscener, som icke äro valda godtyckligt, på måfå, utan äro sådana, att de blifva af inverkan på handlingen, bilda vändpunkter i den, föra den framåt. »Landsbybilleder», Pontoppidans sista novellsamling, står utan tvifvel högst i fråga om komposition, som ock i andra afseenden; de båda stora berättelserna, »Kirkeskuden» i »Stækkede Vinger» samt »Sandinge Menighed», äro mera löst bygda. Särskildt är den förra mera en samling af sjelfständiga episoder och interiörer, hvilka sammanknutits med hvarandra något dödt, utan egentligt organiskt sammanhang; den ledande grundtanke, som annars är så lätt skönjbar i Pontoppidans produktion, är här också mera dunkel.
+
+Pontoppidan berättar i en elegant och flytande stil, i ett rinnande melodiskt språk, med många framglimtande goda leenden och många satiriska sidosnärtar i förbigående, än i harm, än i vemod, än i humor.
+
+Men när man lagt hans böcker samman och tänker tillbaka på dem, ser man framför sig ett talrikt galleri af figurer i skarpa silhuetter och kraftiga målningar samt en följd af situationer och scenerier i klar belysning.
+
+Man ser Niels Ingvor, den gamle Niels Ingvor, som var så gammal, att folk kallade honom »den lille vårherre» och att han sjelf trodde, att den store vårherre glömt honom, der han, misstänksam och menniskoskygg, i sitt gamla, gamla åkdon rullar ut ur den stora, svarta granskogen, »som från ett annat århundrade». Man ser »lange Ane», der hon står uppe på backen, skarpt tecknad mot den röda aftonhimlen, då hon kommit ut ur tukthuset, hvarest hon, för mord på sin förförare, sutit inspärrad under tio långa år af sin bästa ungdomstid; man ser hela den långa scenen mellan henne och presten, kanske det bästa, Pontoppidan skrifvit. Man ser Jens Peter, prestgårdsdrängen, med hans orakade ansigte och gulbruna tänder, hvilkas mellanrum upptages af blekrödt gomkött, Jens Peter, som herskar enväldigt öfver prestgården, hvilkens tröghet och butterhet tages som bevis på trohet och ärlighet, som har 200 kronor i lön och som årligen kan lägga 500 undan. Man ser dessa präktiga typer från landsbygden i »Landsbybilleder»: föräldrarne i »En Kjærlighedshistorie», Mads Monsen i »En Bonde-Idyl», Jeppe Nilen och prokurator Sandberg i »Arv»; man ser dessa lifslefvande framför sig. Man ser Danmarks bönder, män och kvinnor, unga och åldringar, på slätten och vid hafvet, vid plog och nät, vid lie och räfsa, i helg och hvardagslag, vid deras sysslor och nöjen, så som de lefva den dag i dag och så som vi sjelfva skulle finna dem, om vi komme ut bland dem.
+
+* * *
+
+
+
+
+
+ADDA RAVNKILDE.
+
+
+
+Våren 1884 utkom i den danska bokmarknaden »Judith Fürste, en Fortælling af Adda Ravnkilde». Georg Brandes hade skrifvit ett företal – ett verkligt litet mästerstycke för sig – af hvilket man fick veta, att författarinnan dött en förtviflad död året förut vid 21 års ålder, att berättelsen var skrifven i hennes nittonde lefnadsår samt att dess utgifvande ombesörjts af doktor Brandes. Han sade, att han gjort det som en pietetshandling mot den döda. »Det göres, liksom man lägger en krans på en graf.»
+
+Redan på hösten utkom en andra upplaga, och till julen blef ett nytt arbete af Adda Ravnkilde synligt, »To Fortællinger», utgifna af Erik Skram efter grundlig bearbetning af författarinnans manuskript.
+
+Dessa båda arbeten utgöra den unga författarinnans hela produktion, det enda, hvarmed hon hann rikta sitt lands literatur, innan hon tröttnade på lifvet och uppgaf allt. Hvad hon skulle blifvit, om lifvet tett sig ljusare för henne och mindre afskräckande, är naturligtvis svårt att säga; allt tyder på, att hon inom sig bar möjligheten till en rik utveckling, hennes klara blick, hennes förståndsskärpa, hennes känslodjup, hennes fina och säkra konstsinne. Det lilla, hon skrifvit, tillförsäkrar henne en plats i Danmarks unga literatur.
+
+________
+
+
+
+
+
+I.
+
+»Judith Fürste» är en berättelse af alltigenom särdeles modern art. Af de två stora hufvudafdelningarna inom den moderna romanen: den sociala, tendentiösa samt den rent psykologiska, tillhör den obetingadt den senare. Intet enda af tidens många sociala problem sättes under debatt; det är icke ett eller annat missförhållande, som författarinnan vill belysa och gissla, som utgör bokens kärna eller grundstomme. Skildringen är helt och hållet tendenslös, psykologisk. Den går ut på att förklara ett själslif, att framställa ett menniskohjertas historia. Men genom dennas utgång blir boken ett förhärligande af den kärlek, som gifver utan tanke på gengäld, af satsen: »det är saligare att gifva än att taga» såsom summan af all lefnadsvishet.
+
+Judith Fürste är en stolt, finkänslig natur, som lifvet tidigt gjort bitter. Efter faderns tidiga död gifter sig modern med en sakförare, hvilkens yrke just icke är af renaste slag. Judiths inre slites mellan öppet trots mot styffadern och undfallenhet gent emot modern, och i denna strid förhärdas hennes barnasinne. Hon lär att hata samt borrar sig allt djupare in i den tanken, att makten är starkare än rätten här i verlden. Af denna insigt framspringer tron på, vissheten om, att den rättvisa, som icke finnes på jorden, en gång skall skipas i ett kommande lif: Judith blir starkt religiös. Men småningom komma tviflen, väckta och sedan skärpta af inträffande omständigheter. Hon börjar mista all tro på lifvet, blir skeptisk gent emot allting. En kärlek kommer som en vårpust öfver hennes frusna, vissnade inre, men så brister äfven den illusionen, och »så fick hennes tro den sista och hårdaste stöten». Utan en enda menniska att närmare sluta sig till, tryckt af ställningen i hemmet och af småstadslifvet, blir hon allt mera inbunden och otillgänglig.
+
+Och under allt detta längtar hon efter ömhet och kärlek, längtar derefter med hela sin fina, varma, unga natur, trånar oändligt, bittert efter att älska och älskas. Hon vet, att det skulle göra henne lycklig, om hon kunde älska någon, men hon vet också, att hon icke kan det, icke vill det, ty hon tror icke fullt på någon. Men ofta fylles hon af obestämda aningar och drömmar, värmande och glada; – ty hon är ju ung, om ock lifsledan och bitterheten lagt sig som ett ishölje öfver hennes känslor, om ock hennes drömmerier ofta utmynna i en grof, osund åtrå efter lyx och makt.
+
+Så träffar hon Johan Banner. Han är den siste ättlingen af en af landets äldsta slägter, just hemkommen från en långvarig vistelse i utlandet, der han ödt sin ungdom. Blaserad, skeptisk, intelligent, har han icke mera tillbaka för lifvet än föraktet och likgiltigheten samt en förnäm nyfikenhet gent emot dessa kuriosa, som kallas menniskor.
+
+Judith är från första ögonblicket i opposition mot honom liksom mot alla andra. Det har blifvit natur hos henne att taga parti för och emot i rak motsats till andra menniskor. Liksom hon är vänlig mot Restrup, hvilken allmänna opinionen fördömt, ställer hon sig fiendtligt gent emot Banner, för hvilken hela staden kryper. Hans blaserade arrogans retar henne till förbittradt trots. Hon lägger detta på allt sätt i dagen, och Banner kan icke undgå att märka det. Hans nyfikenhet väckes, hans stolthet såras, hans maktlystnad sporras; hon skall kufvas, tvingas att erkänna hans myndighet. En skön klenod, som han vill ha för egen räkning samt använda efter behag; en intressant företeelse, som han vill grundligt studera, kränga ut och in på. Så friar han. Frieriet sker, just som Judith fått veta, att hon icke har någon juridisk rätt att kräfva arf efter sin aflidne fader samt att hon således för hela sitt lif skall lefva på styffaderns nåd; hon svarar ja, de förlofva sig och gifta sig, och deras äktenskapliga samlif blir en strid mellan hans maktlystnad och hennes bitterhet. Vapnet blir hånet, och genom användande af detta vapen hårdna och försämras de begge.
+
+Barnet blifver ett nytt stridsäpple mellan dem. Den lille sluter sig allt mera till fadern, blir allt mera främmande och likgiltig mot modern. Men under det att hos Banner intresset för barnet småningom undantränger intresset för modern, så att hans kamplust efter hand dör bort, gripes Judith af en pinsam afundsjuka på sin man, af en nervös, olidlig fruktan för, att nu skall han bli lycklig, medan hon är lika ensam som förr.
+
+Så dör barnet, och allt som så länge frusit till i deras inre, tinar nu upp i sorgen. Först hos honom; han närmar sig henne, drifven af längtan efter tröst och medlidande samt någon att sörja samman med. Hon stöter honom tillbaka; men strax derpå inser hon, att hon gjort honom orätt, varit för hård mot honom, och medvetandet härom verkar mera uppmjukande på henne än tusen vänliga handlingar. Hon blir vek, längtar feberaktigt efter hans tillgift för att sedan dela sorg och tröst med honom. Och så sitta de, hvar för sig, ensamma, längtande efter att förtro sig till hvarandra; men han har en gång blifvit tillbakastött, och hon saknar kraft och mod att bryta den skiljevägg, som köld och hårdhet och bitterhet under långa år rest mellan dem. Men sorgen har tinat upp dem begge, böjt dem begge samt nedlagt hos dem ett frö till ömsesidigt öfverseende, ömsesidig tillgift, och detta frö växer och växer, tills det en dag hos henne skjuter upp, går i blom och knyter frukt i värmen af den gryende vissheten om att hon älskar honom, att hon alltid älskat honom.
+
+»Så kom hon underfund med, att hennes sorg och lifsleda, hennes känsla af öfvergifvenhet och hennes förbittring, hennes afundsjuka, ja, till och med hennes hat och hårdhet, det hade varit kärlek allt samman eller verkades af hennes kärlek. Hon hade älskat honom, ja, utan att veta det, från första gången hon såg honom. Då hade det frö i hennes själ, hvilket tanken på honom hade sått, begynt att spira, och det hade sedan kämpat sig fram under jorden i mörker och förtviflan, i längtan och saknad, genom stenig grund och soltorkad mull. Utan att låta sig hejdas, hade hennes kärlek banat sig väg, och då så sorgen hade böjt henne och ångern gripit henne, och då hon erkände sin orätt och sin skuld, då hade den brutit fram helt, växande starkare och starkare, till sist alldeles öfverskyggande henne – nu såg hon det.»
+
+Under en julhelg få de besök af en ungdomsvän till Banner samt en systerson till honom. Denne är ung och skön som en af Hellas’ gudar; Banner misstänker en kärleksförbindelse mellan honom och Judith samt kräfver i kränkt stolthet sin hustru till räkenskap. Hon vägrar att lyda maktspråk. Men så, i en vek stund, ber han henne yppa allt, och det gör hon, säger huru varmt hon älskar honom, alltid älskat honom och att hon vill lefva helt för honom.
+
+Hela intresset faller naturligtvis på utvecklingen af förhållandet mellan Judith och Banner, särskildt på den förras personlighet. En konsekvent genomförd komposition bidrager i väsentlig mån härtill. Berättelsen är en följd af scener och interiörer, uppträdda på den fortlöpande tråden af analys, hvilka fast ansluta sig till hvarandra, förklara hvarandra, betinga hvarandra. Ingen episod står der för sin egen skull, utan för sammanhanget, och hvarje särskild är med konstnärlig takt och urskilning vald och anbragt så, att den visar oss grunddragen i de båda hufvudpersonernas karaktärer, det innersta i deras kynnen, det som bestämmer deras handlingar och det helas gång. Förf. har lyckats så precisera denna förherskande grundegendomlighet och att ställa den i så skarp belysning, att läsaren utan all ansträngning fullt förstår alla de handlingar och yttranden, hvilka utspringa deraf. Analysen är icke så mycket ett hopande af detaljer, hvilkas inbördes sammanhang förflygtigas för läsaren, som fastmera ett skärskådande af en och samma till grund för alla själslifvets yttringar liggande egenskap från olika sidor och i olika ljus. Deraf detta intryck af enkelhet och klarhet och djup; man har alltid en utgångspunkt, en utsigtspunkt, från hvilken allt är öfverskådligt med vida vyer i klar belysning.
+
+Liksom kompositionen äro äfven berättelsens bipersoner afsedda och använda till att ställa hufvudpersonernas, särskildt Judiths, individualiteter i relief. De hafva dock derjemte ett sjelfständigt intresse; i synnerhet äro Restrup, den godmodige och bottenärlige, men ruinerade och till hälften förfallne adelsmannen, samt komponisten Hellman godt skisserade.
+
+Stilen är icke lika utbildad; den är visserligen sjelfständig, men förf. beherskar den icke fullkomligt, såsom allt här och hvar en naiv anmärkning eller ett omotiveradt a propos röjer. Men för öfrigt är den på sitt vis markerad: en genomskinlig, osirad stil, hvars enda sträfvan är att ogrumladt afspegla innehållet under sin jemna, lugna yta, hvilken endast sällan brytes eller krusas af en orolig böljning i djupet. Framställningen omsväfvas af en stämning af stilla svårmod och innerlig sympati, i hvilken stundom ett smärtsamt hån, ett bittert löje skorrar som ett missljud. Man tänker på en senhöstdag med klar luft, skarpa konturer och kylig, svårmodig ro, då man läser denna sköna, sorgsna bekännelse af en kvinnosjäl, af denna rika, varma, fina ande, för hvilken lifvets rosor så tidigt vissnade.
+
+________
+
+
+
+
+
+II.
+
+»To Fortællinger» äro till sitt värde mycket olika. Den ena, »En Pyrrhussejr», bär alltför tydliga spår af torrt schematiserande och afsigtligt konstruerande; personerna äro kropplösa abstraktioner, personifikationer af en enda egenskap eller en särskild tanke. Förf. har velat smälta och i diktens form afgjuta ett socialt problem, men den förra ligger öfver det senare såsom en torr hinna öfver ett skelett. Lika mycket som denna novell står under »Judith Fürste» så väl i psykologisk sanning som i rent konstnärligt hänseende, lika mycket står »Tantaluskvaler» öfver den samma. Det är en enkel skildring af en kvinnas första kärlek, full af sanning, mättad af lidelse och stämning, blodfullt ungdomsvarm och finkänsligt lättrörd, som en ung, sund kvinna.
+
+»En Pyrrhussejr» är två kvinnors äktenskapshistoria. Uppfostrade i fria åsigter, friska, intelligenta, med stora ideella kraf på lifvet, träda Astrid och Elisabeth ut i verlden, den förra mera blid och vek till sitt skaplynne, af den meningen, att menniskan icke är så alldeles herre öfver sitt eget öde, den senare mera stolt och utmanande, hyllande den safsen, att menniskans lycka beror på henne sjelf. Så blifva de gifta, och det följande är endast en skildring af, huru de begge få alla illusioner krossade, huru äktenskapet för dem båda endast är en fortlöpande kedja af missräkningar.
+
+Bang är en gammal ungkarl, trött, kall, beherskad. Han går och bär på en stor, rik fond af ömhetslängtan och kärleksåtrå, som han samlat under många och långa ensamma år. Men till sitt väsen är han egoist; han vet, att lifvet är strängt och att hvar och en får taga, hvad han kan få. I hela sitt förhållande till Elisabeth låter han sig bestämmas uteslutande af sin egen fördel, utan hänsyn till andras bästa. Han friar till henne, emedan han vet, att hon skall gjuta ljus och värme in i hans ensamma, tomma lif; hans sträfvanden gå ut på att göra allt möjligast behagligt för sig sjelf, och för att kunna nå detta mål, tvekar han icke att krossa sin hustrus käraste önskningar. Utgångspunkten och målet är för honom att bilda henne till det, han önskade och behöfde, och att bekämpa det, som stod honom i vägen. Hon får icke utgifva sin bok, icke taga sin moder i huset, icke fara omkring i fattigkvarteren, icke adoptera ett barn, icke erbjuda sin syster en fristad hos sig, då olyckan och sorgen falla öfver denna. Hon får icke göra något, som skulle kunna vålla honom obehag, äfven om det för henne är heligt och dyrbart, och han vill ha henne för sig ensam. Kallblodigt lockar han henne att förråda, hvad hon tänkt sjelfständigast och känt innerligast, kallblodigt predikar han till slut öppet kvinnans fullkomliga underkastelse under mannen. Hennes äktenskaps historia blir historien om, huru hon kastar bort sig sjelf och blifver till ingenting, intet för sig sjelf, blott en glädje för mannen, huru hennes ungdomliga, kvinliga entusiasm brytes mot hans kalla, sega egoism, tills den med en sista kraftansträngning spränger denna och hon rustar sig till kamp med den tanken till tröst, att hon, en kvinna med sjelfständiga tankar, i outtröttad, om äfven skenbart fruktlös strid, är en framtidens förebådare samt martyr för en god och rättvis sak.
+
+August, Astrids make, är en beklagansvärd stackare, en blandning af äkta och oäkta. Han söker göra sig intressant genom Weltschmerz, han är led och trött vid allting på samma gång han njuter af den tanken att han är intressant, han anser sig icke moraliskt ansvarig för sin karaktärs lyten och brister på grund af ärftlighetslagarne, han är en af dem, som icke alltid sjelfva kunna afgöra, om de i sina ord och åtbörder varit naturliga eller beräknande. Han försöker sig med allt möjligt, som diktare, läkare, målare, musiker, men kommer ingen väg, tröttnar vid allt; och Astrid slår ständigt af på sina stora tankar om sin man och de stora fordringar, hon stält på honom, samt ser allt djupare in i hans väsen, som är brist på viljekraft. När han slutligen uppger allt, är det af slapphet, men han förskönar det med det vackra ordet resignation för att trösta sig sjelf. Hans feghet kulminerar, då han i samråd med sin nya älskade söker uppspåra någon skamfläck på sin hustrus lif för att kunna vältra all skulden på henne och våga begära skilsmessa.
+
+Den genomgående grundtanken är kvinnans rätt till sjelfständighet och likställighet med mannen. Öfver denna tanke har Adda Ravnkilde utspunnit sin »En Pyrrhussejr». Berättelsen är ett inlägg i en af samtidens sociala frågor, ett vindicerande af en allmän sats samt afsigtligt konstruerad så, att tendensen må skärpas, tanken ställas i skarpaste belysning. Personerna äro liflösa marionetter och förkroppsligade egenskaper utan individuella nyanser: Astrid och Elisabeth personifikationer af kvinnoemancipationsidéen, August den förkroppsligade viljelösheten, Bang egoismens personifikation. Den senare har dock mera lösryckt sig från bakgrunden som en fri, rörlig menniska med lifvets ande i sig. –
+
+»Tantaluskvaler» är två öfverlägsna menniskors kärlekshistoria, tecknad mot bakgrunden af småstadsförhållanden. Personerna känna vi igen från »Judith Fürste»: Elisabeth Due och Judith Fürste, Hoegh och Banner, Platen och Restrup äro tecknade efter samma modeller.
+
+Elisabeth har tillbragt sitt lif i en olycklig familj. Fadern var ett afsigkommet skaldeämne, och modern hade satt hela sin lit till dottern, att denna skulle eröfra den plats i lifvet, som fadern icke kunnat nå. Detta kraf har Elisabeth känt tungt och innerligt; det har varit i hennes tankar hvarje timme på dagen och legat öfver henne om natten som en mara.
+
+Elisabeth Due är framför allt sund; »hon var ung, varm och troende». Hon ser på lifvet och menniskorna med en ungdomsfrisk tillit, och som alla de kvinnor, Adda Ravnkilde skildrar, ställer hon stora ideella kraf på sig sjelf och lifvet. Hon beundrar kraften samt anser såsom sin rätt och sin pligt att förakta svagheten.
+
+Hoegh är Banner allt igenom, såväl till sin yttre som inre menniska: af hög adel, med ett vildt ungdomslif bakom sig, stor menniskokännedom och lifserfarenhet, lefnadstrött, skeptisk, intelligent, bördsstolt, innerst god och fin. Han älskar motsägelsen, emedan den retar hans nyfikenhet; han afskyr motståndet, emedan det kränker hans stolthet. Summan af hans lefnadsfilosofi är den, att man skall vara hänsynslös mot alla och att man bör älska sig sjelf, icke kan älska andra än sig sjelf; resultatet af hans lif är detta: »allt är narrspel, alltsamman», hans enda moral denna: »njut ögonblicket!»
+
+Hoegh och Elisabeth äro sålunda allt igenom motsatser. Hos honom är grunddraget en olidlig skepticism, hos henne en ungdomlig entusiasm för det goda och en stark tro på dess seger. Han tror, att de rikt utrustade menniskornas lott är den, att deras förmåga att känna sig olyckliga är skärpt, hon att deras lott är den, att de hafva större förmåga att känna sig lyckliga – eller bära olyckan. Han har lifvet bakom sig, hon har det framför sig. Han kan icke mera älska, hennes natur är att älska.
+
+De råkas midt i det bornerade lifvet i en småstad bland triviala menniskor och dragas till hvarandra. Å hans sida är till en början nyfikenheten den starkaste känslan; han finner det intressant att se en menniska som entusiastiskt talar om »det goda och sanna». Men i sina bästa stunder känner han sympati och beundran, något liknande ömhet för henne. Hon är för honom som en oas midt i provinslifvets öken. Slutligen griper lidelsen honom, och han glömmer under några minuter af berusande stämning, att han är färdig med allt, oduglig att lefva lifvet, men hon, hvars blick kärleken skärpt, som skådat in i hans personlighets doldaste skrymslen och som vet, att hon skulle mista allt intresse för honom i samma ögonblick hon sagt ja, hon kastar, på hans fråga hvarför hon så ofta visat honom kärlek, det svaret i hans ansigte: »derför att det roade mig». Denna förebråelse, skälfvande af smärta och förtviflans hån, är en ljudande dom öfver hans elände.
+
+Elisabeth Dues kärlek är ren, stark och fin som hon sjelf. Den är så skär, att den icke kan beröras af den lättaste hand, och hon fruktar att förstöra den genom ett oriktigt tonfall, en blick, ett leende. Hon älskar såsom den kvinna kan älska, hvilken är på samma gång stark och finkänslig, hvilkens hjerta är varmt, hvilkens intelligens är odlad och hvilkens innersta väsen är sundheten. »Tantaluskvaler» är framför allt skildringen af denna kärlek, dess sakta spirande och stilla tillväxt, lidelsens plötsliga uppvaknande till medvetande, dess kval och jubel, öfvergången från den fullständiga ron, den menniskas ro, som hvarken tänker framåt eller tillbaka utan bekymmerslöst lefver i nuet, till en mognad, älskande kvinnas oro, lidelsens oro, som är innerst i menniskan.
+
+Adda Ravnkildes grundegendomlighet röjes i stilens genomskinliga klarhet, i framställningens enkelhet, i kompositionens strängt och säkert utförda grundritning samt i den psykologiska analysens djup. Hon kan framställa i få, hvardagliga ord, hvad hon funnit genom att tränga djupt in i själslifvet, detta virrvarr, som är det omedvetna. Med skickliga konstnärshänder reder hon ut de härfvor af tanke- och känslotrådar, som äro stämningarna. Hon kan smälta analysens hårda metall i sin egen hjertevärme och forma den till äkta smycken. Hon har diktat ut ur sitt eget unga och goda väsen, hon har gifvit sig helt som hon är, hon har låtit oss höra den melodi, som lifvet spelade på hennes själs känsliga strängar. Och den melodien ljuder skärast och fulltonigast i »Tantaluskvaler», som är blomman af Adda Ravnkildes diktning, hvars personer stå för oss i lifvets fulla belysning, hvars scenerier nita sig in i vårt minne med det sjelfupplefvades hela styrka, gripa oss lika mäktigt stämningsfullt som lifvet sjelft.
+
+* * *
+
+
+
+
+
+ALBERT GELLERSTEDT.
+
+
+
+
+I.
+
+Gellerstedts namn ligger icke på dagens tunga; han blir sällan nämd och är föga känd. Hans produktion är ytterst ringa, hans diktning är till sitt lynne sådan, att den svårligen kan fullt och rätt uppskattas af »den stora allmänheten». Men för en kritiker, som har till syfte, icke att gifva en orlofssedel på godt eller ondt, utan att teckna en fysionomi, är denna diktning af stort intresse. Ty den afspeglar sällsynt rent och tydligt en sällsynt utpräglad författareindividualitet. Gellerstedt har i de två små diktsamlingar, hvilka ännu utgöra all hans produktion, gifvit hela sin personlighet, osammansatt, genomskinlig, afslutad som den är.
+
+Han är hjertats skald, den varma, veka, djupa, innerliga känslans och det manliga, tålmodiga, förtröstansfulla sinnelagets. Han tränger genom den yttre skönheten, formernas och färgernas, in till den inre skönheten, tankarnes och känslornas. Hans mjuka, skära, musikaliska språk smyger sig efter innehållet i organiskt sammanhang, liksom huden öfver köttet. Hans innersta väsen är en ymnig sympati, som alltid röjes i hans tonfall, fastän i många nyanser: i manligt allvar, i innerlig vekhet, i dämpadt skalkaktig munterhet; med denna sympati omfattar han allt, och den bestämmer hans synpunkt på menniskorna och naturen.
+
+Hans åskådning af lifvet och verlden präglas af en glad, allvarlig förtröstan, en innerlig förnöjsamhet, en varm, i sitt uttryck dämpadt vek kärlek. Summan af all lefnadsvishet är att i alla skickelser, om än aldrig så mörka och bistra, vara vid godt mod, att leta fram det goda och gagneliga, som finnes i allt, äfven i det motigaste. Ty allting är till vårt bästa, bara vi förstå saken rätt. Under den kalla vintern står solen lågt och skiner rakt in i hans stuga; under den heta sommaren står den högt och når alls icke dit in att störa svalkan. Och trädet, som han har på sin gård, ger under den heta sommardagen svalka genom sitt bladverk och låter i kulen höstetid solskenet spela fritt genom att fälla sina blad. Han harmas aldrig öfver lidna oförrätter, han känner sig sällan bitter och aldrig retad till trots, utan fogar sig alltid i undergifvenhet, icke af tvång, utan enligt sin natur, och han manar sitt »hoppas!» ända in i lifvets kala höst. Han ber sorger och bekymmer stiga in och dela hans bädd och hans kost, i käck förtröstan, i fast visshet om, att de icke skola trifvas bland hans myckna sång. Hans lifsideal är ett litet bo, en hjertevän, fin och äkta, ljuf och trofast, en ansad graf, ett ärligt namn, som barnen skola hedra; detta begär han af lifvet, icke mer, men detta vill han ha i fred. Det vigtigaste för menniskan är att ha ett öppet öga för det sköna, ett varmt, lent, rent hjerta, att vara from, god, modig, glad, fri från onatur och band samt att skåda verlden från dess ljusa sida. Vid sonens uppfostran är hans syftemål att dana en man, som skall känna och uppfylla sin pligt och tro på det godas seger. Han misströstar aldrig, hoppas alltid; när »lillvännen» dött, söker den sörjande fadern tröst i den tanken, att hans älskade barn befriats från jordelifvets lidanden och frestelser. Och man tror på detta tröstesätt, skalden gör det naturligt och sant, hans visa har intet af fadd och uppskrufvad sentimentalitet. Han är alltid vid godt mod; när hösten är inne, brister han icke ut i sorg och svårmod, utan ber den sista sommarstrålen och den sista skygga lärktonen att undan köld och storm komma in i hans barm och hvila der för att, då våren kommer igen, återsända ett soligt skimmer i hans ögonvrå och ett ändlöst jubel i hans bästa sång. Ett leende, en vänlig min är honom nog; när de lyckliga stunderna äro borta och sorgen kommit, är minnet kvar. Han har önskningar, men de äro hvarken många eller stora; och dessutom har han en viss förtröstan om, att det nog blir bra, om vår Herre får råda. Han är fyld af en innerlig tacksamhet och förebrår sig sjelf, att han näns klaga, fast han fått så mycket sol i lifvet, då allt i naturen är ett gladt tack till himlen, så att blåa sippor spira upp ur smultna drifvor vid första blåögda blick från himlen och gullklara vifvor springa fram ur tufvorna vid första solstråle.
+
+Hans lynnes grunddrag är sålunda blidheten. Ur denna utspringa alla de egenskaper, som hans diktning förhärligar: hoppfullheten, ödmjukheten, undergifvenheten, tacksamheten, förnöjsamheten. Den mildrar strängheten i hans allvar, den går som en underström af innerlighet under det samma. Den dämpar hans skämt och gör det innerligt, den låter sorgen mynna ut i vemod i stället för i förtviflan, den kommer honom att älska den lugna sinnesfriden vida mera än stundens yra fröjder, den värmer ur hans blick som hemmets brasa, den ljuder så godt i hans stämmas tonfall som hörde vi en moder, den smeker i hans rytmer som en skön, vyssande musik, – och visorna svepa sig kring vår själ, liksom om vi kände lena kronblad på vår hud. Det är denna hjertevärme, som alltid vinner oss för honom och som gör, att hans undergifvenhet icke blir fadd, hans vekhet icke sentimental. Denna hjertevärme gjuter sig in i hans diktning, af hvilken minsta bit afspeglar helt och rent hans manliga, sunda, fina, varma natur; derför kan han våga behandla bagateller, hvilka skulle stöta oss hos andra skalder, derför kan han i diktens form ge oss råd, erfarenhetsrön, sentenser, moraliska sanningar, vidhänga dem efter en dikt som dess betonade sens moral eller till och med i en dikt genom dem uteslutande moralisera och docera, utan att vi taga anstöt deraf. Ty hvarje den minsta dikt är ett konstverk, stöpt i formen af en författareindividualitet och, framför allt, framsprunget ur en menniskas hjerta, en sund och fin menniskas varma hjerta.
+
+Hans väsen är sålunda kärleken; hvad han älskar mest är det blida och innerliga. Och denna hans kärlek sträcker sig ut öfver menniskolifvet, hän öfver allt lefvande, långt ned öfver växtverlden. Så komma vi till hans uppfattning af naturen, hvilken slår den klaraste dagern öfver hans individualitet.
+
+________
+
+
+
+
+
+II.
+
+I J. P. Jacobsens novell »Mogens» förekommer ett samtal mellan Mogens och Thora om skönheten i naturen. Hon föreställer sig, att det bor ett lefvande väsen i hvarje träd, hvarje buske, hvilket öppnar och sluter blommorna och slätar bladen. När hon ser en sjö, en djup och klar sjö, håller hon af den, derför att hon tänker sig, att djupt, djupt nere lefva väsen, hvilka hafva sina fröjder och sorger, sitt eget underliga lif med underliga drömmar, och hon kan icke förstå, hvad vackert det är med en grön kulle, när man icke föreställer sig, att det derinne myllrar och ljuder af små, små varelser, som sucka, när solen står upp, men börja att dansa och leka med sina väna skatter, när kvällen kommer. För honom har också naturen sin skönhet, men på annat vis. För honom ligger den i färgen, i rörelsen och formen, och så i det lif, som fins i allt, safterna, som stiga upp i träd och blommor, solen och regnet, som komma dem att växa, och sanden, som yr samman i backar, och regnskurarne, som fåra och urgröpa sluttningarna. Och framför allt denna sällsamma verld, som finnes bakom allt detta, som lefver och jublar och suckar och längtar och som kan säga och sjunga det allt samman.
+
+Här finna vi tvenne i grunden olika sätt att betrakta naturen, en till sitt väsen motsatt uppfattning af dess skönhet. Denna motsats kan hänföras till en motsats mellan en gammal och en ny verldsåskådning. Gellerstedt står på den förras grund. Han personifierar den lefvande kraften i naturen. Han ser i växtverlden en symbol af menniskolifvet; i det omedvetna naturlifvets ogrumlade ro, genomskinliga klarhet, obrutna lugn ser han allra tydligast sin egen menniska, sitt eget lönligaste väsen, sina egna innersta känslor. Derför lägger han allt hvad han sjelf tänker och känner in i dessa gräs och blommor och träd, derför blir han ett med dem, sammansmälter så innerligt med dem, att en mörk färgton slår sin skugga in i hans egen själ, en ljus och varm sitt ljus och sin värme. Hvarje gräs, hvarje ört har en själ som han, tänker och känner som han. Han känner alla deras blida, sorgsna och glada tankar och drömmar, han förstår deras språk och umgås med dem som med förtroliga vänner, tröstar dem, när de sörja, tröstas af dem, när hans egna tankar äro tunga. Han är som en af dem, de som han sjelf.
+
+Se honom på hans vandring »I skogen». Han känner sig som hemma bland vänner och bekanta och älskade väsen härute i den tysta, svala skogen, der linnéan blommar och titan tumlar om och hackspetten pickar i barken och trasten slår och berget ger eko. Han får ett gladt god morgon af finken i björkens topp, han vill verka här i svalkan och skuggan, och trasten sitter på grenen och lär honom aftonbön. Fogeln, som sjunger sina enkla visor, blir han sjelf; han igenkänner sig sjelf med sina veka tankar och sina varma känslor i den lilla sångaren. Och rundt ikring honom lefves lifvet alldeles som i menniskoverlden, men mera fint och godt. Granen älskar den fink, som kvittrar på dess gren; furan skyddar linnéan mot solstyng och stormar, och till gengäld tackar blomman i junidagar med sina röda klockor. Det brutna, stympade, lemlästade lefver sitt enkla, nöjda lif: den gamla sköra stubben bär små buketter, den skrofliga, hårda stenen är prydd med en mjuk och grön hufva med bård af lingonblommor. Träden helsa honom på hans skogsvandring, källan bjuder honom läska sig, blomsterskarorna niga och lärkan manar honom att vara glad. Han ber nattviolen lära honom sin blida sorg och trasten att lära honom tolka så gladt sin tro på ljusare stunder.
+
+På samma sätt öfverallt och alltid. Ängens hvita dimma och himmelens sky älska hvarandra i månljusa höstkvällar; skalden vet det, ty då skyn far bort, lemnar den kvar ett tårigt flor på ängens gräs. Blomman förebrår sin vän svalan, att hon far sin väg, men svalan svarar, att hon far blott för att komma åter med vår till sin vän. Då han ror i vassen, ger honom allting sin hyllning som vän och konung: sländorna äro hans adjutanter, vass-stråna buga, neckrosorna niga, änderna vifta och gäddorna ställa till små kaskader och mörtarne hoppa. I sädesfältens sommarsusning, hälften suckar och hälften munterhet, hör han en saga om riddar Guldskäggs kärlek till jungfru Blåklint. När i majnatten trasten slår och stjernorna skina, blir det en serenad med tända ljus i himmelens fönster. Aftonvinden är den lilla blommans gynnade älskare, rival till alla de bin och humlor, som surra och svärma omkring henne. Drifvorna, som smälta i vårbräckningen, gråta och le vid den första lärkton, som klingar ned från höjden. Pilträdet böjer sig fram öfver sjöns bölja i kärlek, månen ser ned på den i kärlek. Ute i naturen, »i ostördt jubel, i omängd luft och under oskymd himmel», känner han sig rätt som hemma bland vänner och själsfränder. Liksom naturen gifver menniskan sina hjerteförtroenden, gifver menniskan naturen sina. Flickan yppar sin blyga bekännelse, som ingen vet af i hela byn, ingen utom vår herre, åt den ljusa björken och den mörka granen, åt alla de små blommorna och de blå böljorna.
+
+
+
+
+
+»Det fins en gosse, och han är min,
+
+Som är så vacker och glad i sinn.
+
+
+
+
+
+Och han har lofvat mig ring och tro
+
+Och han skall bygga mig varmt ett bo.
+
+
+
+
+
+Och jag har lofvat med hand och mund,
+
+Att vara hans till min sista stund.
+
+
+
+
+
+Det skall du veta, du ljusa björk;
+
+Det skall du veta, du gran så mörk.
+
+
+
+
+
+Det vill jag säga er, blommor små;
+
+Det vill jag säga er, böljor blå.
+
+
+
+
+
+Men tigen med det, I allihop,
+
+Att ej det kommer för snart i rop!
+
+
+
+
+
+Gud vet nog om det, som bor i skyn –
+
+Men ingen vet det i hela byn.»
+
+
+
+
+
+Många af dessa tankar äro gamla, många af dessa motiv nötta: men det är just det största beviset på det ursprungliga och gedigna i Gellerstedts skaldekynne, att han gör möglade tankar skinande och skrumpna ämnen friska och nya. Innehållet lånar han ofta från andra, i behandlingen är han alltid sig sjelf och ingen annan. Han ratar de stereotypa naturföremålen, han tager hvad han ser. Derigenom blir hans diktning konkret och får färg. Han kan behandla många ämnen, som ingen annan skald skulle våga sig på utan att misslyckas. Han kommer oss alltid att tro på, att han sett och känt hvad han skrifver, han gör alltid intryck af att vara ärlig och att dikta ur sig sjelf.
+
+Det är naturligt, att en skald, hvars väsen är sinnets blidhet, skall i sin diktning med förkärlek vända sig till blomsterverlden; det är lika naturligt, att en skald, för hvilken allt lefvande är besjäladt af samma ande, samma kraft, samma lif, kan i växtlifvet se en symbol af menniskolifvet, och att en skald, som i all yttre skönhet endast ser ett hölje för en inre, ständigt söker uppspåra den tanke, den vishetsregel, som är dold under former och färger. Naturen är för Gellerstedt en spegelbild af hans eget lif, den lär honom lifvets sanningar.
+
+Han ser, att tisteln bär taggar och blommor, och tisteln har sagt honom, att han bär taggarne mot våldet, blommorna för sorgen och armodet. Han har lärt, att solen speglar sig mera rent i den stilla vattenpussen än i det upprörda hafvet, och deraf vet han, att ett lugnt sinne återspeglar allting renare än den böljebrutna ytan. Han har sett, att hägg och rönn och björk och ek fälla sina blad, under det att gran och tall och en och mossa hålla färgen, och deraf sluter han, att lifvets allvar varar, då dess lek förgår. Liksom svalorna kvittra på telegraftråden, genom hvars undertråd sorgeposten ilar, kan munnen le, medan sorgen är i hjertat. Då han ser furan höja sig allt mera smärt och kvistfri mot den soliga rymden, ju trängre hon står, frågar han sig sjelf, om också hans ande höjt sig så vid lifvets trängsel och trångmål. I åns hviskning till stranden, att den icke skall söka stänga honom inne mellan trånga bräddar, hvilka han ändock skall öfversvämma eller spränga, utan låta honom flyta i stilla frid mellan vass och blommor, hör han den tanken porla upp, att obändiga krafter i menniskonaturen, hvilka trotsa hvarje tvång, låta blidka sig af kärlek. Det böjda och kufvade i naturen för hans tanke tillbaka till det böjda och kufvade i lifvet. Liksom klippan kan spolas fin och slät och den mörka vågen kan brista i silfver och perlor, så kan ock i lifvet det skrofliga afslipas och det mörka ljusna. Vass-strået, böljorna och en störtsjö spela symboliskt en hel liten roman ur menniskolifvet.
+
+________
+
+
+
+
+
+III.
+
+Sålunda kan Gellerstedts diktning närmast karaktäriseras som en symbolisk naturdiktning, som erhåller sitt mest typiska uttryck i en sådan dikt som »I skogen 5», i hvilken det symboliska, didaktiska, moraliserande är doldt i naturskildringen liksom grundränningen af ett enkelt, färgfint inslag. Liknande förhållande eger rum i »Martallen», »Ån till stranden», m. fl.
+
+Dessa båda element, det symboliska och det naturskildrande, kunna sedan mera lösgöra sig från hvarandra, stå i ett mera organiskt eller mera dödt sammanhang; stundom kan det ena ensamt framträda i en dikt.
+
+Uti »I skogen 7» t. ex. är tillämpningen på menniskolifvet vidhängd naturskildringen såsom en sentens:
+
+
+
+
+
+»Det fins ej någon stubbe här,
+
+Hur gammal än och skör,
+
+Som icke små buketter bär,
+
+Ej ung på nytt sig gör.
+
+
+
+
+
+Hvar sten, hur skroflig och hur hård
+
+Han innerst är, sig prydt
+
+Med hufva mjuk och grön, hvars bård
+
+Små lingonblommor sytt.
+
+
+
+
+
+Och vindfällsstammen, der han död
+
+Är utsträckt på sin bädd,
+
+Är grön och blommig, hvit och röd
+
+Liksom en majstång klädd.
+
+
+
+
+
+Du som slet ondt på verldens torg
+
+Och fick der vank och men,
+
+Kom hit från kif och strid och sorg
+
+Och se på stock och sten!»
+
+
+
+
+
+Många af smådikterna äro helt och hållet utspunna öfver en sådan allmän sats. Och i dessa visar det sig, huru en så hård metall som en moralisk sanning kan smältas i hjertevärme och huru skickliga konstnärshänder af denna smälta metall kunna forma ett konstverk, fulländadt i all sin enkelhet.
+
+Ytterst sällan påträffas en ren, perspektivisk naturmålning. Den första dikten i cykeln »På alfvaren» är en sådan af finaste slag.
+
+
+
+
+
+»Fälten här för sommarvinden
+
+Bölja ej med vågor gula
+
+Och af ängens blomsterväfvar
+
+Hittar du med nöd en smula.
+
+
+
+
+
+Inga gladlynt röda stugor
+
+Här med blanka rutor blinka,
+
+Inga vikar mellan dungar
+
+Här med solskensglitter vinka;
+
+
+
+
+
+Men ett landskap olikt mängden
+
+Så i färgton som i linie,
+
+En Campagna här dig möter
+
+Utan aquedukt och pinie.
+
+
+
+
+
+Kom hit ut när morgonstrålen
+
+Ner ur österns molnbädd hoppar,
+
+Förr än alla spindeltrådar
+
+Tappat daggens klara droppar! –
+
+
+
+
+
+Långt, långt bort vid markens synrand
+
+Ligger hafvets stålblå strimma
+
+Der, som tappar små af vågskum,
+
+Seglen lätt i brisen stimma;
+
+
+
+
+
+Långsåt åsen väderqvarnar
+
+Radade, jag tror visst hundra,
+
+Stå och korsa sig och storligt
+
+På din morgonvandring undra.
+
+
+
+
+
+Och det skymtar fram en kyrka
+
+Ur en liten fjerrblå dunge,
+
+Som om dufvor gömt bland träden
+
+Liten snöhvit, vingsvag unge.
+
+
+
+
+
+Öfver åsens kam går röken
+
+Upp, från bygden ut på näsen,
+
+Molnens skuggor glida öfver
+
+Taflan tyst som andeväsen.
+
+
+
+
+
+Men staffaget felas? Vänta –
+
+Vipan, bosatt i en tufva,
+
+Trippar mot dig, lyfter vänligt
+
+På sin lilla fjäderhufva.»
+
+
+
+
+
+Annars lägger han i de dikter, i hvilka han icke användt naturskildringen i symboliskt-moraliskt syfte, hufvudvigten på att precisera den stämning, som sväfvar öfver sceneriet, dettas intryck på en fin, känslig menniskosjäl, den känsla, af hvilken menniskan gripes, det ackord, som samklingar mellan dagern öfver naturen och stämningen i menniskohjertat, sålunda ytterligare en nyans af sammanhanget mellan enheten af naturens och menniskans lif. Så t. ex. i den första af »Vårvisor»:
+
+
+
+
+
+»De svälla och ljusna, de gråa knoppar,
+
+Det spritter och glänser i alla droppar;
+
+
+
+
+
+Det krälar och brådskar i alla stackar,
+
+Och sipporna nicka i ljumma backar;
+
+
+
+
+
+Det spelas på orgel i lummigt vide –
+
+Och sången i hjertat vill ur sitt ide.
+
+
+
+
+
+Ack, lär mig du koltrast på granens spira,
+
+Att fröjd invid vemod i visan vira;
+
+
+
+
+
+Och lär mig du fink, som i björken drillar,
+
+Att icke med klagan jag tonen villar.
+
+
+
+
+
+Sist lär mig du gök, som i morgon väntas,
+
+Att innerst i sången till sommar gläntas!»
+
+
+
+
+
+Gellerstedt är en fin konstnär, en utpräglad personlighet, hvilkens innersta väsen är blidheten, en hjertevarm menniska. Hans diktning är så enkel och skär som en folkvismelodi, som en morgon i skogen, sval och doftande, som solsken på vårspäda boklöf, som markdoften efter ett vårregn, som »Linnéan i blomningen».
+
+* * *
+
+
+
+
+
+GUSTAV ESMANN.
+
+
+
+»Gammel Gæld» är ännu Esmanns hela produktion, men hans författarefysionomi har bestämda, markerade drag, hvilka tydligt aftryckt sig i diktningens mjuka lera.
+
+Då man läst igenom den läckert utstyrda lilla boken, tycker man sig sitta med en bukett i handen, en bukett af utsökta blommor, fina i färg och doft. Dessa tvenne noveller bjuda på den skäraste poesi i en form, som är äkta stilistisk konst.
+
+Det karaktäristiska i Esmanns stil är en osirad enkelhet, en elegant måtta, något visst diskret och dämpadt. Den är sammanträngd, utan att man märker detta; den berättar eller målar kort, i få ord, utan att blifva tung. Författaren koncentrerar i några få ord eller i en enda bild det oändligt sammansatta intryck, som han sjelf rönt och som han vill meddela oss. Ty det är så, att alla våra intryck äro helgjutnast, ymnigast, fullast närvarande såsom stämningar, hvilka ofta äro omedvetna, samt att en diktare kommer sanningen närmare, framkallar hos läsaren det åsyftade intrycket lättare och innerligare genom en bild eller genom sjelfva ordens klang och rytm, än genom att efter verkstäld analys endast framlägga det samma styckevis. I förra fallet gripes läsaren omedelbart af en viss stämning; konstnären har gjort allt det nödiga förarbete, hvilket i senare fallet läsaren sjelf får åtaga sig. Det fins djup mening och ymnig innebörd i en bild som denna: »då hjertat är mjukt som jorden i maj»; den väcker en mångfald af tankar och känslor. Och det ligger en i all sin enkelhet intensivt målande kraft i dessa ord: »stora mörkblåa barnaögon – violer i mjölk». Bilderna äro i allmänhet sällsynta och oftast korta: små äkta smycken, sparsamt utströdda öfver framställningens enkla drägt. En och annan gång utför förf. dem med en bredd och säkerhet, som påminner om Jacobsen, formar dem omsorgsfullt, tills de stå der i en viss ädel skönhetsro. – »Liksom blodet från ett sår, som bryter upp, först sipprar långsamt, droppe efter droppe, och sedan rinner hastigare och hastigare i stark och samlad ström, så trängde nu alla de gamla minnena in på mig». – »Som när en vissnad gren en sen höstdag lossnar från trädet och ljudlöst faller ned i det stilla bladbetäckta vattnet, småningom simmar in mot brädden och lägger sig till hvila för alltid i den mjuka dyn tätt intill andra grenar – så önskade jag blott att så sakta som möjligt glida till ro i deras fredliga lif».
+
+Esmanns konst består i väsentlig mån deri, att han kan med små medel uppnå en stor verkan. Och detta både i sin berättande framställning och i sina naturmålningar.
+
+Inledningen till den första novellen, »Gammel Gæld» är ett typiskt prof på hans berättarekonst. Han förtäljer hvardagligt, enkelt, öfverskådligt, jemt fortlöpande, verkligen episkt, utan att stanna i distraherande detaljer eller förirra sig ut i mer eller mindre behöriga parenteser, med en och annan bild, i hvilken berättelsen mynnar ut, lugnt och naturligt, liksom en flod allt här och hvar breder sig till stilla sjöar, i hvilka nejden speglas. Man kommer ovilkorligen att tänka på dessa gamla sagor, som börja med: det var en gång o. s. v.
+
+Förf. undviker alla starka ord. Alla ytterligheter, det brutala och larmoyanta, det som är skrikande i form och ton, dämpas i hans mjukt och melodiskt framglidande prosa. Sentimentaliteten är honom lika motbjudande som den i sin våldsamhet osköna lidelsen. Hans stil liksom kyler det alltför heta, skyler det grofva och fula under sina veck, är som ett klart, rent vatten, hvilket runnit genom en fin sil. Han kan framför allt skildra tystnaden, ensamheten, stillheten. Det är något af Topsøes stämningsfulla enkelhet i hans naturskildringar, ofta något af senhöstens tunga vemod. Stundom påminna de om läckra porslinsmålningar eller klara akvarellfärger.
+
+T. ex. denna vårskildring.
+
+»Det var den dagen ett härligt väder. Först i mars; man kände, att vintern bröt upp, der var som en aning om vår i den milda blå luften, det späda solskenet och den svarta fuktiga jorden. Jag hade först gått rakt hem, men då jag stod vid mitt fönster och såg den fina, brunaktiga färgtonen öfver kastanierna längs vägen, den lätta ånga, som steg upp ur jorden inne i täpporna, der drifhustaken blänkte i solen och trädgårdsmästarne hade begynt taga i, och hörde murarenas sång rundt omkring från ställningarne, som sträckte sina kalkade hvita armar ut i den blå luften, fick jag lust att gå en lång tur ut på landsbygden, jag ville gå våren till mötes. Men utanför staden blåste det barskt, skarp och pipande for vinden hän öfver de nakna markerna genom de aflöfvade häckarne och dikenas vissna gräs. Det hade plötsligt blifvit mörkt, en isblå kallt glimtande sky undanskymde solen. Jag frös och vände skyndsamt om. Det var för tidigt ännu.»
+
+Eller denna höststämning:
+
+»Sommaren är nu snart förbi, det blir höst igen. Jag märkte det här om dagen, jag hade åkt utom staden för att promenera i en af de allmänna anläggningarna. Det låg i tystnaden och tomheten i de långa alléerna, jag kunde se det på det tunna solljuset, som liksom var blåst ut öfver markerna, men i synnerhet var der en stämning i luften långt borta, som berättade mig det, något fint sorgmodigt, ömt bristande, som der kan vara i en kvinnas blick, när hon tillgifver den hon älskar, och hvari jag liksom kände hela den döende sommarens kärliga, bedröfvade farväl.»
+
+Esmanns psykologi går icke egentligen på djupet; hans karaktärsskildring är i sjelfva verket endast konturteckning. Han låter sina personer tala och röra sig, och vi känna igen dem, vi ha både sett och hört dem förut i lifvet omkring oss. Men förf. förklarar dem icke. Han har icke trängt synnerligen djupare in i deras själslif än hvilken iakttagare som helst. Hans sympatier och intressen tyckas icke sträcka sig till många individer af menniskoslägtet eller omfatta många sidor af lifvet. Egentligen är det endast två kvinnotyper och en manlig, som han skildrar. Först och främst »den yndige Pige», naivt kokett och barnsligt sorglös, rank, blond, med »en blid, mjölkaktig doft, ett barns sunda, ljufva doft». Vidare hon, som är ungdomskraften och lifsglädjen, kvinligt mogen och jungfrusund, hvars hela friska väsen öppet och tillitsfullt strålar ut ur de klara ögonen och jublar i hjerteskrattet. Och så slutligen den unge mannen, som är flanör genom lifvet ungefär som på Østergade, betraktande allt med en viss kall nyfikenhet, hvarken glad eller sorgsen, skyende alla starka känslor och alla afgörande situationer liksom skarpa ljud och skärande ljus, som icke känner lust att vandra på den stora farvägen men saknar energi att få något rigtigt tag i lifvet samt för öfrigt aldrig väntat sig just så mycket af det samma, en bra kamrat och en älskvärd menniska, en sensitivnatur och en raffinerad läckergom, aristokrat och egoist, men innerst vek och finkänslig och högsinnad, öfver hufvud taget »af det slags menniskor, som sällan uträtta något i lifvet och näppeligen blifva lyckliga».
+
+Dessa menniskor har Esmann skildrat med intresse och sympati, men längre tyckes den senare icke sträcka sig. Detta framträder starkt vid skildringen af Brun och hans vänner. Esmanns författarekynne är icke nog smidigt och elastiskt, för att han skulle kunna stå fullt objektiv och öfverlägsen gent emot sina modeller. Man tycker sig rent af se i hans min, jemte den satiriska humorn, ett drag af förvåning öfver sådana menniskor, hvilkas smak och vanor äro så olika hans egna. Och häri kan ligga en stor fara för författarens framtid; den alltför långt drifna räddhågan att komma i beröring med det ofina, otympliga, tölpaktiga i lifvet kan blifva en alltför snäf begränsning för hans förmåga af menniskoskildring.
+
+Glahn och Holck voro studentkamrater; den ene såg i den andre sin bäste vän och den bästa menniska, han kände. Så blefvo de fiender för ett fruntimmers skull och foro efter afslutade studier hvar åt sitt håll. Holck nedsatte sig som läkare i en småstad samt blef en god medborgare och en lycklig äkta man, såsom folk är mest. Glahn reste utrikes, fingrade litet på hvarje utan att hängifva sig åt något bestämdt, blef småningom missnöjd med sig sjelf och hela verlden, sjönk allt djupare i slapphet och leda samt fattade omsider beslutet att göra sig pinan kvitt. Men dessförinnan biktar han sig för sin vän i ett bref, hvilket jemte ett annat, skrifvet vid en föregående kris, egentligen utgör novellen »Gammel Gæld», som gifvit boken dess namn. Glahn skildrar sitt lif efter skilsmässan från vännen, de händelser och personer, som inverkat bestämmande på det samma, samt det själstillstånd, hvilket nu omsider kommit honom att fatta sitt beslut. – Författaren borde icke låtit Glahn sluta med att taga lifvet af sig. Det skulle gripit oss vida starkare, om han låtit honom glida in i ett tomt, innehållslöst lif, ty detta vore mera verklighet och sanning. Detta är i regel förfelade existensers slutliga öde. Sjelfmord äro undantagsfall.
+
+»Børn» är en liten idyll med sorglig upplösning. Han är en man i verken, hon ung, gift kvinna. De mötas dagligen på Østergade, råkas ändtligen på en välgörenhetsinrättning samt knyta efter den äkta mannens bortresa en allt mer intim bekantskap. De leka som två stora barn, utan tanke på hvad morgondagen kan bringa. Då de omsider genom följderna vakna upp till lifvets allvar, finna de, att deras kärlek icke är en sådan, på hvilken ett samlif för hela lifvet kan byggas. De skiljas, och hennes framtid är förstörd.
+
+Gustav Esmann har utarbetat en stil, som är originel och lödig. Hans båda noveller hafva ådagalagt, att han formelt är fullmogen konstnär; hans kommande produktion får visa, huru pass mycket innehåll af menniskostudium och lifserfarenhet han mäktar ingjuta i denna konstnärliga form, hvilket åter i väsentlig mån beror på rikheten och uttänjbarheten af hans sympati.
+
+* * *
+
+
+
+
+
+”ERNST AHLGREN.”
+
+(FRU VIKTORIA BENEDIKTSSON.)
+
+
+
+En frisk vintermorgon, då solen strålar på en hvitblå himmel och snön ligger ren och hvit öfver slätten, veckande sig öfver backarne mjukt som ett sammetstäcke, och rimfrosten höljer landsvägspilarnes röda grenar med nålar och kulor af finaste filigran, gnistrande i solen; – en frisk vintermorgon, då slätten tyckes vidga sig och himmelen hvälfva sig mera hög och luftig än annars; – en frisk vintermorgon, då luftens klarhet och renhet och denna naturens förunderliga ro, i hvilken jublet tyst slumrar, dricker sig in i porerna, strömmar med blodet genom ådrorna, gör tankarne genomskinliga som glas och spänstiga som en stålfjeder samt känslorna ymniga och djupa; – en frisk vintermorgon, då sinnet är lätt och lynnet godt och man håller dubbelt af hvarje hus och hvarje menniska, som man ser, just derför att de synas så små i alltets oändlighet; – en frisk, frostig, strålande vacker vintermorgon, – sådan är Ernst Ahlgrens diktning.
+
+Det är det kraftiga och sunda, som gifver hennes författareindividualitet dess prägel, det tankeklara och viljestarka och känslodjupa. Lifvet ligger framför henne i en blottande skarp belysning, hon ser på det med den menniskas blick, som erfarit mycket, tänkt mångsidigt och känt djupt, och hon skildrar det framför allt enkelt och ärligt. Det är lifsmodet, glädjen öfver att lefva, som ligger djupast hos en sådan menniska. I lifvets arbete känner denna menniska sig lycklig, så munter och fri som simmaren i det salta, kyliga vattnet. Detta, att hafva något att göra, att spänna alla muskler och hålla hvarje hjernfiber beredd till verksamhet, kommer ögonen att stråla och näsborrarne att vidgas. Och när lidandena och motgångarne piska hennes själ liksom hagelskurar ett ansigte – och denna själ är så finkänslig och ömtålig som en späd, fin hy – så biter hon tänderna samman och sträfvar hårdnackadt framåt, utan en klagan, utan ett utrop af otålighet eller dåligt lynne, huru det än svider och bränner. Det omilda och skoningslösa i lifvet, som hos så många förslöar och förhårdnar sinnet, snedvrider själslifvet eller kommer känslorna att smärtsamt krympa samman i en sjuklig skygghet, liksom en menniska, hvilken med fasa, afvärjande, sträcker ut armarne mot en fara, verkar hos denna starka natur på ett helt annat sätt: det gör gestalten mera rank, blicken mera vid och djup, skärper tanken, sofrar känslolifvet. Det förderfvar icke, det förädlar; det aflagrar icke hårdhet, icke bitterhet, icke slapphet och lifsleda, utan en rik, varm menniskokärlek. Det allvarliga, glada lefnadsmodet, det kraftiga, godlynta trotset är liksom ett träd med starka rötter, kring hvars stam de fina känslornas späda grönska klänga sig, sugande sin näring ur dess saft.
+
+Denna stämning af en frisk vintermorgon strömmar mot oss ur hela Ernst Ahlgrens produktion; detta grunddrag af sund kraft framträder i den samma mångfaldigt nyanseradt, medelbart och omedelbart, i yttranden och anmärkningar, som undslippa författarinnan, i tonfallet i berättarens stämma, i beskaffenheten af karaktärerna, särskildt kvinnotyperna, i de framstälda åsigterna, i sjelfva den konstnärliga utformningen af novellerna, i stilen och kompositionen.
+
+Skönheten ligger för Ernst Ahlgren i det sunda och goda, i kroppens helsa och karaktärens adel. Bleka tankar förefalla henne lika litet intressanta som bleka kinder. Hon älskar »helsans robusta skönhet». Hon låter aldrig muta sig af ytan, hon tränger alltid in under den, djupare in. Hennes sanningskärlek framkallar hennes misstänksamhet, hennes behof att vara ärlig drifver henne till grundligt studium. Hon blottar det anfrätta under det fagra yttre, hon lösgör den fina äkta perlan ur musslans grofva skal. Hon är obarmhertig som lifvet sjelft, ty hon vill vara sann; hon tvättar sminket från det vissna ansigtet, sliter af de lånade klutar, i hvilka den fega svagheten och det koketterande hyckleriet höljt sig, den förra för att narra sig sjelf, den senare för att narra andra; hon tvingar oss att se våra egna drag i den spegel, hon ställer framför oss, med minen hos en mor, som gifver sitt barn medicin. Men hon känner äfven »de sympatier, hvilka i ett friskt sinne så lätt spira upp för alla dem, man lär känna i grund, till och med om de äro fulla af fel»; hon har ett skarpt öra för »denna poesi, helt omedveten, halft dold, som finnes i all verklighet». Man ser de ständigt vexlande uttrycken i hennes ansigte, under det att hon med spänd blick och synbart intresse följer handlingens gång i det drama, som de af henne sjelf diktade personerna spela; man tycker sig understundom höra ett utrop af uppmuntran, af indignation, af bittert vemodsfull medkänsla, af den äldres godlynt ironiska deltagande, af en väns: »bra gjordt, kamrat!» Hon har flätat sig en satirens tagelsnärt, med hvilken hon slår till, så det biter, när oförskämdheten och humbugen komma inom räckhåll. Friskheten i hennes inre kan titta fram i hennes öga som en skälm och breda sig öfver hennes ansigte som en ljusning af det präktigaste lynne; men den kan också göra blicken så stor och skum och djup, som endast lidandet och sorgen, och den kan afteckna sig i hennes anletsdrag som mäktiga känslors kamp med sjelfbeherskningen. Den gör alla själslifvets yttringar kraftiga: satiren, humorn, sorgen, smärtan, allvaret. Tydligast visar sig denna grundegenskap af friskhet deri, att ett sundt och godt leende kan lysa upp midt i en skildring af lifvets skummaste sorg och mörkaste allvar.
+
+Det är naturligt, att det är viljestyrkan samt öfver hufvud taget de med en frisk natur sammanhörande egenskaperna, som en sådan författarepersonlighet skall mest beundra och helst skildra. Ernst Ahlgren anser, att det »käcka» och »manliga» utgör en så nödvändig egenskap hos en manlig individ, att, då den samma icke förefinnes, hon måste särskildt betona detta, – såsom vid skildringen af Axel Möller i »Pengar». Frånvaron af denna egenskap hos honom verkade, att menniskor kände en ovilkorlig medömkan, – »och ändå», tillägger förf., förträffligt karaktäriserande sig sjelf, »var han hvarken sjuk, eller gammal, eller fattig». Och för nästan alla de kvinnor, Ernst Ahlgren tecknat, är denna friskhet den gemensamma egenskapen i alla dess särskilda yttringar, som kyskhet i själslifvet, som fasthet i viljan, som öppenhet i blick, klarhet i tanke, rättframhet i tal och sätt, som stora kraf på sig sjelf och andra.
+
+Låtom oss se, huru förf. skildrar sina båda mest utförda kvinnotyper: Hildur Vide i »En realist» och Selma Berg i »Pengar». De andra: modern i »En kris», Gerda i »Kritik», mor Märta i skissen af samma namn, m. fl., ansluta sig mycket nära till dem.
+
+Hildur Vide är »sval och daggfrisk som en sommarmorgon». – »Hennes utseende var friskt och liffullt, och så fans det denna renhet öfver hennes varelse, hvilken nästan ingaf den föreställningen att dun och dam icke kunde fastna på henne som på andra menniskor.» – »Hon hade läst en hel del, äfven i filosofiska och naturvetenskapliga ämnen, hennes uttalanden och åsigter voro i allmänhet djerfvare än andra unga flickors.» Det fins i hennes sätt en »hänsynslös uppriktighet» och en »frimodig ärlighet». En af hennes maximer är: »man skall icke prata, utan handla». Då hon läst den unge »realistens» novell, säger hon: »om ni sagt det samma, men friskt och rent, då skulle jag icke haft ett ord att anmärka, men det är någonting kvalmigt, äckligt i sjelfva framställningen, som åtminstone är mig vidrigt. Jag uppröres icke öfver hvad ni sagt, utan öfver sättet. Man blygs öfver att hafva läst». Och vidare: »ni talar om kvinnans likställighet med mannen och menar dermed, att hon får vara lika dålig som han. Sköna rättigheter! Det är något sjukt och osundt i det hela, och det onda ligger i sjelfva viljan, just i det som skulle hålla hela varelsen frisk». Hon fordrar, att tro och öfvertygelse skola blifva till lif.
+
+Och Selma Berg är Hildur Vides andliga tvillingsyster. Kyrkoherden Berg talar om en viss friskhet hos henne, hvilken är som vacker vinterfrukt. »Vacker var hon icke, snarare motsatsen, men det var en friskhet, som påminde om en molnfri vinterdag med snö och bjellerklang.» Hon har ljusgrå ögon, som lysa af lefnadslust. »Det fans i denna figur en liniernas renhet, som måste ådraga sig uppmärksamhet.» Hon säger om sig sjelf, att hos henne fins ingenting af det der mjuka, som gör, att man tycker sig kunna linda en om fingret. Richard kommer vid betraktandet af denna gestalt att först och främst tänka på, huru sund och stark den måste vara; alla andra kvinnor, som han sett, »flöto i hans föreställning samman till en enda blodfattig, försnörd typ».
+
+Och hennes yttre symboliserar hennes inre.
+
+Hon har en skrupulös sanningskärlek och kan icke ljuga. Hon är mycket ömtålig för åtlöje. Det fins ingenting som hon mera föraktar än pjunkighet och pjåk, ingenting som hon mera afskyr än tårar, ingenting som hon mera föraktar än klemighet. Hon kan icke tåla glasögon och poesi. Hon säger sjelf, att hon är en sådan indiannatur, som icke tål att sitta stilla, utan måste ha frisk luft och rörelse. Hon har en yrvaken energi och är full af sprittande lif. Att gifva henne bannor är efter hennes egna uttryck, alldeles det samma som att slå vatten på en gås: »jag bara skakar på mig, så är det förbi». Det gör alldeles det samma, hvad man blir, »bara det fins ruter i en och man kommer fram». Misslyckas hon någon gång, så hvad gör det: »jag bara spottar i näfvarne och tar bättre fast».
+
+Hon är en sund, stark kvinna. Hon är skapad till att lefva lifvet på godt och ondt som få, i dess kamp och arbete, i dess stora fröjder och stora sorger. Ty för en sådan natur som hennes duger intet smått; hon läppjar icke på lifvets dryck, hon tömmer den i botten. Det är som om hon bredde armarne ut mot lifvet, hälften i trots, hälften i ömhet, som ville hon älska det, njuta det, så det förslog.
+
+Hon är en ren och kysk kvinna. Kraften blir aldrig ofin. Innerst eger hon detta ömtåliga noli me tangere; »det fans på botten af denna rättframma karaktär en skygghet, som kom hennes inre att krympa tillhopa för hvarje vidrörande», och hon säger sjelf, att hon icke kan lefva utan vänlighet. Hon känner kvinnans behof att uppgå i en annans existens, men hon känner detta behof djupt och sjelfständigt, på modernt vis och på sitt sätt, såsom ett behof att fatta denne andres tankar och sträfvanden, att vara hans mod och tillförsigt och sjelftillit, att egga honom till verksamhet, sporra honom till handling och sjelf arbeta för honom. Den kärlek, en sådan kvinna gifver en man, är det bästa i henne, allt hvad lifvet sofrat ut af äkta och gediget ur hennes själslif, hennes rena tankars kärne, hennes kyska känslors must, något, för hvilket »det icke fins ett ord nog fint och skärt ... någonting tyst och hemlighetsfullt, någonting stort och rikt ...»
+
+Det är denna kvinnas lifshistoria, som Ernst Ahlgren skildrar i sin stora novell »Pengar».
+
+Tidigt moderlös, har hon framlefvat sin barndom ensam, i afstängdhet från verlden, först hos sin fader, sedan i pensionen. Fadern är ett stort älskvärdt barn, svag och opraktisk, alldeles handfallen gent emot lifvets förhållanden; genom den dagliga sammanlefnaden med honom och uteslutande med honom utvecklas de kraftfulla sidorna i hennes naturel, sjelfständighet, förmågan att reda sig och finna utvägar. Hon vänjer sig vid, att man ser upp till henne såsom till den, hvilken alltid vet råd i kinkiga fall och från hvilken hjelpen skall komma; i pensionen var det, såsom hon uttrycker sig, alltid hon, som skulle taga sig af alla. Derefter kommer hon i sin farbrors hus, prestgården ute på landsbygden. Kyrkoherden och hans hustru äro som folk är mest; hon sluter sig just icke synnerligen varmt till någon i sitt nya hem, hon för sitt eget lif, bär sitt hufvud för sig och har sina egna tankar. Hennes utveckling försiggår fortfarande på egen hand, de genom naturel och omständigheterna mera markerade egenskaperna hos henne skärpas ytterligare, de mera svagt utbildade och magert närda borttyna. Alla de idéer, hon går och grubblar på, koncentrera sig i den enda: att hon sjelf, genom eget arbete, skall bryta sig en bana i lifvet. Men genom de utifrån verkande krafternas starka tryck samt genom sin egen isolerade ställning och sin oerfarenhet, hvilka icke bilda någon synnerlig motvigt, pressas hon till att kasta alla sina föresatser öfver bord. Hon säljer allt, framtidsplanerna och sin egen varelse, sina bästa tankar och känslor, sin kropp och sin själ, – säljer den för pengar. Hon gör detta som ett oerfaret barn, som man narrar. Hvad hon byggt upp genom sina grubblerier, var ännu icke af erfarenhetens fasta material och stod ännu icke på lifvets säkra grund; detta korthus, som ett barnsligt förstånd tornat upp, hvirflar kring till alla sidor vid första pust från den yttre verkligheten. Först sedermera, som mognad kvinna, tänkte hon om igen de gamla tankarne, men då hafva de skjutit rötter i lifvets och erfarenhetens mark samt suga näring ur denna.
+
+Emellertid sammankopplas hon med patron Kristerson. Han är ett det allra präktigaste exemplar af en genomsnittsmenniska, en jovialisk hedersknyffel, som inte vill en mask för när. Visserligen har han haft en smula trassel med sin hushållerska, men dels är han icke derför sämre än manfolk i allmänhet, dels arrangerar han den saken på ett i allo hederligt och lämpligt sätt. Han har kommit sig upp i verlden genom hästhandel, bränvin och slagtoxar. Han är en person, som till fullo vet, hur verlden skall tas; som han kommit underfund med, att alla lifvets dörrar stå öppna på vid gafvel för den, som har mynt i börsen, har hans enda sträfvan varit att skrapa samman pengar. Men under allt detta har han visst icke försummat sin själs odling, hvilket man kanske med ett visst berättigande skulle vara böjd att förmoda; han har samvetsgrannt studerat »Allehanda» och utländsk skönliteratur (d. v. s. engelska damromaner). Han är en duglig jordbrukare och en framstående kommunalman samt åtnjuter stort socialt anseende. Han anses lika oumbärlig i en komité som vid en festmiddag.
+
+Denne man älskar verkligen Selma så starkt och ädelt, som det är honom möjligt, och han hyser den ärligaste öfvertygelse om, att han skall kunna göra henne lycklig, såsom han uppfattar begreppet lycka. Han menar henne väl och vill henne allt godt. Men han förstår henne icke. Denna utsökta kvinnosjäl är och blir för honom en sluten bok.
+
+Med, giftermålet börjar ett nytt skede i Selma Bergs lif. Det faller en pinsamt hvass belysning öfver tingen och menniskoansigtena; det är henne, som om hennes gamla verld småningom försvunne och en ny komme i dess ställe, som om hon sjelf och allting vore så alldeles förändrade. Hvad hon nu ser och hör, isar henne, faller slag i slag öfver henne. Hon tager emot dessa slag upprätt, med sammanbitna tänder och trotsig, nästan vred blick, men hon hårdnar under dem, drifves in i förställning och lögn. Hon genomskådar allt och alla och i den första förskräckelsen och harmen kämpar hon emot med fiendens förgiftade vapen. De onda instinkterna väckas, och kraften i hennes naturel mynnar ut i, slår öfver i dåliga egenskaper. »Det naiva barnet var försvunnet, ärligheten borta, och i dess plats stodo sjelfuppehållelsedrift och förställning; – nu var kvinnan färdig. – Lärjungen hade gått förbi sin mästare.»
+
+Först kastar hon sig med hela sin våldsamma natur in i nöjen, extravagant i sätt och klädedrägt; sedan, generad af mannens svartsjuka, stänger hon sig inne hemma, gymnastiserar, rider och studerar arbeten i hästdressyr, sjunger, dansar, skrattar på egen hand, när kraften bänder på i de unga lemmarne och lifslusten sjuder i det unga blodet. Makarne ha naturligtvis ingenting gemensamt; »hon hade sin verld och han hade sin»; och »månad lades till månad utan förändring». Hon är nu nitton år. Hon vämjes vid tanken på den långa följd af år, som skall komma; hon gripes af en känsla af öfvermättnad och tomhet och af lifvets enformighet. »Om det blott ville hända något! Det gjorde det samma hvad, – om det så vore en olycka! Hvad som helst, bara inte detta kvalmiga lugn.»
+
+Men hon är allt för sund och stark att låta sig glida in i ett laisser-aller, hvarunder hennes personlighet skulle fuskas bort, allt för ärlig och karaktärsfast att låta de dåliga instinkterna taga öfverhand. Under sitt ensamma lif har hon börjat tänka och grubbla på åtskilligt. Alla de gamla tankarne från den tiden, då hon var ung flicka, vakna åter upp i henne, men nu hafva de närt sig starka af lifvet sjelft, klänga sig fast vid fakta ur hennes egen erfarenhet, hafva assimilerats med hennes personlighet, omsatts från blodfattiga, abstrakta tankefoster af ett barnsligt förstånd till kraftiga, lefvande barn af en mogen kvinnas känslolif.
+
+På spirandet af dessa nya, lifskraftiga brodd har umgänget med Richard, kusinen och barndomsvännen, den unge naturvetenskapsmannen med de moderna åsigterna, verkat i hög grad befruktande.
+
+Richard är en oppositionel natur. Hans mest utmärkande egenskaper äro en envis ifver och en brutal hänsynslöshet. Han drager konsekvenserna ut i hela deras ensidighet och öfverdrift. Han representerar ytterligheten, karrikatyren af de karaktärsegenskaper, hvilka Ernst Ahlgren företrädesvis skildrar. Det fins ett ord, hvilket han ideligen använder såsom inbegreppet af all humbug, af all medveten och omedveten lögn, nemligen »romantik». Denna romantik har man insupit från barndomen. Den hänger vid som synden. Den förgyller allting, vänder upp och ned på allting. Men under denna sväfvande benämning blandar han samman litet af hvarje, falskt och äkta, sann känsla och löjlig affektation. Han är innerst en allt för ensidig och bornerad natur, för att han skulle kunna fördomsfritt och djupt särskilja det ena från det andra. Han har lyckats finna ett gemensamt ord för allt, hvad han föraktar och hatar; och i den säcken stoppar han i sin blinda ifver både det ena och det andra. Han kallar kärleken till en moder, saknaden af en sådan, romantik; han dömer härvidlag uteslutande på grund af sin egen personliga erfarenhet, gör ett enskildt fall till något generelt. Med detta namn stämplar han icke blott den kvinliga sippheten och falska blygseln, utan äfven Selmas finkänslighet samt vanlig takt och grannlagenhet. Kärleken, denna fernissa öfver en sinlig drift, hänför han äfvenledes dit, utan att veta, att inunder höljet af »sinlig kärlek» (i vidsträcktare bemärkelse) gömmas de finaste och skäraste känslor, menniskans bästa. Han hånar sin egen ungdomskärlek till Selma, under det att han samtidigt är på alldeles samma sätt förälskad i en annan kvinna. Han – liksom Selma – har genom sitt förakt för den sinliga driften hamnat i en onaturlig, platonisk uppfattning af förhållandet mellan könen. Han är en af dessa menniskor, som af rädsla för den ena ytterligheten med hull och hår gifva sig i den andras våld.
+
+Under umgänget med denne man, först vid faderns sjukbädd, sedan i hennes eget hem, der han jemte sin unga hustru slagit sig ned för en längre tid, försiggår utvecklingen af Selmas personlighet. Deras ömsesidiga inverkan på hvarandra blir mera djupgående på grund af en stark ömsesidig kärlek, som griper dem båda allt fastare, fyller deras blod och hjerna och hela varelse. De kämpa emot med all sin energiska viljestyrka, hårdnackadt, förbittradt, och det fins något imponerande storslaget i skildringen af denna viljans kamp med lidelsen, kraftiga menniskors starka vilja och våldsamma lidelse. Hos honom bryter lidelsen oemotståndligt fram; men hon förlorar icke ett ögonblick sin sjelfbeherskning. Hon ser först i hans skälfvande passion endast det groft sinliga, detta, det manliga i motsats till det kvinliga, hvilket hon genom samlifvet med sin man lärt sig afsky, emedan hon aldrig sett det utom i dess nakna råhet.
+
+»Ah, jag känner er! couche là, hund! – det är det enda som duger.»
+
+Dessutom anser hon sig icke ha rättighet att binda en annan menniska vid sig genom äktenskap. På Richards fråga: »nå, men om man nu står ända till halsen i ett osedligt förhållande, ett sådant som står under kyrkans speciella hägn?» svarar hon hårdt: »då biter man tänderna tillhopa och ser verlden fräckt i ögonen, men har man en gnista heder kvar, så glömmer man icke ett ögonblick, att man förverkat all rätt till, – ja ända till tanken på ett verkligt äktenskap.» Härtill kommer slutligen hennes visshet om, att deras äktenskap icke skulle blifva lyckligt. »Om hon blindt hängåfve sig, skulle han tröttna, och om hon uppreste sig, skulle han pocka på sin rätt. Det blefve således endast att välja mellan hemlig leda eller öppen fiendskap.» Och hon vill hellre vara älskad af honom alltid och på afstånd än för en kort tid som hans hustru.
+
+I dessa scener kulminerar skildringen af Selmas karaktär; i dem fröar denna, i hennes imposanta viljekraft, i hennes rigoristiskt ädla, i sin stränghet sköna moral, i hennes ensidiga uppfattning af kärleken såsom en förståndssak, det skarpa särskiljandet mellan själslig och sinlig kärlek samt kärleksförbindelsens grundande på själsgemenskap såsom det ömsesidiga kompletterandet af en manlig och en kvinlig individ.
+
+Novellen slutar med att Selma bryter förbindelsen med sin man. Efter den långa uppgörelsen med denne skrifver hon till Richard med en begäran, att han må skaffa henne plats på ett gymnastikinstitut nere i Tyskland. »Ögonen lyste af lefnadsmod, ty nu var steget taget, nu fick det komma hvad det ville. Och hela hennes varelse genomströmmades af den ungdomskraftiga egoism, som ropar: ’plats, jag måste lefva!’»
+
+I Ernst Ahlgrens produktion äro åtskilliga af samtidens frågor upptagna till behandling: förhållandet mellan könen, uppfostringsgrundsatserna, kvinno- och äktenskapsfrågorna. Förf. ståndpunkt i dessa frågor är den sunda och intelligenta nutidsmenniskans; hon häfdar naturens och humanitetens kraf. Att hon upptagit dem till behandling i sin diktning, har sin naturliga förklaring dels i hennes kynne, dels i hennes ålder. Hon tillhör en generation, som uppvuxit i de gamla föreställningarna, men tillegnat sig den nya tidens nya innehåll, hos hvilken den gamla lifsåskådningen en gång varit lika bestämmande, lika ingrodd i tanke- och känslolifvet, som den nya blifvit sedan, en generation, som det har kostat bitter kamp att göra öfvergången och som genom lifvet sjelft lärt sig innerligt känna motsatsen mellan gammalt och nytt. Denna generation känner ett slags renegathat mot den förutvarande verldsuppfattningen, hvilket är främmande för det nu uppväxande slägtet. Och att en kvinna af Ernst Ahlgrens skaplynne med energiskt intresse skulle göra nutidens kvinnosträfvanden till sin personliga fråga är naturligt. Hvad angår det mer eller mindre berättigade i dessa sociala problems upptagande till behandling i novellerna, bör man taga hänsyn till, att, särskildt i »Pengar», de skildrade personerna till hela sin läggning äro sådana, att de samhälleliga spörsmålen omsatts till kött och blod samt nödvändigt måste tagas med i en allsidig och uttömmande karaktärsteckning. Man måste medgifva, att om också stundom förf. gör intryck af att diskutera genom sina personer, de diskuterade åsigterna dock i allmänhet icke äro löst påsmetade påhäng, utan väsentliga sidor af en personlighet, naturliga yttringar af en modern menniskas själslif.
+
+Ernst Ahlgrens konst utmärker sig framför allt genom sin enkelhet och säkerhet. Detaljvalet är gjordt med konstnärligt fin urskilning med hänsyn till totalverkan, de ur språket utsofrade orden ega en kraft, hvart och ett för sig och tillsamman, som höjer karaktärer, scenerier och interiörer i relief öfver framställningens jemna yta. Stilen har en markblommas enkla fägring, något af »helsans robusta skönhet». Man läse denna saftiga skildring af Selma såsom ung flicka, – hvilken förf. visserligen lagt i Richards mun:
+
+»Och hvad tror du till exempel att jag var så förtjust i? Dig sjelf? – själen, kan tänka! Nej, i skinnet var det, derför att det syntes så lent att stryka öfver som ett silkesammet, svalt i färgen och varmt ändå, frestande glanslöst som en skalad bananas. I själen? – jo vackert! Nej, i håret var det, derför att det inte var likt någon annans; inte rödgult, gullgult eller sådant, utan – ja, jag vet inte hur, men så konstlöst, så oförfalskadt, så – ja, så att jag, ingen mer än jag kunde finna det vackert, tyckte jag. Och just deri låg det: ingen mer än jag! Hvem skulle också kunna hitta på det? – en fläta, som dängde på ryggen, och en lugg, som hängde i en stripa ned i ansigtet och fick kastas ur ögonen med en knyck. Det kunde aldrig kallas vackert, men det var naturligt som pelsen på ett djur – och jag var kär.
+
+Ja, – och i figuren, derför att den var så rank och käck, så kall ännu och så böjlig; ingen hade sett den fyllig, men det syntes så tydligt, att den skulle bli det, och så var du så smal, att det såg ut som behöfde man bara slå armen om dig riktigt hårdt, så skulle du vikas midt utaf som ett pappersblad.»
+
+Med en liten bild kan förf. åskådliggöra en karaktär, som då det om Axel Möller heter, att han liknade en af dessa plantor, som af brist på ljus få hvita blad i stället för gröna; – eller det karaktäristiska, egendomliga i en situation, såsom i skildringen af Selmas besök hos Axel Möller och dennes gamle morfar: »det gladde hennes båda värdar, och på samma gång erforo de en viss ängslan, som när en liten fågel dristigt hoppar in i rummet och man är rädd att med en enda liten rörelse påminna honom att han icke är på sin rätta plats. Det är en sådan härlighet att se hans trygga tillförsigt, och ändå vet man ej hvilket ögonblick han flyger derifrån»; – eller stämningen öfver ett rum: »det tycktes henne som om den ena möbeln stod och svor mot den andra, de mörka färgerna knotade och de bjerta skreko»; – eller en naturstämning: »vintermorgonen kastade sin gråbleka dager genom gardinen, tung – lik en blick som ej mäktar lyfta ögonlocket». Hon vet att en sådan bild är sannare än en oändlighet detaljer, med andra ord att vid en konstnärlig skildring delarnes summa icke är likbetydande med det hela. Och denna författarepersonlighet är mäktig icke blott en skärpa i den psykologiska analysen och en gallring i det erhållna materialet, utan äfven en stämningsfinhet, i hvilken grunddraget af sund kraft framträder såsom en ymnig innerlighet i känslolifvet. Det är detta som gör Ernst Ahlgren till diktare, der den öfvervägande förståndsskärpan skulle gjort henne blott och bart till en upptecknare af fakta. Indignationen har ofta gjort henne varm och kommit henne att se djupt, men ännu mer har hennes medkänsla gjort detta. Hon har nått sin högsta konstnärliga ståndpunkt i några af de små folklifsbilder i studiesamlingen »Från Skåne», hvilka i all sin obetydlighet äro förvånande sant och djupt skildrade samt tillika, såsom studier, tekniskt fulländade, samt i framställningen af starka personligheter, de icke blott förståndsskarpa utan äfven känslodjupa. Sådana situationer som det första mötet mellan Selma och Kristerson samt de stora uppgörelsescenerna mellan Selma och Richard äro den stora konsten, hvilken kommer gränserna mellan boken och verkligheten att flyta öfver i hvarandra samt gör diktverket till ett lif som lefves; och den unga svenska literaturen eger ingen sådan kvinnogestalt som Selma Berg, på samma gång en så storslagen personlighet och en så mäktig diktskapelse. Det vackraste draget och måhända den största konsten i denna skildring är att förf. icke en enda gång glömt det kvinliga hos Selma Berg. Det kraftfulla blir aldrig ofint.
+
+* * *
+
+
+
+
+
+GUSTAF AF GEIJERSTAM.
+
+
+
+Gustaf af Geijerstam står i ett nära andligt frändskapsförhållande till Ernst Ahlgren. I begges författarepersonlighet är sund kraft det gemensamma allmänna grunddraget; nyanserna bestämmas hufvudsakligen samt framkallas naturligt af skiljaktigheten i könstemperament och landsmanskap. Det förras inverkningar kunna lättare instinktlikt kännas än i ord preciseras; en mans energi och själsfriskhet ger sig uttryck, i en bok såväl som i andra handlingar, på annat sätt än en kvinnas. Och öfver Ernst Ahlgrens diktning hvilar en stämning af skånskt lynne och skånsk natur, medan Geijerstams noveller ega ett skarpt markeradt uppsvenskt kynne. Det är skilnaden mellan ljus bokskog och mörk barrskog, mellan frodig slättbygd och kal, vid hed eller karg, vild bergnatur.
+
+Denna sunda kraft är den drifvande makten i Geijerstams utveckling och går som en underström genom hela hans diktning, inmänger sig i den som vätska i jord.
+
+Den har först gjort hans tanke spänstig och hans blick klar. Hvad Geijerstam säger om Kristian Grane, hjelten i novellen »Gråkallt»: » – – – Det var tänkaren, som kämpade för friare tankar, renare religion. Och han hade blifvit skald – – – », gäller om honom sjelf i hans första produktion. Han har först och främst genom samvetsgrant tankearbete bildat sig en egen sjelfständig mening om saker och förhållanden, en lifsåskådning, om hvars motsats till den gängse han var fullkomligt medveten. Han har kommit i en oppositionsställning, under hvilken hans karaktär härdats, dess grunddrag af friskhet och energi stärkts. Att denna skiljaktighet i teoretiska åsigter – särskildt i religiösa ting – varit af synnerlig betydelse i hans utveckling, röjes deraf, att den novell, som står främst i hans första novellsamling och gifvit denna dess namn, just behandlar en derigenom framkallad konflikt mellan tvenne unga menniskor, som älska hvarandra, samt att i denna konflikt kärleken uppoffras. Geijerstam har blifvit skald genom att vara tänkare; det är kännedomen om de sociala missförhållandena, som gjort honom till diktare. Öfvergången är tydligt skönjbar i åtskilliga af hans tidigare noveller, i hvilka den rent konstnärliga utformningen är ytterligt vårdslösad. Från diskuterandet af problem har han gått öfver till den konstnärliga skildringen af menniskolif. Från det mer eller mindre direkta gisslandet af ett samhällslyte har han småningom kommit till den diktande framställningen af de under det samma lidande menniskorna. Harmen öfver allmänna missförhållanden, förtrytelsen öfver allt som tryckt de små och förorättat de svage, allt som bortfuskat personligheten och onödigtvis förbittrat lifvet har ledt honom till en innerlig medkänsla för alla dem, som aldrig få känna lifvets fullhet, som tryckas materielt och andligt, af fattigdom och fördomar.
+
+Geijerstam slog sig igenom med sin första lilla novellsamling »Gråkallt». Den hade naturligtvis många svaga sidor: ett par af berättelserna voro underhaltiga; ofta voro de behandlade ämnena obetydliga, utan någon motsvarande öfverlägsenhet i den konstnärliga behandlingen, hvilken kunde uppväga deras obetydlighet; i allmänhet liknade skisserna brottstycken af råmalm, hvars gedigna metall icke utsofrats genom någon konstnärlig vaskningsprocess; personerna hade mestadels icke fått kött och blod eller lifvets egen ande, rörlighet och mångsidighet, utan gjorde stundom intryck af döda led i en bevisföring. Men trots allt detta var »Gråkallt», som studiesamling betraktadt, ett godt arbete. Det bar en bestämd personlighets särmärke, en sund, stark personlighet, tankeklar och känslovarm. Denna hade tryckt sin prägel på sjelfva stilen, en hård, omelodisk stil, målande med få, djerfva, kantiga ord, verkande med en viss »samlad kraft». Denna stil hade i sig liksom en lukt af tång och något af sjöns friska sälta, den hade öfver sig en färgton som af hafvets kalla blyfärg och senhöstens molngrå dager och en stämning som af hedens tunga ödslighet. Den lämpade sig bäst till skildringen af stora, nakna, öde scenerier, såsom en bar hed med ett blygrått haf i bakgrunden; landskapets egen karghet och torftighet afspeglade sig i stilens.
+
+Och så innehöll boken åtminstone tre små utkast, som voro förträffliga, hvart och ett i sin genre: en humoristisk interiör ur medelklassens lif ute på landsbygden, en fin radering med motiv från ett öländskt fiskläge samt en skildring af en kvinnas äktenskapshistoria. Då man lagt boken samman och tänkte tillbaka på den, var det tre scenerier, som fastnitat sig i minnet: prosten och majoren vid toddyn och brädspelet, den gamla fiskareenkan utanför sin koja vid det vida, öde hafvet samt Elsa, som, medan skymningen faller på och brasans skimmer spelar och darrar, med hufvudet mot sin mans knä, sakta gråter öfver sitt lifs förspilda lycka. Dessa tre noveller voro samlingens bästa och utöfvade det starkaste intrycket, dels emedan de voro mest verklighetsskildring och störst konst, dels emedan de tydligast röjde arten af Geijerstams individualitet samt dennas grunddrag af sund kraft, nyanseradt till den godmodiga, något massiva humorn i »En idyll på landet», till den djupt kända sympatien för de små och förmågan att innerligt förstå och sant skildra folklynnet i »Fem kronor» samt till den varma förtrytelsen, den smärtsamma, medömkande satiren i »Ett äktenskap», der förbittringen var så jäsande, att man tyckte sig höra det sjuda under den jemna framställningens tunna skorpa, och sorgen så tung, att det var som om något grät i den kärfva, knappa prosan. Dessa tre noveller pekade framåt mot författarens kommande produktion och innehöllo elementen till den samma, liksom ett frö växtskottet.
+
+»Strömoln» betecknade icke något framsteg. Ett och annat gjorde intryck af att vara uppkok på alster från en långt tidigare period, och det fans intet sådant i all sin sammanträngdhet helgjutet konstverk som »Fem kronor» eller »Ett äktenskap». Det var som om författaren skref lättare och formade mera händigt, men på samma gång blef en smula vårdslös i sin konst. Novellsamlingen hade ett visst drag af konstnärlig slapphet eller likgiltighet. Humorn hade delvist mist sin friskhet och originalitet; i stället för den gedigna humorn i »En idyll på landet» den slentrianmessiga godtköpshumorn i »Den sanna kärleken». Stilen hade blifvit en smula urvattnad samt allt här och hvar erhållit ett tycke af tidningsjargon. Ett sådant apropos som detta: »jag tände en lätt Bremercigarr (i romaner röker man annars vanligen Havanna), lade upp benen i soffan» o. s. v. var naturligtvis en obetydlighet, men anmärkningsvärdt. Det verkade störande samt påminde på ett obehagligt sätt om tidningsstil. Sammalunda i fråga om åtskilliga brister och oegentligheter i kompositionen. Man fann stundom ett kåseri i stället för en novellett; konstverkets ram hade brustit.
+
+»Fattigt folk» är skrifvet af den Geijerstam, som tecknat de små ölandsinteriörerna i »Gråkallt». Denna bok är infriandet af ett löfte, studiernas utvidgning till större konstverk. Och det är i full öfverensstämmelse med sin individualitet, att Geijerstam valt folklifvet till det speciella området för sin diktning.
+
+Det fins ingen samtida författare här hemma, med undantag af August Strindberg och Ernst Ahlgren, som eger så stora möjligheter att blifva en folkets, de lägre klassernas, diktare som Geijerstam. August Bondeson känner lifvet på landsbygden fullt ut så väl, men hans skildringar hafva större kulturhistoriskt än konstnärligt värde, om än detta senare momentvis kan vara mycket betydligt, såsom vid teckningen af en särskild karaktär, exempelvis Jon i Slätthult. Tor Hedberg har äfvenledes i sin sista roman skildrat en typ från landet, men han har näppeligen lyckats att verklighetstroget skildra landsbygdens förhållanden samt de af dessa formade menniskorna, hvarjemte hela hans metod, hans psykologiska detaljanalys, gör en sådan roman som »Johannes Karr» onjutbar och otillgänglig för den stora publiken.
+
+Det fins mycket i Geijerstams personlighet, som sätter honom i stånd att intuitivt, rent oreflekteradt uppfatta och i dikten framställa folklynnet, att innerligt sammansmälta med en individ af folket, att instinktlikt följa dennes tankegång, led för led, och känna dennes känslor på alldeles samma sätt som han sjelf. Han gifver i sin produktion intrycket af en menniska, som ser nyktert och sundt på lifvet och tager det som det är, som gjort den erfarenheten, att lifvet kan vara något bistert och obarmhertigt, och som derför stält sig i försvarsställning mot det samma, vaksam och ständigt färdig att parera dess slag, men som under allt detta hvarken låter skrämma sig eller mister humöret, utan alltjemt hålles uppe af sitt käcka lifsmod och sin kraftiga lifsglädje; – en menniska, som, framför allt, vill något, som vet, hvad hon vill, och som af hela sin själ tror, att hon har rätt. Det fins i en sådan karaktär en ihärdighet, som icke så lätt ger spelet förloradt, en spänstighet och en motståndskraft, som kommer alla modlöshetens, tröttnadens och likgiltighetens angrepp att maktlöst studsa tillbaka. Denna karaktär är osammansatt, och framför allt är känslolifvet friskt, friskt som en nyplockad frukt, i hvilken ingen reflektionens mask gräft sina gångar. Geijerstam har i vår sönderreflekterade tid bevarat en sund menniskas förmåga af hela, djupa, starka känslor. Han är, med andra ord, genom sitt naturel iståndsatt att förstå och skildra dessa landsbygdens menniskor, »som ej handla och lefva på grund af öfvertygelser, utan drifna af instinkter och omständigheter», och hvilkas hela lif är något så enkelt, att förf. med fullt skäl kan med presten i »Förbrytare» utbrista: »hunger och kärlek – det var hela historien». Sjelfva stilen är liksom enkom danad för skildringen af dessa menniskor och detta lif, enkel och kraftig, kärf och karg som den är.
+
+Detta, att Geijerstam i »Fattigt folk» visat sig vara fullt medveten om arten af sin begåfning och utstakat sitt diktningsområde inom bestämda gränser, är det ena stora framsteg, han tagit genom detta sitt sista arbete. Det andra stora framsteget, hvilket för öfrigt nära sammanhänger med det förra, ligger i novelletternas rent konstnärliga öfverlägsenhet.
+
+De anmärkningar, som ännu kunna göras mot Geijerstams skriftställarskap, gälla hufvudsakligen kompositionen, hvilken vidlådes af åtskilliga oegentligheter. Man saknar den stomme, som ensam kan gifva en berättelse nödig fasthet. I »Ensam i Stockholm» verkar denna frånvaro af underbyggnad i förening med uttänjdhet såsom något löst, något oorganiskt sammanhangslöst. Redan en sådan obetydlig omständighet som att förf., vid framställningen af Fredrik ut från Elins synpunkt, plötsligt, midt i skildringen af hennes tankegång, springer öfver till ett direkt, personligt uttalande om honom, är ett konstnärligt missgrepp. »Och så log hon igen och gungade sakta med den ena foten öfver den andra, när hon kom att tänka på honom, tapetseraregesällen, som bodde midt öfver gatan, som brukade passa på henne i porten om kvällarna, och som bjudit henne på teatern den där kvällen i julas. Hon tänkte på allt, hvad han talat vid henne om, och hon såg åter allvarsam ut. Fredrik var en underlig kortväxt ung fyr, som bar sitt hufvud för sig och var olik alla andra, tyckte Elin. Han talade inte som andra, han tänkte inte som andra, och Elin visste ej, om hon var rädd för honom eller om hon tyckte om honom. Han hade läst en ohygglig mängd romaner. På lediga stunder gjorde han nästan aldrig annat, och han var på sitt sätt fantastisk och öfverspänd som trots någon kultiverad Heine- och Byrons-dyrkare.
+
+Hvad han hade talat vackert med henne om kärlek och allt sådant», o. s. v. – Man märker strax de understrukna ordens obehörighet. Här är det förf. som talar, medan såväl det föregående som det efterföljande är en skildring af Elins tankar. Den unga flickan anstälde väl svårligen någon jemförelse mellan tapetseraregesällen och de kultiverade Heine- och Byrons-dyrkarne.
+
+»Ute i skären» skämmes af en kompositionsbrist af annat slag. Förf. har sökt koncentrera denna novell kring vissa hufvudscener och att här och hvar gifva läsaren nödiga hvilopunkter i omsorgsfullt utförda situationer, men dessa äro ganska godtyckligt valda samt icke alltid tillräckligt ingripande i handlingens gång. Den utförlighet, hvarmed t. ex. begrafningen eller färden efter barnmorskan behandlas, står icke i den rigtiga proportionen till dessa händelsers betydelse. Man ser stundom, huru förf. söker anledning att få framlägga sina detaljerade studier öfver strandbefolkningens plägseder; af kulturhistoriska intressen lockas han att glömma de konstnärliga krafven, forskaren tränger novellisten undan, och konstverket spränges. I sammanhang härmed står, att denna berättelse lider under en sammanblandning af allmän, typisk skildring samt individualiserad framställning af menniskor och situationer. Hvad »Karin» angår, har förf. här gjort det vågstycket att mot slutet införa sig sjelf, sålunda att bryta det påbörjade kompositionssättet och göra novellen till en »jag-novell», och man kan icke säga, att han misslyckats. Den innerliga ton, i hvilken skildringen är hållen och i hvilken författaren ständigt framskymtar, gör öfvergången mindre bjert och mindre skärande.
+
+Men dessa missgrepp äro rent tekniska; de äro tillfälliga och kunna utan svårighet bortarbetas. Det hufvudsakliga och väsentliga ligger i skildringarnas sanning, den yttre och inre, i deras åskådlighet och djup. Geijerstam har med »Fattigt folk» lärt oss att känna svensk natur och svenskt folklynne, såsom ingen samtida författare här hemma. Han skildrar skärgårdsnaturen i stormnätter och i blåsiga, kalla, klara senhöstmorgnar, så att den storslagna ensamhet slår emot oss, hvilken hvilar öfver dessa gårdar och hus, som krypa samman, små och ensliga, mellan den mörka, tunga granskogen och det vida, öde hafvet. Han skildrar lifvet på en arrendegård derute i skären, der den bistra kampen för lifvet och hvad lifvets är trycker sin prägel på menniskorna, formar alla deras tankar och bestämmer alla deras handlingar, är som en jernked, i hvilken de måste krypa, slägte efter slägte, bindas fast och släpa sig fram under lifvets långa, förfäande enahanda. Eller han tecknar, såsom i »Karin», en liten idyll, lika fin som sann, en enkel historia om ungdomskärlek och stilla resignation och ett ädelt lif i det tysta, innerlig i tonen som en folkvisa.
+
+Men vill man rigtigt lära känna Geijerstams egendomliga författarepersonlighet i dess mest pregnanta uttryck, må man läsa »Förbrytare». Denna lilla skiss betecknar, enligt min mening, höjdpunkten af hans diktning. Den är i konstnärligt afseende utan vank och lyte: i komposition, i karaktärsteckning, i naturmålning. Den eger en dramatisk spänning, som annars ingenstädes hos Geijerstam. Berättelsens tvenne personer äro icke endast hautrelieffigurer, som så ofta hos denne författare, långt mindre kropplösa abstraktioner, utan fristående figurer med skarpa konturer. Stilens robusta, tvärhuggna kraft och de med en stämning af vild och kärf energi mättade själsanalyserna, enkla men djupa, återkasta öfver scenerier och situationer en egendomligt hemsk, hvass dager. Det är svårt att välja exempel, ty novellen är jemngod från början till slut.
+
+Det är att hoppas, att Geijerstam fortfarande skall utöfva sin diktning på det område, han genom »Fattigt folk» beträdt. Han skulle derigenom fylla en stor lucka i vår nya literatur, hvilken just han erhållit förmågan att fylla. Och det vore ett godt stycke lifsgerning.
+
+* * *
+
+
+
+
+
+PIETARI PÄIVÄRINTA.
+
+
+
+
+I.
+
+Den hand, som fört pennan vid dessa teckningar ur den finska allmogens lif, hvilka i tvenne samlingar »Bilder ur lifvet» föreligga i svensk öfversättning, har sjelf en gång hållit om plogskaftet. Päivärinta har sjelf varit bonde, innan han börjat skrifva om den finske bonden. Han är en »selfmade» man, han har begynt med två tomma händer, och han har uteslutande sig sjelf att tacka för den ställning han vunnit såsom privatman och skriftställare. Han har sjelf lefvat de finska böndernas lif, materielt och andligt, lidit som de, fröjdats som de, tänkt deras tankar och känt deras känslor, och derför kan han skildra denna samhällsklass djupt och sant, såväl i det väsentliga som i smådragen. Till detta intima umgänge med folket kommo hans psykologiska skarpblick, som klarnade genom hans menniskokärlek, samt hans lefvande intresse att studera karaktärer, hvilket förädlades och värmdes af den samma. I sina bästa noveller är författaren sjelf med; och det är just detta, att han sjelf varit med, som gör den enkla, stundom något otympliga framställningen så kraftig, så målande, så illusoriskt åskådlig och som tillika verkar, att dennas hölje liksom glider undan, blottande de kraftigt formade dragen af hans diktarefysionomi. Då Päivärinta skrifvit om den finska landtbefolkningen, har han endast skrifvit om hvad han hört och sett, ofta hvad han sjelf personligen genomgått.
+
+Han har farit kors och tvärs genom sitt hemland. Han har vandrat till fots genom aflägsna bygder, i hvilka det icke fans någon allmän farväg, och han har färdats ensam i mörka vinternätter med snöyra öfver vida, öde isflackor, på hvilka han ständigt fruktade att köra vilse samt jemte hästen falla offer för blåsten och kölden. Han säger sjelf på ett ställe, att han under sina resor alltid brukat taga in på bondställena i stället för på gästgifvaregårdarne, emedan han derigenom satts i tillfälle att kasta en och annan blick in i menniskohjertat samt studera folkets lif och karaktär, seder och bruk i olika landsändar. Han träder ständigt sjelf direkt fram ur sina skildringar såsom den hjelpsamme, menniskovänlige person han är. I »En frostmorgon» – der han säger, att den syn, hvilken om morgonen mötte honom från frostkylda tegar, gjorde hans hjerta så ondt, att det svartnade för hans ögon, emedan också han sjelf många gånger fått känna frostens härjningar – undervisar han gårdens unge läslystne och kunskapsälskande son om grunderna för nationalekonomin och nyttan af ängsodlingar, uppmanar honom att söka statslån för odlandet af det på gårdens egor belägna kärr, i hvilket frosten lurade, gifver honom åtskilliga allmänna råd och anvisningar samt ställer om, att en tidning kommer till gården. Och liksom han här lagt grunden till upplysning och genom denna framkallat ekonomiskt välstånd, hvilket i sin tur välsignande återverkat på en hel kommun, så förhjelper han i en annan novell, »Min hustru», en medmenniska till återvinnandet af hennes förlorade samvetsfrid. Han sitter i sin afsides vrå i stugan och hör det främmande folket tala om sina egna angelägenheter, efter dagens arbete, vid aftonbrasan, och får på detta sätt mången inblick i menniskohjertat samt allmogens yttre och inre lif. Han slår sig i tal med den fattige gubbstackare, hvilken han en marsdag upphinner på vägen; han tager upp till sig i släden den gamla tiggargumman, första gången som lefvande, andra gången såsom lik, och den olycklige »rotegubben» anförtror honom hela sin lifshistoria. Öfver allt är han en hjelp och en tröst, öfverseende med den menskliga skröpligheten, sträng mot råheten, förebrående mot hårdheten, kännande andras sorg och olycka som sin egen. Han älskar sitt folk med en kärlek, som röjes icke blott i ord, utan äfven i gerning. Han verkar i det stora genom att verka i det lilla. Och alltjemt ser han hela folket i skepnaden af den enskilde och familjen. Då han, i »En frostmorgon», ligger sömnlös på sin hårda bädd, tänker han på gårdsfolket och på allt det elände, som frosten, om den kommer, skall bringa öfver det samma. »Men det var ej blott denna gårds och dess innevånares tillstånd som sålunda stod lefvande för mina sömnlösa blickar, utan hela vårt folks. Jag hade i gårdsfolket sett en typ af hela vårt folk, dess lidanden och strider. Jag tyckte mig i gubbens söner se hela den finska segheten och uthålligheten, då de ej ville tro, att frosten nu skulle komma, och visade sig så lugna och likgiltiga för hela saken, såsom om det vore något helt vanligt. Endast gubben tycktes vara i stånd att frukta det värsta, ty tidens skola hade redan tillräckligt nog hunnit göra honom mjuk. Jag tyckte, att frosten borde låtit beveka sig till mildhet mot vårt folk och mot denne sofvande gubbe, hvilken redan fått lida så mycket af hans täta påhelsningar. Allt detta tänkte jag på, till dess tankarne småningom förvirrades och jag slutligen somnade in.» På samma sätt i »Min hustru», då han gått till hvila, sedan husbonden berättat för honom sin dystra äktenskapshistoria, huru han vållat sin hustrus död genom sin dryckenskap. »Natten var redan långt liden, då jag lade mig att sofva. Qvällens tilldragelser och den lefnadshistoria, jag hade fått höra, höllo ännu länge mina tankar vakna, så att jag ej hade något behof af sömn. Hela vårt folks hemlif trädde, under det jag vakade, i nattens stillhet för min syn och jag trodde mig hafva fått en viss uppfattning af det samma. O huru många ömma, älskande och välmenande hjertan ha krossats i lifvets storm? Och har det ej skett just för deras kärleks, deras hängifvenhets skull? Hafva de ej dukat under i sin strid just derför, att menniskornas ondska, elakhet och känslolöshet kommit alla deras strängar att brista? Ja, så är det. De hafva stridt en ädel strid och dukat under med ära, ödmjuka, rena, stilla och undergifna, dukat under af kärlek till sin familj och på samma gång – utan att veta eller ens ana det – till hela folket. – Hvilken ädel strid! Och dock sätter sig verlden upp deremot allt hvad den kan och skjuter sina pilar mot dessa stridandes ömtåligaste ställe, hjertat, för att bringa der till tystnad någon ton, som den har så svårt att höra, emedan det är samvetets stämma – och för att få någon sträng att brista der, hvilken kunde ge upphof till de tankar, som sedan tränga sig fram som trotsiga ord af sanning. – – Beklagansvärdt – och sorgligt! Och det som är ännu sorgligare, är att den som tillfogar de djupaste såren, ofta är just den, som lofvat och svurit kärlek åt denna kämpande själ, kärlek allt i döden – och är nu den värsta fienden. Och då någon af dessa tåligt och modigt stridande dukar under, så säger man vanligen: den och den har nu också förlorat sin hustru. Men få äro de som fråga: »dog hon verkligen af naturlig sjukdom, eller hade hon blifvit sårad i sitt hjerta?» Vid grafven sjungas sorgesånger och visas en skrymtad saknad, men snart är den öfverlefvande åter färdig att börja sitt gudlösa lif, som om ingenting hade inträffat.»
+
+Den lilla novellen »Nybygget» är typisk för Päivärintas diktning. Färden har fört honom ut i aflägsna ödebygder. I den sista gården har man sagt honom, att invid vägen, halfvägs mot resans mål, skulle ligga ett nybygge, der han borde taga nattkvarter. Han åker nu fram öfver en vidsträckt ödemark, full med träsk, härjad af skogseldar. Hela den vida flackan har af blidan gjorts till ett enda ofantligt isfält. Blåsten hviner fram deröfver, segt och envist. Kvällsmörkret faller på, vinden tager till, snön börjar fyka. Ändtligen skymtar han vid horisonten konturerna af en skog, men dessa försvinna snart igen i den tilltagande snöyran. Han kommer till en ung tallskog, der han binder hästen vid ett träd, medan han ger sig ut för att söka rätt på vägen. Omsider ser han ett eldsken glimma fram mellan stammarne. Han kör hästen och släden in i ett gammalt ruckel, och sedan han satt fram hö och vatten som nattfoder åt hästen, stiger han in i stugan. Det är ett fattigmanshem ute i ödemarken. Blåsten kännes långt in i rummet, snöflingorna dansa i kapp med hvarandra derinne, formliga drifvor hafva hopats under fönstren. Vid spiseln står en vagga, i vaggan ligger ett sjukt barn, vid den sitter modern. Dessutom en sjuårsgosse samt tvenne gamlingar, husmoderns föräldrar. Sedan han sagt, hvem han är, hvarifrån han kommer och hvart han ämnar sig, börjar han samtala med dem om hur de ha det. Mannen är ute vid milan och klyfver tjärved vid den svaga ljusning, som fullmånen sprider genom snöyran. Hon är den enda öfverlefvande af tio syskon. Hon har varit gift i sex år och haft fyra barn, af hvilka de två äro döda, och: »lilla Heikki stackarn är mycket sjuk. Jag fruktar att också han skall dö», säger hon, suckande tungt. Mannen hade genom träget arbete röjdt ett stycke åker i skogen och de fingo under fjolåret så stor afkastning, att han börjat bygga om hela stugan. Men »menniskan spår och Gud rår»; det blef missväxt, de måste sälja allt hvad de hade för att betala utskylderna, stugan fick stå halffärdig, och endast genom att släpa tjärved till milan kunna de anskaffa en smula ren säd att blanda i barkbrödet.
+
+Så kommer mannen hem, gör sig underrättad om, hur det är med den lille, talar med främlingen och värmer sina styfnade händer framför brasan, medan hustrun sätter fram kvällsvarden. »Jag kastade en blick på innehållet i den framsatta skålen; det var barkvälling, afredd med litet mjöl. Då mannen satte sig att äta, tog han mössan af hufvudet, lade händerna i kors och välsignade maten. Sedan bröt han sitt bäska bröd, doppade det i saltet och åt det med vällingen.» Han gifver den hungrande och frysande gossen af sin egen kost, men denne vill nödvändigt, att lille bror skall smaka, och näns knappast sjelf röra vid den läckra bullan.
+
+Omsider går man till sängs; den främmande visas ut i bastun, der de båda gamla sofva. Någon liggplats är icke att tänka på; han måste tillbringa natten sittande på en stockbänk med väggen som ryggstöd. Så kommer han i samtal med gubben.
+
+»– Är det långt härifrån till nästa granngård? frågade jag.
+
+– Halfannan mil, var svaret.
+
+– Då skulle ni ej kunna hoppas på någon hjelp från grannarne, om någon oförmodad olycka hände?
+
+– Nej. Här får man komma tillrätta med egna krafter, svarade gubben lugnt.
+
+– Ni har visst haft mången hård dag i ert lif? frågade jag åter.
+
+– Nåja! Men det har gått likväl, menade den gamle.
+
+– Ni har förlorat många barn.
+
+– Nio.
+
+– Dogo de innan ni kom hit?
+
+– Jo, två af dem. De öfriga sju dogo här.
+
+– Måhända hafva de dött derför, att de ledo brist på lifvets nödvändigaste behof, vågade jag framkasta.
+
+– Hvad mer! sade gubben. Vår granne har haft det mycket sämre än vi, och lika fullt lefva alla deras barn och äro friska och rödkindade. – Sådant är blott fåfängliga tankar. Hvem kan hejda döden? Orsaken till våra barns död var ingen annan än den, att de ej – lefde.
+
+Så sade gubben likgiltigt och smått förtretad.
+
+Då jag fann, att detta samtalsämne ej behagade gubben, tog jag till tals andra saker och frågade:
+
+– Hvem är äldre, ni eller er hustru?
+
+– Käringen är nästan tio år yngre än jag, svarade den gamle.
+
+– Är gårdsvärdinnan ert äldsta barn?
+
+– Det är hon. Och nog hafva vi haft bekymmer att få menniska af henne, sade gubben, lika som om han fruktat, att jag åter skulle upptaga det förra samtalet.
+
+– Er måg synes vara en dugtig man.
+
+– Det är han visst. Han är en vanlig arbetare, menade gubben.
+
+– Jag tycker, att han är mer än en vanlig, invände jag.
+
+– Hvad mera! Nog finnes det flere dylika, sade gubben. Han tycktes mena, att i ett nybygge var det helt naturligt, att en hvar arbetade efter sin bästa förmåga för att föda sig och sin familj.
+
+– Jag fruktar att deras sjuka barn skall dö, sade jag åter.
+
+– Det är ingenting att frukta. Den som ej kan lefva, han dör, svarade gubben likgiltigt, somnade med det samma och snart hördes han snarka i lugn och ro.»
+
+Då han om morgonen kommer in i stugan, sitta fadern och modern vid vaggan.
+
+–»Är barnet dödt? frågade jag sakta.
+
+– Lilla Heikki är ej mer bland de lefvande, sade modren sorgset.
+
+Vid dessa ord råkade jag fästa mina blickar vid fadrens ansigte. Jag såg då hans manliga ansigte öfverfaras af krampaktiga ryckningar. En strid ström af tårar trängde sig då äfven ur mina ögon.
+
+Jag spände åter min häst för släden och fortsatte min färd längs de igenyrda vägarne. Under hela den långa vägsträckan stod den sorgliga taflan från nybygget lifligt för min syn, och den har sedan aldrig lemnat mig.
+
+Under den långa färden till nästa gård rann denna tanke i min håg:
+
+– Då riken och länder eröfras med krig, så kostar det oberäkneligt mycket menniskoblod och tallösa lif. Men huru många menniskolif har Finlands eröfring för odling och för samhällelig bosättning kostat?
+
+På denna fråga kunna ej några statistiska tabeller svara, ty:
+
+
+
+’Hvem täljde väl de striders tal,
+
+Som detta folk bestod,
+
+Då kriget röt från dal till dal,
+
+Då frosten kom med hungerns kval,
+
+Hvem mätte allt dess spilda blod
+
+Och allt dess tålamod?’»
+
+
+
+________
+
+
+
+
+
+2.
+
+Pietari Päivärinta är i sitt författarskap framför allt den finske bonden; finnen och bonden, som skrifver om och för sina ståndslikar. Allt det karaktäristiska och egendomliga i hans diktning, hans styrka såväl som hans svaghet, betingas af och finner sin förklaring i den omständigheten, att han varit bonde, innan han blef skriftställare.
+
+Han eger samma innerliga, i dess uttryck mjuka och varma kärlek till sitt hemlands natur och folk, som är utmärkande för Finlands skalder och som vi känna från Runeberg och Topelius. Den veka, skära, vemodiga klangen från Kanteles strängar återdallrar i hans diktning. Han är den finske bonden i dennes typiska, ädlaste gestalt. Hans väsen eger en innerlig, stark religiositet; men han vänder sig med all sin manliga harm och med hela sin allvarliga förtrytelse mot den kristendom, som, i orden stor och välljudande, är liten och lumpen i gerning, den kristendom, som finnes hos presten i »Reskamraten». Han står i mångt och mycket på den gängse konventionella moralens ståndpunkt, som det tyckes temligen kritiklöst. I »Min hustru» stämplar han det att föda barn utom äktenskapet med orden »förnedring, brott och skam», och om Sanna, »tiggargummans» dotter, använder han ständigt ordet »fallen».
+
+På tekniken, i den konstnärliga utformningen, har arten af hans utveckling varit af bestämmande inverkan på godt och ondt. Samtidens gängse vetenskapliga metod återfinnes icke hos honom. Den psykologiska detaljanalysen i karaktärsteckningen är icke hans sak, äfven om han på enskilda ställen, särskildt i »Min hustru», också i detta hänseende röjer en sällsynt finhet och skärpa. Han dissekerar icke själslifvet med vetenskapsmannens noggrannhet, bryr sig icke om att uppleta tanketrådarnes fina förgreningar eller lyssna till känslornas tysta vibrationer. Han använder en helt enkel apparat. Han berättar rättframt om de personer, med hvilka han kommit i beröring, hvad de sagt och huru de betett sig, ingenting vidare; han låter dem sjelfva karaktärisera sig och afspegla sina drag i framställningens spegelyta. Och man kan svårligen finna mera tydligt tecknade personligheter än »Reskamraten» eller »Tiggargumman», tvenne oförgätliga finska folktyper, helgjutet återgifna i konstens form.
+
+Sammalunda med stilen. Den är aldrig målande och aldrig melodisk, utan alltid skildrande och berättande. Den är med ett ord episk. Den lider stundom af en otymplighet och tafatthet, hvilken i synnerhet i samtalen verkar pinsamt. Dessa äro merendels grammatikaliskt regelrätta, gå allt för rakt på saken, betona allt för starkt, hvad förf. vill ha sagdt, påminna stundom rent af om frågor och svar i en katekes. Det är med andra ord icke personerna som tala, utan förf. som skrifver; eller de förra uttrycka sig som en kriaaktigt skrifven bok. Men om denna framställningens enkelhet å ena sidan slår öfver i schematisk stelhet, bidrager den å den andra att förhöja skildringarnas stämning af ärlig, rörande naivitet. Ty naturmenniskans sunda naivitet är, jemte den erfarne mannens djupa allvar, det individuella hufvuddraget i denne finske bondes diktarekynne. Det finnes något visst i Päivärintas produktion, i uttryck och vändningar, i tankegång och känsloskildring, i de framstälda personernas ord och handlingar, för hvilket en »kultiverad öfverklassdiktare» – om jag så får uttrycka mig – generar sig ungefär på samma sätt som en menniska, hvilken är van att gå modernt klädd, skulle skämmas öfver att uppträda offentligt i träskor eller urmodiga kläder. Men det är till stor del just häri det ligger, att den ene skrifver för några hundratal, medan den andre begripes af millioner.
+
+Och huru stort novellernas rent konstnärliga värde i och för sig än är, hafva de dock sin största betydelse såsom folklektyr i detta ords fullaste mening. Denna deras egenskap kan icke nog uppskattas, särskildt i våra dagar. Den moderna literaturens mest typiska konstform, den psykologiska romanen och novellen, skall aldrig blifva populär; den psykologiske skriftställarens metod reser en skiljemur mellan honom och den stora allmänheten. Denna förstår honom icke och kan icke tillgodogöra sig musten i hans arbeten. Det är så godt som intet af den samtida lifskraftiga literaturen, som man kommer öfver ute på landsbygden i enskilda och allmänna bibliotek; och folket, som rundt i landet sitter och hungrar efter andlig näring, är vid tillfredsställandet af sitt behof nästan uteslutande hänvisadt till en föda, som är kraftlös eller skämd. De som med egna ögon sett ställningen och som derigenom lärt sig innerligt känna behofvet af en god och sund populär skönliteratur, kunna icke annat än önska, att Päivärintas arbeten måtte spridas och blifva lästa i så vidsträckta kretsar som möjligt. Det är sådana böcker, som folket behöfver. Den finske bonden-skriftställarens storhet ligger deri, att hans skildringar kunna förstås af alla, på samma gång de äro äkta konst.
+
+Det förefaller läsaren emellanåt, som om han hörde en gammal man af folket berätta. Denne gamle man har jordarbetarens hårdhudade händer och väderbitna ansigte. Han har sett mycket, försökt både godt och ondt samt kommit i beröring med många menniskor såväl af ena som andra slaget; och sin uppfattning af menniskorna och verlden har han bildat sig i erfarenhetens egen stränga skola. Man känner snarast vördnad för denne man, hos hvilken ansigtet, orden, stämmans tonfall uttrycka allvar. Detta allvar har så inmängt sig i hans väsen, så sammansmält till ett med hans personlighet, att det slår oss tungt till mötes i allt, hvad han säger. Det kan smälta till en sorgsen vekhet i hans humor, hvilken är så tung, att den nästan är otymplig, och det kan mjukna hän i vemod i hans leenden, men det försvinner icke. Han berättar i stora, breda drag, och man skall kanske i första ögonblicket icke finna något anmärkningsvärdt i hans berättelser, men ser man nogare efter, skall man snart komma under fund med, att dessa enkla berättelser äro den säkraste konst, i landskapsskildring och karaktärsteckning, på samma gång man lärt känna en ovanlig menniska. Man ser den finska naturen med dess stora, forsrika floder och vida ödebygder, dess allvarliga skogar och stilla sjöar, dess ensamma torp och byagårdar, och man liksom känner dess egendomliga, tunga melankoli sänka sig öfver sinnet. Man gör bekantskap med de menniskor, som vuxit upp i denna natur, med deras lynnen och lifsförhållanden, med det själsfina och hjertegoda såväl som med råheten och fördomarne. Man skall på de öfverallt instuckna subjektiva utropen och reflektionerna lätt märka, att berättaren är en gammal man med stor lifserfarenhet, som gerna vill docera en smula samt direkt, genom sina repliker eller vidhängda sentenser, uttala sin egen mening om ett och annat; men man skall också, om man lyssnar noga till, höra den skälfvande klangen från hans jungfruligt kyska och finkänsliga inre, hvilket liksom smärtsamt krymper samman vid beröringen med det råa och stygga i lifvet. Hans erfarenhet och menniskokärlek hafva gjort honom till demokrat i den ädla meningen, att han anser alla menniskor lika, emedan de alla hafva ett hjerta, med hvars hela styrka de på samma sätt kunna älska, känna, fröjdas, sörja och – lida, och emedan de alla hafva ännu något annat gemensamt, nemligen döden. Denna lifsåskådning har höjt honom till en utsigtspunkt med så vida vyer och möjliggjort för honom att tränga så djupt in i menniskonaturen, att han kan skildra enkelt, utan att hans skildringar blifva matta eller ytliga.
+
+* * *
+
+
+
+
+
